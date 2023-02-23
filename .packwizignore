@@ -1,2 +1,5 @@
 # Exclude prism/mmc webpage
 pages/
+
+# Exclude README.md
+README.md
