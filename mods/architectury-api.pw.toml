@@ -1,0 +1,13 @@
+name = "Architectury API (Fabric/Forge)"
+filename = "architectury-6.5.69-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d41713392b9e70a7a36589918ca9bd65bc8cf762"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4384406
+project-id = 419699

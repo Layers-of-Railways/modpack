@@ -1,0 +1,11 @@
+
+[module]
+
+	[module.terminal]
+		#Whether to swing the player's arm while typing on a terminal module.
+		animateTypingHand = true
+
+[code_book]
+	#Whether to automatically convert code to upper-case in the code bible.
+	autoCodeUpperCase = true
+

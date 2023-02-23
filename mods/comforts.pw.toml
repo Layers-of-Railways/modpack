@@ -1,0 +1,13 @@
+name = "Comforts (Fabric/Forge/Quilt)"
+filename = "comforts-forge-6.0.3+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "337c450f10ea369b76ef906d6af0f5c299e920f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4105213
+project-id = 276951

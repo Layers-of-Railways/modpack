@@ -1,0 +1,13 @@
+name = "Nether's Delight"
+filename = "NethersDelight-1.19-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7aabfc081b73cc80fb4e6de3d14aa4e5059f01f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3971576
+project-id = 496394

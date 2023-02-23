@@ -1,0 +1,13 @@
+name = "Hand Over Your Items"
+filename = "handoveryouritems-1.19.2-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f92b9d6f54182113c94f3cdd42f3ca082cd6c750"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4326556
+project-id = 450270

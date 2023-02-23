@@ -1,0 +1,13 @@
+name = "TIS-3D"
+filename = "tis3d-MC1.19.2-forge-1.7.2+a05bbc1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25118ae9b5eade302c2ccbfad26a86468cc51a42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4319126
+project-id = 238603
