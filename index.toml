@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CNAME"
-hash = "6e80e79c8fad6bfb6128cc23a4355ae921fea98fe94f7c96306b22c66b4407b2"
-
-[[files]]
 file = "config/appleskin-client.toml"
 hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
 
@@ -610,10 +606,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "cfd56896a35465291a2d383392313535530391a8de08ec9f42c8bc7dc6a231ce"
-
-[[files]]
-file = "resourcepacks/Quark Programmer Art.zip"
-hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
 [[files]]
 file = "servers.dat"
