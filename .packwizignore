@@ -1,2 +1,5 @@
 # Exclude README.md
 README.md
+
+# Exclude github pages CNAME file
+CNAME
