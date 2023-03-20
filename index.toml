@@ -334,8 +334,28 @@ hash = "e7a31bca2c89624f212365c8ba63364652ae7163af1b0d6effafb4f1b27c2d42"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "2c85b3ecb986f25946598ed28fc8b6fd77b3a980296e0fd701ad2576e399a664"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "ed3a185fba569969c28c02ff44d0e5266d297d1345498dfdce3c771439ddc8b8"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "9a0923ead8905649bc1260301508dc349ec7dd134fd8278a67e144d1f3ed68df"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "013b4f0d59373233874fa57afc299abda9795e0ab0a7e042493be82f36ff7054"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "2004eef50b483a6aaa22f61f81f83d2643e8f45c55b5e3922d619a071b6fe679"
 metafile = true
 
 [[files]]
@@ -384,6 +404,11 @@ hash = "31ccc987a5d973083662a881aa0c35a0f5ae66cc01ee0bb612b23f9bfe4e37a6"
 metafile = true
 
 [[files]]
+file = "mods/create-crystal-clear.pw.toml"
+hash = "fcf5d03138839b03446ea18611d706102016071ac021b6a12c361abdbf848c68"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "21a49f8463e44ba3325eabce071478a365cd102a601e9ed837e2f25a52670a6c"
 metafile = true
@@ -391,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "1a8e4dffd75706c6c0089f9649aa1f215dba82049b4f39c25168a2d7d2474e88"
+metafile = true
+
+[[files]]
+file = "mods/create-extended-flywheels.pw.toml"
+hash = "51a8b5b7da9cfe2b04dfe56af888f7a9305e1b5d251dca746272a6d9df2b3fda"
 metafile = true
 
 [[files]]
@@ -406,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "53e0dbe77a570509bcfcf80b29f89baa9b80537e70ade7aa93ca676545598b9b"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "fc5f6ed8b94d805cc915c961b75afb8dbf8bd04cd7d0e2efaa1c58e6a2085aef"
 metafile = true
 
 [[files]]
@@ -454,6 +489,11 @@ hash = "68ffae45121468e8205b8be4d2d67b723928de3ffb1aeda068eea3d6c9d246e0"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
+metafile = true
+
+[[files]]
 file = "mods/hand-over-your-items.pw.toml"
 hash = "9ebe517ed79c7e7e8d65c4a9386d0e814491c9cb614501fcc6a25d8c80c73593"
 metafile = true
@@ -491,6 +531,16 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "c097a4165a61f279c1ccc200356869896b665c27023e8fe5008e29018ceb0ff0"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "e71f89d98319048bb86a045365efac4c40f7032f859c3b1f4573d62a95236ece"
+metafile = true
+
+[[files]]
+file = "mods/ma-enchants.pw.toml"
+hash = "5c1ae2dfb0f0e4088153b5f070d47b5c9c61b190544711986f431546ac3ff9c9"
 metafile = true
 
 [[files]]
@@ -541,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/radon.pw.toml"
 hash = "981be0bc0eaa7492cfbe2068ecdb12424ecfba11166b1a264d7928c6391d7271"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "2c251e84540e0f8f6d8ddedff16e1de0bfa5420f141435e68c2894f09de6925b"
 metafile = true
 
 [[files]]
