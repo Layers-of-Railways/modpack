@@ -1,13 +1,13 @@
 name = "Ma Enchants"
-filename = "maenchants-1.19.3-6.1.0.jar"
+filename = "maenchants-1.19.2-6.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d0bd1d912c6a48624036c1840dc158f83564d9b0"
+hash = "501d0044601822a87503fa699b2c3f8afef49175"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4160125
+file-id = 4076197
 project-id = 351113

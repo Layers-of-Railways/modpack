@@ -424,6 +424,11 @@ hash = "51a8b5b7da9cfe2b04dfe56af888f7a9305e1b5d251dca746272a6d9df2b3fda"
 metafile = true
 
 [[files]]
+file = "mods/create-modern-train-parts.pw.toml"
+hash = "9f19e946ce2a10b7e99cb78bb74d4eafb6518be79bd21705dc931985e34aa98f"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "34e59e9e7de40c0c50c1739975a76e6bdc354eab9645e25d36225901739a0cbd"
 metafile = true
@@ -540,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/ma-enchants.pw.toml"
-hash = "5c1ae2dfb0f0e4088153b5f070d47b5c9c61b190544711986f431546ac3ff9c9"
+hash = "c997694bdd2af57c008072efa0ea81747768df18bec04a88553d68e6e8b3c42d"
 metafile = true
 
 [[files]]
