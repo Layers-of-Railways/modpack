@@ -544,11 +544,6 @@ hash = "e71f89d98319048bb86a045365efac4c40f7032f859c3b1f4573d62a95236ece"
 metafile = true
 
 [[files]]
-file = "mods/ma-enchants.pw.toml"
-hash = "c997694bdd2af57c008072efa0ea81747768df18bec04a88553d68e6e8b3c42d"
-metafile = true
-
-[[files]]
 file = "mods/macaws-trapdoors.pw.toml"
 hash = "85e9b8f568b9db744ffabf4d9e31ba4e1f57d7fdf4a1fd5f90a8e7cb24033611"
 metafile = true
