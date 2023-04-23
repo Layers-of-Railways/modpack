@@ -1,13 +1,13 @@
 name = "Macaw's Trapdoors"
-filename = "mcw-trapdoors-1.0.8-mc1.19.2forge.jar"
+filename = "mcw-trapdoors-1.0.9-mc1.19.2forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "05d5c5eca6e5e18134b68ac02ce6a006a43b8109"
+hash = "b999f57c2ec8de54e26eb52a21a88f06529e85a2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4181468
+file-id = 4429507
 project-id = 400933
