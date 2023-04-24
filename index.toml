@@ -424,6 +424,11 @@ hash = "51a8b5b7da9cfe2b04dfe56af888f7a9305e1b5d251dca746272a6d9df2b3fda"
 metafile = true
 
 [[files]]
+file = "mods/create-modern-train-parts.pw.toml"
+hash = "ac54688969d12b826adca5e744ea176d9467948201b8fb6fc8a17f5249f8fee0"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "34e59e9e7de40c0c50c1739975a76e6bdc354eab9645e25d36225901739a0cbd"
 metafile = true
