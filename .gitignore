@@ -3,3 +3,6 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Exclude exported Packwiz Binary
+packwiz.exe

@@ -3,3 +3,6 @@ README.md
 
 # Exclude github pages CNAME file
 CNAME
+
+# Exclude packwiz.exe
+packwiz.exe
