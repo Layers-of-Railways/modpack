@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ff7d357e24271276700461907a889f1d846cb647d6831bf3a294a59eb8d0756c"
+hash = "f7a3e7000b1babc57896bfc34200102ca75b951ef7dc67984301261ef8e999c7"
 metafile = true
 
 [[files]]
@@ -334,8 +334,8 @@ hash = "9c6f89d65804f3f09d774105c6a9afda57c949f7c0610689eb9c09de8cc3f1b8"
 metafile = true
 
 [[files]]
-file = "mods/building-wands.pw.toml"
-hash = "29be165ef28b3ed412ccd33fdce3387170002647033e090dd382040587ca738d"
+file = "mods/building-gadgets.pw.toml"
+hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "ace718ea62d0c9a25d4607985d738d98e55dbfdae9cea4a9f95ba26cf537acd4"
+hash = "2cd321c717835c90ef48ba83a172b0a8dbb0bf4c238bc043234066d3fa03d294"
 metafile = true
 
 [[files]]
@@ -410,12 +410,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.pw.toml"
-hash = "a4bc0ca0e08fa631a4021f1b3357d106800939fd0cea1b2b61f10fb04b6e144e"
+hash = "6ddc3bbe998bc708a6d986368c3c798ea0df279b0de8a9a5cb67b0bc26cea5b8"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "1917228ebddb6d76c1a30e47d5b345cf2ad066c1c9029d70bc186226ccdb9481"
+hash = "5c697f16c739c73ccbd52d98fdd5f753fdecb7c8635180e7176367cabe890ca5"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "34e59e9e7de40c0c50c1739975a76e6bdc354eab9645e25d36225901739a0cbd"
+hash = "6cbfa7fd5869f70b1fd7c3d6ac697cc41f74dba8c4f78a3d21bc16aaa24e04ec"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "c00b90f4ba88e8b77ccf1b35608f5380b0e182a2c77f0e7e1a8d2f13d4cb5665"
+hash = "c14f367d6613911833f2b158642db0e9e9852cba78618cdf683233dbbc5c7b2a"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "350ab620f74b8385cc5f172bb445296a51e005d707e3a726e870b28132529e53"
+hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "03c419552b4da26729b658e78546ed045e5d9b25bca5f9253ebfb6a33cd91d1f"
+hash = "fc61146eab089feb4f979289ba3aca698b538aa5bd3eba5f18ac0c80090c589f"
 metafile = true
 
 [[files]]
@@ -530,12 +530,12 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "d5e3f7a5eabe0f06a6ef5bbd5ccb3ef787fd4cceb3e018d0735475d48e7b4b34"
+hash = "7de9b15fdbece680a4327148eb5c9d4610eaaca01b6fc08f84e9dd545d4fdfbb"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "ee1ee7a327ab99accfd09c935272f85188fee63aa0e77807b9dea39067f5a3dc"
+hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "989994b423834b2590875234f2f0ffc06a455e6e3e122cd4537bec014f2b05f6"
+hash = "95518e20b223ff5c53c14e7c7ecb70093c655b8dbdec8fc56ee5bb7e76540fed"
 metafile = true
 
 [[files]]
@@ -625,17 +625,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "b5bfa90fbf8d374b91ad1badf40ab9077ab6a1790a9c673cc8f07ea9a709b6b0"
+hash = "7ad4c554d2d59b0c52e48670371695a63f087f85cfaed4d37477818260d600dc"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "6c6bb1ec06e6a79bcc1c81af842faee68c0d8c39a3eb2147ed11d8cd2ce24e19"
+hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6b5459292f51da149d1a9b86ee397e6f979909aa2e8fb0f7643eb15e62a31f29"
+hash = "b06a689f856227de2e5f39a4e217f719664a702d157f35d88bd88d770e82ed5e"
 metafile = true
 
 [[files]]
@@ -650,12 +650,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "057135ce6b18a22b31e3a6100817f77c0c6effe16d29da8fc1d988404dbd691a"
+hash = "49f21d9a3085c589feae29b9e1b865639d2f6a4c5f26df71c5e772e40362a07b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "cd35ca151c2d41fcd4fea339745d9bf63de45feee8dcd933ddeee7f3a9261661"
+hash = "b6e4b5a9e594a9fe4cc74dfb689507967276ed663e3e3e4f9704d572c278834e"
 metafile = true
 
 [[files]]
