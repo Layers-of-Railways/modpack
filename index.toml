@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "ed42cbf9a4143d1f8ca3367450d75ac2778c434357435accb2d0905152401b81"
+hash = "b51e8b1167aed7c4dfbe0c3b7dd59e236c76c66a6dd420c72071e6e8e6334c78"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "60061bee2adc96c9e68daff1e9103f3ccacd6b64233926621f38c8fe7ff819cd"
+hash = "58f75414da63386b16498d447ebd9c0074e72df9e8a667f075577e1813e5d31e"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventorio-forge.pw.toml"
-hash = "573b958730c5f56ad51d1f79cd61d3d1df5e6d4f194e021545cd46bd757039c1"
+hash = "4a62e1b9a7f3c2b858b014e14a3bd1b79d637f41ee42a6e541304053fc4b27c3"
 metafile = true
 
 [[files]]
@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "aa19f1e147d97a697e4fb84f061db2ad6735ecca27d29ed6c233f8384449c9ee"
+hash = "7de9b15fdbece680a4327148eb5c9d4610eaaca01b6fc08f84e9dd545d4fdfbb"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "3aba82a76f78a55aff9efd9398a3497a30984ec9f72a858a5f64c997c32fae43"
+hash = "95518e20b223ff5c53c14e7c7ecb70093c655b8dbdec8fc56ee5bb7e76540fed"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "43cfb1d3e63bb1b691dbc697e676b89a033de033c697ac615dddc93f1c6bf788"
+hash = "8b90af7acd60fbdf3f19861e794b7dc2d2c749480ccca7409aa0ea6e7752f7df"
 metafile = true
 
 [[files]]
@@ -650,12 +650,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "95649ceebeba3421afb53d1aa232a35ac9134639fd8bb08e082276fc7ad63b5f"
+hash = "49f21d9a3085c589feae29b9e1b865639d2f6a4c5f26df71c5e772e40362a07b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b0c105c19d774dbe020ff3c620e4587bfb04e038a89396adef6cd79efbea980d"
+hash = "b6e4b5a9e594a9fe4cc74dfb689507967276ed663e3e3e4f9704d572c278834e"
 metafile = true
 
 [[files]]
