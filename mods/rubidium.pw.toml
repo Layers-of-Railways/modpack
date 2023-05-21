@@ -1,6 +1,6 @@
 name = "Rubidium"
 filename = "rubidium-0.6.2a.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
