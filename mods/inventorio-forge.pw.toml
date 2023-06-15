@@ -1,13 +1,13 @@
 name = "Inventorio (Forge)"
-filename = "inventorio-1.19-forge-1.9.0.jar"
+filename = "inventorio-1.19-forge-1.9.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "000acc583a8472c67fa52752bacf67262525186a"
+hash = "331e79330fe4b2a6a70f45623a0cc8ab02a624ee"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4533342
+file-id = 4557762
 project-id = 497122
