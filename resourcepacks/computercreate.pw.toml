@@ -1,0 +1,13 @@
+name = "ComputerCreate"
+filename = "ComputerCreate.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08bf525651e9dbf03f37d4d8e97a4fa8fcb53018"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4550400
+project-id = 603936
