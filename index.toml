@@ -46,7 +46,7 @@ hash = "c0d1003d797d2289bb46d01568c304dae02a5d37d843e565d91bc63c01476c6b"
 
 [[files]]
 file = "kubejs/server_scripts/create/crushing.js"
-hash = "6ffae40d2f22b948fccc58b87be7ad50d436035852516eb18afee2fc1fe48fba"
+hash = "f933246232f304c6bef2900b2f8e80f9506329457ecfd5657bc7d8b8440a3c09"
 
 [[files]]
 file = "kubejs/server_scripts/create/filling.js"
@@ -71,6 +71,10 @@ hash = "956bb91cf99c741ecfa622a885e66f97253cec712e19e706f1eaf49e3bd85ffd"
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
 hash = "f56ce72bb3159d06c29d78d7569301d07760cff36c37a636e7c62ded49f20dfd"
+
+[[files]]
+file = "kubejs/server_scripts/tags.js"
+hash = "738de8a110ab72e93524487ee26d39b8779f9406f84e57dcea914927046159c9"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
@@ -293,11 +297,6 @@ hash = "9ebe517ed79c7e7e8d65c4a9386d0e814491c9cb614501fcc6a25d8c80c73593"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting.pw.toml"
-hash = "7121832b2459f6dd4ca2e4571ddd2b7e9fcebc73b2d74f5a8b9c975bc263395c"
-metafile = true
-
-[[files]]
 file = "mods/immersive-weathering-forge.pw.toml"
 hash = "ee23051e2319385f19dc8b0b936143aeaa48fc17e5bfebd0c4cc77e81ded76de"
 metafile = true
@@ -389,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "2584078440b47a3066e42a2d869d22715e486256e1d3ec5142008e2273f75860"
+hash = "e8e0377d44d43a46f80b8cc0cbfeb059504c361d36705cda5a79d6b42c85a0ad"
 metafile = true
 
 [[files]]
@@ -543,3 +542,11 @@ hash = "5c7d602ef6cfe4b01450f3b7787d6a4cf9067be8f079441cd57fddaeae0d75a7"
 [[files]]
 file = "servers.dat_old"
 hash = "14343afaf87c0dd376a5ff526e01222e734118e856bf8c059df713e3882b5339"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r2.2.zip"
+hash = "0d9b3a9c95577aadd330478530578d761eef6995343d12a17e39254b05f9d2a7"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.7.2.zip"
+hash = "33781e830b5ae1ebee2156f7d5011ef1697de5661c3e8b9a118ec78ac1797b57"

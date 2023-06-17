@@ -1,27 +1,23 @@
-const crush = [
-  ["minecraft:sand", "ftbskies:dust"],
-  ["minecraft:netherrack", "ftbskies:crushed_netherrack"],
-  ["minecraft:end_stone", "ftbskies:crushed_end_stone"],
-];
+// const crush = [];
 
 ServerEvents.recipes((event) => {
-  crush.forEach((recipeMap) => {
-    //create crushing
-    event.custom({
-      type: "create:crushing",
-      ingredients: [
-        {
-          item: `${recipeMap[0]}`,
-        },
-      ],
-      processingTime: 250,
-      results: [
-        {
-          item: `${recipeMap[1]}`,
-        },
-      ],
-    });
-  });
+  // crush.forEach((recipeMap) => {
+  //   //create crushing
+  //   event.custom({
+  //     type: "create:crushing",
+  //     ingredients: [
+  //       {
+  //         item: `${recipeMap[0]}`,
+  //       },
+  //     ],
+  //     processingTime: 250,
+  //     results: [
+  //       {
+  //         item: `${recipeMap[1]}`,
+  //       },
+  //     ],
+  //   });
+  // });
 
   // Infested XP
   event.custom({
