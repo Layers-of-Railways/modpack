@@ -1,6 +1,6 @@
 name = "Server Performance - Smooth Chunk Save[Forge/Fabric]"
 filename = "smoothchunk-1.19.1-2.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
