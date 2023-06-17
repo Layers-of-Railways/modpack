@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "TODO.md"
-hash = "d1ced25f4269c11673759251b6036d08e89d1b9c8750d6e510168c6ce51f9460"
+hash = "6db0c6bcbf1b77efcfb4a0fee8e9eb8737dce6e5fff277fdbb6c968fb1634c5d"
 
 [[files]]
 file = "config/deleteitem-common.toml"
@@ -454,11 +454,6 @@ metafile = true
 [[files]]
 file = "mods/simple-shops.pw.toml"
 hash = "d7baf988341b7460d51b96cb123ce03408cb04a008e522eabbf6c6029325ad62"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "594d81f1b954a9df5c43573e4242fa7fe5ffb27687a46419f428c86c61c62f08"
 metafile = true
 
 [[files]]
