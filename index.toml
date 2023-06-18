@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "104dd813480e03bd330615fdeaad0c25f3fe90c5c85d926490975ef724db2961"
+hash = "fa261c7cd210b36d154aefb6f72e88f38723fe611997a04d2a712ee10472afaf"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "5f536fdf4605781e92b62b7a949e937c13cb3c73cf511002c32dcef2cef56edd"
+hash = "fb3c05dadb90256a0117efc6154f7fa8c8fd01c66d462b3758f13b61cabdd722"
 metafile = true
 
 [[files]]
@@ -613,12 +613,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3a84ff23bb05435baa9615abf90870f438328bc73207e0d5fecbff0222c6ea22"
+hash = "f78b4cea99e90549cd9a38d1a65c6b1f248f60e4a8fa49850d90b79b32e9699c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "82c477943baf7f3708cb0ecd6c049c85e6e7292c5af8608969c2ae7b0f294444"
+hash = "2faca8e13d76f7e3c93a66456d193df7f3d91b084a24b277fb9540ff3bf9bc39"
 metafile = true
 
 [[files]]
