@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "TODO.md"
-hash = "6db0c6bcbf1b77efcfb4a0fee8e9eb8737dce6e5fff277fdbb6c968fb1634c5d"
-
-[[files]]
 file = "config/deleteitem-common.toml"
 hash = "b567e39fcb101fe6f3b148fa99a30d2e5c77a946fdb9d01921fa7ea345768dea"
 
