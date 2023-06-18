@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "b7ec9e0eae8826de48a30717a8bd95cb2bccad7ddf55e5e2bf0f2735ff87bacb"
+hash = "104dd813480e03bd330615fdeaad0c25f3fe90c5c85d926490975ef724db2961"
 metafile = true
 
 [[files]]
