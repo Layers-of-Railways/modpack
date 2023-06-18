@@ -1,0 +1,13 @@
+name = "Additional Lights"
+filename = "additional_lights-1.19-2.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae70dfbc758065b18bbde9a5d306a68cad843416"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4410874
+project-id = 384991

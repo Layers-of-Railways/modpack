@@ -1,0 +1,13 @@
+name = "'Dustrial Decor"
+filename = "DustrialDecor-1.3.3-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ffd4e6fe0ae6d2b8146a04a6f0279cc9a184a204"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4103964
+project-id = 401273

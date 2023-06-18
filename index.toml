@@ -77,6 +77,16 @@ file = "kubejs/server_scripts/tags.js"
 hash = "738de8a110ab72e93524487ee26d39b8779f9406f84e57dcea914927046159c9"
 
 [[files]]
+file = "mods/additional-lanterns.pw.toml"
+hash = "d5504b783406cbbd83ff4b0fd9a221fdc3e47d2cb99c022750331b58f652ac77"
+metafile = true
+
+[[files]]
+file = "mods/additional-lights.pw.toml"
+hash = "11470c9f81d732cd05f7448854a22dac318e3bc754da02c3b6f473769f0030a6"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "81b518296ec4db07259934cce1523228499c8c5b824f6425a207e84587cd980e"
 metafile = true
@@ -99,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "c8631f3fd8be077cf68e2223c121a058e559531e13746e562d1acaa3ec04b4ed"
 metafile = true
 
 [[files]]
@@ -127,6 +142,11 @@ hash = "48657db6031c875c4ec2a64100e4181f1e6d01ba5997abe4af507618ace854d1"
 metafile = true
 
 [[files]]
+file = "mods/clayworks.pw.toml"
+hash = "6025eef58cc83f7980fd880e395ff304465703ffddfaa569b66d8ceac13d7859"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
 metafile = true
@@ -149,6 +169,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
+metafile = true
+
+[[files]]
+file = "mods/corail-woodcutter.pw.toml"
+hash = "d74b5798640371dbc5cb73d8d9e463d4e3d4c144db9fb80aa8b9150920d0e5e6"
 metafile = true
 
 [[files]]
@@ -222,6 +247,11 @@ hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
 
 [[files]]
+file = "mods/dark-paintings.pw.toml"
+hash = "5ae657f7f6ca0b48ff31b1eee85aa959b42254a6a9e5b47fe14457236482a6a7"
+metafile = true
+
+[[files]]
 file = "mods/daves-building-extended.pw.toml"
 hash = "92f6465f902ed9dd3fe975e261472224e4d9aa71e08af443e596ca87e5d83dde"
 metafile = true
@@ -242,6 +272,26 @@ hash = "839df9b1c998289d92bfffa1b9472311de188538e5250580f59ddb5558e6ec04"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "4af1e133531b9e3b1cd6ba33ebe8dcd6780b0c20fdc6b03b25514703ceb89dee"
+metafile = true
+
+[[files]]
+file = "mods/dustrial-decor.pw.toml"
+hash = "bb9d2f8bb5218c127f6164cac65011286d29577dde7c734521e25704feeb58e1"
+metafile = true
+
+[[files]]
+file = "mods/dyenamics.pw.toml"
+hash = "af524fee5094a91414499e028a572985eec7462cac5cb9b8f99083fbef4ae958"
+metafile = true
+
+[[files]]
+file = "mods/dyenamicsandfriends.pw.toml"
+hash = "2f53a97a99f0bf73dee4ba96900f27a79912c2da6ec045823027e68bdb0aa9a9"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "e75617325371e3c7d67868c1bd3f8717d437606cc22258f43ddd568a4291230d"
 metafile = true
@@ -249,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "127dae4d350f24297cb30024520ca7f9379344f9112bfffb1d98d0dd6779326f"
 metafile = true
 
 [[files]]
@@ -362,6 +417,21 @@ hash = "c997694bdd2af57c008072efa0ea81747768df18bec04a88553d68e6e8b3c42d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "89bf482b8a586bd748e9b3c0c12bcacaa08cc698482ab77de75ac63d95008036"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "c794e7e2ee49bc81f976006903ae7bc68b9452ca4e3811ce3d9e2fa52ba3e3c4"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "1fad7040942ef6e2cdcc6b8c7357d28a1178a616445e522fc4d333e95d80c515"
+metafile = true
+
+[[files]]
 file = "mods/macaws-trapdoors.pw.toml"
 hash = "6652963a36a833070b3fb7959083682a4580da18ed642c43bf05d1524012c43e"
 metafile = true
@@ -379,6 +449,11 @@ metafile = true
 [[files]]
 file = "mods/more-red.pw.toml"
 hash = "7286ac674ba48d2c8b1e28013f00d6c2ad7e9e7ca6f6aab1b953654d0a3f12f2"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "d7a6e463e3c1b898e3760ac96566202012f854ce556f8b05fbb6a39cd343ba66"
 metafile = true
 
 [[files]]
@@ -419,6 +494,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "a0b717e012441e2bef8d9c1b7222dd9b25adf06d55ace1144eabf3ee6f637733"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "f125d8b8aec99b8e0e2046d6c92617c07262736cdc627d1d371de343cd5a291a"
 metafile = true
 
 [[files]]
@@ -489,6 +569,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "84b4303c211a5837819e5b88b8d131b659820c59dd8136fb8a69859c29922345"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "58e741dbccfe64a5117d54800ad713028fa2d7265f9682af48a0f8b4be8cd9f7"
 metafile = true
 
 [[files]]
