@@ -37,9 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:[]
-incompatibleResourcePacks:[]
-lastServer:54.39.239.112:25601
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Snowyspirit Generated Pack","Immersive Weathering Generated Pack","Supplementaries Generated Pack","V Slab Compat Generated Pack","quark:emote_resources","file/ComputerCreate.zip"]
+incompatibleResourcePacks:["quark:emote_resources","file/ComputerCreate.zip"]
 lang:en_us
 soundDevice:""
 chatVisibility:0

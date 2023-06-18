@@ -1,4 +1,4 @@
-onEvent('item.tags', event => {
+ServerEvents.tags((event) => {
 	// Bottomless Honey
 	event.add('create:bottomless/allow', 'create:honey')
 });

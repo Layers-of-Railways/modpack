@@ -10,7 +10,6 @@ let barkconversion = [
   "quark/azalea",
   "quark/blossom",
   "quark/ancient",
-  "hexcasting/edified",
 ];
 
 ServerEvents.recipes((event) => {
