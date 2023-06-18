@@ -92,6 +92,11 @@ hash = "81b518296ec4db07259934cce1523228499c8c5b824f6425a207e84587cd980e"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
@@ -103,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "104dd813480e03bd330615fdeaad0c25f3fe90c5c85d926490975ef724db2961"
+hash = "b7ec9e0eae8826de48a30717a8bd95cb2bccad7ddf55e5e2bf0f2735ff87bacb"
 metafile = true
 
 [[files]]
@@ -228,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "cdede627056f2cc9d5fe7cb7236e6168ba07c210d331b33bc1d28fab86fc78fc"
+hash = "89bf28ca15640301ff8cf651ccbcae3047cbaf6af30797f739bfa45d1f2299ce"
 metafile = true
 
 [[files]]
@@ -403,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/limited-chunkloading.pw.toml"
-hash = "2dce0c7b8644c0f6a1defb5696c1b2cd6fb12debc04d50ed75413473c1afcd09"
+hash = "c24490bd61b10d6297d3e64f2a9f19a8a281ce0442734ed2ba7902f364dae663"
 metafile = true
 
 [[files]]
@@ -543,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "7b34fbdf04e61cc4870d3c27cd995b4b6fb2b766eaa6cae539599c44a3ab76b8"
+hash = "82b58e8ae808ecf1b1019e8c29a91a623165e4ae29abd4f4c8d948b5ae011675"
 metafile = true
 
 [[files]]
@@ -574,6 +579,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "58e741dbccfe64a5117d54800ad713028fa2d7265f9682af48a0f8b4be8cd9f7"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "e5193ed1544359284f88c9882d32d918ebf237015a03daadfbbb8d1fe71e22ab"
 metafile = true
 
 [[files]]

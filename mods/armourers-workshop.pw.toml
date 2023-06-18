@@ -1,13 +1,7 @@
-name = "Armourer's Workshop"
-filename = "armourersworkshop-forge-1.19.2-2.0.0-beta.25.jar"
-side = "both"
+name = "Armourers-workshop"
+filename = "armourersworkshop-forge-1.19.2-2.0.0-dev.222.jar"
 
 [download]
+url = "https://maven.ithundxr.dev/hidden/armourersworkshop-forge-1.19.2-2.0.0-dev.222.jar"
 hash-format = "sha1"
-hash = "94c709a5c02fd3ef06359d57bb8b84fb0e6e2996"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4591745
-project-id = 229523
+hash = "41293170799ba2669c3bf9c5e2757fc6a00c427d"
