@@ -1,8 +1,8 @@
 # Exclude exported CurseForge zip files
-*.zip
+Steam n Rails Server Pack-*.zip
 
 # Exclude exported Modrinth modpacks
-*.mrpack
+Steam n Rails Server Pack-*.mrpack
 
 # Exclude exported Packwiz Binary
 packwiz.exe

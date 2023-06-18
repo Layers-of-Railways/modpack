@@ -1,0 +1,13 @@
+[
+	{
+		"mob": "minecraft:enderman",
+		"dimension": "minecraft:overworld",
+		"onjoin": true,
+		"result": "deny"
+	},
+	{
+		"mob": "minecraft:bat",
+		"onjoin": true,
+		"result": "deny"
+	}
+]

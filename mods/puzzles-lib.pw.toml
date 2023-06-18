@@ -1,0 +1,13 @@
+name = "Puzzles Lib [Forge & Fabric]"
+filename = "PuzzlesLib-v4.4.2-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0969e4aaa556bff32e448c20a4145a670f76b2f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4590207
+project-id = 495476
