@@ -472,11 +472,6 @@ hash = "f349720f05bacd441290629a2aabb95a8c5f742227037900db022f4e0258f2de"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "2584078440b47a3066e42a2d869d22715e486256e1d3ec5142008e2273f75860"
-metafile = true
-
-[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "6b7a1cec5fe5f839d9fcab5f3124a547aa6038be79e7c184db7e07fcedb585f0"
 metafile = true
@@ -632,16 +627,4 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "5c7d602ef6cfe4b01450f3b7787d6a4cf9067be8f079441cd57fddaeae0d75a7"
-
-[[files]]
-file = "servers.dat_old"
-hash = "14343afaf87c0dd376a5ff526e01222e734118e856bf8c059df713e3882b5339"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r2.2.zip"
-hash = "0d9b3a9c95577aadd330478530578d761eef6995343d12a17e39254b05f9d2a7"
-
-[[files]]
-file = "shaderpacks/ComplementaryShaders_v4.7.2.zip"
-hash = "33781e830b5ae1ebee2156f7d5011ef1697de5661c3e8b9a118ec78ac1797b57"
+hash = "cbd2db137377df619ebf5c7285bf4b52fa405f0ab211cd14ba186b4f6b22df80"
