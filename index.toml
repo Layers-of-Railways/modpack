@@ -543,6 +543,11 @@ hash = "d7baf988341b7460d51b96cb123ce03408cb04a008e522eabbf6c6029325ad62"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "b9cd191e40e9c22085c56d083e50c45212f5b2d60f60f4bb0c2fa82e5f66e2a3"
+metafile = true
+
+[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "82b58e8ae808ecf1b1019e8c29a91a623165e4ae29abd4f4c8d948b5ae011675"
 metafile = true
