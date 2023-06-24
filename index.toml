@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "fa261c7cd210b36d154aefb6f72e88f38723fe611997a04d2a712ee10472afaf"
+hash = "b2d7fa2cdf97475d166859bfc3f2b4bb89962b7b438c5f7d736e03ca635725c6"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "fb3c05dadb90256a0117efc6154f7fa8c8fd01c66d462b3758f13b61cabdd722"
+hash = "1584c24561d1b84c8a0be57cdb1c36d4330014ffa43873d030d0ea191ec89c54"
 metafile = true
 
 [[files]]
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "25ac8becdf46aaed970efbd0e08b3b5a1423e81009ea62f8e24801edf6eeaa39"
+hash = "de28e97102253377143787a0a9335f9f097e2ebcbef751a89bb0c083980df870"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "2ff36f00688fb35059a16e454b2e6f50160be92cb52c5d7044ea0837c281b79e"
+hash = "22e0e1bb0cbc093e81f35eecdf9aada417be25bd010bc8e0d7db52acedacb963"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "dc215d12d87c9cc23a80637334dbed408a729ac9fb5310fb521d4750023931e6"
+hash = "b09ca1d2151f681b3febe34c5412d213c1c7ff46a2bd5a6f9b6f55dab904baea"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "127dae4d350f24297cb30024520ca7f9379344f9112bfffb1d98d0dd6779326f"
+hash = "d831a9bb5bb6250181dc3c2c99ed1c77810791105f708d983f81825c0c416171"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "421b20e8552643a3e91e15fe300a45e58a32eef7de8c60af1d0a6bca2c0d2823"
+hash = "f7452c4665f0e8c93438deaae53632f4d7dd155f3222456fa4aa195ed2e73756"
 metafile = true
 
 [[files]]
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "6b7a1cec5fe5f839d9fcab5f3124a547aa6038be79e7c184db7e07fcedb585f0"
+hash = "6c95d1301c8468a1fae7b38aa4fb8617f334aeeb1a98fae7f3c56e4e1dd1e8a5"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "f125d8b8aec99b8e0e2046d6c92617c07262736cdc627d1d371de343cd5a291a"
+hash = "4792b5508f6583035d60a5d681d1f05bb52acef432fb47f132bcfb1b53d518f6"
 metafile = true
 
 [[files]]
@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "48d40b4ff0fc80915472f0ae0d53b4a370e973c2b09e449d0d3d4140b3f6f47e"
+hash = "54e8cddcc8fdadda043465955fd392d1d9ba042a1e0e23f1041530137298b6e9"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "58e741dbccfe64a5117d54800ad713028fa2d7265f9682af48a0f8b4be8cd9f7"
+hash = "1672dd487a25a13e47cfdc585a25da353b86c64b1a846c54993568c04c3bfee9"
 metafile = true
 
 [[files]]
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b0ce10ca8f3e7b9d3bf7d738f084ce8da7d062517fde73fd6527b56e28164774"
+hash = "ecaa55c3362f3faea6d7575e603e35a7b80761708ab727d6c898733dba966b95"
 metafile = true
 
 [[files]]
