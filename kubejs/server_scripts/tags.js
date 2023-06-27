@@ -1,4 +1,4 @@
-ServerEvents.tags("item", (event) => {
+ServerEvents.tags("fluid", (event) => {
   // Bottomless Honey
-  event.add("create:bottomless/allow", Fluid.of("create:honey"));
+  event.add("create:bottomless/allow", "create:honey");
 });
