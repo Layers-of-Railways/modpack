@@ -1,13 +1,13 @@
-name = "Steam n Rails Server Pack"
-author = "IThundxr, SpottyTheTurtle"
-version = "3.0.2"
+name = "Steam 'n' Rails Modpack"
+author = "IThundxr"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6f263430f21ff3eae530040f51283ca41768e56dbe0e0b617ef2e76ed4040b84"
+hash = "b2dd7852cf0ed4d4744a0be1143652d7dc635e4a046facbe70c093e4457f333b"
 
 [versions]
-forge = "43.2.14"
-minecraft = "1.19.2"
+fabric = "0.14.21"
+minecraft = "1.20.1"
