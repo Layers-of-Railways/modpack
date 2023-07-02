@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/misc.xml"
+hash = "7c407574ffa3b8b662ddfe44b51a2bd7dff033acc7b6ef94793a0b3255ba919c"
+
+[[files]]
+file = ".idea/modpack.iml"
+hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "3f44c6e4bc7e65e57ad9b78cc3589fc983a85f7c91a4932326cd66671b42952f"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "996252cd40abcc5a3deeb675243a38bce5de62e542c140f0b3178ae9bd5e1317"
+
+[[files]]
 file = ".prettierrc"
 hash = "d69c0fa9eebff1baf5dcae867558eca3780cbeff5dc550e8671f98ab82f5c591"
 
@@ -18,7 +38,7 @@ hash = "2d25487da0e6cad69d5848314f7052534c9936253c5e4b207a50108176f3b5c6"
 
 [[files]]
 file = "kubejs/client_scripts/jei/mods/rs_hide.js"
-hash = "c25179257b617bc2c5409fd04dae7d6b5d5bac98f33c2559648ef7926401b337"
+hash = "5c85f5f8891480a12da31148296eefc46c4f2a175094b9adcdc63ec786705258"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
@@ -74,11 +94,11 @@ hash = "36c304179014541874fa6d7f0b650af08038ffca14c279018bd96936e3ec6b60"
 
 [[files]]
 file = "kubejs/server_scripts/mods/rs.js"
-hash = "7501d50ae5675053bb497cd2bd4e34b4878d5bff33d426ec4328e745c8156be8"
+hash = "1dc7c72a576b3568922ad6483dd332bdfcc5dee9e0be4bfe4991fb3c6f255e0e"
 
 [[files]]
 file = "kubejs/server_scripts/mods/rs_removals.js"
-hash = "41c7f50c1cf46a7971f4e167f9b847c625f0502ab1e5688f21ab47dbe07b6e03"
+hash = "3e1bc239b20af576d87a9d73285b6eff05b22add818012fbae15dc3e78907815"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
@@ -530,11 +550,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "3ef9dc22d90a53d4b20b1b26190d58b21a2639b8b20f7d295de4ea3b03e13f30"
-metafile = true
-
-[[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "29e101a8eef507c96d02c54e1f82ea4d544c7edcce50957a3e33bf37955350e1"
 metafile = true
 
 [[files]]
