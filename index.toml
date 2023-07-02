@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/misc.xml"
-hash = "7c407574ffa3b8b662ddfe44b51a2bd7dff033acc7b6ef94793a0b3255ba919c"
-
-[[files]]
-file = ".idea/modpack.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "3f44c6e4bc7e65e57ad9b78cc3589fc983a85f7c91a4932326cd66671b42952f"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "bfe053539de8d52575606ad30ce41541c24b645c6c08a7da648a5f4f039430f4"
-
-[[files]]
 file = ".prettierrc"
 hash = "d69c0fa9eebff1baf5dcae867558eca3780cbeff5dc550e8671f98ab82f5c591"
 
