@@ -18,7 +18,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "71af6d54f835a40bebb9d13a35a7ff53042f0aba2fd9e144f952b5e7ccf20747"
+hash = "bfe053539de8d52575606ad30ce41541c24b645c6c08a7da648a5f4f039430f4"
 
 [[files]]
 file = ".prettierrc"
@@ -73,6 +73,10 @@ file = "kubejs/server_scripts/create/crushing.js"
 hash = "57a515eeff775c753ad4018a34aadec239a0673e247c38dfb799711845094af2"
 
 [[files]]
+file = "kubejs/server_scripts/create/deploying.js"
+hash = "a92d6c1ac7f3d4c36809e42c98db78c97f6a47cf2729fbe0f966d796a497695a"
+
+[[files]]
 file = "kubejs/server_scripts/create/filling.js"
 hash = "e54142d989e30ccc33e9c13597a51bcc8029ba419bbe603603e9e1093048d8c0"
 
@@ -87,6 +91,10 @@ hash = "afc39394d24278eccd6716b5830884a6c0129d1f840319f23a1deb302b875dac"
 [[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
 hash = "d6e013d21b3014bda7d7b5f74f53b3e16807c30476dc89d78d980a29cc3b4060"
+
+[[files]]
+file = "kubejs/server_scripts/mods/chipped.js"
+hash = "d01be95fce70234e7283d199d9a256a711f1761f81ffd95c18bf0d92b122107d"
 
 [[files]]
 file = "kubejs/server_scripts/mods/iw.js"
@@ -665,6 +673,10 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "135c6a2412b2202e917914616975220743a9d880d74e1618de0072133dc82401"
+
+[[files]]
+file = "resourcepacks/CreateStorage.zip"
+hash = "f5009f42037d7c0f74b6fa010b739392d8c1ea5f961c4b758cfab47bce3ac02f"
 
 [[files]]
 file = "resourcepacks/computercreate.pw.toml"
