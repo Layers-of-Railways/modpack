@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".prettierrc"
-hash = "d69c0fa9eebff1baf5dcae867558eca3780cbeff5dc550e8671f98ab82f5c591"
-
-[[files]]
 file = "config/carryon-common.toml"
 hash = "c28551472dbb53716d4e7fc9c120f18ba0c238592a02b64821efa7b121e46155"
 
