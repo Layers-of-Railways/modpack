@@ -677,5 +677,10 @@ hash = "310cdb86ad49893af29bf20d6b6770aa0d5351e11b8393a47fdaf200f80ba2b3"
 metafile = true
 
 [[files]]
+file = "serverconfig/openpartiesandclaims-server.toml"
+hash = "81c50eb3c3bd08da7c2b215cfec9f3aca53d244c56b518f9acdaac9a6469aa7b"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "25c3b7ad7e91e195d28c823518629d0e836662cdd33a0aa1b8d2e1ba4075f0e7"
