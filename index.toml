@@ -9,6 +9,10 @@ file = "config/deleteitem-common.toml"
 hash = "b567e39fcb101fe6f3b148fa99a30d2e5c77a946fdb9d01921fa7ea345768dea"
 
 [[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "859fd20453a1d788497652c9ea63b84e28307eacb7944dd3fdaf7df39dec0e3f"
+
+[[files]]
 file = "config/incontrol/spawn.json"
 hash = "82a4f36a111f6b18ea89ed1b87bd4a8529ed14053cbb62601a7a8df8bc8bcceb"
 
@@ -18,7 +22,7 @@ hash = "2d25487da0e6cad69d5848314f7052534c9936253c5e4b207a50108176f3b5c6"
 
 [[files]]
 file = "kubejs/client_scripts/jei/mods/rs_hide.js"
-hash = "5c85f5f8891480a12da31148296eefc46c4f2a175094b9adcdc63ec786705258"
+hash = "e6a4c00250d019250353b334966f2a535b9d7b97a1e4d04e13a6d80aafc6cacb"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
@@ -86,7 +90,7 @@ hash = "1dc7c72a576b3568922ad6483dd332bdfcc5dee9e0be4bfe4991fb3c6f255e0e"
 
 [[files]]
 file = "kubejs/server_scripts/mods/rs_removals.js"
-hash = "3e1bc239b20af576d87a9d73285b6eff05b22add818012fbae15dc3e78907815"
+hash = "aae23dd04477ade32852f262698ddaf1865f4594edb2cb8e2cdea39afe61c594"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
@@ -431,6 +435,11 @@ hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "0e85bdbd2e7ed31821cc4a33f9b57c0e0a176a830693337bb1130146c879360e"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
 metafile = true
@@ -502,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "dfb6c4735efa3dacda748935cc498b9462bd5c6d21d349a1da5c8fd82208c7ae"
+hash = "e8e0377d44d43a46f80b8cc0cbfeb059504c361d36705cda5a79d6b42c85a0ad"
 metafile = true
 
 [[files]]
@@ -652,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "135c6a2412b2202e917914616975220743a9d880d74e1618de0072133dc82401"
+hash = "df7dfe0755467d5a6c9da70f02d54eaa6e5a992bfef77546372ea7fcc130ae03"
 
 [[files]]
 file = "resourcepacks/CreateStorage.zip"
