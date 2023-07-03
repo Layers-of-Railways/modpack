@@ -431,6 +431,11 @@ hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "0e85bdbd2e7ed31821cc4a33f9b57c0e0a176a830693337bb1130146c879360e"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "fc1d144633d760ad8d000ebf2c9463243c02491aaf9bedc5e8900403bb9afca8"
 metafile = true
@@ -652,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "135c6a2412b2202e917914616975220743a9d880d74e1618de0072133dc82401"
+hash = "df7dfe0755467d5a6c9da70f02d54eaa6e5a992bfef77546372ea7fcc130ae03"
 
 [[files]]
 file = "resourcepacks/CreateStorage.zip"
