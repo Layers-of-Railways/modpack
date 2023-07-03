@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "be76df5248bbf8f272ebac03c5af690d88cb2f084fc81787a8f691674da258c0"
+hash = "ef51b9dfb3c71f48df504fd9eb4cefe22d07fc3dd3151582dbae42b050d3110f"
 metafile = true
 
 [[files]]
@@ -679,11 +679,6 @@ hash = "f5009f42037d7c0f74b6fa010b739392d8c1ea5f961c4b758cfab47bce3ac02f"
 [[files]]
 file = "resourcepacks/computercreate.pw.toml"
 hash = "310cdb86ad49893af29bf20d6b6770aa0d5351e11b8393a47fdaf200f80ba2b3"
-metafile = true
-
-[[files]]
-file = "serverconfig/openpartiesandclaims-server.toml"
-hash = "81c50eb3c3bd08da7c2b215cfec9f3aca53d244c56b518f9acdaac9a6469aa7b"
 metafile = true
 
 [[files]]
