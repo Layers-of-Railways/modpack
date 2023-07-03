@@ -9,6 +9,10 @@ file = "config/deleteitem-common.toml"
 hash = "b567e39fcb101fe6f3b148fa99a30d2e5c77a946fdb9d01921fa7ea345768dea"
 
 [[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "4218b3350b7b45e6ee4d2b9973c307a94b5da93c11f4e451f55c36a4ef34571c"
+
+[[files]]
 file = "config/incontrol/spawn.json"
 hash = "82a4f36a111f6b18ea89ed1b87bd4a8529ed14053cbb62601a7a8df8bc8bcceb"
 
