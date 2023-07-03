@@ -26,7 +26,7 @@ hash = "2d25487da0e6cad69d5848314f7052534c9936253c5e4b207a50108176f3b5c6"
 
 [[files]]
 file = "kubejs/client_scripts/jei/mods/rs_hide.js"
-hash = "5c85f5f8891480a12da31148296eefc46c4f2a175094b9adcdc63ec786705258"
+hash = "e6a4c00250d019250353b334966f2a535b9d7b97a1e4d04e13a6d80aafc6cacb"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
@@ -94,7 +94,7 @@ hash = "1dc7c72a576b3568922ad6483dd332bdfcc5dee9e0be4bfe4991fb3c6f255e0e"
 
 [[files]]
 file = "kubejs/server_scripts/mods/rs_removals.js"
-hash = "3e1bc239b20af576d87a9d73285b6eff05b22add818012fbae15dc3e78907815"
+hash = "aae23dd04477ade32852f262698ddaf1865f4594edb2cb8e2cdea39afe61c594"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "c9fbe4005d0b1404e91b297bf5f168444baea7ab2b1c9074031e52c5548dfe84"
+hash = "9171817476eefb6d84887deef31c4454e702a8d5fc32167ae2c6aaadca567f7c"
 metafile = true
 
 [[files]]
@@ -491,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "409d32841ac9cfda6ff7d5d78eb2717f3ddf789f3773cab39b056574c2e3ec31"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "8d82f5e7f5b191f1c6e4330f1e2f84195d7eb577a732b8bb986f874d3e83bd2b"
 metafile = true
 
 [[files]]

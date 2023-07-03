@@ -23,6 +23,7 @@ let disks = ["64k", "256k", "1024k", "4096k"];
 let removals = [
     "fluid_interface",
     "wireless_fluid_grid",
+    "portable_grid",
     "quartz_enriched_iron",
     "machine_casing",
     "processor_binding",
