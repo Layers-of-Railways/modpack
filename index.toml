@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "c9fbe4005d0b1404e91b297bf5f168444baea7ab2b1c9074031e52c5548dfe84"
+hash = "9171817476eefb6d84887deef31c4454e702a8d5fc32167ae2c6aaadca567f7c"
 metafile = true
 
 [[files]]
@@ -490,6 +490,11 @@ hash = "409d32841ac9cfda6ff7d5d78eb2717f3ddf789f3773cab39b056574c2e3ec31"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "8d82f5e7f5b191f1c6e4330f1e2f84195d7eb577a732b8bb986f874d3e83bd2b"
+metafile = true
+
+[[files]]
 file = "mods/more-red.pw.toml"
 hash = "7286ac674ba48d2c8b1e28013f00d6c2ad7e9e7ca6f6aab1b953654d0a3f12f2"
 metafile = true
@@ -511,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "e8e0377d44d43a46f80b8cc0cbfeb059504c361d36705cda5a79d6b42c85a0ad"
+hash = "ef51b9dfb3c71f48df504fd9eb4cefe22d07fc3dd3151582dbae42b050d3110f"
 metafile = true
 
 [[files]]
