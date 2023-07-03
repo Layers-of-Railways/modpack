@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.pw.toml"
-hash = "286ba6473e851628bffe53050620acd734e0e55f9efddbd956b9965e654d9827"
+hash = "ce4e36944c64230983c6842feb8b578b35a758c7e214f6c42409c582ae460532"
 metafile = true
 
 [[files]]
