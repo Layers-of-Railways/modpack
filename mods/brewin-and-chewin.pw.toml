@@ -1,0 +1,13 @@
+name = "Brewin' And Chewin'"
+filename = "BrewinAndChewin-1.19-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04ccef86a671471a6e183caec98aa3b02f5f9996"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4468049
+project-id = 637808

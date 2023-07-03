@@ -1,0 +1,13 @@
+name = "Krypton Reforged"
+filename = "KryptonReforged-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70bdaa1c0935dd2a303292f0705d7cbec5e4d2f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4606519
+project-id = 549394

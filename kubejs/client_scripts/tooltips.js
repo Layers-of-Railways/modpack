@@ -1,7 +1,7 @@
-﻿const toolTips = [
-  //	['modid:blockid','Tooltip text'],
+﻿let toolTips = [
+    //	['modid:blockid','Tooltip text'],
 ];
 
 ItemEvents.tooltip((e) => {
-  toolTips.forEach((tip) => e.add(tip[0], Text.gold(tip[1])));
+    toolTips.forEach((tip) => e.add(tip[0], Text.gold(tip[1])));
 });

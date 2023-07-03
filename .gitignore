@@ -6,3 +6,4 @@ Steam n Rails Server Pack-*.mrpack
 
 # Exclude exported Packwiz Binary
 packwiz.exe
+.idea/

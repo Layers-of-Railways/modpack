@@ -1,4 +1,4 @@
-// const convert = [
+// let convert = [
 // 	["minecraft:sand", "minecraft:dirt"]
 // ];
 
