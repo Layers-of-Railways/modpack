@@ -1,6 +1,7 @@
 name = "Oculus"
 filename = "oculus-mc1.19.2-1.2.8a.jar"
 side = "client"
+pin = true
 
 [download]
 hash-format = "sha1"
