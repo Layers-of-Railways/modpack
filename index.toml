@@ -5,12 +5,16 @@ file = ".prettierrc"
 hash = "d69c0fa9eebff1baf5dcae867558eca3780cbeff5dc550e8671f98ab82f5c591"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "c28551472dbb53716d4e7fc9c120f18ba0c238592a02b64821efa7b121e46155"
+
+[[files]]
 file = "config/deleteitem-common.toml"
 hash = "b567e39fcb101fe6f3b148fa99a30d2e5c77a946fdb9d01921fa7ea345768dea"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
-hash = "859fd20453a1d788497652c9ea63b84e28307eacb7944dd3fdaf7df39dec0e3f"
+hash = "4218b3350b7b45e6ee4d2b9973c307a94b5da93c11f4e451f55c36a4ef34571c"
 
 [[files]]
 file = "config/incontrol/spawn.json"
@@ -516,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "ef51b9dfb3c71f48df504fd9eb4cefe22d07fc3dd3151582dbae42b050d3110f"
+hash = "be76df5248bbf8f272ebac03c5af690d88cb2f084fc81787a8f691674da258c0"
 metafile = true
 
 [[files]]
@@ -675,6 +679,11 @@ hash = "f5009f42037d7c0f74b6fa010b739392d8c1ea5f961c4b758cfab47bce3ac02f"
 [[files]]
 file = "resourcepacks/computercreate.pw.toml"
 hash = "310cdb86ad49893af29bf20d6b6770aa0d5351e11b8393a47fdaf200f80ba2b3"
+metafile = true
+
+[[files]]
+file = "serverconfig/openpartiesandclaims-server.toml"
+hash = "81c50eb3c3bd08da7c2b215cfec9f3aca53d244c56b518f9acdaac9a6469aa7b"
 metafile = true
 
 [[files]]
