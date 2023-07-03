@@ -1,10 +1,20 @@
 # Exclude .md
+
 README.md
 TODO.md
-.idea/
 
 # Exclude github pages CNAME file
+
 CNAME
 
 # Exclude packwiz.exe
+
 packwiz.exe
+
+# Exclude IDE files
+
+.idea/
+
+# Exclude PrettierRC
+
+.prettierrc
