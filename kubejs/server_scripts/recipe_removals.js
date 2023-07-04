@@ -12,6 +12,7 @@ ServerEvents.recipes((event) => {
         "advancedperipherals:chunk_controller",
         "advancedperipherals:ar_controller",
         "advancedperipherals:ar_goggles",
+        "simpleshops:simple_shop",
     ];
 
     removerecipe.forEach((recipeid) => {

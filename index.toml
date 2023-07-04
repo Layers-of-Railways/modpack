@@ -6,7 +6,7 @@ hash = "c28551472dbb53716d4e7fc9c120f18ba0c238592a02b64821efa7b121e46155"
 
 [[files]]
 file = "config/deleteitem-common.toml"
-hash = "b567e39fcb101fe6f3b148fa99a30d2e5c77a946fdb9d01921fa7ea345768dea"
+hash = "e2d4aff1903bb2478740f6c9cd18d58b003089f54df4facb39581c94960fba26"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -78,7 +78,7 @@ hash = "d6e013d21b3014bda7d7b5f74f53b3e16807c30476dc89d78d980a29cc3b4060"
 
 [[files]]
 file = "kubejs/server_scripts/mods/chipped.js"
-hash = "d01be95fce70234e7283d199d9a256a711f1761f81ffd95c18bf0d92b122107d"
+hash = "1028af3ad7075cbc2347a2054b0490018a2de7e78e6fb37a160dde8eae7a0e94"
 
 [[files]]
 file = "kubejs/server_scripts/mods/iw.js"
@@ -94,7 +94,7 @@ hash = "aae23dd04477ade32852f262698ddaf1865f4594edb2cb8e2cdea39afe61c594"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
-hash = "3c5df91dd0e6a8534c049ed52aedd8f98745c70d5ccc7a13b4c9c69c0bbe26e0"
+hash = "aa4dc4a6efeacae9d7dc98b0f592bf9ab137268629fe350d3ce1b92b2ed1e270"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"

@@ -9,7 +9,8 @@
 		"create_confectionery:full_ruby_chocolate_bar",
 		"advancedperipherals:chunk_controller",
 		"advancedperipherals:ar_controller",
-		"advancedperipherals:ar_goggles"
+		"advancedperipherals:ar_goggles",
+		"simpleshops:simple_shop",
 		]
 	#Enables/Disables the constant removal of items.
 	"Is it on?" = true
