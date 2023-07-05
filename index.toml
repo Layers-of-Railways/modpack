@@ -92,5 +92,60 @@ hash = "edceb4f1caea66e9bd4d26b775f5ab4f01542c6564a2806286c06ddb316eaca6"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "c606da25dbaba1a5126b9b0a34b7af82b04f6c9024f1f8a579af0ffea045e184"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
+metafile = true
+
+[[files]]
+file = "mods/old-mc-logo.pw.toml"
+hash = "2a807b76d1fa41f846814d6c82e52c21f5dcadf2817a183043a35656a2838036"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "627cfdf2e29f3e22b233d91f805c0981793dfd9524db098fec58e17c688076ef"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "bcba4bad890ccf3d698f4a7ea17311271d4e28806ba532c452b701f71d2a9a69"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8b0721296696235d3060571a225327a134919ccc3ba83ce7f8a0e4375a975887"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "25c3b7ad7e91e195d28c823518629d0e836662cdd33a0aa1b8d2e1ba4075f0e7"

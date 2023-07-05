@@ -1,0 +1,13 @@
+name = "Old MC Logo"
+filename = "oldmclogo-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d62ca4556abc749747228cf177e7aad6fd37dbf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4593754
+project-id = 876591

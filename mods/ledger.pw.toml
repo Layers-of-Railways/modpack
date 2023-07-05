@@ -1,0 +1,13 @@
+name = "Ledger"
+filename = "ledger-1.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f07421ba3fbe99086f1471c7cc8d8c7fed5dd45"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4572696
+project-id = 491137
