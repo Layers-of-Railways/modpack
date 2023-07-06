@@ -3,11 +3,11 @@ filename = "qfapi-7.0.5_qsl-6.0.4_fapi-0.84.0_mc-1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/BAwbsZ2r/qfapi-7.0.5_qsl-6.0.4_fapi-0.84.0_mc-1.20.1.jar"
 hash-format = "sha1"
 hash = "645408579262cc48eaaab44a6c917666cb5c8fd1"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4621917
-project-id = 634179
+[update.modrinth]
+mod-id = "qvIfYCYJ"
+version = "BAwbsZ2r"

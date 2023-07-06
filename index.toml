@@ -82,6 +82,16 @@ hash = "5ade0167c12aa00d6cced218514e6a6531c7c7773a4c1cb79b14a2bc484075dd"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "034147b1e2ac159282179ecfedaec60c95d7e18db55e3e97c0065e14f3b313e5"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "47351553466b85225458b705cfa1308727b89db2b11b2540c76e8b4f38ba9c56"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "98c0cc997eda591dfa5b66c36f2768f9d2d794463a54e971699d56f99dbea4bb"
 metafile = true
@@ -89,6 +99,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "edceb4f1caea66e9bd4d26b775f5ab4f01542c6564a2806286c06ddb316eaca6"
+metafile = true
+
+[[files]]
+file = "mods/heracles.pw.toml"
+hash = "c0a161511f53f1629aa1fce0510890c4a8593906d57c661160896c5052a6ae9e"
 metafile = true
 
 [[files]]
@@ -122,13 +137,23 @@ hash = "2a807b76d1fa41f846814d6c82e52c21f5dcadf2817a183043a35656a2838036"
 metafile = true
 
 [[files]]
+file = "mods/prometheus.pw.toml"
+hash = "a9dd485ff054719e80b548fb8b8d30b1588b7a431beb337a0221d69db2616251"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "627cfdf2e29f3e22b233d91f805c0981793dfd9524db098fec58e17c688076ef"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "bcba4bad890ccf3d698f4a7ea17311271d4e28806ba532c452b701f71d2a9a69"
+hash = "4f5bc996ba57f18abd2dc12801f1cbb8d06d3d115232b15d27174172f4d4004f"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "99eaff7f4150178c517568cfa6060fa549776d94fbf2d6758b41c26b1efef3b6"
 metafile = true
 
 [[files]]
