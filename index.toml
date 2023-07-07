@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "9171817476eefb6d84887deef31c4454e702a8d5fc32167ae2c6aaadca567f7c"
+hash = "bb684d86a5a1db096de95a40aa7b86a01c232f73dc467b2f051346fb10bf503f"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "634b40184b0108717d2cc8e81ee8defddd28b5d201d0411d366b02afa66d3f5a"
+hash = "8bbefdc705e24ebd5d8c2d39de530d3767def3153d8d364d49a93cdc930bddbc"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "de28e97102253377143787a0a9335f9f097e2ebcbef751a89bb0c083980df870"
+hash = "64a9d79e47475b1eab6fa604ee28cfdca26a006804ca2b2bb8d28aab782da67a"
 metafile = true
 
 [[files]]
@@ -256,17 +256,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "df737402274b0cd7be194b304d3bf421af2f87af33b2a60da75a1ae3bb1bf688"
-metafile = true
-
-[[files]]
-file = "mods/create-track-map.pw.toml"
-hash = "fd2f4e87da02c7accef457d307669a303991f16dc1ca115f30c99677ff409c6f"
+hash = "47a5d9aa68728411bcd8bd71d4c94116bd773483ee233a5e609f56ed0d15dc35"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "89bf28ca15640301ff8cf651ccbcae3047cbaf6af30797f739bfa45d1f2299ce"
+hash = "493f15fa077f4dbb09fb89adb385a2829f20ec77d802bba9afde2deebbf5298d"
 metafile = true
 
 [[files]]
@@ -521,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "a83ce53114a1605e5ec66a7a1b1dad0eca0dcf652fd83f588bf2e4ce0d30afb5"
+hash = "6e069e53c775f6a82dd2ec75670d549ac6654d5df3a4c575adcfcc0fbb3a5010"
 metafile = true
 
 [[files]]
@@ -541,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "81fc77ad299e312f43f331ced50b17ef4db92b80992cc8131d0fd958e36c661c"
+hash = "b004022582a154f5d55c1b7660a4075f37962783dc20af8f046afe3bbc839171"
 metafile = true
 
 [[files]]

@@ -1,6 +1,7 @@
 name = "Create"
 filename = "create-1.19.2-0.5.1.b.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
