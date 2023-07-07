@@ -6,7 +6,7 @@ hash = "c28551472dbb53716d4e7fc9c120f18ba0c238592a02b64821efa7b121e46155"
 
 [[files]]
 file = "config/deleteitem-common.toml"
-hash = "e2d4aff1903bb2478740f6c9cd18d58b003089f54df4facb39581c94960fba26"
+hash = "4f0904e94709f860115adc299596d89a423b031454083ccfb9a1b89b12d6ce91"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -94,7 +94,7 @@ hash = "aae23dd04477ade32852f262698ddaf1865f4594edb2cb8e2cdea39afe61c594"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
-hash = "aa4dc4a6efeacae9d7dc98b0f592bf9ab137268629fe350d3ce1b92b2ed1e270"
+hash = "3c5df91dd0e6a8534c049ed52aedd8f98745c70d5ccc7a13b4c9c69c0bbe26e0"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -103,16 +103,6 @@ hash = "49e24486eb35f16977b6abaa6ee104bf846815dec7d8f96276b829fe04fa8c01"
 [[files]]
 file = "kubejs/startup_scripts/coins.js"
 hash = "794351d00fe753365a7b28b8bf02e9ad5e55cba1fe542ea3daca9939998aee0f"
-
-[[files]]
-file = "mods/additional-lanterns.pw.toml"
-hash = "d5504b783406cbbd83ff4b0fd9a221fdc3e47d2cb99c022750331b58f652ac77"
-metafile = true
-
-[[files]]
-file = "mods/additional-lights.pw.toml"
-hash = "11470c9f81d732cd05f7448854a22dac318e3bc754da02c3b6f473769f0030a6"
-metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
@@ -180,11 +170,6 @@ hash = "48657db6031c875c4ec2a64100e4181f1e6d01ba5997abe4af507618ace854d1"
 metafile = true
 
 [[files]]
-file = "mods/clayworks.pw.toml"
-hash = "6025eef58cc83f7980fd880e395ff304465703ffddfaa569b66d8ceac13d7859"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d3772ba304230f9b7f1c62ea44e1b65dd08927f1fa1170817d2665baa8c9951b"
 metafile = true
@@ -230,11 +215,6 @@ hash = "64a9d79e47475b1eab6fa604ee28cfdca26a006804ca2b2bb8d28aab782da67a"
 metafile = true
 
 [[files]]
-file = "mods/create-confectionery.pw.toml"
-hash = "46c8cc73b106105ec803b03a21e9638d7a4843214916d2fbd303359e0cb65646"
-metafile = true
-
-[[files]]
 file = "mods/create-crystal-clear.pw.toml"
 hash = "b8d11969b1c0a76392e33cdb64c75ea35828fb0fae95cf4f5d70db497c2eec23"
 metafile = true
@@ -277,11 +257,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
-metafile = true
-
-[[files]]
-file = "mods/dark-paintings.pw.toml"
-hash = "5ae657f7f6ca0b48ff31b1eee85aa959b42254a6a9e5b47fe14457236482a6a7"
 metafile = true
 
 [[files]]
@@ -572,11 +547,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "ac044748ca461791a080a4f1259451bc4ab258851fab9cc282e7a7c23ec86bcf"
-metafile = true
-
-[[files]]
-file = "mods/simple-shops.pw.toml"
-hash = "d7baf988341b7460d51b96cb123ce03408cb04a008e522eabbf6c6029325ad62"
 metafile = true
 
 [[files]]
