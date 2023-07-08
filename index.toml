@@ -53,6 +53,10 @@ file = "kubejs/server_scripts/convert.js"
 hash = "7aa26af76d5f91413f811b7220134a2ef70c62b378d1ca3fe6f83aeee645b947"
 
 [[files]]
+file = "kubejs/server_scripts/create/compacting.js"
+hash = "51b906d9b1a0c56abce87a20342cd05a8fcacd126bd50f1f2161b36f9cc27fc5"
+
+[[files]]
 file = "kubejs/server_scripts/create/crushing.js"
 hash = "57a515eeff775c753ad4018a34aadec239a0673e247c38dfb799711845094af2"
 
