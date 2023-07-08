@@ -480,6 +480,11 @@ hash = "7286ac674ba48d2c8b1e28013f00d6c2ad7e9e7ca6f6aab1b953654d0a3f12f2"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "65847d25954b387800944c72231b44cf3eeb8ebc2f43238f39ccbd76cf9c6a4d"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "d7a6e463e3c1b898e3760ac96566202012f854ce556f8b05fbb6a39cd343ba66"
 metafile = true
