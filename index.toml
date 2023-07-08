@@ -504,6 +504,11 @@ hash = "f349720f05bacd441290629a2aabb95a8c5f742227037900db022f4e0258f2de"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "27d6295b38dc328df40cce0e0ff4100d3f8294857ae79feaa75be22fc2c61f62"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "bf2fac19a22e0122ea5f7f1db202089b6c4eb799770a18d3fbed8dcedeecfc45"
 metafile = true
