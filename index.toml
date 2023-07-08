@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "c28551472dbb53716d4e7fc9c120f18ba0c238592a02b64821efa7b121e46155"
+hash = "dade0385ec4c1f5f1faf568f9e9518b259d8b7b3a14fa0bd930a3e65fcd6f252"
 
 [[files]]
 file = "config/deleteitem-common.toml"
@@ -53,6 +53,10 @@ file = "kubejs/server_scripts/convert.js"
 hash = "7aa26af76d5f91413f811b7220134a2ef70c62b378d1ca3fe6f83aeee645b947"
 
 [[files]]
+file = "kubejs/server_scripts/create/compacting.js"
+hash = "51b906d9b1a0c56abce87a20342cd05a8fcacd126bd50f1f2161b36f9cc27fc5"
+
+[[files]]
 file = "kubejs/server_scripts/create/crushing.js"
 hash = "57a515eeff775c753ad4018a34aadec239a0673e247c38dfb799711845094af2"
 
@@ -94,7 +98,7 @@ hash = "aae23dd04477ade32852f262698ddaf1865f4594edb2cb8e2cdea39afe61c594"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
-hash = "3c5df91dd0e6a8534c049ed52aedd8f98745c70d5ccc7a13b4c9c69c0bbe26e0"
+hash = "2066a713229424eb6cdca0b8b318bad3974e1328e221049d18435966a775fcd2"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -405,6 +409,11 @@ hash = "aa19f1e147d97a697e4fb84f061db2ad6735ecca27d29ed6c233f8384449c9ee"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-calculation.pw.toml"
+hash = "8362a65d1110e0b9c554b3ce5eb9c9a917b19faad0578c11f8d9e3ccbb63b01d"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
@@ -475,6 +484,11 @@ hash = "7286ac674ba48d2c8b1e28013f00d6c2ad7e9e7ca6f6aab1b953654d0a3f12f2"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "65847d25954b387800944c72231b44cf3eeb8ebc2f43238f39ccbd76cf9c6a4d"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "d7a6e463e3c1b898e3760ac96566202012f854ce556f8b05fbb6a39cd343ba66"
 metafile = true
@@ -487,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "f349720f05bacd441290629a2aabb95a8c5f742227037900db022f4e0258f2de"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "27d6295b38dc328df40cce0e0ff4100d3f8294857ae79feaa75be22fc2c61f62"
 metafile = true
 
 [[files]]
