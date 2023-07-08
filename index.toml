@@ -17,6 +17,10 @@ file = "config/incontrol/spawn.json"
 hash = "82a4f36a111f6b18ea89ed1b87bd4a8529ed14053cbb62601a7a8df8bc8bcceb"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "b5ddc30ddc6869ac60370801ca45ea07a9b074073da7e59a82c3a8dcc2104442"
+
+[[files]]
 file = "kubejs/assets/computercraft/CREDITS.txt"
 hash = "d2554607835ad16ed5cb92340d6a7af5624d35ad53924acd88fc1c16944a9143"
 
