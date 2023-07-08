@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "c28551472dbb53716d4e7fc9c120f18ba0c238592a02b64821efa7b121e46155"
+hash = "dade0385ec4c1f5f1faf568f9e9518b259d8b7b3a14fa0bd930a3e65fcd6f252"
 
 [[files]]
 file = "config/deleteitem-common.toml"
@@ -94,7 +94,7 @@ hash = "aae23dd04477ade32852f262698ddaf1865f4594edb2cb8e2cdea39afe61c594"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
-hash = "3c5df91dd0e6a8534c049ed52aedd8f98745c70d5ccc7a13b4c9c69c0bbe26e0"
+hash = "2066a713229424eb6cdca0b8b318bad3974e1328e221049d18435966a775fcd2"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -402,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "aa19f1e147d97a697e4fb84f061db2ad6735ecca27d29ed6c233f8384449c9ee"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-calculation.pw.toml"
+hash = "8362a65d1110e0b9c554b3ce5eb9c9a917b19faad0578c11f8d9e3ccbb63b01d"
 metafile = true
 
 [[files]]
