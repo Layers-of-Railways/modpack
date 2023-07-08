@@ -1,0 +1,13 @@
+name = "Just Enough Calculation"
+filename = "jecalculation-forge-1.19.2-4.0.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "450e33e9747d60891bcf3c46b92de9cde703be44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4275693
+project-id = 242223
