@@ -206,6 +206,11 @@ hash = "034147b1e2ac159282179ecfedaec60c95d7e18db55e3e97c0065e14f3b313e5"
 metafile = true
 
 [[files]]
+file = "mods/armourers-workshop.pw.toml"
+hash = "088ff3ca1b51a6de7dd62affbce0846eed4c7536c2cb27fa2f2e8af07ef18b9d"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "378184d2642a7ed600c63b8a3f93a76255592a0f4695c992a130784f1bb2dc94"
 metafile = true
@@ -253,11 +258,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "854b2b6a51bf4f2be03f7703ea28b804354c7776d4902e4c27c001b60a7fab1b"
-metafile = true
-
-[[files]]
-file = "mods/dynamicfps.pw.toml"
-hash = "2f97c60c94970f11901d0cd28279d0e95e5122dbe954a86ec66c83e2e66e4f12"
 metafile = true
 
 [[files]]
