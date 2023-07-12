@@ -236,6 +236,11 @@ hash = "5bc0b5ae28bc698d2c50671e86f090930f4a71c2588ed0f6883695950458c24d"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "f086ea0825c4194d30b357a571bd12718aaaf5dfc69d8dd023a28f798d6dbf83"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "bed84ea542648fc65b622c84a0b9cb645b057005f29358c46afb03bd03200d9f"
 metafile = true
@@ -263,11 +268,6 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "9e6b0c134bdef207ccbc5dff183b759f1864f206c8b3e9b6f7d4927726eacc4e"
-metafile = true
-
-[[files]]
-file = "mods/ears.pw.toml"
-hash = "fb93f37b9ceecd8f72c7830d63b328dab6490c4716ed9fc7608b82c492395c79"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "69057f2f313d77d0580609f2f9b49832af1ab5922828e438e922618ab6c86ca3"
+hash = "5fd69e1d8928e17821aaf1d10ad8462272c2f92b2299f0b309eeb1731e27ac58"
 metafile = true
 
 [[files]]
@@ -528,3 +528,8 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "25c3b7ad7e91e195d28c823518629d0e836662cdd33a0aa1b8d2e1ba4075f0e7"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "fe8f8397972fae35ca9f8fd719c5a96a5e1653fb9cd9aefb89604be8ed414e69"
+metafile = true
