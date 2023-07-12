@@ -1,0 +1,13 @@
+name = "Reese's Sodium Options"
+filename = "reeses_sodium_options-1.5.1+mc1.20-build.74.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff2fb322da5ca3edc25b55234e0f883797e18647"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4572629
+project-id = 511319

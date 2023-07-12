@@ -1,0 +1,13 @@
+name = "Mod Menu"
+filename = "modmenu-7.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/zv46i3PW/modmenu-7.1.0.jar"
+hash-format = "sha512"
+hash = "a4ace64412564f15c88f6e78916fe4197b9dfb04d23fa25649c0a5b5dc2041d17c4bdf3c1f726359561cb60eb680f3f8e45ababc1614f9dc089cb0c645b6e430"
+
+[update]
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "zv46i3PW"

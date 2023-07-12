@@ -1,0 +1,13 @@
+name = "Borderless Mining"
+filename = "borderless-mining-1.1.8+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbdb8a0600679f3c76480ae5d0995e2334773ce3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4606487
+project-id = 310205

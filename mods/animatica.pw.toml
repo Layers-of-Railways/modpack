@@ -1,0 +1,13 @@
+name = "Animatica"
+filename = "animatica-0.6+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bcb19c759f313e69d3f7848b03c48f15167b88d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4600415
+project-id = 533006
