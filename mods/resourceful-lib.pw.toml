@@ -3,11 +3,11 @@ filename = "resourcefullib-fabric-1.20.1-2.1.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/2ejFhzAD/resourcefullib-fabric-1.20.1-2.1.2.jar"
 hash-format = "sha1"
 hash = "ef4265ca928897811f53805d8df50c96ca27ca44"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4638320
-project-id = 570073
+[update.modrinth]
+mod-id = "G1hIVOrD"
+version = "2ejFhzAD"

@@ -3,11 +3,11 @@ filename = "vmp-fabric-mc1.20.1-0.2.0+beta.7.96-all.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/wnEe9KBa/versions/NYa4FfQN/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.96-all.jar"
 hash-format = "sha1"
 hash = "2e66510d209325d2caf54fd29d551dd368ca25c9"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4583897
-project-id = 552542
+[update.modrinth]
+mod-id = "wnEe9KBa"
+version = "NYa4FfQN"

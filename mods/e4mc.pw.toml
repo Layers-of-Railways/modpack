@@ -1,13 +1,13 @@
 name = "e4mc"
 filename = "e4mc-3.2.0+1.19.4-fabric.jar"
-side = "both"
+side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/jWzkvN1j/e4mc-3.2.0%2B1.19.4-fabric.jar"
 hash-format = "sha1"
 hash = "601600a3977a9a60b1eb4fb293e5252467922bfa"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4569792
-project-id = 849519
+[update.modrinth]
+mod-id = "qANg5Jrr"
+version = "jWzkvN1j"

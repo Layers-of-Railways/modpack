@@ -3,11 +3,11 @@ filename = "modelfix-1.14-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/QdG47OkI/versions/r6uVoUxU/modelfix-1.14-fabric.jar"
 hash-format = "sha1"
 hash = "7c6a38565820d9c1941eb9d1aadaae75cb11ed8b"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4607204
-project-id = 676136
+[update.modrinth]
+mod-id = "QdG47OkI"
+version = "r6uVoUxU"

@@ -3,11 +3,11 @@ filename = "fabric-carpet-1.20-1.4.112+v230608.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/TQTTVgYE/versions/K0Wj117C/fabric-carpet-1.20-1.4.112%2Bv230608.jar"
 hash-format = "sha1"
 hash = "29faa4d1c22509b67a6d66b2a8c9d3b5aa483b65"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4573334
-project-id = 349239
+[update.modrinth]
+mod-id = "TQTTVgYE"
+version = "K0Wj117C"

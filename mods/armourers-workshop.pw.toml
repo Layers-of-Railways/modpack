@@ -3,11 +3,11 @@ filename = "armourersworkshop-fabric-1.20.1-2.0.0-beta.33.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/y4JF3gXL/versions/KIXXuQbO/armourersworkshop-fabric-1.20.1-2.0.0-beta.33.jar"
 hash-format = "sha1"
 hash = "d22e86a17cef102881bd37b1ef41a0819648e4c1"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4636298
-project-id = 229523
+[update.modrinth]
+mod-id = "y4JF3gXL"
+version = "KIXXuQbO"
