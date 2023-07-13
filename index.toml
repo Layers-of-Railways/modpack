@@ -1867,6 +1867,11 @@ hash = "5f1f275df50d534e1b454f70170fd973dc51b750ec05f7dbfcbfac6d5da40e1b"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "01e0a6879c085dba7838bd0f599afda72ea193cb207871f310f4a118a48766b9"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
 metafile = true
@@ -1924,6 +1929,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "d2681808167e81869c84ed5ca48110a422c63add64dfbc58d2dd9851cf5d239c"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
 metafile = true
 
 [[files]]
