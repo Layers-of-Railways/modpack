@@ -1,0 +1,13 @@
+name = "BetterNether"
+filename = "better-nether-9.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MpzVLzy5/versions/4MkxQteb/better-nether-9.0.8.jar"
+hash-format = "sha1"
+hash = "d1de062b6f59dbd3aac911b9750ff1b6eb751163"
+
+[update]
+[update.modrinth]
+mod-id = "MpzVLzy5"
+version = "4MkxQteb"
