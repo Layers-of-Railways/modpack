@@ -25,7 +25,6 @@ let removals = [
     "wireless_fluid_grid",
     "portable_grid",
     "quartz_enriched_iron",
-    "silicon",
     "machine_casing",
     "processor_binding",
     "raw_basic_processor",

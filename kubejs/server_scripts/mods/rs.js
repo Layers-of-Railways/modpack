@@ -18,11 +18,7 @@ ServerEvents.recipes((event) => {
         "refinedstorage:quartz_enriched_iron",
         "create:brass_ingot"
     );
-    event.replaceInput(
-        { mod: "refinedstorage" },
-        "refinedstorage:silicon",
-        "minecraft:quartz"
-    );
+
     event.replaceInput(
         { mod: "refinedstorage" },
         "refinedstorage:machine_casing",
@@ -92,7 +88,7 @@ ServerEvents.recipes((event) => {
             },
 
             A: {
-                item: "minecraft:quartz",
+                item: "refinedstorage:silicon",
             },
         },
         result: {
