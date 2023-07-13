@@ -1,9 +1,8 @@
 # Exclude .md
+
 README.md
 TODO.md
 
 # Exclude github pages CNAME file
-CNAME
 
-# Exclude packwiz.exe
-packwiz.exe
+CNAME
