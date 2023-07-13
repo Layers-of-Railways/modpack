@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/heracles.pw.toml"
-hash = "c0a161511f53f1629aa1fce0510890c4a8593906d57c661160896c5052a6ae9e"
+hash = "75d1cb3ee61a16b47e6998d981d2947c1cbc822766f878f9e81d0922939e2622"
 metafile = true
 
 [[files]]
