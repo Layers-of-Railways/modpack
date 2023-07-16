@@ -1,0 +1,13 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-Fabric-1.20-16.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/UIGvQZts/EnchantmentDescriptions-Fabric-1.20-16.0.1.jar"
+hash-format = "sha1"
+hash = "f0b1678c313477883435b51fa162f972ed4e4b9a"
+
+[update]
+[update.modrinth]
+mod-id = "UVtY3ZAC"
+version = "UIGvQZts"
