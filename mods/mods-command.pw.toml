@@ -1,0 +1,13 @@
+name = "Mods Command"
+filename = "mods-command-mc1.20.1-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PExmWQV8/versions/JlWCTVC5/mods-command-mc1.20.1-1.1.3.jar"
+hash-format = "sha1"
+hash = "b5cc2800b2fed698d8276504a25c553c6f508c09"
+
+[update]
+[update.modrinth]
+mod-id = "PExmWQV8"
+version = "JlWCTVC5"

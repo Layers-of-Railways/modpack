@@ -1,0 +1,13 @@
+name = "SnowyLeavesPlus"
+filename = "snowyleavesplus-mc1.20-0.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/of7wIinq/versions/mDsSVeOj/snowyleavesplus-mc1.20-0.1.6.jar"
+hash-format = "sha1"
+hash = "1dc636e05a245efa225d38dd2057f5ae2c95fda6"
+
+[update]
+[update.modrinth]
+mod-id = "of7wIinq"
+version = "mDsSVeOj"
