@@ -30,7 +30,6 @@
     https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier
     https://www.curseforge.com/minecraft/mc-mods/easy-magic
     https://www.curseforge.com/minecraft/mc-mods/armor-statues
-    https://modrinth.com/mod/respiteful
     https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric
     https://legacy.curseforge.com/minecraft/mc-mods/morejs
 
