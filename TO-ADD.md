@@ -21,13 +21,13 @@
     https://legacy.curseforge.com/minecraft/mc-mods/smooth-chunk-save (All Rights Reserved and can only be added serverside)
     https://legacy.curseforge.com/minecraft/mc-mods/kubejs
     https://legacy.curseforge.com/minecraft/mc-mods/jade-addons-fabric
+    https://legacy.curseforge.com/minecraft/mc-mods/joy-of-painting painting :D
 
 -   MAYBE - NEEDS OTHER ADMIN CONFIRMATION
     https://www.curseforge.com/minecraft/mc-mods/stylish-effects
     https://www.curseforge.com/minecraft/mc-mods/better-tridents
     https://www.curseforge.com/minecraft/mc-mods/bartering-station
     https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier
-    https://www.curseforge.com/minecraft/mc-mods/horse-expert
     https://www.curseforge.com/minecraft/mc-mods/easy-magic
     https://www.curseforge.com/minecraft/mc-mods/armor-statues
     https://modrinth.com/mod/respiteful
@@ -35,7 +35,6 @@
     https://legacy.curseforge.com/minecraft/mc-mods/morejs
 
     https://legacy.curseforge.com/minecraft/mc-mods/tiny-item-animations
-    https://legacy.curseforge.com/minecraft/mc-mods/tieredz
     https://legacy.curseforge.com/minecraft/mc-mods/soul-fired
     https://legacy.curseforge.com/minecraft/mc-mods/servercore (this could break vanilla stuff but has toggles)
     https://legacy.curseforge.com/minecraft/mc-mods/rotten-leather-fabric
@@ -43,4 +42,3 @@
     https://modrinth.com/mod/presence-footsteps sound mod
     https://legacy.curseforge.com/minecraft/mc-mods/paradise-lost cool trees and stuff but really out of place for the pack
     https://legacy.curseforge.com/minecraft/mc-mods/kibe this but with everything except the mega torch disabled
-    https://legacy.curseforge.com/minecraft/mc-mods/joy-of-painting painting :D

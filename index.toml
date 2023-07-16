@@ -2016,6 +2016,11 @@ hash = "7735e0d48763373944fe6d82560319f7e9f77987459e303cdcdd9b94e677fbf5"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "82285f2aa33891d7b7ad1f9d6b8cdacb46aa2bde7d091cc65d279b0ef0caeb3a"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "f0f82f41fef1fbc7d19723170410c631894de34ba0701157a1a897bac0af34d1"
 metafile = true
@@ -2193,6 +2198,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "7f2635c486010653a23e050b26170d80d87dbf56238720bb537efd4bdc247243"
 metafile = true
 
 [[files]]
