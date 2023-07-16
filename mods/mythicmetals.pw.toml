@@ -1,0 +1,13 @@
+name = "Mythic Metals"
+filename = "mythicmetals-0.18.2+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bAWzYNRd/versions/TIjrw9LW/mythicmetals-0.18.2%2B1.20.jar"
+hash-format = "sha1"
+hash = "767204647e5dc9dc0bc058bc90081bc86b6e261a"
+
+[update]
+[update.modrinth]
+mod-id = "bAWzYNRd"
+version = "TIjrw9LW"

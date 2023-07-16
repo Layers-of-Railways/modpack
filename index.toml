@@ -1887,6 +1887,11 @@ hash = "0b9055c22bab37c54ee5f0480a4db39a1d3dde262e0ed8fcfe814fdaeba54a1b"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "2f19d96faee56e8d2259cee0e5a6c38a72f7b4eb6feaaa6a5024d20a7cfb36f4"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -2009,6 +2014,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "24ed98f0fc3e1464c1ad72eba9be54f2f8d139b1509d6ca15289add45a927809"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
 metafile = true
 
 [[files]]
@@ -2212,6 +2222,11 @@ hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -2229,6 +2244,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "e697002e593a54c31759e3849eaae1be9bcdff0d8ffc667c95d7fdf5bf59d979"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
@@ -2262,6 +2282,11 @@ hash = "13534f6c5df22054f4d3c0c280a91626dc58fe70a58c3ff439319857948a7969"
 metafile = true
 
 [[files]]
+file = "mods/respawnable-pets.pw.toml"
+hash = "f6238100a1fd9bd3dfacde950052f3a90cd2749fdcb4bfcbee58b3fc31665284"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "1b9b1cdbacfeeb97f21981d5859af497bc5db6aebeb7e320f874111787d67c3a"
 metafile = true
@@ -2269,6 +2294,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d87ec097134489e237f35016d088c5b672c479c62f8e8be67eb85941218ae77e"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "988a78ce0aae54741a2ec4dcf9b8653edcfb20647061416affd410d83118a894"
 metafile = true
 
 [[files]]
