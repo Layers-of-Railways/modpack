@@ -1828,7 +1828,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "ae9173e1d85d2490f520e779f628b219c5f96b4822f1ca5fb6ce223e4de02acf"
+hash = "c4ecccd6435bca1170c15bce410a223895ffd1b6d236003bf1f8f914ee3b5dd2"
 metafile = true
 
 [[files]]
@@ -1839,6 +1839,11 @@ metafile = true
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "2b66c02d4d4761a2a1ed805a391a9294ba29103182b86092423ca5c908421e8e"
 metafile = true
 
 [[files]]
@@ -1858,12 +1863,12 @@ metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
-hash = "034147b1e2ac159282179ecfedaec60c95d7e18db55e3e97c0065e14f3b313e5"
+hash = "eeef9f33e1c88b3c4607d998949b26a1d95b2d931ed2e82bef38eb14e403385e"
 metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "5f1f275df50d534e1b454f70170fd973dc51b750ec05f7dbfcbfac6d5da40e1b"
+hash = "285d6b81f2b859766ae8571bf930ebf45d0b5843c8851f582ef92ebc0122eabb"
 metafile = true
 
 [[files]]
@@ -1897,13 +1902,18 @@ hash = "2f9d5574160f1308fd11a20427ca6004b62558e3f180374bd0e25327de004dba"
 metafile = true
 
 [[files]]
+file = "mods/blahaj.pw.toml"
+hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "943bcba1557ea49efad4f40689a20a8824b588a7ebaa95a25c17c3e64176a67a"
+hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
 metafile = true
 
 [[files]]
@@ -1952,6 +1962,11 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
+file = "mods/cobblegen.pw.toml"
+hash = "dcf817c1eb185f6b0f63765b62f0433acc7bd38662784d453c52c82f38408a3a"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "483a98aba26175329afaf252041d05b8c1deb595dcc14fd9a54bb7841a86d028"
 metafile = true
@@ -1983,7 +1998,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b03c0c9616b8e790ca01054d8be91c2d6b62b26e7c9262ec7b0a70fb07e6a7f5"
+hash = "b066bbf1fd98c8ec52dfb0d9f041572b4d1680ddf33932266ce334800891338d"
 metafile = true
 
 [[files]]
@@ -1993,7 +2008,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "c3f1a1b50ae464543501b0be65590e43c498bcbac9196c413611b730a6c378b1"
+hash = "24ed98f0fc3e1464c1ad72eba9be54f2f8d139b1509d6ca15289add45a927809"
 metafile = true
 
 [[files]]
@@ -2033,7 +2048,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "3a86b3417b781abc294b6e41c475e5ac1831944527db6f07f0107a30e5bde0bd"
+hash = "97a743edee2ff1be103f976bb56a23cef3718881da058ba4459f1f30c4cd3156"
 metafile = true
 
 [[files]]
@@ -2173,7 +2188,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "39a7db76913916631313499eadca48f07d18d1d1f6e534ce5c87ffdc779346ec"
+hash = "50e1457f2dbefe5746e272bdbd1d3b936165f6871f663e39c9705ea3f416f496"
 metafile = true
 
 [[files]]
@@ -2213,7 +2228,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
+hash = "e697002e593a54c31759e3849eaae1be9bcdff0d8ffc667c95d7fdf5bf59d979"
 metafile = true
 
 [[files]]
@@ -2243,7 +2258,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "e99cda7dfe83c55cd6698c5a4e1c8bfe738cdb48ce953a1843bb10be34ada205"
+hash = "13534f6c5df22054f4d3c0c280a91626dc58fe70a58c3ff439319857948a7969"
 metafile = true
 
 [[files]]
@@ -2253,7 +2268,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e7c8b5dc13ef2dc2888842a2044c3bf4ea1750975db63bf467f9cf0f2eda411d"
+hash = "d87ec097134489e237f35016d088c5b672c479c62f8e8be67eb85941218ae77e"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "38180b475751eb7e99c18da1ef8c866705a42f36e1ac5e8f2415c792160c12e1"
 metafile = true
 
 [[files]]
