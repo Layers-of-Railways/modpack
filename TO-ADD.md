@@ -40,4 +40,3 @@
     https://legacy.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric cool structures
     https://modrinth.com/mod/presence-footsteps sound mod
     https://legacy.curseforge.com/minecraft/mc-mods/paradise-lost cool trees and stuff but really out of place for the pack
-    https://legacy.curseforge.com/minecraft/mc-mods/kibe this but with everything except the mega torch disabled
