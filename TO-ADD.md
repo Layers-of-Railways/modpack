@@ -48,3 +48,6 @@
     https://modrinth.com/mod/arch-ex
     https://modrinth.com/mod/yardwork
     https://modrinth.com/mod/pollinators-paradise
+
+-   IF ALLOWED
+    https://www.curseforge.com/minecraft/mc-mods/natures-compass (waiting for modrinth to confirm we are allowed)
