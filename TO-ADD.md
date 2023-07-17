@@ -32,6 +32,10 @@
     https://www.curseforge.com/minecraft/mc-mods/armor-statues
     https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric
     https://legacy.curseforge.com/minecraft/mc-mods/morejs
+    https://legacy.curseforge.com/minecraft/mc-mods/echo-chest
+    https://legacy.curseforge.com/minecraft/mc-mods/youre-in-grave-danger
+    or some other grave mod
+    create addons + create
 
     https://legacy.curseforge.com/minecraft/mc-mods/tiny-item-animations
     https://legacy.curseforge.com/minecraft/mc-mods/soul-fired
@@ -40,3 +44,5 @@
     https://legacy.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric cool structures
     https://modrinth.com/mod/presence-footsteps sound mod
     https://legacy.curseforge.com/minecraft/mc-mods/paradise-lost cool trees and stuff but really out of place for the pack
+    https://modrinth.com/mod/arch-ex
+    https://modrinth.com/mod/yardwork
