@@ -46,3 +46,4 @@
     https://legacy.curseforge.com/minecraft/mc-mods/paradise-lost cool trees and stuff but really out of place for the pack
     https://modrinth.com/mod/arch-ex
     https://modrinth.com/mod/yardwork
+    https://modrinth.com/mod/pollinators-paradise
