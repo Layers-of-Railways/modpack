@@ -6,7 +6,7 @@ hash = "d69c0fa9eebff1baf5dcae867558eca3780cbeff5dc550e8671f98ab82f5c591"
 
 [[files]]
 file = "TO-ADD.md"
-hash = "971ae60e714955151af3fae2e9886b3dcc66a171ae08f2685a666336454e9c6c"
+hash = "b222ee51deb93ef3123c26601514186a9fa12ce1f1a44946d2d3614ba7890755"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -2361,6 +2361,11 @@ hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "881391d6ad3b57247060bdc5e43cdaa8b1db615b829b4b2d979def484f491f35"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -2417,7 +2422,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "ee293388d8578d1c91fb3b642c703eb4db43a9d736c2a94bd5bd365a9afa0baf"
+hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
 
 [[files]]
