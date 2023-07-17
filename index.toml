@@ -2246,6 +2246,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/leave-my-bars-alone.pw.toml"
+hash = "c7e8c7d30f80fab35c6f1aee8cf66f7ebd3923fa43b4a52a1f9ae4b6fc34df3d"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
 metafile = true
@@ -2273,6 +2278,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "0b85eb05f2416ec24a33b77a4cf41deed8253e99e595535cda6ec197a80626f0"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "a52479d9c1ed26f21294918a43eaee9ceb928aba58324489b3b852ac28d70be9"
 metafile = true
 
 [[files]]
@@ -2513,6 +2523,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "1dfd2ca431ddf4bddd78ed14fcef582e305471c9eeefe197009f40d92a91cfb1"
 metafile = true
 
 [[files]]
