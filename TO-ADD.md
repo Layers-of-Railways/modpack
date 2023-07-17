@@ -1,16 +1,13 @@
 -   AWAITING UPDATE
     https://modrinth.com/mod/item-highlighter
-    https://legacy.curseforge.com/minecraft/mc-mods/farmers-knives
-    https://legacy.curseforge.com/minecraft/mc-mods/expanded-delight
+    https://modrinth.com/mod/farmers-knives
+    https://modrinth.com/mod/expanded-delight
     https://legacy.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix-fabric
     https://modrinth.com/mod/deepslatecutting
     https://legacy.curseforge.com/minecraft/mc-mods/consistencyplus
     https://modrinth.com/mod/create-fabric
-    https://modrinth.com/mod/exordium
-    https://modrinth.com/mod/megane
     https://modrinth.com/mod/hephaestus
     https://modrinth.com/mod/aileron
-    https://modrinth.com/mod/cc-restitched
     https://modrinth.com/mod/slice-and-dice
     https://www.curseforge.com/minecraft/mc-mods/overweight-farming
     https://www.curseforge.com/minecraft/mc-mods/fullblock-energistics
@@ -23,28 +20,10 @@
     https://legacy.curseforge.com/minecraft/mc-mods/jade-addons-fabric
     https://legacy.curseforge.com/minecraft/mc-mods/joy-of-painting painting :D
     https://modrinth.com/mod/pineapple-mod
-
--   MAYBE - NEEDS OTHER ADMIN CONFIRMATION
-    https://www.curseforge.com/minecraft/mc-mods/stylish-effects
-    https://www.curseforge.com/minecraft/mc-mods/better-tridents
-    https://www.curseforge.com/minecraft/mc-mods/bartering-station
-    https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier
-    https://www.curseforge.com/minecraft/mc-mods/easy-magic
     https://www.curseforge.com/minecraft/mc-mods/armor-statues
-    https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric
-    https://legacy.curseforge.com/minecraft/mc-mods/morejs
-    https://legacy.curseforge.com/minecraft/mc-mods/echo-chest
     https://legacy.curseforge.com/minecraft/mc-mods/youre-in-grave-danger
-    or some other grave mod
-    create addons + create
+    https://legacy.curseforge.com/minecraft/mc-mods/nethers-delight-fabric
+    https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric
+    https://modrinth.com/mod/biomesyougo
 
-    https://legacy.curseforge.com/minecraft/mc-mods/tiny-item-animations
-    https://legacy.curseforge.com/minecraft/mc-mods/soul-fired
-    https://legacy.curseforge.com/minecraft/mc-mods/servercore (this could break vanilla stuff but has toggles)
-    https://legacy.curseforge.com/minecraft/mc-mods/rotten-leather-fabric
-    https://legacy.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric cool structures
-    https://modrinth.com/mod/presence-footsteps sound mod
-    https://legacy.curseforge.com/minecraft/mc-mods/paradise-lost cool trees and stuff but really out of place for the pack
-    https://modrinth.com/mod/arch-ex
-    https://modrinth.com/mod/yardwork
-    https://modrinth.com/mod/pollinators-paradise
+        create addons

@@ -1,0 +1,13 @@
+name = "Echo Chest"
+filename = "EchoChest-v8.0.0-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m3pkVbY8/versions/ppi4nxw2/EchoChest-v8.0.0-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "90cee7d46546f41ee85d84afcadd36b612557868"
+
+[update]
+[update.modrinth]
+mod-id = "m3pkVbY8"
+version = "ppi4nxw2"
