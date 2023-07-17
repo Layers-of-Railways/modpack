@@ -22,6 +22,7 @@
     https://legacy.curseforge.com/minecraft/mc-mods/kubejs
     https://legacy.curseforge.com/minecraft/mc-mods/jade-addons-fabric
     https://legacy.curseforge.com/minecraft/mc-mods/joy-of-painting painting :D
+    https://modrinth.com/mod/pineapple-mod
 
 -   MAYBE - NEEDS OTHER ADMIN CONFIRMATION
     https://www.curseforge.com/minecraft/mc-mods/stylish-effects
