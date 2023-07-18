@@ -19,11 +19,20 @@
     https://legacy.curseforge.com/minecraft/mc-mods/kubejs
     https://legacy.curseforge.com/minecraft/mc-mods/jade-addons-fabric
     https://legacy.curseforge.com/minecraft/mc-mods/joy-of-painting painting :D
-    https://modrinth.com/mod/pineapple-mod
     https://www.curseforge.com/minecraft/mc-mods/armor-statues
     https://legacy.curseforge.com/minecraft/mc-mods/youre-in-grave-danger
     https://legacy.curseforge.com/minecraft/mc-mods/nethers-delight-fabric
     https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric
     https://modrinth.com/mod/biomesyougo
+    https://www.curseforge.com/minecraft/mc-mods/decorative-blocks
+    https://www.curseforge.com/minecraft/mc-mods/dustrial-decor-fabric
+    https://www.curseforge.com/minecraft/mc-mods/leaf-decay
+    https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors
+    https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls
+    https://www.curseforge.com/minecraft/mc-mods/every-compat
+    https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared
+    https://legacy.curseforge.com/minecraft/mc-mods/vertical-slabs-compat
+    https://legacy.curseforge.com/minecraft/mc-mods/carpeted-stairs
+    https://www.curseforge.com/minecraft/mc-mods/building-gadgets
 
         create addons
