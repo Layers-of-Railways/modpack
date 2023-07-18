@@ -15,7 +15,6 @@
     https://www.curseforge.com/minecraft/mc-mods/merequester
     https://modrinth.com/mod/music-maker-mod
     https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric
-    https://legacy.curseforge.com/minecraft/mc-mods/smooth-chunk-save (All Rights Reserved and can only be added serverside)
     https://legacy.curseforge.com/minecraft/mc-mods/kubejs
     https://legacy.curseforge.com/minecraft/mc-mods/jade-addons-fabric
     https://legacy.curseforge.com/minecraft/mc-mods/joy-of-painting painting :D
@@ -34,5 +33,6 @@
     https://legacy.curseforge.com/minecraft/mc-mods/vertical-slabs-compat
     https://legacy.curseforge.com/minecraft/mc-mods/carpeted-stairs
     https://www.curseforge.com/minecraft/mc-mods/building-gadgets
+    https://modrinth.com/mod/projector
 
         create addons

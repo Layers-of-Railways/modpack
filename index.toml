@@ -2598,6 +2598,11 @@ hash = "38180b475751eb7e99c18da1ef8c866705a42f36e1ac5e8f2415c792160c12e1"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "33f4a84790e78ae394e619e4977922d68a91540d801e7c1c49bc074754d86b0f"
+metafile = true
+
+[[files]]
 file = "mods/snowy-spirit.pw.toml"
 hash = "d92d70d6ba913518a2a46a82d5e333cbd8d6d79cf6623661017724a4e6aca7db"
 metafile = true
