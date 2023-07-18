@@ -1,0 +1,13 @@
+name = "Trowel"
+filename = "Trowel-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o8YrbYfv/versions/Zus8eJY9/Trowel-1.1.0.jar"
+hash-format = "sha1"
+hash = "60ad7cdc07cc46ac37eb29b6fcbf072f00133b58"
+
+[update]
+[update.modrinth]
+mod-id = "o8YrbYfv"
+version = "Zus8eJY9"

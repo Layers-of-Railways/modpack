@@ -1,0 +1,13 @@
+name = "Snowy Spirit"
+filename = "snowyspirit-1.20-2.2.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UiFDlI7w/versions/NPNhEvEc/snowyspirit-1.20-2.2.2-fabric.jar"
+hash-format = "sha1"
+hash = "1aa1121476702147ba19988a8b1a11ffd4f936ff"
+
+[update]
+[update.modrinth]
+mod-id = "UiFDlI7w"
+version = "NPNhEvEc"
