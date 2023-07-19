@@ -1,6 +1,6 @@
 name = "Inv View"
 filename = "InvView-1.4.11-1.20+.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/jrDKjZP7/versions/ZfaNA30D/InvView-1.4.11-1.20%2B.jar"

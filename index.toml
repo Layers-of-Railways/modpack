@@ -1950,11 +1950,6 @@ hash = "2f19d96faee56e8d2259cee0e5a6c38a72f7b4eb6feaaa6a5024d20a7cfb36f4"
 metafile = true
 
 [[files]]
-file = "mods/better-lily-pads.pw.toml"
-hash = "4e18c9aa04d0f9ae0377ed166e5850ac34aabb6a6aa18cf396abff14b45e7e7e"
-metafile = true
-
-[[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "968b182231cf82c2dd35b50ae9681256cc7d066440e15b4e88df70700074a624"
 metafile = true
@@ -2261,7 +2256,7 @@ metafile = true
 
 [[files]]
 file = "mods/impersonate.pw.toml"
-hash = "6a2ae4aba6ba631e14fc28e30856227cb25ff3908781e136e2760423e9986b00"
+hash = "401ff18e989c9f1ce13b9e38c358f54fc37b3582ad7ebdacc943c62b2c059fea"
 metafile = true
 
 [[files]]
@@ -2276,7 +2271,7 @@ metafile = true
 
 [[files]]
 file = "mods/invview.pw.toml"
-hash = "fb895dcf5858adba539fa4afbaf183308e10e23c9e5cb7f619e5ffa1281781cd"
+hash = "fcd68c4f587b9a8ffdf8e262733c7f9fdc966c7502e9fb0b12ab50bd1df5a2ad"
 metafile = true
 
 [[files]]
