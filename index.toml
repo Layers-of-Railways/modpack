@@ -5,10 +5,6 @@ file = ".prettierrc"
 hash = "d69c0fa9eebff1baf5dcae867558eca3780cbeff5dc550e8671f98ab82f5c591"
 
 [[files]]
-file = "TO-ADD.md"
-hash = "a32e596c534534fe3a917cbab9eea352254d1db308db4804f7eafd3029a4661f"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "2014afd35cfea600afb07552f8faa2740dfc82bd730ed2affd5e264a90f44565"
 
@@ -2305,7 +2301,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "7314e54dc8c65e6a6a16da6ddf5b2cd92d5f1c73af0354aa986400484d2b3473"
+hash = "235a2ad50dc38b10c95721ec9998aa8da2dbdc46ec1ad11661160c259bf26d12"
 metafile = true
 
 [[files]]
@@ -2415,7 +2411,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "50e1457f2dbefe5746e272bdbd1d3b936165f6871f663e39c9705ea3f416f496"
+hash = "17970a577e3a2f0ed9b37881a680518dc2e59b758090bf635e4086821bdd740c"
 metafile = true
 
 [[files]]
@@ -2540,7 +2536,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "13534f6c5df22054f4d3c0c280a91626dc58fe70a58c3ff439319857948a7969"
+hash = "eb5e9e45d3bb6136be856aea9cc9d185fa074169c08028e8602007b5f10d9c5c"
 metafile = true
 
 [[files]]
