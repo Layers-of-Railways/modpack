@@ -6,7 +6,7 @@ hash = "d69c0fa9eebff1baf5dcae867558eca3780cbeff5dc550e8671f98ab82f5c591"
 
 [[files]]
 file = "TO-ADD.md"
-hash = "3a6742269b50757732a279296a5deb6de17d85eb5c85b37505184f050976319a"
+hash = "a32e596c534534fe3a917cbab9eea352254d1db308db4804f7eafd3029a4661f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -1849,10 +1849,6 @@ file = "kubejs/server_scripts/tags.js"
 hash = "49e24486eb35f16977b6abaa6ee104bf846815dec7d8f96276b829fe04fa8c01"
 
 [[files]]
-file = "modlist.md"
-hash = "55ce3b71b07e558522707eb582cb685b97c0acc9e15ac617577aae39eb4c06ee"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
@@ -2198,11 +2194,6 @@ hash = "dc2356c1da779415519722c4f034ea3e43d0552122264bab885f2c9aea1799f6"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
-metafile = true
-
-[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "6513a4c41a2bb10838474fa71753eae7dd83472989dee44d727c11c4298b3bad"
 metafile = true
@@ -2429,7 +2420,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
+hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
@@ -2439,7 +2430,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dbadd730e364bc8210edac3d1d2f8c530f16f11728e3c978c8b17a1f377c9128"
+hash = "550f9d8239073e119b62a61b4e07b5d7c5d3d331d2a9d00eade8a96f4ee88acf"
 metafile = true
 
 [[files]]
@@ -2599,7 +2590,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "33f4a84790e78ae394e619e4977922d68a91540d801e7c1c49bc074754d86b0f"
+hash = "568a27fed8c9b59765d240945215f2cc23e3aaefdbb2fc999c69f224e8615d2d"
 metafile = true
 
 [[files]]
@@ -2664,7 +2655,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "de7bd2ce7e5e0f09152fc022b82592ab9d7e60aeda23a61582f531157f4c49eb"
+hash = "6076bab960f9a492f33a7a197c388f2f048095a9489f5d088349d0cdaaebffe6"
 metafile = true
 
 [[files]]
@@ -2724,7 +2715,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "9cd3bad1d6b4e2e1e7be989c94d075cfcc35c14cc0f70466c6d2930583241f5b"
+hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
 metafile = true
 
 [[files]]
