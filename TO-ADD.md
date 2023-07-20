@@ -2,7 +2,6 @@
     https://modrinth.com/mod/item-highlighter
     https://modrinth.com/mod/farmers-knives
     https://modrinth.com/mod/expanded-delight
-    https://legacy.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix-fabric
     https://modrinth.com/mod/deepslatecutting
     https://legacy.curseforge.com/minecraft/mc-mods/consistencyplus
     https://modrinth.com/mod/create-fabric
@@ -26,13 +25,12 @@
     https://www.curseforge.com/minecraft/mc-mods/decorative-blocks
     https://www.curseforge.com/minecraft/mc-mods/dustrial-decor-fabric
     https://www.curseforge.com/minecraft/mc-mods/leaf-decay
-    https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors
-    https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls
     https://www.curseforge.com/minecraft/mc-mods/every-compat
     https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared
     https://legacy.curseforge.com/minecraft/mc-mods/vertical-slabs-compat
-    https://legacy.curseforge.com/minecraft/mc-mods/carpeted-stairs
     https://www.curseforge.com/minecraft/mc-mods/building-gadgets
     https://modrinth.com/mod/projector
+
+    Extended Cogwheels
 
         create addons

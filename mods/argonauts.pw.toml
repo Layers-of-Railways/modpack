@@ -1,13 +1,13 @@
 name = "Argonauts"
-filename = "argonauts-fabric-1.20.1-0.1.0.jar"
+filename = "argonauts-fabric-1.20.1-0.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bb2EpKpx/versions/2d1RRhRS/argonauts-fabric-1.20.1-0.1.0.jar"
+url = "https://cdn.modrinth.com/data/bb2EpKpx/versions/Nntabg2y/argonauts-fabric-1.20.1-0.1.1.jar"
 hash-format = "sha1"
-hash = "d07a5121201b55a8702781f1e61b0047a8ac44b3"
+hash = "e5108f113d254b39f553f4e9c97f6f644e13f53b"
 
 [update]
 [update.modrinth]
 mod-id = "bb2EpKpx"
-version = "2d1RRhRS"
+version = "Nntabg2y"
