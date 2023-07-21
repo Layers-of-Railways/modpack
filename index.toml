@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".prettierrc"
-hash = "d69c0fa9eebff1baf5dcae867558eca3780cbeff5dc550e8671f98ab82f5c591"
+file = "TESTED.md"
+hash = "64aed69444a4b340ec615ed362e2a85cc2a553351e1f0b02d1e40a4a5b1765f5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -2050,11 +2050,6 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
-file = "mods/clumps.pw.toml"
-hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
-metafile = true
-
-[[files]]
 file = "mods/cobblegen.pw.toml"
 hash = "dcf817c1eb185f6b0f63765b62f0433acc7bd38662784d453c52c82f38408a3a"
 metafile = true
@@ -2112,11 +2107,6 @@ metafile = true
 [[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "2481d21042149c986ef44a5e7f422a896832736f9e5fd0054e15e5e1bc4b420c"
-metafile = true
-
-[[files]]
-file = "mods/dashloader.pw.toml"
-hash = "f0f82f41fef1fbc7d19723170410c631894de34ba0701157a1a897bac0af34d1"
 metafile = true
 
 [[files]]
@@ -2212,11 +2202,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "759451c84dd1dc8f7e0c9ac3210a2d69f19becc342834a58b18252d6e627b9c6"
-metafile = true
-
-[[files]]
-file = "mods/extended-drawers.pw.toml"
-hash = "af8f9129d996c1ffccfe52e3308badc0989452ca09c58ca5471e05bd7344d40e"
 metafile = true
 
 [[files]]
@@ -2510,11 +2495,6 @@ hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "c2e46d52c71471e9f1c911fc5f29ae3b777d0b77a55795b1e1e5c69f84a7f8d7"
-metafile = true
-
-[[files]]
 file = "mods/old-mc-logo.pw.toml"
 hash = "24fd21ea750334d68a5dbe2c0fa0a3c294424ed5ac7055ea4b1ced4e50143ff3"
 metafile = true
@@ -2537,11 +2517,6 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "bcf7b1f7226b3db7c78ba826464d17b71ed2e051898fd582b270e02cd8737320"
-metafile = true
-
-[[files]]
-file = "mods/pineapple-mod.pw.toml"
-hash = "8b37c9b528f3b305ad85c95a8a5dbf94b1dfefe8d6e914792df0fb3ebec6a98e"
 metafile = true
 
 [[files]]
@@ -2642,11 +2617,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "568a27fed8c9b59765d240945215f2cc23e3aaefdbb2fc999c69f224e8615d2d"
-metafile = true
-
-[[files]]
-file = "mods/snowy-spirit.pw.toml"
-hash = "d92d70d6ba913518a2a46a82d5e333cbd8d6d79cf6623661017724a4e6aca7db"
 metafile = true
 
 [[files]]

@@ -4,6 +4,10 @@ README.md
 TODO.md
 TO-ADD.md
 
+# Exclude PrettierRC
+
+.prettierrc
+
 # Exclude github pages CNAME file
 
 CNAME
