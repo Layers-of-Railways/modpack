@@ -2520,6 +2520,11 @@ hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
 metafile = true
 
 [[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "0bb3effac7f9fdd85042403eb879bbc861717039504e83c7d729f9eb22af4785"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "bcf7b1f7226b3db7c78ba826464d17b71ed2e051898fd582b270e02cd8737320"
 metafile = true
@@ -2732,6 +2737,11 @@ metafile = true
 [[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "1dfd2ca431ddf4bddd78ed14fcef582e305471c9eeefe197009f40d92a91cfb1"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "421293efb5a5c56005fa159985197313cae8ca00e7d7a71e4e0ef80a575cfac4"
 metafile = true
 
 [[files]]
