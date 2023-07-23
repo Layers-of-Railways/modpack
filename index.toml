@@ -2735,6 +2735,11 @@ hash = "718d06f8cf4c35d5b35ad234ffd6d6c63f11a59b745d64e8347075adefc99a30"
 metafile = true
 
 [[files]]
+file = "mods/ubl.pw.toml"
+hash = "5a0c7e434e754fca643ba4b9b3803072d9b346fea5c5d53050e0a575c90a5310"
+metafile = true
+
+[[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "1dfd2ca431ddf4bddd78ed14fcef582e305471c9eeefe197009f40d92a91cfb1"
 metafile = true

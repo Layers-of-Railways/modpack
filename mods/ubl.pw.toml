@@ -1,0 +1,13 @@
+name = "Unlimited Banner Layers"
+filename = "UnlimitedBannerLayers-1.0.0-dev.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VHtN7u8P/versions/VtMaZAxi/UnlimitedBannerLayers-1.0.0-dev.jar"
+hash-format = "sha1"
+hash = "98b2d23ae4f210c0cf9766edd954f9a489facd9c"
+
+[update]
+[update.modrinth]
+mod-id = "VHtN7u8P"
+version = "VtMaZAxi"
