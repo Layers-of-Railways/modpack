@@ -1,13 +1,13 @@
 name = "Item Blacklist"
-filename = "itemblacklist-0.1.0-mc1.20.jar"
+filename = "itemblacklist-0.2.0-mc1.20.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/6tCxJsSq/versions/10pbkb4e/itemblacklist-0.1.0-mc1.20.jar"
+url = "https://cdn.modrinth.com/data/6tCxJsSq/versions/oHu6j9O4/itemblacklist-0.2.0-mc1.20.jar"
 hash-format = "sha1"
-hash = "f5b67c69f77f91711e4672346ede196ab233cca5"
+hash = "eaf04417e7da9097c0fab63f6a0874a910f066b0"
 
 [update]
 [update.modrinth]
 mod-id = "6tCxJsSq"
-version = "10pbkb4e"
+version = "oHu6j9O4"
