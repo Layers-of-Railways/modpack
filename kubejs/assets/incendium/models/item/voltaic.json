@@ -1,0 +1,6 @@
+{
+    "parent": "item/trident",
+    "textures": {
+        "layer0": "incendium:item/voltaic"
+    }
+}

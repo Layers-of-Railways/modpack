@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/soul_torch"
+  },
+  "overrides": [
+  	{
+        "predicate": {
+                "custom_model_data": 1450400
+            },
+            "model": "incendium:item/lunacy"
+        }
+    ]
+}

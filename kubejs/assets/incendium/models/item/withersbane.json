@@ -1,0 +1,6 @@
+{
+    "parent": "item/golden_sword",
+    "textures": {
+        "layer0": "incendium:item/withersbane"
+    }
+}

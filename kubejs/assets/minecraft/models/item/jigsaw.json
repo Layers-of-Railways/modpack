@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/jigsaw",
+  "overrides": [
+  	{
+        "predicate": {
+                "custom_model_data": 1450201
+            },
+            "model": "incendium:item/infernal_feather"
+        }
+    ]
+}

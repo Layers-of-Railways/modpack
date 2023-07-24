@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+  "overrides": [
+		
+		{
+            "predicate": {
+              "custom_model_data": 1450000
+            },
+            "model": "incendium:item/patron/daybreaker"
+        },
+		{
+            "predicate": {
+              "custom_model_data": 1450001
+            },
+            "model": "incendium:item/patron/witherblade"
+        },
+		{
+            "predicate": {
+              "custom_model_data": 1450003
+            },
+            "model": "incendium:item/chilling"
+        },
+        {
+            "predicate": {
+            	"custom_model_data": 1450004
+            },
+            "model": "incendium:item/sacrifice"
+        },
+        {
+            "predicate": {
+              "custom_model_data": 1450005
+            },
+            "model": "incendium:item/vampire"
+        }
+    ]
+}

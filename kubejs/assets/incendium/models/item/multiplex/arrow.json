@@ -1,0 +1,6 @@
+{
+    "parent": "incendium:item/multiplex",
+    "textures": {
+        "layer0": "incendium:item/multiplex/arrow"
+    }
+}

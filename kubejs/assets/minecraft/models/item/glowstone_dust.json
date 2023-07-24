@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glowstone_dust"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1450401
+      },
+      "model": "incendium:item/powder"
+    }
+  ]
+}

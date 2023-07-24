@@ -1,0 +1,28 @@
+{
+    "parent": "item/netherite_sword",
+	    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -90, 55 ],
+            "translation": [ 0, 7, 1 ],
+            "scale": [ 1.35, 1.35, 1.35 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, -90, 55 ],
+            "translation": [ 0, 7, 1 ],
+            "scale": [ 1.35, 1.35, 1.35 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 40 ],
+            "translation": [ 1.13, 3.2, 1.13 ],
+            "scale": [ 1.1, 1.1, 1.1 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.13, 3.2, 1.13 ],
+            "scale": [ 1.1, 1.1, 1.1 ]
+        }
+    },
+    "textures": {
+        "layer0": "incendium:item/patron/warping_witherblade"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "parent": "item/netherite_sword",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -90, 55 ],
+            "translation": [ 0, 4.0, 0.5 ],
+            "scale": [ 0.6, 0.6, 0.6 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, -55 ],
+            "translation": [ 0, 4.0, 0.5 ],
+            "scale": [ 0.6, 0.6, 0.6 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 35 ],
+            "translation": [ 1.13, 3.2, 1.13 ],
+            "scale": [ 0.54, 0.54, 0.54 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.13, 3.2, 1.13 ],
+            "scale": [ 0.54, 0.54, 0.54 ]
+        }
+    },
+    "textures": {
+        "layer0": "incendium:item/scarlet"
+    }
+}

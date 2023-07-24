@@ -1,0 +1,6 @@
+{
+    "parent": "item/netherite_sword",
+    "textures": {
+        "layer0": "incendium:item/patron/daybreaker"
+    }
+}
