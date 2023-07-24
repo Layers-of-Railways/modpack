@@ -2765,6 +2765,11 @@ hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
 metafile = true
 
 [[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "82c917c802ee48ab23e42a2ff6f20ad7eb9c0ef45d90341b6dc8da0c35332dc9"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
