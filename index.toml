@@ -897,8 +897,1036 @@ file = "kubejs/assets/create/textures/gui/computer.png"
 hash = "6808758d01d308a22cd3be0a52346a05685f11418aa1b0bca5e3632ad3e1931c"
 
 [[files]]
+file = "kubejs/assets/incendium/lang/de_de.json"
+hash = "6e6d64df5fdaffc1d994bce4ce6334783a38cd96e9b75af346a7ade4a978626e"
+
+[[files]]
+file = "kubejs/assets/incendium/lang/en_pt.json"
+hash = "313cc792d3cebf2d224872bda507f45a1ec5a2f20d3e79a780ff962dc9b60022"
+
+[[files]]
+file = "kubejs/assets/incendium/lang/en_us.json"
+hash = "4a3832ad7d220e76189b6703a693c40d538d493c4fe45af891184e01d8c3935f"
+
+[[files]]
+file = "kubejs/assets/incendium/lang/es_ar.json"
+hash = "94f0316a2797f2aa07d759f5fea40bc06206509f837bebb46bbf0dadfc28c109"
+
+[[files]]
+file = "kubejs/assets/incendium/lang/es_es.json"
+hash = "7b449c0bbfb4166b80cd1ebb92f30851395e2f0c8a4a6a6b9b57c1e7f3ea0094"
+
+[[files]]
+file = "kubejs/assets/incendium/lang/fr_fr.json"
+hash = "2d4a4b8cf0503150d5b91c4fa04d162252298ba7be9c98ab4bc1a2044199a86a"
+
+[[files]]
+file = "kubejs/assets/incendium/lang/it_it.json"
+hash = "313f643b0932dade8caf30ab357279402d07cd360d110edddc7cf210c1fe18df"
+
+[[files]]
+file = "kubejs/assets/incendium/lang/nl_nl.json"
+hash = "5dac17220f2a82d6d10b1cc5aa22afa1d4ca141ffe407c2c5088ece8a00f3e7b"
+
+[[files]]
+file = "kubejs/assets/incendium/lang/pt_br.json"
+hash = "62dc1598408f4dc33026ce9501c009115a8e28d492889f2687878a0fea238d01"
+
+[[files]]
+file = "kubejs/assets/incendium/lang/ru_ru.json"
+hash = "3a9aa0344a6ad8ca322c04934fa3286a6c882baa2932bcfdd3331554e3f82bce"
+
+[[files]]
+file = "kubejs/assets/incendium/lang/tr_tr.json"
+hash = "0ce34caefeb9943c439928e19c8519f75060b3bfc4c64d63c8f18a4ba557bf89"
+
+[[files]]
+file = "kubejs/assets/incendium/lang/uk_ua.json"
+hash = "e8cbb87aae963e760363c44f8cff688f3655b7607cba26adade3774cbf033107"
+
+[[files]]
+file = "kubejs/assets/incendium/lang/zh_cn.json"
+hash = "8ff1f0d2741faf7ab4a46da9c423b4ea3949703e1e8ad5ac9557eea88307756d"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/blazing.json"
+hash = "f20fa2861f2f36d5614f94855fd1f0ac73ae69fed03bf583fc19aa0bff719ef5"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/charm.json"
+hash = "3cbf2eaa6494789a034b618cbb8637296efe0e298d296a16ae3eaa91fdd27079"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/chilling.json"
+hash = "df05f2a0106f8f3caca138a3d3f45c72a9fcfe8c3f81004b277c18b9f000b006"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/firestorm.json"
+hash = "d53f75347971582d574fe9df898eb19200d3f5ee1c66f719e176d23174390e0d"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/firestorm/arrow.json"
+hash = "0a9db8a88a9e8c0bd1c097d81449ccf649368181b047a3cc4a3274f38ea143ce"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/firestorm/firework.json"
+hash = "55beae0f44d178e86bb8129b016ca691a1673ce0f8748ac6258747e8ebd3c3d5"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/firestorm/pulling_0.json"
+hash = "0d6eb8d2a6048f79506be4084389b88580bc00dc64cb92869be3e9cba3d82c16"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/firestorm/pulling_1.json"
+hash = "d2daf5727bcc6b2e1addeafba7914fd854d40137b7aa42ba66b3780ade6f38c8"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/firestorm/pulling_2.json"
+hash = "e4def5bd35c57bab89cde9abcb8fcfc14b2f59f657aa493bb9f113907729093a"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/firestorm/resting.json"
+hash = "246dcaecf76580eb78a9091b3e09ac368adca63d9e1704ac45a6cd4130810dd3"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/hefty.json"
+hash = "6176aac2fb57ec90824ef65b74b2723fdba6e5c31569df9611cdef74d02e3366"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/infernal_feather.json"
+hash = "a8a498e28812b5b390cc95e72c1e7077e3082d8bbf61be99ce3743a8e9d64869"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/lunacy.json"
+hash = "8bb174b041493fea66581f1371a3e27a21ee669f5668bebb9aa6598b4f808f54"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/multiplex.json"
+hash = "3e0629342ab4434ad3967ee6241aa66cf3c6c348f4bb020ef0422191d96b12f5"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/multiplex/arrow.json"
+hash = "cf4f63724ccb6cc5a4f044c73e829c1516168ef5202858862dfa7da39d6c0e60"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/multiplex/firework.json"
+hash = "ac3f23fd76333b30fda777a40ad3a355608fb09ec760aaf09d45f81ac38993f8"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/multiplex/pulling_0.json"
+hash = "df3e80d9f462d864bc5c7b5023809f574245e588016ff71a1aed98d3bc275b4e"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/multiplex/pulling_1.json"
+hash = "4935934a14f9856f2005106700d7035c4f387ed79f114a8f356424b0661ab901"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/multiplex/pulling_2.json"
+hash = "8ff63ce2ced812d87c52d2324f8faf385a1e80e899a5b60e0b908961b976125a"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/multiplex/resting.json"
+hash = "5499b82d435aea75639311353f93ae80ad6e2b39ec2732413d47b9b9620e2896"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/necrotic_shield.json"
+hash = "30a4e2f1c6c7dc745558b6a9687230ed5c74054c2e7f1342039220e1621c6376"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/necrotic_shield/blocking.json"
+hash = "442e4ce0d1d5cce99f2c7476ca8af55da5c53366b6bbb3c5a22e65767c6de3b3"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/patron/daybreaker.json"
+hash = "99f502fd27d90084dc57490aaae1fc1fe166b689ea7d89598927d3d580abee37"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/patron/holy_wrath.json"
+hash = "540f04db53938f5fc18dc1346edea63924b308af2cc12591dc89a5c3dc9cd368"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/patron/holy_wrath/arrow.json"
+hash = "4931e63798efe6845b212ee4078dc58ada3b217ac8144ac24c4c7657ce82da73"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/patron/holy_wrath/firework.json"
+hash = "c982505f4a02da4b6155d7d00382450250ea41da70a7436c5b6df903e917edcd"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/patron/holy_wrath/pulling_0.json"
+hash = "babc67e8c659763918847dae12c7e6f5366ae035b8597185b58f75ee7ee58273"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/patron/holy_wrath/pulling_1.json"
+hash = "e73d95f0b828451e555790f3642fc773eb12eb318a6014f792243bcd7f791ca2"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/patron/holy_wrath/pulling_2.json"
+hash = "bd478eab498644c82cdf8e59b8d59374fe16e827021df10690ce65c2e3f98203"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/patron/holy_wrath/resting.json"
+hash = "858ab4355f247a70444cb2ad6694752fd6180147c3a0a3d3e6db056fd0175930"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/patron/witherblade.json"
+hash = "5261373bf2f476431a469e8c368c25ae5124bbeaaa3731f51d4d6c8b7895129b"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/powder.json"
+hash = "5339f47382daf60cedd7c5772a1c36dc7ace73f6e0b7f903579cc84bb2228c10"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/prismatic_shield.json"
+hash = "78d0acfdec6bbc4c696e25dc3e21cd1bfd934a385df799873a55b278693ad9c3"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/prismatic_shield/blocking.json"
+hash = "bc2439db430d7e087449df0d81eb334e4fc2689d2c83e89a6c9a1d2922c886a8"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/radiation_shield.json"
+hash = "7911114ac31ff058533a2346154b13dd4bd378b27ddddde8b50de654cfaedb06"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/radiation_shield/blocking.json"
+hash = "0b7845cda199d7f3571f5636c7b30fb40c914cd9a718befb1a539c46ad126526"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/ragnarok.json"
+hash = "b3a431cb4bdae3f1f43ada1f68620dfc5792019066c6a9ab0f60b91183784852"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/ragnarok/pulling_0.json"
+hash = "bae7fc8be06e4e544e25745504cd604315321f006b1921387b27f6df26b9f5c2"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/ragnarok/pulling_1.json"
+hash = "8d9bb27d1e6ad8b66165277d3ab834192145a5480780f3aca7b45b48b6c196e7"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/ragnarok/pulling_2.json"
+hash = "d09a3b8ee4e3ad18aacd9ac81bc8ee4949aeba320102b54a11ded9a9650d25df"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/ragnarok/pulling_3.json"
+hash = "663d61b8a438d003f5012020624f27f143516a213bf2d264812275ec4ba7abb6"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/ragnarok/pulling_4.json"
+hash = "db800ef11b3d76b24dc1f70aaadd8802dcfe5e3aedc2c750a2971974b92d397c"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/ragnarok/pulling_5.json"
+hash = "438002e6a88edb188e5363c4cf97c41401f473f24a1c194b8075a3ec8fb77479"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/ragnarok/pulling_6.json"
+hash = "ab8cc65ec0da354a6e7b3ebfb1b249cccdfba667c2096cd9f599d325fcff5a5e"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/ragnarok/ragnarok.json"
+hash = "b7b4bf87add87abc28f24ec7e381ef627efc500d57e8ccd3345719022279068d"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/restless.json"
+hash = "e8f9ee514dbac76c793b07023228355f78eb71e37d8ad9bb0720534635263b54"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/sacrifice.json"
+hash = "a176b00d4c11012918d78dceb58b0b3b54a0acee2fa4b26fa8795bfae941c7f7"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/scroll_of_returning.json"
+hash = "245025860b1ac9e93d906cd6b38d07fc2dc0fc5e631c7822fd7e95dafdf8b060"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/sentrys_wrath.json"
+hash = "ef0becdd04110baede2e132198567ddc814ebd70762edaa830e8b5d7453d1031"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/sentrys_wrath/arrow.json"
+hash = "9cf1e6be3d9d3cab8bb9da5cac14466350ff643ed90661cd7d30b4128effab07"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/sentrys_wrath/firework.json"
+hash = "38c13b76aa588bbe9bbc587917d4a93fd7e9708f2f9a92483949c8f1ce57db5e"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/sentrys_wrath/pulling_0.json"
+hash = "f0c8ed0029575f11ebd33fa5303106d36aa3321f8aadb78206081d505a0229b8"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/sentrys_wrath/pulling_1.json"
+hash = "16a8f1b9643be870e172cbd744add0d6f5dd2367c04ad11aa14b47730ef02f60"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/sentrys_wrath/pulling_2.json"
+hash = "68e2a9034e27735079c3d5fa7f3af74edac404f21ea848e26c61f0d71a52277d"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/sentrys_wrath/resting.json"
+hash = "dcc4a5076b6cc6b995bcbaaec0b00786f5f90ae9948310731fb877228ee1b735"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/trailblazer.json"
+hash = "18b3dce8c330cba625bbb088aaea18eadee5b4d9c4e98d18514aa65293eb9d9a"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/trailblazer/pulling_0.json"
+hash = "118be9f4447ee682762ae5da92e9bd49994b8c4e611384c1dab9cc41a3b67ea3"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/trailblazer/pulling_1.json"
+hash = "0044d5fa41701052452d1ee04f2b53581cf8bad5092482346a73c60d56ea4a73"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/trailblazer/pulling_2.json"
+hash = "e85158b5159bc2f073aef7c2850e3daed5c4a9d1c32d9e80a7448769cbb00980"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/trailblazer/pulling_3.json"
+hash = "c882c85b4171208738a242a696bf5ebf167579d5db1fb94bd42210ad8e3dd4ce"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/trailblazer/pulling_4.json"
+hash = "1fde6b71809fc4713ea30d2280831bc8796c98d186e75754f050fc84e6e59995"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/trailblazer/pulling_5.json"
+hash = "2d478f0fb07505de3a7de8c16500f9973015c925273a3859da1b920e3410b899"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/trailblazer/pulling_6.json"
+hash = "680141b5ff1ccdbf36de7d66fbf8ecfb4b6108001767ae0a3f148d7fcef9ad38"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/trailblazer/trailblazer.json"
+hash = "e3d3a1977e05dee4a2bd1536105ef3b842ee92d41c199c026f11725a0ed54cce"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/vampire.json"
+hash = "a5d5101c0549a062d4c3b4eb9d1dca0499222e6b2a3f158f7600c610a0c9dbd5"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/voltaic.json"
+hash = "62cd755808e98c040415147cfbeb7d19a26c1677d895aa5bf530a342e487d8c0"
+
+[[files]]
+file = "kubejs/assets/incendium/models/item/withersbane.json"
+hash = "9573ef8a79b8c2215d65ff7fe90f64c1c2ad228886cb056682bca7f106caeea1"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/blazing.png"
+hash = "b40c5403ba2553d397011a211ad5116dc3d6643d363ee583fcef733c2d658902"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/charm.png"
+hash = "ddbb67bbcbeef6746b78ae6cd452ceff4079e51af60e26dfd408d6bf8bf0735d"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/chilling.png"
+hash = "c3fcc52c07fe3b9a59773a989074a55d7d91f8456622ecaaaf22eed7a9f99dc6"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/firestorm.png"
+hash = "dd2c3ac787906d279e121ced23f2cdbc02d862db7dc1e1021d05db7a716011fe"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/firestorm/arrow.png"
+hash = "ef64da1dc939eb9e08397d6eff7b4cdabe41d0b2a4b984c7109c47c29c724028"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/firestorm/firework.png"
+hash = "a015ed7927649606fbe736ea7f58d31a274d4fdc95ec1b2d2306f2278ca0d39c"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/firestorm/pulling_0.png"
+hash = "b9fe0aa655d3fc6c2e0306f5946c0d143aa9e047436edef3815bbec69827a332"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/firestorm/pulling_1.png"
+hash = "8d6f920045fbc71c916e700e823cb0b8163db238860567e7d03fa82d3003a2e9"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/firestorm/pulling_2.png"
+hash = "3a6eee4dd7602f65601addc429279ba306cda7fddb7dc6a50f7c561f8cf61e58"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/hefty.png"
+hash = "8378c131540d0d3ad78fe596418a7292a69fd1d949809106e54c234f2dbb0e53"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/infernal_feather.png"
+hash = "389983b5d96f87217f24cf3ae57bccaa787e2915ed6a7fd836002d266a1b1999"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/lunacy.png"
+hash = "d548e01632e9153ef917ee7caba5ab7882e5a2fb48cce10acf5dccc2645f21c9"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/lunacy.png.mcmeta"
+hash = "b111d090c26600acd3252f7ef1c7395e67f7f2e8f70ec20efd50d5d95f9221fc"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/multiplex.png"
+hash = "e87b510be468577c7c1ad5817e6b635d55b7448aca09e6b0ba30effc0692d663"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/multiplex/arrow.png"
+hash = "59d23dc3e69a12a261f227e3996d408a561f663ee60acc5f4f032d2e7356cdd3"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/multiplex/firework.png"
+hash = "59d23dc3e69a12a261f227e3996d408a561f663ee60acc5f4f032d2e7356cdd3"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/multiplex/pulling_0.png"
+hash = "0bfeda523544af645ab4097c9b8f5fcfd87422960fb26368d13d1105cc8f56b7"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/multiplex/pulling_1.png"
+hash = "56bc6b72b31d9310d3ec026acafc55c7e5f413dc8973a820ef27131c6e990c0d"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/multiplex/pulling_2.png"
+hash = "8cc43ac0a352b06fa5a2bf7fbf7bc0707b688b3527dbf284824261e870150f59"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/necrotic/shield.json"
+hash = "32c862615797082dcbac3401858e10f59894412874c07cd988b0ece02f029321"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/necrotic/shield.png"
+hash = "2d21b921e6324763ecd33881a0fb0dc564bbb1424f78c36e27765434c5d246ea"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/necrotic/shield.properties"
+hash = "0591337b89edc119d36f4cb669e77098ef5dab777e92177ddca02f5771e216e3"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/necrotic/shield_block.json"
+hash = "f1285a171089b76f8d9e6e568677e2488463bee6358b6be35d381160a8c55b9e"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/patron/daybreaker.png"
+hash = "ae0ba0d4f7bdbbb475e489a69e6651ba168e7dddd39676cac1b9c60a1849f75e"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/patron/holy_wrath.png"
+hash = "f67a1a780de5f14d88c1a6496e84c2ca3b4ec81821d954e4cfdf1e8d42e7b37c"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/patron/holy_wrath/arrow.png"
+hash = "8bd91d47b1bb11ed049c601435dc2dd290435738433d6b111ba51bd1f7b7d605"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/patron/holy_wrath/firework.png"
+hash = "b14a6845d13fbf8a70e7607158ac27ac6c902fa542079cfe98503ec5147ded00"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/patron/holy_wrath/pulling_0.png"
+hash = "3eea94987ca74dea82b991f1489fc00fb1f1e69506284058484579547aafc1c5"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/patron/holy_wrath/pulling_1.png"
+hash = "3aa627c07747f95876d323beaa27e39bd5eb4590aa79ed927fb8c023f490bc87"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/patron/holy_wrath/pulling_2.png"
+hash = "327df2f2c8022df6d67da9f711a94061f7bed7545908ed2ec1110b1c9eb7b913"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/patron/warping_witherblade.png"
+hash = "4e9bf996aab66604c44a561293ad876fff6db0fdcb496557dae6a936626b917c"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/patron/warping_witherblade.png.mcmeta"
+hash = "8cbb5fdd1bc8ff7665625866c074edb250f1cca513d82c7e1c8dc4ba3a5fabf3"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/piglin_sword.png"
+hash = "829cb986c70760bdeb60986783eeabe80dae85b57b930a41c0b659f065d52034"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/powder.png"
+hash = "12ab855dbcc36a116e08b93fb69dc4a9fdac64196595f699a120d31907ed3f18"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/prismatic/shield.json"
+hash = "32c862615797082dcbac3401858e10f59894412874c07cd988b0ece02f029321"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/prismatic/shield.png"
+hash = "0c9aedbacdc817f736dc70f63a21563c73ae89ad8e379be9b852e98c7a61d29f"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/prismatic/shield.png.mcmeta"
+hash = "7238669238de11aa89f11df0fe4f78fcaf8cd0a4f787f9f5c09231946c424065"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/prismatic/shield.properties"
+hash = "098476848d9dea0ffbcdc3b77340c7ec49a4e881d4b0dc50cb98f1415b814234"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/prismatic/shield_block.json"
+hash = "f1285a171089b76f8d9e6e568677e2488463bee6358b6be35d381160a8c55b9e"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/radiation/shield.json"
+hash = "32c862615797082dcbac3401858e10f59894412874c07cd988b0ece02f029321"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/radiation/shield.png"
+hash = "b1abf5d79ee6150f4a582f24bef832d7e4d0d549f27c4e0203ea352005f8887e"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/radiation/shield.properties"
+hash = "68d451c85c00f4d140ae801cd91749bc496b0267676091b91e8459635f00dad3"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/radiation/shield_block.json"
+hash = "f1285a171089b76f8d9e6e568677e2488463bee6358b6be35d381160a8c55b9e"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/ragnarok.png"
+hash = "916e1b35351a210e4c83ca15df8d24a1222e0d0d9ff92934e3683ca96c2625e6"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/ragnarok/pulling_0.png"
+hash = "ab49b169678b6b2c52540a8cf3472201c532290a1df5bba484f4f6e14df9c57c"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/ragnarok/pulling_1.png"
+hash = "9ef6bf4f15b361217494bc607561520d87247e1499e20615a91d0d51715e1b95"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/ragnarok/pulling_2.png"
+hash = "6335cc5c5ab14c5c757c3f5903ac764dcdd2e2f11c33923460d3a89539eceba1"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/ragnarok/pulling_2.png.mcmeta"
+hash = "469fddd2578cc16097cd5c98a318e221642f729a4dcb1c7d573f7d436bd14453"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/ragnarok/pulling_3.png"
+hash = "25ea9d15bc01d249a480177b694ee75af07a0b8a811863d7ad047184a3e7aefd"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/ragnarok/pulling_3.png.mcmeta"
+hash = "469fddd2578cc16097cd5c98a318e221642f729a4dcb1c7d573f7d436bd14453"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/ragnarok/pulling_4.png"
+hash = "f7347f8789837c59b4e4491f7faa1d164fda68733828ea004577c83c6fbf062a"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/ragnarok/pulling_4.png.mcmeta"
+hash = "469fddd2578cc16097cd5c98a318e221642f729a4dcb1c7d573f7d436bd14453"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/ragnarok/pulling_5.png"
+hash = "b5bc63d65325e76be482fbbd46423bc43327c4cb4dd66e8166aa660a63d874dc"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/ragnarok/pulling_5.png.mcmeta"
+hash = "469fddd2578cc16097cd5c98a318e221642f729a4dcb1c7d573f7d436bd14453"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/ragnarok/pulling_6.png"
+hash = "7e93bfae19435871f6be3947dd4cc7657fc2b03e1fbd9a89e7505a0a53ea3bc3"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/ragnarok/pulling_6.png.mcmeta"
+hash = "2c4936b3f206ab710c8eb884808ca797907f310ccbcf9ada20e810fb989d1244"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/restless.png"
+hash = "80fbe63c4928accbf7d198fe07c87b9ae74166106adba99228a8f291d9ac7890"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/sacrifice.png"
+hash = "e518ab749e0b0ecb7a96e352254e6b2391b7b74757c092f2059b07bfa077c77e"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/scarlet.png"
+hash = "a2582c08fe08510e5abd59362a1c0c212358c7603c9d074a8f89ae7985fbdf53"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/scroll_of_returning.png"
+hash = "e341b511fc70902dc57e1c9cedeb6619b89628772d00aa9d5db33f568247fdc3"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/sentrys_wrath.png"
+hash = "ba1c7f69bcc35f311e099ec84e2840d89da0622ab33f573606927112cc06be52"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/sentrys_wrath/arrow.png"
+hash = "1f2d8a1aabe8e8fe3121da8c3ad5a02d14b014a3740ed287f5d45f34d75f59e5"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/sentrys_wrath/firework.png"
+hash = "52391e4807aa05100a347c6fe66821c7db94e2a7383b9721514071f1a54bb854"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/sentrys_wrath/pulling_0.png"
+hash = "1301b0c9c799e692f95a262e37a25b4be73334410ce7de17a335b210d1622d47"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/sentrys_wrath/pulling_1.png"
+hash = "4975131f2216a83f0d1aa2d7055f85fdff44c74e5830a94f8427ab115ceeae71"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/sentrys_wrath/pulling_2.png"
+hash = "267b267b31de6242eb8ea4861d2ed9df5006f8ee79e7417335d66728b7117c58"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/trailblazer.png"
+hash = "7773155f3c001aae7e1f5147857773df7b84cd106d20de200f5e9474e08af8d9"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/trailblazer/pulling_0.png"
+hash = "c074eb35623d11d238e95c94243053dbc5b1a3e66edb784be1eb5040476dcbce"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/trailblazer/pulling_1.png"
+hash = "59bf32fb018e48614fe0afcdaf7d9a05d374ee81199a8f111d03f7455c490c32"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/trailblazer/pulling_2.png"
+hash = "b07e90cda88ed7860ff496abe1094dbdaca9bc9b0428686522c9a90415d4ce93"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/trailblazer/pulling_2.png.mcmeta"
+hash = "469fddd2578cc16097cd5c98a318e221642f729a4dcb1c7d573f7d436bd14453"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/trailblazer/pulling_3.png"
+hash = "65cc3c8d5447197c898ea8d484c16e2d75a47fb2be687ed53797a4a43cf7570d"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/trailblazer/pulling_3.png.mcmeta"
+hash = "469fddd2578cc16097cd5c98a318e221642f729a4dcb1c7d573f7d436bd14453"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/trailblazer/pulling_4.png"
+hash = "befc5681d42b94b6622b9ac28e33d455ce66f82fa09154e92b928f02a2d73a85"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/trailblazer/pulling_4.png.mcmeta"
+hash = "469fddd2578cc16097cd5c98a318e221642f729a4dcb1c7d573f7d436bd14453"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/trailblazer/pulling_5.png"
+hash = "8f3c646202c2769a2c1e3c1a93e94abb1df241d635aeebb5aaccd2187ff51b99"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/trailblazer/pulling_5.png.mcmeta"
+hash = "469fddd2578cc16097cd5c98a318e221642f729a4dcb1c7d573f7d436bd14453"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/trailblazer/pulling_6.png"
+hash = "923ce29ab4509037566dfe7d7d08549dc33a13cf09f6c4c072bf3f3d15d64b12"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/trailblazer/pulling_6.png.mcmeta"
+hash = "2c4936b3f206ab710c8eb884808ca797907f310ccbcf9ada20e810fb989d1244"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/voltaic.png"
+hash = "03169059264f2f18e21248b5d0dd0eb6fba4b7ced7b65932174e1fe1673f22e7"
+
+[[files]]
+file = "kubejs/assets/incendium/textures/item/withersbane.png"
+hash = "03bf3c47e98a73a1752aef63f668e2ee0333e189590c1d0811b68acf32f345c0"
+
+[[files]]
 file = "kubejs/assets/minecraft/font/default.json"
 hash = "432b1b70a957fb0fb3699d99b2a954792023924e961c5064448710fff3c4523c"
+
+[[files]]
+file = "kubejs/assets/minecraft/gpu_warnlist.json"
+hash = "07fd079aaff7363e6692efa510066e16d4eab634904d164a8a67a3cfc7952094"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/_shield.json"
+hash = "cacbcfa68c418ffa2920e7e3e7879f2b9d6c8d54622c799f0ec685671a03af83"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/bow.json"
+hash = "f1406e1b654a17a1db1cbe41a0f9836b998434ac71667c222852b5e98116e3b0"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/crossbow.json"
+hash = "accfbb6b2c7c38561606f0a962fc28fae817fd43940c15405030462ecf3254cc"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/diamond_axe.json"
+hash = "c271f49ab082a54a23abb1060376e117f492bd0de1101ecdbecac27e49497f54"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/diamond_pickaxe.json"
+hash = "ef70e62f9e7d3ff3b3468cd7a61d9be164bcdacd5da0ba81ba6595bbcda587f7"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/diamond_sword.json"
+hash = "3edcdf2a68684ad8ff50a04dde96442d698394f34a7ee8633c840a64a062881f"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/glowstone_dust.json"
+hash = "16bb501f04f8403fa0714738b736fa91f2cdfbaf2a3c784c415ee745d7002f24"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/golden_sword.json"
+hash = "c5d1fb1a5c59a8fe8b180d9c4dd16c5acf45ef175b9241719604cc27c7cda220"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/jigsaw.json"
+hash = "2023200e25bcc799708fc65be23fa862b050d1577b96524676617722b60cf4c6"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/map.json"
+hash = "79b9af26776381f9677532c1d5a5c3abe6ceb28034f5d554a43ec8eb8414f2c5"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/netherite_axe.json"
+hash = "df0cb03da923ec3943f1527dcdbdf63a49b238748e1d62d87446d00f6851dd3e"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/netherite_pickaxe.json"
+hash = "4f7ab484978684026709fb6587003bda0342f4ae96cd91fc65bc761dbb1de639"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/netherite_scrap.json"
+hash = "deaf852c2cfe06f717d0d11fa38b420e62c3faa18b13d420c9dd5892f5fedf30"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/netherite_sword.json"
+hash = "8dea4b8df462efb620c9cc7fe45f138f8eb4815ee0801f65c6a6df1d945c4b44"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/snowball.json"
+hash = "738dd43578a589518feecb0642296719c527747593a4b293329bf291b7b38dd3"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/soul_torch.json"
+hash = "d5a0a24483c753315550ea574914b4144994478eaa8ea1de88be502d23b271b8"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/trident.json"
+hash = "fc0dc66846e3f5faf1ccefdceb6d52cf950487f98d6fdd9dda25dcf8aaced16b"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/item/broken_elytra.png"
+hash = "944401fa51557ff6dde8c4125210fc4ff84dd1eb75d0fe3ccd3e6c3f54a082d1"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/item/broken_infernal.properties"
+hash = "dd9b2ecd7d682e7103de47a81a4770bc5dc2428666c93dc45c3ecc1caec7fb92"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/item/elytra.png"
+hash = "38fc6b22eb637f5e65e07f0e297b9ac8d37554d0b13cdc5c66bbad286f6dbc69"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/item/infernal.properties"
+hash = "819d25a7bf80cea7211757190daa29a58e8a2b5b6024e78198b78c3e3ef04ad7"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/item/scout.png"
+hash = "4e1dae3c45c8177d5e992feccd6759502bcf7813b85d321a4e2109f19a3ff899"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/item/scout.properties"
+hash = "2bfb68a08de77bad99b45e70629cbc049c23861944e2bb660b18b8d6f9ead48b"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/model/broken_infernal.png"
+hash = "6d1646bd94aed766473143a406dfd072f03a6c8f79c8a8103da529c484c5823a"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/model/broken_infernal.properties"
+hash = "eb791f5e841240dba0940139bb1ae4a32993f5e7cc6d62a5ad9a5eab0ad6820a"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/model/crown.png"
+hash = "562a49993b5b43890c5985b460ce58186d9297765e32e57ed3331368d0f878c7"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/model/crown.properties"
+hash = "348aa8574bddbcbad4ff4fffe025a77ad174504b611576827ea2a54070b26fe1"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/model/infernal.png"
+hash = "a73f04d83e00ab9f38d471f130abbf2bf0d9deeb9cd7c2a4dcd47154a8f3d2b8"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/model/infernal.properties"
+hash = "3baaa2a21c31fb3d8e77639677594d45459bd8165eb2936e8e8b500d325929c7"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/model/scout.png"
+hash = "2dd100615994c5e6364e5cc90179f868ee8b0a9db6e318bb94fec9f5befa9261"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/model/scout.properties"
+hash = "ee8e4b4952d703761d88ffabd169a3ce6f412da1757bedae0f2198d765f93449"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/model/vinci.png"
+hash = "def135afd83970a007457f66ac6754433a47ddae2b68a83c3ad0d6798ac2961a"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/model/vinci.properties"
+hash = "bfd745f11bc6d1f80ae0dc25383e414b4f91e5c3cf80ee2e8d1f4853072e6e27"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/necrotic/shield.json"
+hash = "32c862615797082dcbac3401858e10f59894412874c07cd988b0ece02f029321"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/necrotic/shield.png"
+hash = "2d21b921e6324763ecd33881a0fb0dc564bbb1424f78c36e27765434c5d246ea"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/necrotic/shield.properties"
+hash = "ce950684dcfcfa3e0a24d45a0ab6274c433dd171747aa58dd2f3523a9d6316e0"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/necrotic/shield_block.json"
+hash = "f1285a171089b76f8d9e6e568677e2488463bee6358b6be35d381160a8c55b9e"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/prismatic/shield.json"
+hash = "32c862615797082dcbac3401858e10f59894412874c07cd988b0ece02f029321"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/prismatic/shield.png"
+hash = "0c9aedbacdc817f736dc70f63a21563c73ae89ad8e379be9b852e98c7a61d29f"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/prismatic/shield.png.mcmeta"
+hash = "7238669238de11aa89f11df0fe4f78fcaf8cd0a4f787f9f5c09231946c424065"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/prismatic/shield.properties"
+hash = "0baf6d4cd01098964954600e2fe4441227f1defb38cc8cdd20a1f6beb1c101e6"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/prismatic/shield1.json"
+hash = "c3bac7b1cc6c7f624ac0270727d7abc4170398eca54c57dfa234490859df8fda"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/prismatic/shield1.png"
+hash = "46f58a589906513b26200528a8314543c718d804814878087ed8ff5051a4c5f8"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/prismatic/shield1.png.mcmeta"
+hash = "edb5d3feb47013a4d00c4e3ca18cf10c81c31a90d91d9c88db79acf9e381b49f"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/prismatic/shield1.properties"
+hash = "20dcc36aefceb4ec846e062b434cccc526db117f656e7d4387b88923420c294a"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/prismatic/shield_block.json"
+hash = "f1285a171089b76f8d9e6e568677e2488463bee6358b6be35d381160a8c55b9e"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/prismatic/shield_block1.json"
+hash = "0e8ea8a420f791e3bf90e60b3847c43240fa8adc16b9fb246548b42fcb072ddc"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/radiation/shield.json"
+hash = "32c862615797082dcbac3401858e10f59894412874c07cd988b0ece02f029321"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/radiation/shield.png"
+hash = "1f35fa5b475bc67f42088be0c784a1a6de81ed6d97e1342db9be707047f3b704"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/radiation/shield.properties"
+hash = "be090c2ff40a874bcb45c642f93ef119464fc44db89dbc55e75878c5246343fc"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/shield/radiation/shield_block.json"
+hash = "f1285a171089b76f8d9e6e568677e2488463bee6358b6be35d381160a8c55b9e"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/emissive.properties"
+hash = "400c2533d1f4d94ee1d1c747e98196b4769eda86c105ef8aef32b0f3eaab722e"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/blaze.properties"
+hash = "799c66d25c8f87b2c7716a97be9b0db73586007ba1f5cfbeee30f5dd1911b4db"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/blaze2.png"
+hash = "f807a6ac388a2a66336b2751c8f48aaedb5e39ed4f2196d01ea4130ada4148c9"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/blaze2_e.png"
+hash = "0e3288441fa2c50096ef15d39e21245e9c746333816e3a185e5b6ece72895ab2"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/blaze3.png"
+hash = "b0ed1254b01cb12486c7eb3ccaa792283d317668e7af6497cf1f7a3cc861f2d8"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/blaze4.png"
+hash = "4ba30d2f9a248ed691707bda662aaa7c6994278df10f9ca40640711cbbb34e56"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/ghast/ghast.properties"
+hash = "7430019ee29f612e76fbd87c845b0ffb4b4f99aa9c7a94dd816f1c38d9424b2f"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/ghast/ghast2.png"
+hash = "2ae1f496d3999591483a2128948dd6107d5433a5b3e31ded6493f649c9c6eb30"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/ghast/ghast_shooting.properties"
+hash = "67d8de6b48404ddfae996f1ed044ac8378a0fe22f47e0fc9572ffce0c2950116"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/ghast/ghast_shooting2.png"
+hash = "37d3c9619990f7ddda68f3d89e04392ae3703b8421d1bdc45894e923f3e381e5"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/ghast/ghast_shooting2_e.png"
+hash = "d08ee9f0d5dfa1f04cd052f060f5be4d28d1ed3b64997f2ca0c599442c41aecc"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/illusioner.properties"
+hash = "63f0b98a27bc6a73c951e49cf3a4a043d3008fb7cd03f9d3d803248676d21599"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/illusioner2.png"
+hash = "207d4304fb7d22b06b91083f4951dfe8612ce2769da8d8b5606ed9fce980591c"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/pillager.properties"
+hash = "28b280a2a2061340fdb67a51bb9bba0a5dbe1a1880df2cddb254151060cd23f1"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/pillager2.png"
+hash = "4486a9b2ec62d2b01a633a963f062d19e766c92a852ac9313de24014a0d4f15b"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/pillager3.png"
+hash = "9855b62e67079ddb7accb202127f4c95e0ad5aff4c7603c0e59170354d561fea"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/ravager.properties"
+hash = "2bd8d1c608c8b9dfac57de5d6b1f1b4cf16d756d51c9337efb7ff0d93f2f5f6e"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/ravager2.png"
+hash = "46bd7e3a9e5fc3be045eae35ab78da0384d71237ceabc68cb9be96a0bddf5654"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/ravager2_e.png"
+hash = "773fac432bae8bfa3d2e49fae74099ae991b1fa67680640061d3cc474175b57b"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/vindicator.properties"
+hash = "c369d663be87994c4a606bc7321154a90baaef46adbfe5fa1de69a73e049f2a6"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/vindicator2.png"
+hash = "92c8a69abc8ffe6f01dc22e44dfbff0562c084c100744489379a6235f9f3fe3a"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/vindicator3.png"
+hash = "acc6b0dacd004d147aa16ef3a1888115a3f510d6b7e68bad9536d55d6229f665"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/vindicator3_e.png"
+hash = "d56039f9b24a5b556dba0a1246ec27738b16562e99316169cc84c879762fa362"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/vindicator4.png"
+hash = "88c725d80f8039d87255b4b32d962f43a9ebb37719adc137acc572d56ff7e582"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/vindicator4_e.png"
+hash = "69b50f8546936d4c5e337b2e38a187aed08091a6f2cd0b915b54a4516e23f19e"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/vindicator5.png"
+hash = "4713d3cd82afcee53b74fbc82b1045d7339e9edfc8665a4a67215b4cd82740f6"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/vindicator534.png"
+hash = "92c8a69abc8ffe6f01dc22e44dfbff0562c084c100744489379a6235f9f3fe3a"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/vindicator5_e.png"
+hash = "5042a8f2a1c185af5f719cd6932f46fcab23b66909c12af5729fd25618ff60c7"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/illager/vindicator6.png"
+hash = "31dfb9710090dafe3fe43e50417e84649b9a963521ac75a2ce141bf81607cb8e"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/skeleton/wither_skeleton.properties"
+hash = "085d3554409c3a53af2fd5170ade5dfcad1d47957e82552fd396475feb5e8812"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/skeleton/wither_skeleton2.png"
+hash = "13ee1f12caeb978885e5172fbfc19e69e9af90e0210a47da0e35a2ceeb27dcc9"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/skeleton/wither_skeleton3.png"
+hash = "74234549c20932677a25d0f89a5f7ed9ddbef307f6a3093f01fd6fd3255fa9a8"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/skeleton/wither_skeleton4.png"
+hash = "b78362800ec6a5d95824ef593388c7533e96b4653463e126f1f5e85fab97d89f"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/skeleton/wither_skeleton5.png"
+hash = "e029ad308f619a4850033dabfba81ead70ab2bf8bec4f3395affdb6c6be18b2b"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/skeleton/wither_skeleton6.png"
+hash = "075c9a7a44098171263bd1348c64fc2d4aecc5718a164bc72dc3f000b889735f"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/skeleton/wither_skeleton7.png"
+hash = "cf0c2ae1821f55cee2e210512738729505b057354d73cb4d6d5a562015f4c427"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/skeleton/wither_skeleton8.png"
+hash = "0c253fc4e1c73694e77251266672472864e20aec5af3d6f3be26d00430e86fdd"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/slime/slime.properties"
+hash = "315fad88ccd86021b19790fd29959020c48fcb92611fd4fda9029d91462f107f"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/slime/slime2.png"
+hash = "185dd0be141392cf3c2f349faf46e94c84b3a42c7fdaedbeaeb61d4c5cd76834"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/slime/slime2_e.png"
+hash = "81ca908d5d74e1c0bf7e06e4539d56d3756cf96d6257f9deed06c37c51f8dee0"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/slime/slime3.png"
+hash = "02599f9e1177ff75b38d7a0003db645047438476dcbe708f91f2109cd2570db7"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/slime/slime3_e.png"
+hash = "8f0515039b26af77e4424b2a103a3e67aa13d29f2f598f00068236fb3c0dcb79"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/slime/slime4.png"
+hash = "85ac3ceba133ab440fbf5425ec07eb491ad77a4d2009b5a8194b2de8e75fd6b3"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/random/entity/slime/slime4_e.png"
+hash = "ccb8cb155be468840fe44159d299d6813526733dacd71220a1fe01db7285f52d"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/font/admin.png"
@@ -1845,6 +2873,10 @@ file = "kubejs/server_scripts/tags.js"
 hash = "49e24486eb35f16977b6abaa6ee104bf846815dec7d8f96276b829fe04fa8c01"
 
 [[files]]
+file = "modlist.md"
+hash = "501ae43d9c199a94d4c943d0adbb8cf41a9bcf50cd80c0a65283bd8d5c123c6b"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
@@ -2137,11 +3169,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
-metafile = true
-
-[[files]]
-file = "mods/e4mc.pw.toml"
-hash = "b066bbf1fd98c8ec52dfb0d9f041572b4d1680ddf33932266ce334800891338d"
 metafile = true
 
 [[files]]
