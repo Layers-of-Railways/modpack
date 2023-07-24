@@ -2130,6 +2130,11 @@ hash = "9be216fe8f8f086415d946964a4648941738da7838b2844398d31326f7dedb89"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "f438dc8ebf458a05ebd69a902b0b471adba17576e993ac6305231b615e7fc56a"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
 metafile = true
