@@ -1,13 +1,13 @@
 name = "Cadmus"
-filename = "cadmus-fabric-1.20.1-0.0.6.jar"
+filename = "cadmus-fabric-1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fEWKxVzh/versions/EeytPlfC/cadmus-fabric-1.20.1-0.0.6.jar"
+url = "https://cdn.modrinth.com/data/fEWKxVzh/versions/RImnLJNY/cadmus-fabric-1.20.1-1.0.0.jar"
 hash-format = "sha1"
-hash = "b8453883aa4ca5c3ff56a77c745b5ca77a6c33ee"
+hash = "bb9a1ed4e562a21103560750f86b8f8c2df6e0e1"
 
 [update]
 [update.modrinth]
 mod-id = "fEWKxVzh"
-version = "EeytPlfC"
+version = "RImnLJNY"
