@@ -3867,6 +3867,11 @@ hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "25c3b7ad7e91e195d28c823518629d0e836662cdd33a0aa1b8d2e1ba4075f0e7"
 
