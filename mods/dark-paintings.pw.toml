@@ -1,13 +1,13 @@
 name = "Dark Paintings"
-filename = "DarkPaintings-Fabric-1.20.1-17.0.1.jar"
+filename = "DarkPaintings-Fabric-1.20.1-17.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lFGQ4Hnk/versions/6mBtAvUT/DarkPaintings-Fabric-1.20.1-17.0.1.jar"
+url = "https://cdn.modrinth.com/data/lFGQ4Hnk/versions/usaHJCPs/DarkPaintings-Fabric-1.20.1-17.0.2.jar"
 hash-format = "sha1"
-hash = "4b1fa5065b39e134e84f9c449ca192dd089ce52a"
+hash = "a3ab69d900d3c56985659a2e43fb07bec2cbfeca"
 
 [update]
 [update.modrinth]
 mod-id = "lFGQ4Hnk"
-version = "6mBtAvUT"
+version = "usaHJCPs"

@@ -1,13 +1,13 @@
 name = "Discord Integration"
-filename = "dcintegration-fabric-3.0.1-1.20.1.jar"
+filename = "dcintegration-fabric-3.0.2-1.20.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/rbJ7eS5V/versions/xUhZhT8a/dcintegration-fabric-3.0.1-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/rbJ7eS5V/versions/c1uw17Dt/dcintegration-fabric-3.0.2-1.20.1.jar"
 hash-format = "sha1"
-hash = "92c25ea4e74bd54c8bfb243a450e5793926bebfe"
+hash = "1348b629f09d974940e6fa989298883092e86f4d"
 
 [update]
 [update.modrinth]
 mod-id = "rbJ7eS5V"
-version = "xUhZhT8a"
+version = "c1uw17Dt"

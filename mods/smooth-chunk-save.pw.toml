@@ -1,13 +1,13 @@
 name = "Server Performance - Smooth Chunk Save[Forge/Fabric]"
-filename = "smoothchunk-fabric-1.20.1-3.0.jar"
+filename = "smoothchunk-fabric-1.20.1-3.1.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "4671e0bc205617de3783d40a2ff8ed54089fe00c"
+hash = "4a4fcd6b9cb4a283b182272abc77456b02fd6cbf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4591938
+file-id = 4696247
 project-id = 582327

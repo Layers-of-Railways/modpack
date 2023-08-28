@@ -1,13 +1,13 @@
 name = "Better Tridents"
-filename = "BetterTridents-v8.0.0-1.20.1-Fabric.jar"
+filename = "BetterTridents-v8.0.1-1.20.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KNUSlHiU/versions/swZKTeT9/BetterTridents-v8.0.0-1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/KNUSlHiU/versions/Uw0uxYMJ/BetterTridents-v8.0.1-1.20.1-Fabric.jar"
 hash-format = "sha1"
-hash = "62e54d38cb25d42a7bb3f15292f4c0e5c53bd93b"
+hash = "5f187c6f02bbc4a59821b7fe1f919c01bc4d14c5"
 
 [update]
 [update.modrinth]
 mod-id = "KNUSlHiU"
-version = "swZKTeT9"
+version = "Uw0uxYMJ"

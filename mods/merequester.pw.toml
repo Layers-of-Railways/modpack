@@ -1,13 +1,13 @@
 name = "ME Requester"
-filename = "merequester-fabric-1.20.1-1.1.3.jar"
+filename = "merequester-fabric-1.20.1-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E6BFl96N/versions/Gg3mZoOc/merequester-fabric-1.20.1-1.1.3.jar"
+url = "https://cdn.modrinth.com/data/E6BFl96N/versions/NmhR6jIY/merequester-fabric-1.20.1-1.1.4.jar"
 hash-format = "sha1"
-hash = "cc9dadfcab16ba66ace363b308a540847d61b988"
+hash = "83af552ca49a5fea68687bf4c12986d48755fa2d"
 
 [update]
 [update.modrinth]
 mod-id = "E6BFl96N"
-version = "Gg3mZoOc"
+version = "NmhR6jIY"

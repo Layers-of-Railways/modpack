@@ -1,13 +1,13 @@
 name = "Additional Banners"
-filename = "AdditionalBanners-Fabric-1.20.1-14.0.1.jar"
+filename = "AdditionalBanners-Fabric-1.20.1-14.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AVPTFuxC/versions/nO74ezaT/AdditionalBanners-Fabric-1.20.1-14.0.1.jar"
+url = "https://cdn.modrinth.com/data/AVPTFuxC/versions/7aqy1KWh/AdditionalBanners-Fabric-1.20.1-14.0.3.jar"
 hash-format = "sha1"
-hash = "f0a5d0ef7deab8c40732d5a7f89db574ebaadf16"
+hash = "4f499bbbdcf7b33bdccff5ba5ff51f278266b7b7"
 
 [update]
 [update.modrinth]
 mod-id = "AVPTFuxC"
-version = "nO74ezaT"
+version = "7aqy1KWh"
