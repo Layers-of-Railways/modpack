@@ -989,14 +989,6 @@ file = "kubejs/config/common.properties"
 hash = "82a55d578953662838e4ef6539d75d7efb12651f58e3f0bea76a74dd3afe78b1"
 
 [[files]]
-file = "kubejs/data/quark/loot_tables/entities/stoneling_carry.json"
-hash = "0a26f6f721fb861d2ad749a1893a8a9e889d3b6ae266bd5b7470de95f5cfe0c4"
-
-[[files]]
-file = "kubejs/server_scripts/coins-temp.js"
-hash = "6c1377ad506b24c30370c4825a7d2168e1b7b873ab86153e3241d1d1f1744a88"
-
-[[files]]
 file = "kubejs/server_scripts/compostables.js"
 hash = "c27f4d3dd0572658c89f8b0b1b42e5d33354312e1e203f941ad86043da5f312a"
 
@@ -1026,7 +1018,7 @@ hash = "b2a9f8a2abb9d646e59174085c0a13acea9abead7c28c071cd9ba0b059b6ac19"
 
 [[files]]
 file = "kubejs/server_scripts/easter_eggs.js"
-hash = "afc39394d24278eccd6716b5830884a6c0129d1f840319f23a1deb302b875dac"
+hash = "17f9f724dab3a3499a8ac933bb12a77740e02e45b3a6c403d3fa018cd077b457"
 
 [[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
@@ -1058,7 +1050,7 @@ hash = "49e24486eb35f16977b6abaa6ee104bf846815dec7d8f96276b829fe04fa8c01"
 
 [[files]]
 file = "modlist.md"
-hash = "d7e499fb491f93ffc230e76cf9444d3ab50288c57d5d5eb43a5073aff1a4a4e9"
+hash = "29781950c3a60f0d332d30cb62bc343b0e51fffd76ba9ee19f6eea35d983510f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
