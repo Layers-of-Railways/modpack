@@ -1,6 +1,5 @@
 # All mods are working and issues are listed below
 
--   Supplementaries - WORKING BUT CRASHES WITHOUT MODERNFIX - issue found QFAPI will update later which will fix this
 -   Smarter Farmers (farmers replant) - Not tested yet
 -   FarmersDelight: Working but some recipes arent there in emi (stuffed pumpkin, glow berry custard, hot cocoa, apple cider and prob more)
 -   Emi: working, but has some weird shit (may be other mods fault, check recipe for stuffed pumpkin (doesnt exist))
@@ -10,9 +9,7 @@
 -   setup styled player list and styled chat (https://gist.github.com/arnokeesman/84411929a02f00b847d1b2cca30ebe18)
 -   prevent cadmus chunk loading
 -   ban tiny tnt
--   setup simple rpc
 -   disable capes from https://modrinth.com/mod/more-banner-features
--   re add figura after it isnt imploded
 -   setup carpet mod
 -   Setup Luck Perms
 -   Setup Ledger

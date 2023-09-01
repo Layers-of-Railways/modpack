@@ -15,7 +15,12 @@
     https://modrinth.com/mod/hex-casting
     https://modrinth.com/mod/phonos
     https://modrinth.com/mod/yttr
-
-            Extended Cogwheels
-
-                create addons
+    https://modrinth.com/mod/emicompat
+    https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric
+    https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry-fabric
+    https://modrinth.com/mod/createaddition
+    Extended Cogwheels
+    Extended Bogeys
+    Crystal Clear: Need to self port to 1.20 + fabric/multiloader
+    Create Alloyed: Need to self port to 1.20 + fabric/multiloader
+    Numismatics: Not done yet
