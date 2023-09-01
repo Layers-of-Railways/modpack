@@ -1,6 +1,0 @@
-{
-    "parent": "incendium:item/trailblazer",
-    "textures": {
-        "layer0": "incendium:item/trailblazer/pulling_1"
-    }
-}

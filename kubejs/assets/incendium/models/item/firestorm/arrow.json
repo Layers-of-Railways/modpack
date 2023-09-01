@@ -1,6 +1,0 @@
-{
-    "parent": "incendium:item/firestorm",
-    "textures": {
-        "layer0": "incendium:item/firestorm/arrow"
-    }
-}

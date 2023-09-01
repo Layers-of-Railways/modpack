@@ -8,6 +8,7 @@ PlayerEvents.loggedIn((event) => {
         1 + //[0,11] so +1
         "-" +
         currentDate.getDate(); //[0,31]
+    // ["name", "MM-DD", "role"]
     let birthdays = [["ithundxr", "8-7", "Pack dev"]];
 
     birthdays.forEach((birthday) => {

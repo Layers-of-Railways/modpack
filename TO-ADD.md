@@ -1,5 +1,4 @@
 -   AWAITING UPDATE
-    https://modrinth.com/mod/consistencyplus
     https://modrinth.com/mod/aileron
     https://modrinth.com/mod/slice-and-dice
     https://www.curseforge.com/minecraft/mc-mods/overweight-farming
@@ -13,6 +12,9 @@
     https://modrinth.com/datapack/miniblocks
     https://modrinth.com/mod/rechiseled-create
     https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators-fabric
+    https://modrinth.com/mod/hex-casting
+    https://modrinth.com/mod/phonos
+    https://modrinth.com/mod/yttr
 
             Extended Cogwheels
 

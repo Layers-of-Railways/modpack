@@ -1,6 +1,0 @@
-{
-    "parent": "incendium:item/sentrys_wrath",
-    "textures": {
-        "layer0": "incendium:item/sentrys_wrath"
-    }
-}
