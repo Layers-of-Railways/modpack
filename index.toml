@@ -1356,6 +1356,11 @@ hash = "82285f2aa33891d7b7ad1f9d6b8cdacb46aa2bde7d091cc65d279b0ef0caeb3a"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
+metafile = true
+
+[[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "08c156e3b519fca3eb764000b569420825a28dbe6f572eed14a0dd18aa130ebc"
 metafile = true
@@ -2153,6 +2158,11 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "9a33c692779c39ba93f978d14d84aa5b3d98d4a00f066831957a4b980ab4cf4f"
 metafile = true
 
 [[files]]
