@@ -16,4 +16,4 @@
 -   Setup Configs
 -   Unlimit channels in AE2
 -   redo pack to work for AE2 (Szedann)
--   Redo RS recipes into AE2 recipes (Franci)
+-   Redo RS recipes into AE2 recipes (Joe)

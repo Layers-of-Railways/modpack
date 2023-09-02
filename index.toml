@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "TESTED.md"
-hash = "640feab9fae7fceaa29c18a1849cdf7982805037021eae87c023a406d0dbdc7e"
+hash = "ed6b1d9d825663f5b56754ede9846048c43670935fe5e8f83a4e8be131fa1cab"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -1340,6 +1340,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "c9da23c3afbb9a9de45d769db484bba17b3e63a8f37cfdbcf091d5e89274936c"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
 
 [[files]]

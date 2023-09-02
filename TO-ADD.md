@@ -18,7 +18,6 @@
     https://modrinth.com/mod/emicompat
     https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric
     https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry-fabric
-    https://modrinth.com/mod/createaddition
     Extended Cogwheels
     Extended Bogeys
     Crystal Clear: Need to self port to 1.20 + fabric/multiloader
