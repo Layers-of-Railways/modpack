@@ -1963,6 +1963,11 @@ hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
 
 [[files]]
+file = "mods/shimmer!.pw.toml"
+hash = "00bc18abdc4913ace970e9218295b95c807bcb27a5ec9e3ae5c34c93cbfae8eb"
+metafile = true
+
+[[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "73e522db6666ce4a96b69a93953553dc02d1bec4520f61207502f154ea6d608e"
 metafile = true
