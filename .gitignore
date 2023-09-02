@@ -1,8 +1,14 @@
 # Exclude exported CurseForge zip files
-Steam 'n' Rails Modpack-*.zip
+./*.zip
 
 # Exclude exported Modrinth modpacks
-Steam 'n' Rails Modpack-*.mrpack
+*.mrpack
+
+# Exclude jetbrains IDE files
+.idea
+
+# Exclude Mac metadata files
+.DS_Store
 
 # Exclude Packwiz Binary
 packwiz.exe
