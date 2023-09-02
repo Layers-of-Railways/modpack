@@ -1,13 +1,27 @@
-# Exclude .md
+# .packwizignore follows the same format as .gitignore, and can be used to exclude unwanted files from pack exports
+# See https://git-scm.com/docs/gitignore
 
+# Exclude .md
 README.md
 TODO.md
 TO-ADD.md
 
-# Exclude PrettierRC
+# Exclude exported Modrinth modpacks
+\*.mrpack
 
+# Exclude Prettier Files
 .prettierrc
+.prettierignore
+
+# Exclude jetbrains IDE files
+.idea
+
+# Exclude Mac metadata files
+.DS_Store
+
+# Exclude packwiz git hooks and utils
+git
+/enable_hooks.sh
 
 # Exclude github pages CNAME file
-
 CNAME
