@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "TESTED.md"
-hash = "348bb5fada127443139ece83926c85323308323bc13e06c6774857116f7010db"
+hash = "640feab9fae7fceaa29c18a1849cdf7982805037021eae87c023a406d0dbdc7e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -1239,7 +1239,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "b37fd7262ff2ffe29e35a1f625d53adadb550696574263f18c55407b5071db73"
+hash = "2180bcdb7065c1324e4b53f6ced5be904033cae8308daa88e1075085c7a2f77d"
 metafile = true
 
 [[files]]
@@ -1619,7 +1619,7 @@ metafile = true
 
 [[files]]
 file = "mods/invview.pw.toml"
-hash = "fcd68c4f587b9a8ffdf8e262733c7f9fdc966c7502e9fb0b12ab50bd1df5a2ad"
+hash = "12002f9fb5e4e0e5639efd9dfb3e41765d606957b1f8f1be6f4a989bb176d812"
 metafile = true
 
 [[files]]
@@ -1754,7 +1754,7 @@ metafile = true
 
 [[files]]
 file = "mods/mega-cells.pw.toml"
-hash = "9e8f6e0b91c177f89dcef3adf898d37df7bd3cb84556a5016371756f4266afc7"
+hash = "9b06cb2a58854bc1d09ece5ede1994e1f6473a3d6da91144a988c46ba24d1e2a"
 metafile = true
 
 [[files]]
@@ -1784,7 +1784,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8c5609126c7a8d38b68c4df16f9e505c5aacdeda05d7a55cb661872db3831ae4"
+hash = "e5f92dc07f3f57d187c366dc98c1d16d75df5cf47775b1c2d8589f5a01900536"
 metafile = true
 
 [[files]]
@@ -1799,7 +1799,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "f4302fdd9966919ded8743b20368e270faa003d023326e62110f7ca6e1b979df"
+hash = "82e4285035d6ce01cd5d58619287852abdf801984edd04f23caf8ebb59e5e54d"
 metafile = true
 
 [[files]]
@@ -1969,7 +1969,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0dd32ded1c6a84984a02072798348c3b11e6ef6ce4ddf5e808db0fc36674bfa3"
+hash = "33351cde8dacb5678f94cbdb9691f49eb80f3c42d056898f04a0f65a44c4c7aa"
 metafile = true
 
 [[files]]
@@ -2039,7 +2039,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "ecfe4b722ab208dcc3fae855116b2a962a23aa5939245ba428fab97f6ecdf24f"
+hash = "6acd10dadf01a3a0ad294d379ca88bb6a13b09b5b63662569921ab1fcab99cf2"
 metafile = true
 
 [[files]]
@@ -2094,7 +2094,7 @@ metafile = true
 
 [[files]]
 file = "mods/trowel.pw.toml"
-hash = "718d06f8cf4c35d5b35ad234ffd6d6c63f11a59b745d64e8347075adefc99a30"
+hash = "6c949a5503e8da54593d6dc24664e9751e5da7bbe377f11d954e832bd2b66d48"
 metafile = true
 
 [[files]]
@@ -2134,12 +2134,12 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "525c24700f8712c593323975468bcab327406df8176ee46702f8a03f6583be11"
+hash = "2552c8a7ec2371e7b0a984c4f5c59ff77b756644170d8e472f843434e3836ba1"
 metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "1f86bbf321f45c7068c8cbfbbac276ddc31637c29344af3cbd139ef6d0c1bb26"
+hash = "93eed47c991fcccbdb68821d8854f6e1a0452a3de56628c410761a224fd341b4"
 metafile = true
 
 [[files]]
@@ -2154,7 +2154,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2008716fdfef554660ce44659a3a42acd673a5391af2d4bd94f40654f1f60a1d"
+hash = "5128dafec4140a625b5c388f56e9989b8f6780dcce41134ef799bd9be3d5ae1a"
 metafile = true
 
 [[files]]
@@ -2169,7 +2169,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
