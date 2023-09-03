@@ -25,6 +25,14 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "56e38e1d6039cbcf32c68416b60be42a4f5f3006c3caf50eb1eae1fc03580e86"
 
 [[files]]
+file = "config/yosbr/config/bclib/client.json"
+hash = "ea52caf949d7ad63d807a77d93b8e008be8a3e484ba091952eb8235f99916acc"
+
+[[files]]
+file = "config/yosbr/config/bclib/server.json"
+hash = "83a74f8fc0756a952758f5be0667ff5437dd99e832835b2a70d6a4ac1a9669f6"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
 
