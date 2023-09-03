@@ -23,3 +23,4 @@
     Crystal Clear: Need to self port to 1.20 + fabric/multiloader
     Create Alloyed: Need to self port to 1.20 + fabric/multiloader
     Numismatics: Not done yet
+    Others
