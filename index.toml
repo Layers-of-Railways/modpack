@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "7d3e3759802a8804a91078723cee2db7bd817f928af5270db0afc7e34009c6b3"
+hash = "e362dcd3d782835ef0473ba34e12f17a53d1d296e5f258596420964662fbf7c9"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+hash = "d1918c147280714406f99f1d6359a1246509d14b9030b52cfee9807cd1e71791"
 metafile = true
 
 [[files]]
@@ -862,11 +862,6 @@ metafile = true
 [[files]]
 file = "mods/mapfrontiers.pw.toml"
 hash = "f39a7e2cf70f59c03d4c2e88408f4b45046c6521b54874d844e225b645780c7f"
-metafile = true
-
-[[files]]
-file = "mods/mega-cells.pw.toml"
-hash = "9b06cb2a58854bc1d09ece5ede1994e1f6473a3d6da91144a988c46ba24d1e2a"
 metafile = true
 
 [[files]]
