@@ -1108,6 +1108,11 @@ hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
 metafile = true
 
 [[files]]
+file = "mods/spelunkery.pw.toml"
+hash = "1d4e2589892ef94ccd8dae76d589ce4ed3a8ae44c973a5210940a507df8a98cf"
+metafile = true
+
+[[files]]
 file = "mods/spindlemark.pw.toml"
 hash = "b2c928a3b6f61ba90704491215f5a23b597704b1d442701cc3ed366d88022db5"
 metafile = true
