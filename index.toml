@@ -205,19 +205,11 @@ file = "kubejs/server_scripts/misc_recipes.js"
 hash = "d6e013d21b3014bda7d7b5f74f53b3e16807c30476dc89d78d980a29cc3b4060"
 
 [[files]]
-file = "kubejs/server_scripts/mods/chipped.js"
-hash = "1028af3ad7075cbc2347a2054b0490018a2de7e78e6fb37a160dde8eae7a0e94"
-
-[[files]]
-file = "kubejs/server_scripts/mods/iw.js"
-hash = "36c304179014541874fa6d7f0b650af08038ffca14c279018bd96936e3ec6b60"
-
-[[files]]
-file = "kubejs/server_scripts/mods/rs.js"
+file = "kubejs/server_scripts/mods/rs.js.disabled"
 hash = "1dc7c72a576b3568922ad6483dd332bdfcc5dee9e0be4bfe4991fb3c6f255e0e"
 
 [[files]]
-file = "kubejs/server_scripts/mods/rs_removals.js"
+file = "kubejs/server_scripts/mods/rs_removals.js.disabled"
 hash = "aae23dd04477ade32852f262698ddaf1865f4594edb2cb8e2cdea39afe61c594"
 
 [[files]]
