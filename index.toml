@@ -1185,6 +1185,11 @@ hash = "082579e9bd8277499cffab5e4bcd151f936383caf721ec9e662a0ecd5f0e3052"
 metafile = true
 
 [[files]]
+file = "mods/traverse.pw.toml"
+hash = "fa828cee58820db21721f890e029e0469480e330ff44556d1611ddb5faf9da64"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
