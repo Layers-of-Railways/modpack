@@ -37,6 +37,10 @@
 - [Searchables](https://modrinth.com/mod/fuuu3xnx)
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn)
 - [Sodium](https://modrinth.com/mod/AANobbMI)
+- [Default Dark Mode](https://modrinth.com/mod/6SLU7tS5)
+- [Fresh Animations](https://modrinth.com/mod/50dA9Sha)
+- [ComputerCreate](https://www.curseforge.com/minecraft/mc-mods/computercreate)
+- [Incendium Optional Resourcepack](https://modrinth.com/mod/HfNmMQ9E)
 - [Complementary Reimagined](https://modrinth.com/mod/HVnmMxH1)
 
 ## Shared Mods
@@ -46,10 +50,6 @@
 - [EMI](https://modrinth.com/mod/fRiHVvU7)
 - [Quilt Kotlin Libraries (QKL)](https://modrinth.com/mod/lwVhp9o5)
 - [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qvIfYCYJ)
-- [Default Dark Mode](https://modrinth.com/mod/6SLU7tS5)
-- [Fresh Animations](https://modrinth.com/mod/50dA9Sha)
 - [Remove Terralith Intro Message](https://modrinth.com/mod/sk4iFZGy)
-- [ComputerCreate](https://www.curseforge.com/minecraft/mc-mods/computercreate)
-- [Incendium Optional Resourcepack](https://modrinth.com/mod/HfNmMQ9E)
 
 

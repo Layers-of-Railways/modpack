@@ -226,7 +226,7 @@ hash = "cbcf50f87d47ed43d3de39a655e49a5c323a0712a36b6b48397a5206e727da9e"
 
 [[files]]
 file = "modlist.md"
-hash = "a42d9c3bd74fa6605ac351c6d897e9e3060a873a48dd4175a54c03d6303b9752"
+hash = "849c48408ac9b7b418bc8b299f91f59c22cdf350139a86351b9b356817bc8cea"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -349,6 +349,11 @@ hash = "d1918c147280714406f99f1d6359a1246509d14b9030b52cfee9807cd1e71791"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
@@ -430,12 +435,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "9a33c692779c39ba93f978d14d84aa5b3d98d4a00f066831957a4b980ab4cf4f"
+hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
+hash = "737ca5abc02cb75c7dfd305f4da32c6b3a00a0812877742d832edb86b56e1f02"
 metafile = true
 
 [[files]]
@@ -449,12 +454,12 @@ hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
 
 [[files]]
 file = "resources/resourcepacks/computercreate.pw.toml"
-hash = "8266adac9a0621cd3c41370f67910146c12dd9664d5d5625e2d73ac3871ab603"
+hash = "29dcb64eef6cf3678c323bc183697d22d12dede8080ee14a85013ae91b60db33"
 metafile = true
 
 [[files]]
 file = "resources/resourcepacks/incendium-optional-resourcepack.pw.toml"
-hash = "ef7eeaf34f1110b22e75a1bcd43ccb9c23bc1ffadf5952b222912d900a535bf8"
+hash = "b519359dd08cb0811f8cde69d8046efea8b008fba3ed85c5f9abca7d25b86c31"
 metafile = true
 
 [[files]]
