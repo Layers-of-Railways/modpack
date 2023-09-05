@@ -1,3 +1,0 @@
-{
-    "routes": [{ "src": "/(.*)", "headers": { "Content-Type": "text/plain" } }]
-}
