@@ -3,11 +3,11 @@ filename = "supermartijn642corelib-1.1.12d-fabric-mc1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rOUBggPv/versions/fP17lNcw/supermartijn642corelib-1.1.12d-fabric-mc1.20.jar"
+url = "https://cdn.modrinth.com/data/rOUBggPv/versions/BsNnotSj/supermartijn642corelib-1.1.12d-fabric-mc1.20.jar"
 hash-format = "sha1"
-hash = "4e93bed560f021b83517bb22326fe8c0ecc0a4bd"
+hash = "9713e85b2f8e36f910ed2c84a84e904fc8bda184"
 
 [update]
 [update.modrinth]
 mod-id = "rOUBggPv"
-version = "fP17lNcw"
+version = "BsNnotSj"
