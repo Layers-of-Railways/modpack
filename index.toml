@@ -1010,6 +1010,11 @@ hash = "822cb71ea6d0986f90f01d1df5eee941334073cddc7b9abbe0398ba76c31fdaf"
 metafile = true
 
 [[files]]
+file = "mods/prometheus.pw.toml"
+hash = "4fd1f8ac48d71a58de8b3f79dd26de65f13763a8eb0fb6739c821eb9ef1fb0ec"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
@@ -1031,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "500214587fae779f75fcd6f9c3013a0dabb26f8d7b213ceedbcbcde4f9a36641"
+hash = "7a06b7203a44d879f81651f5d192933aeac202ca9012fa8e314b7a4560268410"
 metafile = true
 
 [[files]]
