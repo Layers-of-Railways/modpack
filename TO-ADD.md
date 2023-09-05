@@ -24,3 +24,4 @@
     Create Alloyed: Need to self port to 1.20 + fabric/multiloader
     Numismatics: Not done yet
     Others
+    shimmer? crashes right now
