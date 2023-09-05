@@ -6,15 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-<<<<<<< HEAD
-hash = "6a387ffe719c0685b6ccf01732fa4651bb2ce49b8228f4018a9162e0eed6e752"
-=======
-hash = "c5786050f26d348f28fcfad3cde1f9b386005fc438d46eb0a6de6d8d9a250f07"
->>>>>>> parent of 53912c9 (add few worldgen mods)
-=======
-hash = "71dc2fbfe1fccd1b5043ccd87153fa297d32232afefaf24ec448eac6f69ccffd"
->>>>>>> parent of a1caee8 (remove these for testing)
+hash = "5fd7d8b0ce175555ab3345f4d26548b3b9a66b0c982f801873b2cc85d898b9c9"
 
 [versions]
 minecraft = "1.20.1"

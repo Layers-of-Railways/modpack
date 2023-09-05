@@ -1021,11 +1021,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-<<<<<<< HEAD
-hash = "7a06b7203a44d879f81651f5d192933aeac202ca9012fa8e314b7a4560268410"
-=======
 hash = "8951d35ed18c0ba6ab4a6fbea31a09d243c3dfbdee4719b2130e7c126f29d354"
->>>>>>> parent of 53912c9 (add few worldgen mods)
 metafile = true
 
 [[files]]
@@ -1161,16 +1157,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "6fdaaa96fba5b4c71daecf7249b90c1aad2b9a27f92355826245177820804af5"
-metafile = true
-
-[[files]]
-<<<<<<< HEAD
-file = "mods/swampier-swamps-fabric.pw.toml"
-hash = "dc303709ac6be8f692414659002f617822ec3adc14f846054c05af295fb90277"
-=======
-file = "mods/tectonic.pw.toml"
-hash = "c9072b33298e95459c644344c8f8e7317a2f503a469e24bf51e63dca9c560db1"
->>>>>>> parent of 53912c9 (add few worldgen mods)
 metafile = true
 
 [[files]]
