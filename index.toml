@@ -649,6 +649,11 @@ hash = "bc9185b2c1ed3389b68455f4540ec57a676906e523675f323a148d1ebdb18ef8"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
 file = "mods/taterzens.pw.toml"
 hash = "141027f068afd1f0cdd50f2521186bee79574a46efc503686dc2c1362a1c3c2b"
 metafile = true
