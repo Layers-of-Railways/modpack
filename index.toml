@@ -118,7 +118,7 @@ hash = "72333902e61b680eeca1f42e4dde22138777ae1743d6f183c4594e4336c56f74"
 
 [[files]]
 file = "modlist-old.md"
-hash = "56659d09a6280c179c2e6aec4b4c1bd2953cba0089199b32c69d90a5c8b074ed"
+hash = "c62d05f63bd5ae3761a7a19b248babc68c5d203a0c166a327a0ee8d5a0937196"
 
 [[files]]
 file = "modlist.md"
@@ -355,8 +355,33 @@ hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "9be216fe8f8f086415d946964a4648941738da7838b2844398d31326f7dedb89"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "8331398401714c839a8d231a5bbb6a3826f2e360e7d9e90b0ea35db177a160cf"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "1f49e24c04e3bc0132a3542cd4fc9c0d012515f19f124fb0b48eaff9bb99861c"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "693f6ab0cb4dd3bc2f31cfe9f21ce082288b123f7700e5b618a324e2d0f5ec41"
+metafile = true
+
+[[files]]
+file = "mods/elegantarmour.pw.toml"
+hash = "afb14b32290f71125e251c560386191a0eca5d2daf1860d7efcb6e7b9b707779"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
 metafile = true
 
 [[files]]
@@ -372,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "4c59088a2cb975f60347da57d72bb1069b65452c6a7b92af8facec6e1bed9409"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "bbd91f6874d99a59119b15103576c6686fe55bbf68dc3a03576d9ecd92023206"
 metafile = true
 
 [[files]]
@@ -447,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "05003a9b44898417e1d2f1c2e821e1402ad621b1d66502fd5a01705c5fcc438f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
@@ -562,6 +597,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "250689d1d6e59b0e76638f28693b3148e72ae66d95c162dfeb7a8f872307f05b"
 metafile = true
 
 [[files]]

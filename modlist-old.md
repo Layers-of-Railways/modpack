@@ -23,13 +23,8 @@
 -   [CreativeCore](https://modrinth.com/mod/OsZiaDHq)
 -   [Dawn API](https://modrinth.com/mod/meZK2DCX)
 
--   [Diagonal Fences](https://modrinth.com/mod/IKARgflD)
--   [Do a Barrel Roll](https://modrinth.com/mod/6FtRfnLg)
--   [Easy Anvils](https://modrinth.com/mod/OZBR5JT5)
--   [Elegant Armour 👕](https://modrinth.com/mod/1LrBk5C6)
--   [EMI Loot](https://modrinth.com/mod/qbbO7Jns)
--   [EMI](https://modrinth.com/mod/fRiHVvU7)
--   [End Remastered](https://modrinth.com/mod/ZJTGwAND)
+-   HAVENT ADDED THESE YET
+
 -   [Every Compat (Wood Good)](https://modrinth.com/mod/eiktJyw1)
 -   [Farmer's Delight [Fabric]](https://modrinth.com/mod/4EakbH8e)
 -   [Farmer's Respite (Fabric)](https://www.curseforge.com/minecraft/mc-mods/farmers-respite-fabric)
