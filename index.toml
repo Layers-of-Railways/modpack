@@ -415,11 +415,6 @@ hash = "5081f2c48062e37a7b7a8bee8d0645b1cfb8876ddac6cbd8284beebd4427bb57"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "7293ab05ee73400787ba9c31d4c59884d252dcc170880602e8e8da64dcf3f765"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
 metafile = true
@@ -436,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "df83086d160981e8d4e29defe7253d6b2f3339d33dcc2c72e8359bea2f134960"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
@@ -700,11 +695,6 @@ hash = "e394b1a364551e504f32e65bf1ad6bd5a17b0250d4715c7bf4955840fe2d398b"
 metafile = true
 
 [[files]]
-file = "mods/geophilic.pw.toml"
-hash = "50cc94fc6be060961dc3f1f4b2104927e2dcf3fcd4728caf0b507aee21d9226f"
-metafile = true
-
-[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "c4feaeeef2fe2b12d5f87d410c2458458971fe33386697142492d137794fe23e"
 metafile = true
@@ -890,11 +880,6 @@ hash = "53faa690c0eecc98870a5d785cb1772e1f37eabf9a3ee0beebfc53641abade05"
 metafile = true
 
 [[files]]
-file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "2fbce6c9dc6eb7ec8cb0261e64113544b4eceab281b61dbf3f5dc7f138b10c6b"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
 metafile = true
@@ -1031,7 +1016,11 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
+<<<<<<< HEAD
 hash = "7a06b7203a44d879f81651f5d192933aeac202ca9012fa8e314b7a4560268410"
+=======
+hash = "8951d35ed18c0ba6ab4a6fbea31a09d243c3dfbdee4719b2130e7c126f29d354"
+>>>>>>> parent of 53912c9 (add few worldgen mods)
 metafile = true
 
 [[files]]
@@ -1170,8 +1159,13 @@ hash = "6fdaaa96fba5b4c71daecf7249b90c1aad2b9a27f92355826245177820804af5"
 metafile = true
 
 [[files]]
+<<<<<<< HEAD
 file = "mods/swampier-swamps-fabric.pw.toml"
 hash = "dc303709ac6be8f692414659002f617822ec3adc14f846054c05af295fb90277"
+=======
+file = "mods/tectonic.pw.toml"
+hash = "c9072b33298e95459c644344c8f8e7317a2f503a469e24bf51e63dca9c560db1"
+>>>>>>> parent of 53912c9 (add few worldgen mods)
 metafile = true
 
 [[files]]
@@ -1207,11 +1201,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
-metafile = true
-
-[[files]]
-file = "mods/tropics.pw.toml"
-hash = "65c8004b9cf63b885e3d9400366db5e761645fbed2060306d06106b6a9f83883"
 metafile = true
 
 [[files]]
