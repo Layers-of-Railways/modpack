@@ -48,6 +48,7 @@
 - [Applied Energistics 2](https://modrinth.com/mod/XxWD5pD3)
 - [Cloth Config API](https://modrinth.com/mod/9s6osm5g)
 - [EMI](https://modrinth.com/mod/fRiHVvU7)
+- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ)
 - [Quilt Kotlin Libraries (QKL)](https://modrinth.com/mod/lwVhp9o5)
 - [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qvIfYCYJ)
 - [Remove Terralith Intro Message](https://modrinth.com/mod/sk4iFZGy)
