@@ -1,0 +1,13 @@
+name = "Old MC Logo"
+filename = "oldmclogo-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/flwl1qw1/versions/vlRS65y7/oldmclogo-1.1.0.jar"
+hash-format = "sha1"
+hash = "6beeac96746511524c71e7bc7cfad265275d1474"
+
+[update]
+[update.modrinth]
+mod-id = "flwl1qw1"
+version = "vlRS65y7"

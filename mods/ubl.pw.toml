@@ -1,0 +1,13 @@
+name = "Unlimited Banner Layers"
+filename = "UnlimitedBannerLayers-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VHtN7u8P/versions/6GOqO8tu/UnlimitedBannerLayers-1.1.0.jar"
+hash-format = "sha1"
+hash = "85f9b5f46e12e92a62e2d05064d84acbb3fda47e"
+
+[update]
+[update.modrinth]
+mod-id = "VHtN7u8P"
+version = "6GOqO8tu"

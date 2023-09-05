@@ -1,0 +1,13 @@
+name = "Shimmer"
+filename = "Shimmer-fabric-1.20.1-0.1.22.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uBKACKpl/versions/cToQAyi1/Shimmer-fabric-1.20.1-0.1.22.jar"
+hash-format = "sha1"
+hash = "07e8e5834eb85c0c1f842fdd7f2e494fd0e18b49"
+
+[update]
+[update.modrinth]
+mod-id = "uBKACKpl"
+version = "cToQAyi1"

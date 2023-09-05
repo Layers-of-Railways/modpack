@@ -1,0 +1,14 @@
+name = "Sodium Extra"
+filename = "sodium-extra-0.4.27+mc1.20.1-build.110.jar"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/UwpTYr4K/sodium-extra-0.4.27%2Bmc1.20.1-build.110.jar"
+hash-format = "sha1"
+hash = "1c2c528765976c4d50517ac3730e23cdcc2d1e36"
+
+[update]
+[update.modrinth]
+mod-id = "PtjYWJkn"
+version = "UwpTYr4K"
