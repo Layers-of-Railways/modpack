@@ -1,0 +1,13 @@
+name = "Respawnable Pets"
+filename = "respawnablepets-1.20-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gbFe1FWa/versions/Q5VMPADX/respawnablepets-1.20-1.jar"
+hash-format = "sha1"
+hash = "122365680f10fa208a77dbc26309830c4da83e4f"
+
+[update]
+[update.modrinth]
+mod-id = "gbFe1FWa"
+version = "Q5VMPADX"

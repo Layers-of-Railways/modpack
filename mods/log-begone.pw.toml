@@ -1,0 +1,13 @@
+name = "Log Begone"
+filename = "Log-Begone-Fabric-1.20.1-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9ON3zv6e/versions/IknbjT7v/Log-Begone-Fabric-1.20.1-1.0.8.jar"
+hash-format = "sha1"
+hash = "f1c697ffcf7ec79e458b3af3d32392d75bf2caff"
+
+[update]
+[update.modrinth]
+mod-id = "9ON3zv6e"
+version = "IknbjT7v"

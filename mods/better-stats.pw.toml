@@ -1,0 +1,13 @@
+name = "Better Statistics Screen"
+filename = "betterstats-2.10.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/WLBCUkWu/betterstats-2.10.3%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "12fcb4fe11aa763afae26b8691de8cf8a4dcf82a"
+
+[update]
+[update.modrinth]
+mod-id = "n6PXGAoM"
+version = "WLBCUkWu"

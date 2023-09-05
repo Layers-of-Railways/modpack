@@ -1,0 +1,13 @@
+name = "Building Wands"
+filename = "BuildingWands-mc1.20-2.6.8-release-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XkisZUfp/versions/VIQm5DuH/BuildingWands-mc1.20-2.6.8-release-fabric.jar"
+hash-format = "sha1"
+hash = "c765939ed38b51f5e0c5a94541bfe3e7d5868997"
+
+[update]
+[update.modrinth]
+mod-id = "XkisZUfp"
+version = "VIQm5DuH"
