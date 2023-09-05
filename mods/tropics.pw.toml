@@ -1,0 +1,13 @@
+name = "Tropics"
+filename = "tropics-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W1Paq97E/versions/Gc0PR6Jl/tropics-1.0.3.jar"
+hash-format = "sha1"
+hash = "cbeefaee3375ec3f4cb778a42a8ac7ef6d57c9f8"
+
+[update]
+[update.modrinth]
+mod-id = "W1Paq97E"
+version = "Gc0PR6Jl"
