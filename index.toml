@@ -122,7 +122,7 @@ hash = "c62d05f63bd5ae3761a7a19b248babc68c5d203a0c166a327a0ee8d5a0937196"
 
 [[files]]
 file = "modlist.md"
-hash = "d302771320b6eee4702dfaa20ae528c0d713a9f14b365d613474977727999697"
+hash = "522a4094bd2f68a905b93379a2b0d4fa970d5f252cbcfad6b6d38ec9c2b39a9d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -472,6 +472,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
