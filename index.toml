@@ -226,7 +226,7 @@ hash = "56659d09a6280c179c2e6aec4b4c1bd2953cba0089199b32c69d90a5c8b074ed"
 
 [[files]]
 file = "modlist.md"
-hash = "ed756f78306879127fa8d0b70ae259ada260a5fd0f1af479b40cf6ab8aa7d2e3"
+hash = "d302771320b6eee4702dfaa20ae528c0d713a9f14b365d613474977727999697"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -551,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
