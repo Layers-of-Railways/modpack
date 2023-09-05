@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "368c405be7efc817b528461902c950fbb1f6a9d58cbf561760bae4d5705f96c4"
+hash = "54e597891d05854149f867afb9a1e2d6c65cdbe2380b5d4c1addc3f06eb63d6d"
 metafile = true
 
 [[files]]
@@ -517,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "a700b9ee3a43f831e4d71c1c6cd816813975b61ebdb962297e95d71026d1e056"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "536ae3b1c18dfe5777c804b746f1ffdb92ed65621482ce7f7c67d4177c9d0c43"
 metafile = true
 
 [[files]]
