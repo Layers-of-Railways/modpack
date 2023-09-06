@@ -2,9 +2,7 @@
 # See https://git-scm.com/docs/gitignore
 
 # Exclude .md
-README.md
-TODO.md
-TO-ADD.md
+\*.md
 
 # Exclude exported Modrinth modpacks
 \*.mrpack

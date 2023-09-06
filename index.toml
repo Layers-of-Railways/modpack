@@ -5,6 +5,10 @@ file = "TESTED.md"
 hash = "ed6b1d9d825663f5b56754ede9846048c43670935fe5e8f83a4e8be131fa1cab"
 
 [[files]]
+file = "TO-ADD.md"
+hash = "2d26195c577783dbbef5332fea41836f37dcc57f71524b4751b69ef30aa00c5d"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "2014afd35cfea600afb07552f8faa2740dfc82bd730ed2affd5e264a90f44565"
 
