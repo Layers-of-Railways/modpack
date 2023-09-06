@@ -1,0 +1,13 @@
+name = "FabricExporter"
+filename = "fabricexporter-1.0.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dbVXHSlv/versions/hbHNI2Vs/fabricexporter-1.0.10.jar"
+hash-format = "sha1"
+hash = "e6ad48fb39c9a9cbc0baa423dc7775642ceaf763"
+
+[update]
+[update.modrinth]
+mod-id = "dbVXHSlv"
+version = "hbHNI2Vs"
