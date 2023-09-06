@@ -1,6 +1,6 @@
 name = "Default Dark Mode"
 filename = "Default-Dark-Mode-1.20-2023.7.0.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6SLU7tS5/versions/SEAHWiIS/Default-Dark-Mode-1.20-2023.7.0.zip"
