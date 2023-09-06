@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "TESTED.md"
-hash = "ed6b1d9d825663f5b56754ede9846048c43670935fe5e8f83a4e8be131fa1cab"
+hash = "4bee09e520cf842f4a1c32621e4678fefd000badf1256283c9b4987bb1286dae"
 
 [[files]]
 file = "TO-ADD.md"
