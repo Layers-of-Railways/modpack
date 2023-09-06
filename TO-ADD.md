@@ -25,3 +25,4 @@
     Numismatics: Not done yet
     Others
     shimmer? crashes right now
+    https://modrinth.com/mod/natures-spirit ~ wait until next release currently tries loading client classes from FAPI/QFAPI on the server (kids this is why you test your mods on a server)

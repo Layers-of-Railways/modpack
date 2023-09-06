@@ -6,7 +6,7 @@ hash = "ed6b1d9d825663f5b56754ede9846048c43670935fe5e8f83a4e8be131fa1cab"
 
 [[files]]
 file = "TO-ADD.md"
-hash = "2d26195c577783dbbef5332fea41836f37dcc57f71524b4751b69ef30aa00c5d"
+hash = "4fe2b29d6d607993413e6f84305d61822ddf4c9423da30bd47fa109eaaec7b68"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -621,11 +621,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
-metafile = true
-
-[[files]]
-file = "mods/natures-spirit.pw.toml"
-hash = "aa9f4db6d197a30f4ab5fbb249d2492748ebc23dd9472b7a14fc60684da97748"
 metafile = true
 
 [[files]]
