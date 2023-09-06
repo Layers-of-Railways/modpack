@@ -122,7 +122,7 @@ hash = "72333902e61b680eeca1f42e4dde22138777ae1743d6f183c4594e4336c56f74"
 
 [[files]]
 file = "modlist-old.md"
-hash = "a8f60511f1af13f040833841ad4699fd83f8f4e61f817da7dd05de71287a922b"
+hash = "4b6eed9dd0467f3d3db1539d1527e173a41f834d528640b39d765fc9e0758e57"
 
 [[files]]
 file = "modlist.md"
@@ -139,8 +139,18 @@ hash = "e362dcd3d782835ef0473ba34e12f17a53d1d296e5f258596420964662fbf7c9"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "2b66c02d4d4761a2a1ed805a391a9294ba29103182b86092423ca5c908421e8e"
 metafile = true
 
 [[files]]
@@ -199,6 +209,11 @@ hash = "a69efb704b2ba8f1ec23809071f4902311db4ddf2c531358428e0803f2d8e26e"
 metafile = true
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "27b096c8d024c3c935c4c8f099da3516f0a111e61f2e36a995a79b3f9c08dd53"
+metafile = true
+
+[[files]]
 file = "mods/bartering-station.pw.toml"
 hash = "3f3094de80c370f4cdbc1a3ffeaed34c65d1a151ae7b5204ee00ab78fe9f5e8e"
 metafile = true
@@ -234,6 +249,11 @@ hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "1ec63cbc97befa560d1828445ac436c0080dacdf11afa373655f211455066ace"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
@@ -256,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
 metafile = true
 
 [[files]]
@@ -354,6 +379,11 @@ hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "8d67d2a51ee0f6f0160915e6d306ff5c2b986d0d0cdf3c3c44c2ce9f5ad1fa66"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
@@ -424,6 +454,11 @@ hash = "bbd91f6874d99a59119b15103576c6686fe55bbf68dc3a03576d9ecd92023206"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "eb06614e937de69bfec8712545a8f23bb1e87fc72df26d114197e24fbe5981d3"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "b97c2e6418ccc906fdba8bf0318b97b8cd9cf66454064c5a37a662add9ab8d15"
 metafile = true
@@ -436,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "dbb9edde021ada62607b5a5b2366a2f9c0c56b5c486ccb469e4eee32e26be22e"
+metafile = true
+
+[[files]]
+file = "mods/fabricexporter.pw.toml"
+hash = "4637aea36cfa56c6456981c710535cdde86f1006fb4c1ba239fbc759b782cd88"
 metafile = true
 
 [[files]]
@@ -494,13 +534,28 @@ hash = "b955450fc7798bd9490f24977a828a06aeee726198aacec1eef16703ab88fbc5"
 metafile = true
 
 [[files]]
+file = "mods/impersonate.pw.toml"
+hash = "6a2ae4aba6ba631e14fc28e30856227cb25ff3908781e136e2760423e9986b00"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "ead06f2abdce1f678db81a59424b65e92049f525bc39530e4eb9a50c259cf638"
 metafile = true
 
 [[files]]
+file = "mods/invview.pw.toml"
+hash = "9c440b128787446aceeac944eb692793dd24e4596c23d0adfd64a76706ca774d"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "d1918c147280714406f99f1d6359a1246509d14b9030b52cfee9807cd1e71791"
+metafile = true
+
+[[files]]
+file = "mods/item-blacklist.pw.toml"
+hash = "4907615b2a90b474c57db3f920fa44a5f2c1b1b702ca7f90f7ef5e1e1f7cfbaf"
 metafile = true
 
 [[files]]
@@ -544,6 +599,11 @@ hash = "d7c03a9a61a81693732b6ae275f63ee63aa97def2e511be48b740e03c4f34a17"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -564,6 +624,11 @@ hash = "53786f23c772395f44842146accd33b2f05bc8113c53dde5ae8c02a98706e83f"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ebc7a77402069acd00a1a84eaeefc06c586035c31d7abbc941b9cf204afec2a9"
+metafile = true
+
+[[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "a52479d9c1ed26f21294918a43eaee9ceb928aba58324489b3b852ac28d70be9"
 metafile = true
@@ -571,6 +636,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "ed2ff97cf59a6c5b9f4e509edbc8c48944bb3c98795f6738c8dfec353cbe350d"
 metafile = true
 
 [[files]]
@@ -901,6 +971,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-permissions.pw.toml"
 hash = "07f7ec6edd1deefe5cf36f83104374ba2a28b44a0877984e5030e3a4e4de5854"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "fd25d5fa4114515b81e849948be698daa3b9a9bb220165871d9e281e7fc32e4a"
 metafile = true
 
 [[files]]
