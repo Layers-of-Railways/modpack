@@ -32,7 +32,4 @@
 
 ## Server Mods
 
--   [Connectivity[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/connectivity)
 -   [Continents](https://modrinth.com/mod/bQ5TJA1E)
--   [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
--   [Server Performance - Smooth Chunk Save[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
