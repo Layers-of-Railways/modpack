@@ -6,7 +6,7 @@ hash = "ed6b1d9d825663f5b56754ede9846048c43670935fe5e8f83a4e8be131fa1cab"
 
 [[files]]
 file = "TO-ADD.md"
-hash = "4fe2b29d6d607993413e6f84305d61822ddf4c9423da30bd47fa109eaaec7b68"
+hash = "bbd9a0c750be098c3db8eca8772c856ece1e0f7076370dcaf11d16953a1396c2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -121,16 +121,17 @@ file = "config/yosbr/options.txt"
 hash = "72333902e61b680eeca1f42e4dde22138777ae1743d6f183c4594e4336c56f74"
 
 [[files]]
-file = "modlist-old.md"
-hash = "4b6eed9dd0467f3d3db1539d1527e173a41f834d528640b39d765fc9e0758e57"
-
-[[files]]
 file = "modlist.md"
-hash = "522a4094bd2f68a905b93379a2b0d4fa970d5f252cbcfad6b6d38ec9c2b39a9d"
+hash = "98cd470be25dce10321acd9cabf4c75a3b8bc52d41cd0dd37cd39f60b1cbb28c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
+metafile = true
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
 
 [[files]]
@@ -314,13 +315,28 @@ hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
+file = "mods/cobblegen.pw.toml"
+hash = "251d5a75ed218b4ef6c48755e058989133304cd11a5b914ba9e828e81b4c0c7e"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "6e622d19fe0290c839d6428fdfee9fdbf56a008e156d3bc05af36f71637ee7c5"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "2b880a4be1a624e956fafaea89834828c58b0c512e611e6746c3fb8d9e93b260"
 metafile = true
 
 [[files]]
@@ -331,6 +347,16 @@ metafile = true
 [[files]]
 file = "mods/consistencyplus.pw.toml"
 hash = "1163602dac7aea2e98a45827d8527d7e596d9f9d72e1aa6c8aebfef39d6d73c9"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "d2237aec9a96508d717b505bc6d99f141418d7116ecab7e69e7543fba708a200"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
 metafile = true
 
 [[files]]
@@ -361,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "82285f2aa33891d7b7ad1f9d6b8cdacb46aa2bde7d091cc65d279b0ef0caeb3a"
 metafile = true
 
 [[files]]
@@ -489,6 +520,16 @@ hash = "66b982a755b4d812e9792502e96672f2ef2d8ce4ef702d2bf86cf45d99a7ece0"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite-fabric.pw.toml"
+hash = "768297fce63c38a9c61eae8afef574cb5a900c35a07f1c5f08cfd9a9326295dd"
+metafile = true
+
+[[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "275311fc93b8a0ac30e0eb71e1d5a391b5e1e0967b03da22039d43ed1feb2b71"
 metafile = true
@@ -509,6 +550,11 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "94e4884521c256740df7adbdaacb385a30262c0bc711e3af502dd42906a06f5d"
+metafile = true
+
+[[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
 hash = "38a2c415fc59ca97c5297542b67daf477ecce294b3cbe2fe530193c879a252a6"
 metafile = true
@@ -526,6 +572,16 @@ metafile = true
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "c4feaeeef2fe2b12d5f87d410c2458458971fe33386697142492d137794fe23e"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "5e60804222681b936e5878d228fb10b5682e3af1d0eedbe120c0b4ee63cc8aaf"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a4d47f10df4769734a850e6a2cd7342802f92f5e269b27464c86cfd0b5a2182f"
 metafile = true
 
 [[files]]
@@ -559,6 +615,16 @@ hash = "4907615b2a90b474c57db3f920fa44a5f2c1b1b702ca7f90f7ef5e1e1f7cfbaf"
 metafile = true
 
 [[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "c5d5b857fa70cb5deed260054b9723dc8069635880061d5ba328e1eb684604bf"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "7f2635c486010653a23e050b26170d80d87dbf56238720bb537efd4bdc247243"
+metafile = true
+
+[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "a87a5e7a9a1234525c9b2d5259e061317c35e0c863c2b061a2e6d2826c05f152"
 metafile = true
@@ -589,8 +655,23 @@ hash = "05003a9b44898417e1d2f1c2e821e1402ad621b1d66502fd5a01705c5fcc438f"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "0e0ad3001c99ec281023ad8fefb7ace9931cb8cbda6d4ed18abf2b47c02320da"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8bb36bbf7dbac0d531f6c308329109d29d95a83a2c0d972178655efd8afddf4b"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/leave-my-bars-alone.pw.toml"
+hash = "c7e8c7d30f80fab35c6f1aee8cf66f7ebd3923fa43b4a52a1f9ae4b6fc34df3d"
 metafile = true
 
 [[files]]
@@ -601,6 +682,11 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+metafile = true
+
+[[files]]
+file = "mods/let-sleeping-dogs-lie.pw.toml"
+hash = "56735004eac1c99294bdf50519040deb071a8b50d4a898a433678bfa4eee8e1a"
 metafile = true
 
 [[files]]
@@ -894,6 +980,11 @@ hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
 metafile = true
 
 [[files]]
+file = "mods/stylish-effects.pw.toml"
+hash = "b4391f3d422fcc91cfae59de84fcbc8e533cf8d22989b570e6962ed6aa7c4fb2"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "980fb3e746441d120ea40f9c8b488aa0200894c58474a080a8f7c353ae53818f"
 metafile = true
@@ -1011,6 +1102,16 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "182ef434a75ea08ffddfb90e9115b33d4764e994c7f4a7fe431933887f631c9b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "4dcb6f8548d695dd7335fbc7156ee7143ebda05c06d32aaeecd5f4522a885da6"
 metafile = true
 
 [[files]]
