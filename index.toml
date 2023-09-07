@@ -122,7 +122,7 @@ hash = "72333902e61b680eeca1f42e4dde22138777ae1743d6f183c4594e4336c56f74"
 
 [[files]]
 file = "modlist.md"
-hash = "3c87ec52fc7fba4b2940eb0b2e46a4b53276a15d6d201075013b9b9aa289c64c"
+hash = "d8da380ee7a9608883851c91d2d273e33a426817eb1c7993cbb1b65c4ac1ff1a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -606,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/impersonate.pw.toml"
-hash = "6a2ae4aba6ba631e14fc28e30856227cb25ff3908781e136e2760423e9986b00"
+hash = "401ff18e989c9f1ce13b9e38c358f54fc37b3582ad7ebdacc943c62b2c059fea"
 metafile = true
 
 [[files]]
