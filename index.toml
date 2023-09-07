@@ -305,6 +305,11 @@ hash = "5081f2c48062e37a7b7a8bee8d0645b1cfb8876ddac6cbd8284beebd4427bb57"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "7293ab05ee73400787ba9c31d4c59884d252dcc170880602e8e8da64dcf3f765"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
 metafile = true
@@ -455,6 +460,11 @@ hash = "693f6ab0cb4dd3bc2f31cfe9f21ce082288b123f7700e5b618a324e2d0f5ec41"
 metafile = true
 
 [[files]]
+file = "mods/ecospherical-expansion.pw.toml"
+hash = "0cbd832b1b98d10ccb597b7fafd5eeae03e93475e12a5a3d05ac3b6b3db20d1d"
+metafile = true
+
+[[files]]
 file = "mods/elegantarmour.pw.toml"
 hash = "afb14b32290f71125e251c560386191a0eca5d2daf1860d7efcb6e7b9b707779"
 metafile = true
@@ -567,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e394b1a364551e504f32e65bf1ad6bd5a17b0250d4715c7bf4955840fe2d398b"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "50cc94fc6be060961dc3f1f4b2104927e2dcf3fcd4728caf0b507aee21d9226f"
 metafile = true
 
 [[files]]
@@ -750,6 +765,11 @@ hash = "53faa690c0eecc98870a5d785cb1772e1f37eabf9a3ee0beebfc53641abade05"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "2fbce6c9dc6eb7ec8cb0261e64113544b4eceab281b61dbf3f5dc7f138b10c6b"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -793,6 +813,10 @@ metafile = true
 file = "mods/natures-compass.pw.toml"
 hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
+
+[[files]]
+file = "mods/naturespirit-1.0-1.20.1.jar"
+hash = "c4ecb8a49d8b9b5c8d80f7447454ae752f000eac66359e2c28ef57fe0875a330"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
@@ -1000,6 +1024,11 @@ hash = "249feb70bab5b9f12d695f3b71bdc8829b8879874fdfd94d342f9ac3998421b1"
 metafile = true
 
 [[files]]
+file = "mods/swampier-swamps-fabric.pw.toml"
+hash = "dc303709ac6be8f692414659002f617822ec3adc14f846054c05af295fb90277"
+metafile = true
+
+[[files]]
 file = "mods/taterzens.pw.toml"
 hash = "141027f068afd1f0cdd50f2521186bee79574a46efc503686dc2c1362a1c3c2b"
 metafile = true
@@ -1037,6 +1066,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
+file = "mods/tropics.pw.toml"
+hash = "65c8004b9cf63b885e3d9400366db5e761645fbed2060306d06106b6a9f83883"
 metafile = true
 
 [[files]]
