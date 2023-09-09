@@ -1,7 +1,0 @@
-name = "picture-sign"
-filename = "2.0.0-beta1+unascribedtheora"
-
-[download]
-url = "https://git.sleeping.town/unascribed-mods/PictureSign-Theora/releases/tag/2.0.0-beta1+unascribedtheora"
-hash-format = "sha256"
-hash = "0fb38321f9649b250dffee03abad0bdcd0bf0db2a17205beddd16b313dcb5981"

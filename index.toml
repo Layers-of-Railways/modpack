@@ -13,6 +13,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "2014afd35cfea600afb07552f8faa2740dfc82bd730ed2affd5e264a90f44565"
 
 [[files]]
+file = "config/picturesign.json"
+hash = "463303f465914df89a159339318874c1b1ebfa3126d0c9938ecaf6f51faefc29"
+
+[[files]]
 file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
@@ -859,9 +863,8 @@ hash = "c1d926fc2ad64cdb366e598749aca9b68e7f8e1e2d7e9ee902b437ee31d32cff"
 metafile = true
 
 [[files]]
-file = "mods/picture-sign.pw.toml"
-hash = "81c922a79563bfd3fba3fefd693b3bf4d3c127c4c339e288eda6683ef89607c0"
-metafile = true
+file = "mods/picturesign-2.0.0-beta.1+unascribedtheora-patch.5.jar"
+hash = "eac9651418a4e0d7a690ab12b8cfd3c6ea8636c53eab73bf9af2e163b319bf33"
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
