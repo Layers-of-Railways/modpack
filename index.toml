@@ -859,6 +859,11 @@ hash = "c1d926fc2ad64cdb366e598749aca9b68e7f8e1e2d7e9ee902b437ee31d32cff"
 metafile = true
 
 [[files]]
+file = "mods/picture-sign.pw.toml"
+hash = "81c922a79563bfd3fba3fefd693b3bf4d3c127c4c339e288eda6683ef89607c0"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
