@@ -26,7 +26,3 @@
     Others
     shimmer? crashes right now
     https://modrinth.com/mod/natures-spirit ~ wait until next release currently tries loading client classes from FAPI/QFAPI on the server (kids this is why you test your mods on a server)
-    [Incendium](https://modrinth.com/mod/ZVzW5oNS)
-    [Tectonic](https://modrinth.com/mod/lWDHr9jE)
-    [Terralith](https://modrinth.com/mod/8oi3bsk5)
-    for the 3 above these shouldnt be added and instead alternatives should be found
