@@ -583,6 +583,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "68a63a8c52a6e9fa25a35196da9f0b7231efaf80e56645425a9dc4094eafdb39"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e394b1a364551e504f32e65bf1ad6bd5a17b0250d4715c7bf4955840fe2d398b"
 metafile = true
@@ -926,6 +931,11 @@ hash = "a715c41f6e3d4658a8a84ba32365e95f18f7a85c33053c556a704602ad960e8f"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "b6546e209f31edcd7e25c0a877ba3e9d07fde085f4a7ef719b53dca7faa32331"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "e2bed47188f1d68aeb0307276146be12b6a6bcf863627c2fceeed213f8258d36"
 metafile = true
@@ -1038,6 +1048,11 @@ metafile = true
 [[files]]
 file = "mods/stylish-effects.pw.toml"
 hash = "b4391f3d422fcc91cfae59de84fcbc8e533cf8d22989b570e6962ed6aa7c4fb2"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1b9f8b0039b5fdf0850e6977ee05eb83065bb68d6ac4fed7a5a1609ca8cc5b52"
 metafile = true
 
 [[files]]
