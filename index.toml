@@ -6,11 +6,7 @@ hash = "4bee09e520cf842f4a1c32621e4678fefd000badf1256283c9b4987bb1286dae"
 
 [[files]]
 file = "TO-ADD.md"
-<<<<<<< HEAD
-hash = "601d3fd5aad4589469a08bd3d13fe77233dccae83646291f0f1fddb3d7c99e0b"
-=======
-hash = "bbd9a0c750be098c3db8eca8772c856ece1e0f7076370dcaf11d16953a1396c2"
->>>>>>> parent of e65017e (mod updates + terralith, continents, incendium)
+hash = "53429149b5dbc9147864ab49352072498e7b9102facbd0f7294b3af98d6a6476"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -37,6 +33,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "56e38e1d6039cbcf32c68416b60be42a4f5f3006c3caf50eb1eae1fc03580e86"
 
 [[files]]
+file = "config/yosbr/config/ae2/common.json"
+hash = "f19864f800568ac893f7b518eb1ea7f132bfaa1d9ee0ecf4b6d41f5d42b70b0d"
+
+[[files]]
 file = "config/yosbr/config/bclib/client.json"
 hash = "ea52caf949d7ad63d807a77d93b8e008be8a3e484ba091952eb8235f99916acc"
 
@@ -49,16 +49,16 @@ file = "config/yosbr/config/borderlessmining.json"
 hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
 
 [[files]]
-file = "config/yosbr/config/c2me.toml"
-hash = "cdf61af100d8a29e9bbf26cc1b7ad8ae29c82357831705a97bb1dffa8ab386fa"
-
-[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "51336712e25933a4b3ef553958ead09ccf02a7502b02b4240ae60c381b1858f0"
 
 [[files]]
 file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
+
+[[files]]
+file = "config/yosbr/config/chunky/config.json"
+hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -71,10 +71,6 @@ hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
 hash = "84825744a3386b5194422e99eba7a3f49f0b29d4a9eb74a11921fd558d4571e8"
-
-[[files]]
-file = "config/yosbr/config/entityculling.json"
-hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
 
 [[files]]
 file = "config/yosbr/config/exordium.json"
@@ -543,9 +539,8 @@ hash = "66b982a755b4d812e9792502e96672f2ef2d8ce4ef702d2bf86cf45d99a7ece0"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
-metafile = true
+file = "mods/farmers-delight-fabric-mc1.20.1-1.4.2-bytecode-patch.jar"
+hash = "690348ce198458acce5a8c7ea127a93dc4aca8e7aea541d6f6e0fb6da3eacc7a"
 
 [[files]]
 file = "mods/farmers-respite-fabric.pw.toml"

@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-hash = "ed6464424c7925320e913cea5c0e97d23d805b104834210a1dcdda12d902ef8f"
-=======
-hash = "014575debf5bb9f358f7a4ce2b6ac9b6e17f162b48af0c0197288be37c488a98"
->>>>>>> parent of e65017e (mod updates + terralith, continents, incendium)
+hash = "0cd46e3b63e6222d0541c77c07e022e0baa869e8f06e0dab64db1ab8bc200106"
 
 [versions]
 minecraft = "1.20.1"
