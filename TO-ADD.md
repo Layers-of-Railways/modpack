@@ -1,10 +1,12 @@
 -   AWAITING UPDATE
     https://modrinth.com/mod/aileron
+    https://modrinth.com/mod/slice-and-dice
     https://www.curseforge.com/minecraft/mc-mods/overweight-farming
     https://legacy.curseforge.com/minecraft/mc-mods/nethers-delight-fabric
     https://modrinth.com/mod/biomesyougo
     https://www.curseforge.com/minecraft/mc-mods/dustrial-decor-fabric
     https://legacy.curseforge.com/minecraft/mc-mods/vertical-slabs-compat
+    https://modrinth.com/mod/projector
     https://modrinth.com/mod/phonos
     https://modrinth.com/mod/yttr
     https://modrinth.com/mod/emicompat
@@ -18,3 +20,7 @@
     Others
     shimmer? crashes right now
     https://modrinth.com/mod/natures-spirit ~ wait until next release currently tries loading client classes from FAPI/QFAPI on the server (kids this is why you test your mods on a server)
+    [Incendium](https://modrinth.com/mod/ZVzW5oNS)
+    [Tectonic](https://modrinth.com/mod/lWDHr9jE)
+    [Terralith](https://modrinth.com/mod/8oi3bsk5)
+    for the 3 above these shouldnt be added and instead alternatives should be found
