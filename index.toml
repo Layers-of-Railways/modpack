@@ -6,7 +6,7 @@ hash = "4bee09e520cf842f4a1c32621e4678fefd000badf1256283c9b4987bb1286dae"
 
 [[files]]
 file = "TO-ADD.md"
-hash = "53429149b5dbc9147864ab49352072498e7b9102facbd0f7294b3af98d6a6476"
+hash = "467e78254fadad5565d05d3394d8ce751cb4f01b6a7a433b43240b964526f76f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -623,6 +623,11 @@ hash = "401ff18e989c9f1ce13b9e38c358f54fc37b3582ad7ebdacc943c62b2c059fea"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "9b5d719c6cbc3da3995f00a0270b2ac200e5a2e6b3b0585c65727524b0f2d499"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "ead06f2abdce1f678db81a59424b65e92049f525bc39530e4eb9a50c259cf638"
 metafile = true
@@ -1076,6 +1081,11 @@ hash = "141027f068afd1f0cdd50f2521186bee79574a46efc503686dc2c1362a1c3c2b"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "c9072b33298e95459c644344c8f8e7317a2f503a469e24bf51e63dca9c560db1"
+metafile = true
+
+[[files]]
 file = "mods/templates-2.pw.toml"
 hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
 metafile = true
@@ -1083,6 +1093,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "a1fd826038c193e91c0ac45648b93721760c3e4f0fbddde169952e93bc348df7"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "2cc40f90565538ed48daa25af8b59240eebc50e9cc2788f4ef73dfa23e87d387"
 metafile = true
 
 [[files]]
