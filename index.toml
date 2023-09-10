@@ -41,10 +41,6 @@ file = "config/yosbr/config/bclib/client.json"
 hash = "ea52caf949d7ad63d807a77d93b8e008be8a3e484ba091952eb8235f99916acc"
 
 [[files]]
-file = "config/yosbr/config/bclib/main.json"
-hash = "a25ed9ae901df8766106f96f82de8b649d8624b66baff1b50bf5f7f476ac4f25"
-
-[[files]]
 file = "config/yosbr/config/bclib/server.json"
 hash = "83a74f8fc0756a952758f5be0667ff5437dd99e832835b2a70d6a4ac1a9669f6"
 
