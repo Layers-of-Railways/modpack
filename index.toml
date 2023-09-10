@@ -6,7 +6,7 @@ hash = "4bee09e520cf842f4a1c32621e4678fefd000badf1256283c9b4987bb1286dae"
 
 [[files]]
 file = "TO-ADD.md"
-hash = "4fe2b29d6d607993413e6f84305d61822ddf4c9423da30bd47fa109eaaec7b68"
+hash = "601d3fd5aad4589469a08bd3d13fe77233dccae83646291f0f1fddb3d7c99e0b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -514,6 +514,11 @@ hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
 metafile = true
 
 [[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "4b5af07a3311d776868ed6f0c22180ab50f224caca07e6fd7b33c6d8bb2ff80d"
+metafile = true
+
+[[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "dbb9edde021ada62607b5a5b2366a2f9c0c56b5c486ccb469e4eee32e26be22e"
 metafile = true
@@ -718,6 +723,11 @@ hash = "56735004eac1c99294bdf50519040deb071a8b50d4a898a433678bfa4eee8e1a"
 metafile = true
 
 [[files]]
+file = "mods/lilac.pw.toml"
+hash = "713b1d8daa14ec46c8d6ad966b6339ee8c5eff0f034ad14ab9cfe315cc6fcdb0"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -911,6 +921,11 @@ hash = "7a06b7203a44d879f81651f5d192933aeac202ca9012fa8e314b7a4560268410"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "a715c41f6e3d4658a8a84ba32365e95f18f7a85c33053c556a704602ad960e8f"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "e2bed47188f1d68aeb0307276146be12b6a6bcf863627c2fceeed213f8258d36"
 metafile = true
@@ -968,6 +983,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "f6859b8ab85cec21b73713fa9bda2012a7c54ea7d3a35cbdd86d1ec42365cf4f"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
 metafile = true
 
 [[files]]
