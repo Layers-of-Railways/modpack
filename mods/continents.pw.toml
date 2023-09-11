@@ -1,6 +1,6 @@
 name = "Continents"
 filename = "Continents_1.20.1_v1.1.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/c4OJ366p/Continents_1.20.1_v1.1.2.jar"

@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/continents.pw.toml"
-hash = "d2237aec9a96508d717b505bc6d99f141418d7116ecab7e69e7543fba708a200"
+hash = "483a98aba26175329afaf252041d05b8c1deb595dcc14fd9a54bb7841a86d028"
 metafile = true
 
 [[files]]
