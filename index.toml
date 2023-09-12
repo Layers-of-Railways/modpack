@@ -1106,11 +1106,6 @@ hash = "a43535d26ddabd919052845f7c6a4f67aece1c54dbeb62d4645cd36ec62f877b"
 metafile = true
 
 [[files]]
-file = "mods/traverse.pw.toml"
-hash = "fa828cee58820db21721f890e029e0469480e330ff44556d1611ddb5faf9da64"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
@@ -1223,11 +1218,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "1779855b453ddbd35ffcd23f601eea2805a65fbbe59a10a05c335f7f54e0edd9"
-metafile = true
-
-[[files]]
-file = "mods/yungs-extras.pw.toml"
-hash = "4700932e44ce66b42b614150c92d3c4df79c6d62b2c8c6f9e3cbbf7391835b10"
 metafile = true
 
 [[files]]
