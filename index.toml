@@ -6,7 +6,7 @@ hash = "4bee09e520cf842f4a1c32621e4678fefd000badf1256283c9b4987bb1286dae"
 
 [[files]]
 file = "TO-ADD.md"
-hash = "54c8dd658ee7cd5478049c823dfc7ec6c7ee264c0535af6792f77deb14e3fae2"
+hash = "a917e0f924b232963c4e734ca4866f5f47a9f79ff6e5b77ab709a5cdebb6bf55"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -146,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "730280bd809ddbe339b1ec0d85394fdcb8a1558187de2e33b7045f63b1fc1d69"
 metafile = true
 
 [[files]]
@@ -519,6 +524,11 @@ hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
 metafile = true
 
 [[files]]
+file = "mods/extended-cogwheels.pw.toml"
+hash = "e5a66f936624909d847060c6aee2cded1300934c5ad1396db173275293dfbf86"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "4b5af07a3311d776868ed6f0c22180ab50f224caca07e6fd7b33c6d8bb2ff80d"
 metafile = true
@@ -882,6 +892,11 @@ hash = "c1d926fc2ad64cdb366e598749aca9b68e7f8e1e2d7e9ee902b437ee31d32cff"
 metafile = true
 
 [[files]]
+file = "mods/phonos.pw.toml"
+hash = "600aa8aee465b7c67dd160a63cae7f0c7e571a41403d71b0ff22e83782af3774"
+metafile = true
+
+[[files]]
 file = "mods/picturesign-2.0.0-beta.1+unascribedtheora-patch.5.jar"
 hash = "eac9651418a4e0d7a690ab12b8cfd3c6ea8636c53eab73bf9af2e163b319bf33"
 
@@ -1198,6 +1213,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "65fbc5e41940f2b86c7da539eed12a66a842d1c012b031319c44e70a40b5e7c2"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "5d975302d63dc9cbfaf52e9a8f05eb073b3d90ff7a73d9230e072849f7824ceb"
 metafile = true
 
 [[files]]
