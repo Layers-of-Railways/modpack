@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "e62176ccda045f7d3053f2a7310cebcd6739df09b6c7bb6e443e4277aafcb1a6"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "2014afd35cfea600afb07552f8faa2740dfc82bd730ed2affd5e264a90f44565"
 
@@ -1252,6 +1256,10 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "737ca5abc02cb75c7dfd305f4da32c6b3a00a0812877742d832edb86b56e1f02"
 metafile = true
+
+[[files]]
+file = "resources/datapacks/better-endcity-better-end.zip"
+hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
 
 [[files]]
 file = "resources/datapacks/remove-terralith-intro-message.pw.toml"
