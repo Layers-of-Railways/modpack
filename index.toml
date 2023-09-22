@@ -479,11 +479,6 @@ hash = "0cbd832b1b98d10ccb597b7fafd5eeae03e93475e12a5a3d05ac3b6b3db20d1d"
 metafile = true
 
 [[files]]
-file = "mods/ecotones.pw.toml"
-hash = "fabb60a79ae2594891e4aff2b2ccbae3bafb434e2b228a1204919f66fad1c845"
-metafile = true
-
-[[files]]
 file = "mods/elegantarmour.pw.toml"
 hash = "afb14b32290f71125e251c560386191a0eca5d2daf1860d7efcb6e7b9b707779"
 metafile = true
