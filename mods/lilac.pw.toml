@@ -1,13 +1,13 @@
 name = "LiLaC"
-filename = "lilac-1.0.0-beta.1-mc.1.19.4.jar"
+filename = "lilac-1.0.0-beta.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Rtp2Lyr5/versions/R0Clyo73/lilac-1.0.0-beta.1-mc.1.19.4.jar"
+url = "https://cdn.modrinth.com/data/Rtp2Lyr5/versions/pRI9PPjm/lilac-1.0.0-beta.2.jar"
 hash-format = "sha1"
-hash = "4dc7c510fec2c08e810623de0c81beed4436238c"
+hash = "660881d5495a429f815094a52f189210f61bb033"
 
 [update]
 [update.modrinth]
 mod-id = "Rtp2Lyr5"
-version = "R0Clyo73"
+version = "pRI9PPjm"
