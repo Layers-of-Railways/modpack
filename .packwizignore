@@ -2,10 +2,10 @@
 # See https://git-scm.com/docs/gitignore
 
 # Exclude .md
-\*.md
+*.md
 
 # Exclude exported Modrinth modpacks
-\*.mrpack
+*.mrpack
 
 # Exclude Prettier Files
 .prettierrc
