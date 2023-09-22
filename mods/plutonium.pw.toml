@@ -1,0 +1,7 @@
+name = "plutonium"
+filename = "Plutonium-1.0.0.jar"
+
+[download]
+url = "https://github.com/IThundxr/Plutonium/releases/download/v1.0.0/Plutonium-1.0.0.jar"
+hash-format = "sha256"
+hash = "9c7ee4309260d1838faa1d3a96688e7216a857c8e9e7cbe893044308cd3343b6"

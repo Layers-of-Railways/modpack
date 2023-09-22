@@ -464,6 +464,11 @@ hash = "ad214677d7d7b71d0d962d4b3f668d34ba2faa19b30ad007afd89a205256505c"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view-fabric.pw.toml"
+hash = "d9199e3e1d0c431a4fac4b7232718cf2b9fdc17d231471c351dd9090f16c551a"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "693f6ab0cb4dd3bc2f31cfe9f21ce082288b123f7700e5b618a324e2d0f5ec41"
 metafile = true
@@ -903,6 +908,11 @@ hash = "eac9651418a4e0d7a690ab12b8cfd3c6ea8636c53eab73bf9af2e163b319bf33"
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
+metafile = true
+
+[[files]]
+file = "mods/plutonium.pw.toml"
+hash = "69340c812f32a5137e64fcc49e10c523d15ed488f5e0835d54c62f23478be8d5"
 metafile = true
 
 [[files]]
