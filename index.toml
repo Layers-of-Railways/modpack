@@ -900,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/plutonium.pw.toml"
-hash = "69340c812f32a5137e64fcc49e10c523d15ed488f5e0835d54c62f23478be8d5"
+hash = "1f8a1e7683bc94c63a89c33026bb9f5d4fd1932f6d01372d6cac2623e5100535"
 metafile = true
 
 [[files]]
