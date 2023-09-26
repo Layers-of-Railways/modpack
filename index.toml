@@ -30,7 +30,7 @@ hash = "56e38e1d6039cbcf32c68416b60be42a4f5f3006c3caf50eb1eae1fc03580e86"
 
 [[files]]
 file = "config/yosbr/config/ae2/common.json"
-hash = "f19864f800568ac893f7b518eb1ea7f132bfaa1d9ee0ecf4b6d41f5d42b70b0d"
+hash = "91fbb42365a8e3d8e423cbf05154f1b7c61a4343f465ccf52ba6663be0398956"
 
 [[files]]
 file = "config/yosbr/config/bclib/client.json"
@@ -346,6 +346,11 @@ hash = "82ff4f971d08f9e1e2d7d6700c69a475f2b6b43420cd0abb58cfa708b6c4b1aa"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "ce687b5880e14a15a6c568db9e0676a5e2f210198c109f56426e71a50b13a165"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "6e622d19fe0290c839d6428fdfee9fdbf56a008e156d3bc05af36f71637ee7c5"
 metafile = true
@@ -616,6 +621,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "50cc94fc6be060961dc3f1f4b2104927e2dcf3fcd4728caf0b507aee21d9226f"
+metafile = true
+
+[[files]]
+file = "mods/hand-over-your-items.pw.toml"
+hash = "1889764957488809cc151ebf934c1c82670eae4de18a956ed922164baa133c07"
 metafile = true
 
 [[files]]
@@ -909,11 +919,6 @@ hash = "eac9651418a4e0d7a690ab12b8cfd3c6ea8636c53eab73bf9af2e163b319bf33"
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
-metafile = true
-
-[[files]]
-file = "mods/plutonium.pw.toml"
-hash = "1f8a1e7683bc94c63a89c33026bb9f5d4fd1932f6d01372d6cac2623e5100535"
 metafile = true
 
 [[files]]
