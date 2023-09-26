@@ -33,6 +33,10 @@ file = "config/yosbr/config/ae2/common.json"
 hash = "91fbb42365a8e3d8e423cbf05154f1b7c61a4343f465ccf52ba6663be0398956"
 
 [[files]]
+file = "config/yosbr/config/armourers_workshop-client.toml"
+hash = "47ce39543a099980e39ff397bbc7e15604bb55eef80166a87172de02ee16a2f9"
+
+[[files]]
 file = "config/yosbr/config/bclib/client.json"
 hash = "ea52caf949d7ad63d807a77d93b8e008be8a3e484ba091952eb8235f99916acc"
 
