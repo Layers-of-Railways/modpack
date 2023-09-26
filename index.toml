@@ -155,11 +155,6 @@ hash = "730280bd809ddbe339b1ec0d85394fdcb8a1558187de2e33b7045f63b1fc1d69"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
-metafile = true
-
-[[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "2b66c02d4d4761a2a1ed805a391a9294ba29103182b86092423ca5c908421e8e"
 metafile = true
@@ -332,11 +327,6 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
 metafile = true
 
 [[files]]
@@ -556,16 +546,6 @@ metafile = true
 [[files]]
 file = "mods/fabricexporter.pw.toml"
 hash = "4637aea36cfa56c6456981c710535cdde86f1006fb4c1ba239fbc759b782cd88"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "5e88e1e38b41f3feea53e18d4bcea09196859b09278953242cd4978b37842d93"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
 metafile = true
 
 [[files]]
