@@ -16,4 +16,19 @@ ServerEvents.recipes((event) => {
             ],
             "heatRequirement": "heated"
     })
+    event.custom({
+                "type": "create:compacting",
+                "ingredients": [
+                  {
+                      "fluid": "create:honey",
+                          "nbt": {},
+                          "amount": 250
+                  }
+                ],
+                "results": [
+                  {
+                    "item": "minecraft:honeycomb"
+                  }
+                ],
+        })
 });

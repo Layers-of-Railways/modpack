@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "dade0385ec4c1f5f1faf568f9e9518b259d8b7b3a14fa0bd930a3e65fcd6f252"
+hash = "76eb7f92ff788e5436314a27f5e8927a1796013b7488bb2b19a81c6b9554c7a4"
 
 [[files]]
 file = "config/deleteitem-common.toml"
@@ -1678,7 +1678,7 @@ hash = "7aa26af76d5f91413f811b7220134a2ef70c62b378d1ca3fe6f83aeee645b947"
 
 [[files]]
 file = "kubejs/server_scripts/create/compacting.js"
-hash = "51b906d9b1a0c56abce87a20342cd05a8fcacd126bd50f1f2161b36f9cc27fc5"
+hash = "0a18bfe06fa11333e21cfe98873c76951cdeaba5f479888f44f03be3c0a186f9"
 
 [[files]]
 file = "kubejs/server_scripts/create/crushing.js"
