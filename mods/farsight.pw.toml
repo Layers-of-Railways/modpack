@@ -1,13 +1,13 @@
 name = "Farsight [Forge]"
-filename = "farsight-1.19.2-2.1.jar"
+filename = "farsight-1.19.2-3.5.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "e96e0f29875881b19bedbc991c69687be812d1c7"
+hash = "54c92c968828366d6a89c99dd241ee1bcf611d79"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4017307
+file-id = 4764900
 project-id = 495693

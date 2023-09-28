@@ -1,7 +1,0 @@
-name = "extended-bogeys"
-filename = "extendedbogeys-0.4.3-1.19.2-0.5.1.b-forge.jar"
-
-[download]
-url = "https://maven.ithundxr.dev/hidden/extendedbogeys-0.4.3-1.19.2-0.5.1.b-forge.jar"
-hash-format = "sha1"
-hash = "4b2203b0e6e75c9077e924ce809839165f3f0b60"

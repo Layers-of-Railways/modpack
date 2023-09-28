@@ -1,13 +1,13 @@
 name = "Snowy Spirit"
-filename = "snowyspirit-1.19.2-2.1.10.jar"
+filename = "snowyspirit-1.19.2-2.1.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4a1b8e475057619a82d1af1ce87772c6251c552a"
+hash = "3456c22c32eead0524a7ac4fa6fd1a21a5abd202"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4479536
+file-id = 4734122
 project-id = 566142
