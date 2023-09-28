@@ -1954,7 +1954,7 @@ metafile = true
 
 [[files]]
 file = "mods/extendedbogeys-0.4.7-1.19.2-0.5.1.c+forge-patch-.jar"
-hash = "c6be88238f36b78580b7e52d875a90720cb955a72109658d6921f10cbb34b637"
+hash = "32e93b7240af8a7cc5af899a2eec92ca145b5aba299ce9c14a3f39f2b483ffd1"
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
