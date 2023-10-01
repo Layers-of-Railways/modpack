@@ -861,6 +861,11 @@ hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "23583083d03c8effa3dca4c17c7da2fcf57d653292b02898afe8d7029be6b0d7"
+metafile = true
+
+[[files]]
 file = "mods/old-mc-logo.pw.toml"
 hash = "51104c4edcea7ece258ed464326721daa3f971b01104812d7442e1d9dce98e9e"
 metafile = true
@@ -1227,11 +1232,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
