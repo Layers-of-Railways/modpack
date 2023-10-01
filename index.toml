@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "55e62a5daa9e25958de0495a217c67ea15f90b94b77cae8489463c6a87eea2d4"
+hash = "e362dcd3d782835ef0473ba34e12f17a53d1d296e5f258596420964662fbf7c9"
 metafile = true
 
 [[files]]
@@ -848,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
+hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
 
 [[files]]
@@ -1146,7 +1146,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-permissions.pw.toml"
-hash = "07f7ec6edd1deefe5cf36f83104374ba2a28b44a0877984e5030e3a4e4de5854"
+hash = "237f8ebf563d146096b05a9d9120fd28714a2885b88a87e10bbd0730a22ec0eb"
 metafile = true
 
 [[files]]

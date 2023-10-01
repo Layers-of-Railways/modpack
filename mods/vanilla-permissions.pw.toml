@@ -1,13 +1,13 @@
 name = "Vanilla Permissions"
-filename = "vanilla-permissions-0.2.2+1.20.1.jar"
+filename = "vanilla-permissions-0.2.2+1.20.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fdZkP5Bb/versions/POy2ZtwI/vanilla-permissions-0.2.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/fdZkP5Bb/versions/No5mDVrC/vanilla-permissions-0.2.2%2B1.20.2.jar"
 hash-format = "sha1"
-hash = "92fc0342d4823dd527d92eb75ac8027fd1d2a85e"
+hash = "2ee283e204d4aacd0ea6ebb3364ec288e8ee73b3"
 
 [update]
 [update.modrinth]
 mod-id = "fdZkP5Bb"
-version = "POy2ZtwI"
+version = "No5mDVrC"
