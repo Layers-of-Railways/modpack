@@ -130,10 +130,6 @@ hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
-file = "mods/Blahaj-1.0.0.jar"
-hash = "9a4ce6191e81eec8a161f300c80c3915986f2f6ac9edbe5fe9f726553f0ec5fa"
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
@@ -256,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/betterend.pw.toml"
 hash = "09faca3cde7ffda49fcd3d4fc4f4a3d4f8774463170dfee83d6472f64bc84016"
+metafile = true
+
+[[files]]
+file = "mods/blahaj.pw.toml"
+hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
 metafile = true
 
 [[files]]
@@ -828,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7bee3b186b409dac864c8587b4321b1879052acad24bdc5a82802e5b17789d1c"
+hash = "fe3ccdaa0b33d77271d0ca2a1ecd1d5d15b6258c1a50c4d8754019e2ffd208d3"
 metafile = true
 
 [[files]]
@@ -854,6 +855,11 @@ metafile = true
 [[files]]
 file = "mods/naturespirit-1.0-1.20.1.jar"
 hash = "c4ecb8a49d8b9b5c8d80f7447454ae752f000eac66359e2c28ef57fe0875a330"
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
 
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
@@ -897,11 +903,6 @@ hash = "eac9651418a4e0d7a690ab12b8cfd3c6ea8636c53eab73bf9af2e163b319bf33"
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
-metafile = true
-
-[[files]]
-file = "mods/plutonium.pw.toml"
-hash = "1f8a1e7683bc94c63a89c33026bb9f5d4fd1932f6d01372d6cac2623e5100535"
 metafile = true
 
 [[files]]
@@ -1086,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "d2779b7848ed03160ebc211bf219cf3b500542daa71bf437e679045461603ceb"
+hash = "7006e82e42e849008fa966d3289ddf183ab9b3177b8b3b92d7f284318829c9bf"
 metafile = true
 
 [[files]]
