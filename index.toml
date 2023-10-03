@@ -854,11 +854,6 @@ hash = "0806fafc99d2bc0d3caf9bbf726367ee3e1a56788a6254b58b45567980dce7f1"
 metafile = true
 
 [[files]]
-file = "mods/owolib-annoyance-remover.pw.toml"
-hash = "c7ffebd5c78433297e8898e11af836d7ea5557bc8ecd6882c1ab4597cab56912"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
 metafile = true
