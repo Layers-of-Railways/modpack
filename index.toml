@@ -511,11 +511,6 @@ hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
 metafile = true
 
 [[files]]
-file = "mods/extended-cogwheels.pw.toml"
-hash = "e5a66f936624909d847060c6aee2cded1300934c5ad1396db173275293dfbf86"
-metafile = true
-
-[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "4b5af07a3311d776868ed6f0c22180ab50f224caca07e6fd7b33c6d8bb2ff80d"
 metafile = true
@@ -856,6 +851,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "0806fafc99d2bc0d3caf9bbf726367ee3e1a56788a6254b58b45567980dce7f1"
+metafile = true
+
+[[files]]
+file = "mods/owolib-annoyance-remover.pw.toml"
+hash = "c7ffebd5c78433297e8898e11af836d7ea5557bc8ecd6882c1ab4597cab56912"
 metafile = true
 
 [[files]]
