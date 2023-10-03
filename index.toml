@@ -317,6 +317,11 @@ hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
@@ -1248,6 +1253,16 @@ hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
 [[files]]
 file = "resources/resourcepacks/computercreate.pw.toml"
 hash = "29dcb64eef6cf3678c323bc183697d22d12dede8080ee14a85013ae91b60db33"
+metafile = true
+
+[[files]]
+file = "resources/resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "3b5dc59f5dde44414905f200f09b23c9498598fa795a18adcea6b4821e00f690"
+metafile = true
+
+[[files]]
+file = "resources/resourcepacks/even-better-enchants.pw.toml"
+hash = "7bffd317f192278d80114e87ce9694e9753aa95f502802cba0d0c1dad242dfcc"
 metafile = true
 
 [[files]]
