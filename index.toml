@@ -1873,6 +1873,11 @@ hash = "74ee8faa0009467adfd9366f831c55571b614d2c486718b21d5d5f5ad78a2fa4"
 metafile = true
 
 [[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "fd2f4e87da02c7accef457d307669a303991f16dc1ca115f30c99677ff409c6f"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "e00f1ba81c878e1c388633d4488c9ba81397053194757c9097ff84ceca9ffabf"
 metafile = true
