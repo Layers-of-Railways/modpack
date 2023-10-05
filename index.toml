@@ -1242,11 +1242,6 @@ file = "resources/datapacks/better-endcity-better-end.zip"
 hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
 
 [[files]]
-file = "resources/datapacks/remove-terralith-intro-message.pw.toml"
-hash = "5c1c56e92403716241db0dc4cce13ca9a9a4fc3afe3bbae5c17e36d53d607328"
-metafile = true
-
-[[files]]
 file = "resources/datapacks/wandering trades v1.7.1 (MC 1.20.x).zip"
 hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
 
