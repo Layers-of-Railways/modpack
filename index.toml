@@ -266,11 +266,6 @@ hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
-file = "mods/arch-ex.pw.toml"
-hash = "518afbd739263e2daad886e514ddb0005daed4c5873f60f66b507ed35506c29e"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
@@ -437,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "fc7e74646809813f9b290e2b7e31e8d7cfb4ee0853496c8559a4ae8aeed323f1"
+hash = "f292a7607f682264fa89245e1851c21bc654fedebf3c9b0d60decc275e512549"
 metafile = true
 
 [[files]]
@@ -468,11 +463,6 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
-metafile = true
-
-[[files]]
-file = "mods/conventional-cubes.pw.toml"
-hash = "c2503c50409c00c88632b4d7d188696bfad0aa3f404aedf7e740928cf37e1289"
 metafile = true
 
 [[files]]
@@ -617,6 +607,16 @@ metafile = true
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "dbb9edde021ada62607b5a5b2366a2f9c0c56b5c486ccb469e4eee32e26be22e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8f7e28eb56a3f538cf2be43c03aea1c5b3017a5fe0429a6b67b052e0f6c0b5d4"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
 metafile = true
 
 [[files]]
@@ -776,11 +776,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "69380ee570f9a264397e4713cf80b6f6edcc0d73d6274e86e3a0e2d3a6861273"
-metafile = true
-
-[[files]]
-file = "mods/lambdabettergrass.pw.toml"
-hash = "0e0ad3001c99ec281023ad8fefb7ace9931cb8cbda6d4ed18abf2b47c02320da"
 metafile = true
 
 [[files]]
@@ -963,6 +958,11 @@ hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "e1434c282fc8d1d6d681838689200f09ffb94a7d3db112de72050597cbd70210"
+metafile = true
+
+[[files]]
 file = "mods/peripheralium.pw.toml"
 hash = "b7fd48b44d2ac213563fc18a7fff872573b63eeddbd038b27219a96ec9fae272"
 metafile = true
@@ -999,21 +999,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "8cd8f7a7a486065f4fafb0f841bc231b2542e13fe0795c8cb3af1735a83da013"
-metafile = true
-
-[[files]]
-file = "mods/qdresloader.pw.toml"
-hash = "f7cebb9f191593ed8d3aee3a1bd3ea8c400625702aea0fd5d6ffb9db0105b926"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "7d29724ac05ef8982475b92f0e77adf4a4830c249f0e8c1515a19777fbf05f09"
 metafile = true
 
 [[files]]
@@ -1078,7 +1063,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7789ae27a883e09ccf638a0dd6c92307cedf2fd146f170156a4e3ca9f2aa0495"
+hash = "f5fd008ccf0b53cd4f32887902503e768e57da4dcc6065160e991c78d5fc017b"
 metafile = true
 
 [[files]]
@@ -1332,41 +1317,36 @@ hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
 metafile = true
 
 [[files]]
-file = "resourcepacks/default-dark-mode.pw.toml"
+file = "paxi/datapacks/better-endcity-better-end.zip"
+hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
+
+[[files]]
+file = "paxi/datapacks/wandering trades v1.7.1 (MC 1.20.x).zip"
+hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
+
+[[files]]
+file = "paxi/resourcepacks/computercreate.pw.toml"
+hash = "29dcb64eef6cf3678c323bc183697d22d12dede8080ee14a85013ae91b60db33"
+metafile = true
+
+[[files]]
+file = "paxi/resourcepacks/default-dark-mode.pw.toml"
 hash = "9a33c692779c39ba93f978d14d84aa5b3d98d4a00f066831957a4b980ab4cf4f"
+metafile = true
+
+[[files]]
+file = "paxi/resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "3b5dc59f5dde44414905f200f09b23c9498598fa795a18adcea6b4821e00f690"
+metafile = true
+
+[[files]]
+file = "paxi/resourcepacks/even-better-enchants.pw.toml"
+hash = "7bffd317f192278d80114e87ce9694e9753aa95f502802cba0d0c1dad242dfcc"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "737ca5abc02cb75c7dfd305f4da32c6b3a00a0812877742d832edb86b56e1f02"
-metafile = true
-
-[[files]]
-file = "resources/datapacks/better-endcity-better-end.zip"
-hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
-
-[[files]]
-file = "resources/datapacks/wandering trades v1.7.1 (MC 1.20.x).zip"
-hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
-
-[[files]]
-file = "resources/resourcepacks/computercreate.pw.toml"
-hash = "29dcb64eef6cf3678c323bc183697d22d12dede8080ee14a85013ae91b60db33"
-metafile = true
-
-[[files]]
-file = "resources/resourcepacks/enhanced-boss-bars.pw.toml"
-hash = "3b5dc59f5dde44414905f200f09b23c9498598fa795a18adcea6b4821e00f690"
-metafile = true
-
-[[files]]
-file = "resources/resourcepacks/even-better-enchants.pw.toml"
-hash = "7bffd317f192278d80114e87ce9694e9753aa95f502802cba0d0c1dad242dfcc"
-metafile = true
-
-[[files]]
-file = "resources/resourcepacks/incendium-optional-resourcepack.pw.toml"
-hash = "b519359dd08cb0811f8cde69d8046efea8b008fba3ed85c5f9abca7d25b86c31"
 metafile = true
 
 [[files]]
