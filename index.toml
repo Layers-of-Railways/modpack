@@ -176,11 +176,6 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
-file = "mods/argonauts.pw.toml"
-hash = "6d52f489c0129b5246a8382405fbdd6511b78b66f51d6a16a735dae33278babd"
-metafile = true
-
-[[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "6583d0be69339fbe7909ed5f60f49255dfdefc116e8195f30b73a23d3c6ec5c2"
 metafile = true
@@ -268,11 +263,6 @@ metafile = true
 [[files]]
 file = "mods/building-wands.pw.toml"
 hash = "f9481e8665c366e04a32b6acbabd5feeb950aadafb256831dbb0f26b5affa257"
-metafile = true
-
-[[files]]
-file = "mods/cadmus.pw.toml"
-hash = "542d5d1db4e45805a6f52be19c7ec664d7d2c34c2eed9fd53b42bc614815decb"
 metafile = true
 
 [[files]]
@@ -744,8 +734,8 @@ hash = "86ce30ccc9a035c6249d8140abf8d0fae7f828472913409b3febf46394bbc34d"
 metafile = true
 
 [[files]]
-file = "mods/lootr-fabric.pw.toml"
-hash = "53786f23c772395f44842146accd33b2f05bc8113c53dde5ae8c02a98706e83f"
+file = "mods/lootr.pw.toml"
+hash = "8f8650f906d35b4c6d7fb0040ae55fcfcfe51788d991bde0ea8415b66acabf29"
 metafile = true
 
 [[files]]
@@ -853,6 +843,16 @@ hash = "51104c4edcea7ece258ed464326721daa3f971b01104812d7442e1d9dce98e9e"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "69af36e0a1e29e69ccecf4379845a5b25f2a00b9b0c2209d24437a3bac7cf9d0"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "0806fafc99d2bc0d3caf9bbf726367ee3e1a56788a6254b58b45567980dce7f1"
 metafile = true
@@ -889,11 +889,6 @@ metafile = true
 [[files]]
 file = "mods/promenade.pw.toml"
 hash = "4edb1d260abf93b2e69b319a44f2cbf26785850669dc28424bd678207c72f764"
-metafile = true
-
-[[files]]
-file = "mods/prometheus.pw.toml"
-hash = "23d7d23efdf0739cc5912a9865cd2a76060db097ab0c99d8fe9c2d2dd02e4c1b"
 metafile = true
 
 [[files]]
