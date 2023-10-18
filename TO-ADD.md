@@ -10,4 +10,3 @@
     Create Alloyed: Need to self port to 1.20 + fabric/multiloader
     Numismatics: Not done yet
     Others
-    https://modrinth.com/mod/natures-spirit ~ wait until next release currently tries loading client classes from FAPI/QFAPI on the server (kids this is why you test your mods on a server)

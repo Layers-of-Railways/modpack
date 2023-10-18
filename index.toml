@@ -919,8 +919,9 @@ hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
 
 [[files]]
-file = "mods/naturespirit-1.0-1.20.1.jar"
-hash = "c4ecb8a49d8b9b5c8d80f7447454ae752f000eac66359e2c28ef57fe0875a330"
+file = "mods/natures-spirit.pw.toml"
+hash = "5bfd35e20e4994d6f1c2063827003593d080090c11624f38df04ca2d8af41316"
+metafile = true
 
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
