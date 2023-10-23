@@ -291,6 +291,11 @@ hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
 metafile = true
 
 [[files]]
+file = "mods/backpacked-fabric.pw.toml"
+hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "d995fbc8df8eb912e605c199f7073cc37108f40be97b547ac70be8b89ef7a961"
 metafile = true
@@ -661,6 +666,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/framework-fabric.pw.toml"
+hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
@@ -1175,11 +1185,6 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "0c646f0afe29c67002f2f53fc34fa55e0221e8e412138c288ed9d163c02b2258"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "e294e6777536f37b10517d707cfd5749e722ada3f28fc52af8368255e5f6165e"
 metafile = true
 
 [[files]]
