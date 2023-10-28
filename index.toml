@@ -13,6 +13,34 @@ file = "config/modernfix-mixins.properties"
 hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
 
 [[files]]
+file = "config/openloader/data/better-endcity-better-end.zip"
+hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
+
+[[files]]
+file = "config/openloader/data/wandering trades v1.7.1 (MC 1.20.x).zip"
+hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
+
+[[files]]
+file = "config/openloader/resources/computercreate.pw.toml"
+hash = "29dcb64eef6cf3678c323bc183697d22d12dede8080ee14a85013ae91b60db33"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/default-dark-mode.pw.toml"
+hash = "9a33c692779c39ba93f978d14d84aa5b3d98d4a00f066831957a4b980ab4cf4f"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/enhanced-boss-bars.pw.toml"
+hash = "3b5dc59f5dde44414905f200f09b23c9498598fa795a18adcea6b4821e00f690"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/even-better-enchants.pw.toml"
+hash = "7bffd317f192278d80114e87ce9694e9753aa95f502802cba0d0c1dad242dfcc"
+metafile = true
+
+[[files]]
 file = "config/picturesign.json"
 hash = "463303f465914df89a159339318874c1b1ebfa3126d0c9938ecaf6f51faefc29"
 
@@ -959,6 +987,11 @@ hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "d2f68bad5068b7dd0ff76db5943ac58368be7348a60ceb6e848dc61876c733e1"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "69af36e0a1e29e69ccecf4379845a5b25f2a00b9b0c2209d24437a3bac7cf9d0"
 metafile = true
@@ -971,11 +1004,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
-metafile = true
-
-[[files]]
-file = "mods/paxi.pw.toml"
-hash = "e1434c282fc8d1d6d681838689200f09ffb94a7d3db112de72050597cbd70210"
 metafile = true
 
 [[files]]
@@ -1325,34 +1353,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
-metafile = true
-
-[[files]]
-file = "paxi/datapacks/better-endcity-better-end.zip"
-hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
-
-[[files]]
-file = "paxi/datapacks/wandering trades v1.7.1 (MC 1.20.x).zip"
-hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
-
-[[files]]
-file = "paxi/resourcepacks/computercreate.pw.toml"
-hash = "29dcb64eef6cf3678c323bc183697d22d12dede8080ee14a85013ae91b60db33"
-metafile = true
-
-[[files]]
-file = "paxi/resourcepacks/default-dark-mode.pw.toml"
-hash = "9a33c692779c39ba93f978d14d84aa5b3d98d4a00f066831957a4b980ab4cf4f"
-metafile = true
-
-[[files]]
-file = "paxi/resourcepacks/enhanced-boss-bars.pw.toml"
-hash = "3b5dc59f5dde44414905f200f09b23c9498598fa795a18adcea6b4821e00f690"
-metafile = true
-
-[[files]]
-file = "paxi/resourcepacks/even-better-enchants.pw.toml"
-hash = "7bffd317f192278d80114e87ce9694e9753aa95f502802cba0d0c1dad242dfcc"
 metafile = true
 
 [[files]]
