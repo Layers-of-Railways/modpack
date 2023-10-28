@@ -1,0 +1,13 @@
+name = "Fabricated Zoomer"
+filename = "fabricated_zoomer-5.0.0-beta.12+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6d4fa6d62bf69b1f22e667379fec432892dc2a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4706437
+project-id = 902823
