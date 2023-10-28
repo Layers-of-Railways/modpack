@@ -1201,6 +1201,11 @@ hash = "a9130456bfeb0256291677f12b0f732ec776fea865c9d9a8254980f02ae512e5"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "d4999aa4a0af3e06221075e4cbf62a8ffdc50537353d494ac40dd73f12bc173c"
+metafile = true
+
+[[files]]
 file = "mods/templates-2.pw.toml"
 hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
 metafile = true
