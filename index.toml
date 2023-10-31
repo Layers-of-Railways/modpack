@@ -1702,7 +1702,7 @@ hash = "afc39394d24278eccd6716b5830884a6c0129d1f840319f23a1deb302b875dac"
 
 [[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
-hash = "d6e013d21b3014bda7d7b5f74f53b3e16807c30476dc89d78d980a29cc3b4060"
+hash = "886e336c8b89df260e8dcb91148465a14febd3072e47d570482f9a6f654cd45e"
 
 [[files]]
 file = "kubejs/server_scripts/mods/chipped.js"
