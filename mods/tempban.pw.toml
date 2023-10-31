@@ -1,0 +1,13 @@
+name = "Tempban"
+filename = "Tempban-1.19-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef9f12dbecf9b29dab656a6525538de743f341fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3871945
+project-id = 430597

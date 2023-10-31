@@ -1702,7 +1702,7 @@ hash = "afc39394d24278eccd6716b5830884a6c0129d1f840319f23a1deb302b875dac"
 
 [[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
-hash = "d6e013d21b3014bda7d7b5f74f53b3e16807c30476dc89d78d980a29cc3b4060"
+hash = "886e336c8b89df260e8dcb91148465a14febd3072e47d570482f9a6f654cd45e"
 
 [[files]]
 file = "kubejs/server_scripts/mods/chipped.js"
@@ -2254,6 +2254,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a6b779b19fdc89e36439ddaf01be97ab2d6c1deb9229e104c581a575ebf1fa89"
+metafile = true
+
+[[files]]
+file = "mods/tempban.pw.toml"
+hash = "4f54db0a7a8658bfe1058e36a13c88383840d8424bd713e221c5fe9405347d40"
 metafile = true
 
 [[files]]
