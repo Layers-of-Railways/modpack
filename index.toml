@@ -2257,6 +2257,11 @@ hash = "a6b779b19fdc89e36439ddaf01be97ab2d6c1deb9229e104c581a575ebf1fa89"
 metafile = true
 
 [[files]]
+file = "mods/tempban.pw.toml"
+hash = "4f54db0a7a8658bfe1058e36a13c88383840d8424bd713e221c5fe9405347d40"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "aaeaae491afb45b067b3d50c76bbfa50d522d4fa7f18ceaf79bc3e7e09533dd6"
 metafile = true
