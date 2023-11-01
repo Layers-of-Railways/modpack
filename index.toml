@@ -567,11 +567,6 @@ hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-fences.pw.toml"
-hash = "0304e77dd3fad650b0914c62fe34bf50ea8f8ef1acd7fc5b2295564c421b3688"
-metafile = true
-
-[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "2e84ccfb19ba6e255f7fb32366a7fb1921f84d364e146f1605b9f6016af5b0aa"
 metafile = true
