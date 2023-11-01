@@ -44,6 +44,10 @@ file = "config/picturesign.json"
 hash = "463303f465914df89a159339318874c1b1ebfa3126d0c9938ecaf6f51faefc29"
 
 [[files]]
+file = "config/promenade/biomes.json"
+hash = "c3e2996ab28fcbc84ed04b9f20cbeeb347e594da22b680bc70c7748b8285b3ac"
+
+[[files]]
 file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
@@ -84,10 +88,6 @@ file = "config/yosbr/config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
-
-[[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
 hash = "84825744a3386b5194422e99eba7a3f49f0b29d4a9eb74a11921fd558d4571e8"
 
@@ -120,12 +120,8 @@ file = "config/yosbr/config/modmenu.json"
 hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
 
 [[files]]
-file = "config/yosbr/config/moreculling.toml"
-hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
-
-[[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
+hash = "93bf7f4b8afc4b9b977ad6f852bf8091bd17b02faf0eb17406c8700d9e83bd7b"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
