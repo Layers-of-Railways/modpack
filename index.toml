@@ -13,6 +13,10 @@ file = "config/modernfix-mixins.properties"
 hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
 
 [[files]]
+file = "config/openloader/data/ReTerraForged.zip"
+hash = "b053e37bb62fced30bedb0dbcdbf234e81c7b77397c65c01557ff6316a9a2549"
+
+[[files]]
 file = "config/openloader/data/better-endcity-better-end.zip"
 hash = "e0fcc9925a80b317a6a16c9b139e56c8017eea40a9dc2595bfaa558cbb9616f9"
 
@@ -1074,6 +1078,10 @@ metafile = true
 file = "mods/respawnable-pets.pw.toml"
 hash = "f6238100a1fd9bd3dfacde950052f3a90cd2749fdcb4bfcbee58b3fc31665284"
 metafile = true
+
+[[files]]
+file = "mods/reterraforged-0.0.4_Fabric.jar"
+hash = "27cbfd7938c071e2d4bb6fd2780048e6ec48eb71117bacf9f6be564efd7c4cc0"
 
 [[files]]
 file = "mods/rhino.pw.toml"
