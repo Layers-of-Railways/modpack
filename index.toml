@@ -1838,6 +1838,10 @@ hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
 metafile = true
 
 [[files]]
+file = "mods/create-1.19.2-0.5.1.e.jar"
+hash = "76baed263de7768a914d73868af9d88831eed7d737eb27b0005a74f638c80357"
+
+[[files]]
 file = "mods/create-alloyed.pw.toml"
 hash = "5d9aa68db8ad8a7bfc9aae2298e56b76d690b165f618b8cee4f565109e96ab9b"
 metafile = true
@@ -1875,11 +1879,6 @@ metafile = true
 [[files]]
 file = "mods/create-track-map.pw.toml"
 hash = "fd2f4e87da02c7accef457d307669a303991f16dc1ca115f30c99677ff409c6f"
-metafile = true
-
-[[files]]
-file = "mods/create.pw.toml"
-hash = "e00f1ba81c878e1c388633d4488c9ba81397053194757c9097ff84ceca9ffabf"
 metafile = true
 
 [[files]]
