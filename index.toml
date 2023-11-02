@@ -479,11 +479,6 @@ hash = "1163602dac7aea2e98a45827d8527d7e596d9f9d72e1aa6c8aebfef39d6d73c9"
 metafile = true
 
 [[files]]
-file = "mods/continents.pw.toml"
-hash = "b04efd9e269edaf37c32a93b76e2523d481f59534d681d8c8c7091103e3aea20"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
@@ -1192,11 +1187,6 @@ metafile = true
 [[files]]
 file = "mods/taterzens.pw.toml"
 hash = "a9130456bfeb0256291677f12b0f732ec776fea865c9d9a8254980f02ae512e5"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "d4999aa4a0af3e06221075e4cbf62a8ffdc50537353d494ac40dd73f12bc173c"
 metafile = true
 
 [[files]]
