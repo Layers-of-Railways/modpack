@@ -379,6 +379,11 @@ hash = "002a43d78a1164f15354b58a21566c8e6063fbd65390524a889bcee5895f203a"
 metafile = true
 
 [[files]]
+file = "mods/better-log4j-config.pw.toml"
+hash = "a6a8ef4b8f5acbe5b834e453b873aa95adf7c1debf0ff546ce2eed5177f948c2"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "01903b4a720913b5653b0c479f4f45417a62e53e6961fe7b709e213d7a617c0e"
 metafile = true
