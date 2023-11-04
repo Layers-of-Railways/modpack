@@ -1,13 +1,13 @@
 name = "Better Combat"
-filename = "bettercombat-fabric-1.8.0+1.20.1.jar"
+filename = "bettercombat-fabric-1.8.2+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/574qq9So/bettercombat-fabric-1.8.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/2Q8QpAR9/bettercombat-fabric-1.8.2%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "74ffe4c801c7cd667dd6b38e8ae15a66ac777982"
+hash = "5ea3b1bc56d8e6e7c7c252221b75f0f03ea5647b"
 
 [update]
 [update.modrinth]
 mod-id = "5sy6g3kz"
-version = "574qq9So"
+version = "2Q8QpAR9"
