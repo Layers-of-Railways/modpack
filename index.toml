@@ -188,6 +188,10 @@ file = "kubejs/config/common.properties"
 hash = "82a55d578953662838e4ef6539d75d7efb12651f58e3f0bea76a74dd3afe78b1"
 
 [[files]]
+file = "kubejs/data/ae2/tags/worldgen/biome/has_meteorites.json"
+hash = "c54160d8e8654958f34db2692a16fe5ef4c3f84900d9180b873c54104178ae38"
+
+[[files]]
 file = "kubejs/data/eco/worldgen/placed_feature/stone_rocks.json"
 hash = "749847ca8a70e3b729b19f9578b997fe7423dcb174621f12e84ef3673581cfb6"
 
