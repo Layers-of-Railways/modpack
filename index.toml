@@ -14,15 +14,39 @@ hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
 
 [[files]]
 file = "config/openloader/data/ReTerraForged.zip"
-hash = "3ad357b7e72ea64a1efa70ed3d69cf5c3988bd495e128c1be64247a48f92357b"
+hash = "4240abef95e8a48db9cea40f6c7d560ad432091e6c6720526c530f7817358b55"
 
 [[files]]
 file = "config/openloader/data/better-endcity-better-end.zip"
-hash = "e0fcc9925a80b317a6a16c9b139e56c8017eea40a9dc2595bfaa558cbb9616f9"
+hash = "642db2d0eb68dff95744946a16fa45b476b956e6d9603300cc83677f307f86ff"
 
 [[files]]
 file = "config/openloader/data/wandering trades v1.7.1 (MC 1.20.x).zip"
 hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
+
+[[files]]
+file = "config/openloader/data/worldgen-changes/data/eco/worldgen/placed_feature/stone_rocks.json"
+hash = "749847ca8a70e3b729b19f9578b997fe7423dcb174621f12e84ef3673581cfb6"
+
+[[files]]
+file = "config/openloader/data/worldgen-changes/data/eco/worldgen/placed_feature/underwater_noise_andesite_rocks.json"
+hash = "3632ab796a618992bd954ee17f98f3a1001b921197217e98cdfcf4a03d88b981"
+
+[[files]]
+file = "config/openloader/data/worldgen-changes/data/eco/worldgen/placed_feature/underwater_noise_calcite_rocks.json"
+hash = "51819cef34a8bdb12ab0bcf21781e5b9e7ab2223166bdd3a03c5348622f30940"
+
+[[files]]
+file = "config/openloader/data/worldgen-changes/data/eco/worldgen/placed_feature/underwater_noise_granite_rocks.json"
+hash = "4fc0b5bc510e9b9ce8cfaba81457594eb2d29eba56c0b7ee3e896437750d32ab"
+
+[[files]]
+file = "config/openloader/data/worldgen-changes/data/eco/worldgen/placed_feature/underwater_noise_ice_rocks.json"
+hash = "cc1960d9fa924e5913a1aba274dd2273e76f87fd63148483a5ffe03c3e4be70a"
+
+[[files]]
+file = "config/openloader/data/worldgen-changes/pack.mcmeta"
+hash = "428a23b7b36815668c33d8e3a4683b43f99cd75368d10f8167c015c00783a455"
 
 [[files]]
 file = "config/openloader/resources/computercreate.pw.toml"
@@ -186,10 +210,6 @@ hash = "d93d05a3d1bad50c4d50318d0a9c1ef44d4e437a8042c7c9afb93c149bd4fdba"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "82a55d578953662838e4ef6539d75d7efb12651f58e3f0bea76a74dd3afe78b1"
-
-[[files]]
-file = "kubejs/data/ae2/tags/worldgen/biome/has_meteorites.json"
-hash = "c54160d8e8654958f34db2692a16fe5ef4c3f84900d9180b873c54104178ae38"
 
 [[files]]
 file = "kubejs/server_scripts/compostables.js"
@@ -1192,6 +1212,11 @@ metafile = true
 [[files]]
 file = "mods/templates-2.pw.toml"
 hash = "67f8ed9dc63d928444a9d6b32211b9f7ea947f24c5553bc6bbb027562b635eee"
+metafile = true
+
+[[files]]
+file = "mods/terra.pw.toml"
+hash = "cff35e3e7a0101a7460d91fff8c8611ad68c92283b468e7d75d166e01e6ff588"
 metafile = true
 
 [[files]]
