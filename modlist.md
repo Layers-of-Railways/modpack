@@ -150,7 +150,6 @@
 -   [Mouse Wheelie](https://modrinth.com/mod/u5Ic2U1u)
 -   [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 -   [Nature's Spirit](https://modrinth.com/mod/WBvnqHfV)
--   [No Chat Reports](https://modrinth.com/mod/qQyHxfxd)
 -   [Create Support for Open Parties and Claims](https://modrinth.com/mod/T4Cv5iZq)
 -   [Open Loader](https://modrinth.com/mod/KwWsINvD)
 -   [Open Parties and Claims](https://modrinth.com/mod/gF3BGWvG)
