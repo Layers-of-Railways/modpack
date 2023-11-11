@@ -1,0 +1,13 @@
+name = "Missing Wilds"
+filename = "MissingWilds-fabric-1.20.1-1.2.0-beta.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nw0MStSd/versions/vMRESHaS/MissingWilds-fabric-1.20.1-1.2.0-beta.7.jar"
+hash-format = "sha1"
+hash = "e0b92a3f6061ee5ffab51d93cf1593f31c4e6f34"
+
+[update]
+[update.modrinth]
+mod-id = "Nw0MStSd"
+version = "vMRESHaS"

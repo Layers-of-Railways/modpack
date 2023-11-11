@@ -1,13 +1,13 @@
 name = "Rhino"
-filename = "rhino-fabric-2001.2.2-build.11.jar"
+filename = "rhino-fabric-2001.2.2-build.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sk9knFPE/versions/335Xyflr/rhino-fabric-2001.2.2-build.11.jar"
+url = "https://cdn.modrinth.com/data/sk9knFPE/versions/yu10djrf/rhino-fabric-2001.2.2-build.13.jar"
 hash-format = "sha1"
-hash = "85a27860f75ac8e67662aa9c28e64e8bd7074ece"
+hash = "a555100f4cbf1154fee09bc1fde8f661063f4522"
 
 [update]
 [update.modrinth]
 mod-id = "sk9knFPE"
-version = "335Xyflr"
+version = "yu10djrf"
