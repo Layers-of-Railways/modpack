@@ -975,6 +975,11 @@ hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "f29f36550027f56437f78d0173b56436fde507c2e3beb62fb0fe16e0892c5f39"
+metafile = true
+
+[[files]]
 file = "mods/old-mc-logo.pw.toml"
 hash = "51104c4edcea7ece258ed464326721daa3f971b01104812d7442e1d9dce98e9e"
 metafile = true
