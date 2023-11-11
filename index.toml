@@ -1263,11 +1263,6 @@ hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
-file = "mods/wilder-wild.pw.toml"
-hash = "9466bf14191df18cf0d4ff3414d4d7f7e0960af069cbe6e0728b15998d76b27b"
-metafile = true
-
-[[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "6f1753c4ae3446f7e91bc147588e9dd7b50283075b25ef8bb017099042078157"
 metafile = true
