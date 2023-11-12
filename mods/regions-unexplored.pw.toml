@@ -1,0 +1,13 @@
+name = "Regions Unexplored"
+filename = "RegionsUnexploredFabric-0.5.31.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tkikq67H/versions/dCQ3eNBB/RegionsUnexploredFabric-0.5.31.20.1.jar"
+hash-format = "sha1"
+hash = "c82c750d4cb5d81531f4350b84c837d08fe41b9b"
+
+[update]
+[update.modrinth]
+mod-id = "Tkikq67H"
+version = "dCQ3eNBB"

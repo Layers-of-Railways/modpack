@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/bluemap/core.conf"
-hash = "e62176ccda045f7d3053f2a7310cebcd6739df09b6c7bb6e443e4277aafcb1a6"
+file = "config/chunky/config.json"
+hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -11,6 +11,10 @@ hash = "2014afd35cfea600afb07552f8faa2740dfc82bd730ed2affd5e264a90f44565"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
+
+[[files]]
+file = "config/natures_spirit.json"
+hash = "95d476d79bce2f5e26ed5d6d61700a151ffd79fc671665854942591b17d130f7"
 
 [[files]]
 file = "config/openloader/data/ReTerraForged.zip"
@@ -48,6 +52,14 @@ file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
+file = "config/regions_unexplored.conf"
+hash = "5c057537e7a8106b84ea95bfa663d98e492ffe080e547b0386d69f263cc12b54"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "999e6b48e6c9953bbba750ddac02ad61caeeb9b5ca21fbea7c7115bac4b69be3"
+
+[[files]]
 file = "config/yosbr/config/ae2/common.json"
 hash = "91fbb42365a8e3d8e423cbf05154f1b7c61a4343f465ccf52ba6663be0398956"
 
@@ -76,18 +88,6 @@ file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
-file = "config/yosbr/config/chunky/config.json"
-hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
-
-[[files]]
-file = "config/yosbr/config/citresewn.json"
-hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
-
-[[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
-hash = "84825744a3386b5194422e99eba7a3f49f0b29d4a9eb74a11921fd558d4571e8"
-
-[[files]]
 file = "config/yosbr/config/exordium.json"
 hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
 
@@ -114,10 +114,6 @@ hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "93bf7f4b8afc4b9b977ad6f852bf8091bd17b02faf0eb17406c8700d9e83bd7b"
-
-[[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
@@ -980,6 +976,11 @@ hash = "f29f36550027f56437f78d0173b56436fde507c2e3beb62fb0fe16e0892c5f39"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "9e09f07e73ff32e66e284584c72aeda18b81c4c3706e1be38352dbf072126102"
+metafile = true
+
+[[files]]
 file = "mods/old-mc-logo.pw.toml"
 hash = "51104c4edcea7ece258ed464326721daa3f971b01104812d7442e1d9dce98e9e"
 metafile = true
@@ -1061,6 +1062,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "b9945458760c6d56db590b3c3160af1c48e4fafcc6d932623c5b5fbd11bd3d57"
 metafile = true
 
 [[files]]
@@ -1200,6 +1206,11 @@ metafile = true
 [[files]]
 file = "mods/taterzens.pw.toml"
 hash = "a9130456bfeb0256291677f12b0f732ec776fea865c9d9a8254980f02ae512e5"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "d4999aa4a0af3e06221075e4cbf62a8ffdc50537353d494ac40dd73f12bc173c"
 metafile = true
 
 [[files]]
