@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "002a43d78a1164f15354b58a21566c8e6063fbd65390524a889bcee5895f203a"
+hash = "9e44e050783e06ab8135679dd4339e1bd96955423c35711bf09c485edeba77cd"
 metafile = true
 
 [[files]]
@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "01903b4a720913b5653b0c479f4f45417a62e53e6961fe7b709e213d7a617c0e"
+hash = "303cff3c9d5199d1f11d0074499d5ae6511ea01cd1c736b9faddfc8a6daea06b"
 metafile = true
 
 [[files]]
@@ -458,12 +458,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblegen.pw.toml"
-hash = "41a8b1ac2746637e067addba6bbd09a7f343883ec4a01e07c0d72d50e80a6c01"
+hash = "ae6807be8d919c14927ebde0fac11aa68f5449604e69b3355609a7adc779283a"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "fe6524e630aab55402ad3a5a8b143e2987f8d531abb77714d8f8e8a47044f78f"
+hash = "e2d40bf32278f3d2b65fae32af10f6a7ea38f49e74868fb30fbeb939a7983af1"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "e05ffc4f701748f270df7e9c0e4c870aadf37d1ff53f4a82afd169a9851a8d84"
+hash = "fe2c3471dbb92cbf3e9984b9c37e43aefdbdafd282cc705a2b54572653fc7c4c"
 metafile = true
 
 [[files]]
@@ -961,6 +961,10 @@ hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
 
 [[files]]
+file = "mods/naturespirit-1.2.0-1.20.1.jar"
+hash = "6367d0a485584ec8877bec7d82cc48b7787654a6020e5b7d91d4087408712fbe"
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -968,11 +972,6 @@ metafile = true
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "f29f36550027f56437f78d0173b56436fde507c2e3beb62fb0fe16e0892c5f39"
 metafile = true
 
 [[files]]
@@ -1195,7 +1194,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "26fba32648688af068d9c6ec14e3c83c845abb4fc6f7a86fcdfd0dbabf828d59"
+hash = "a178fece3a2e367bfcb00ea8fe4a6bd866935f1554a7285e595938afabd728ee"
 metafile = true
 
 [[files]]
