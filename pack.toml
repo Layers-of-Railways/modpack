@@ -1,12 +1,12 @@
 name = "Steam n Rails Server Pack"
 author = "IThundxr, SpottyTheTurtle"
-version = "5.0.0"
+version = "5.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4dd91472b81f73af3ce0abdcc7cbf011ddd12c6b46e6896daa33b2fbb4e51ec3"
+hash = "4f301bee17912f5ea29f01444fb73e786f2682b858baa7f99c1700cf5ddd7593"
 
 [versions]
 forge = "43.3.0"

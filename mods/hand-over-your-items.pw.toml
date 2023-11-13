@@ -1,13 +1,13 @@
 name = "Hand Over Your Items"
-filename = "handoveryouritems-1.19.2-3.0.jar"
+filename = "handoveryouritems-1.19.2-3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f92b9d6f54182113c94f3cdd42f3ca082cd6c750"
+hash = "ff26078cb2a3e0acd10ce6ee6cc6907df26e426a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4326556
+file-id = 4852570
 project-id = 450270

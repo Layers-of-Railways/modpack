@@ -1,13 +1,13 @@
 name = "Dave's Building Extended"
-filename = "UNSTABLE-MAKE_BACKUPS-dbExtended-1.19.2-6-6.jar"
+filename = "dbExtended-1.19.2-6.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "455c56118f458fffe22e9e8de72ff40527432374"
+hash = "1496ee72acdbff89ec660c1862a01628aacbce19"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4755203
+file-id = 4841878
 project-id = 568645

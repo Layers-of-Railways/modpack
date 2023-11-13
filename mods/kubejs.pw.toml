@@ -1,13 +1,13 @@
 name = "KubeJS"
-filename = "kubejs-forge-1902.6.2-build.15.jar"
+filename = "kubejs-forge-1902.6.2-build.39.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "95966877f250f2ef4738e93f8a63f552645418c7"
+hash = "ca3bc8599516f40b97e114e97daf40ca538eb09e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4744432
+file-id = 4831299
 project-id = 238086
