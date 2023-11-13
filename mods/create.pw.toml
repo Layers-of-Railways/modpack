@@ -1,6 +1,6 @@
 name = "Create"
-filename = "create-1.19.2-0.5.1.f.jar"
-side = "client"
+filename = "create-1.19.2-0.5.1.e.jar"
+side = "both"
 
 [download]
 hash-format = "sha1"

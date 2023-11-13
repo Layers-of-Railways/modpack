@@ -1,8 +1,0 @@
-name = "create"
-filename = "create-1.19.2-0.5.1.e.jar"
-side = "server"
-
-[download]
-url = "https://nextcloud.ithundxr.dev/s/QbNRSefrTKXRJHY/download/create-1.19.2-0.5.1.e.jar"
-hash-format = "sha256"
-hash = "76baed263de7768a914d73868af9d88831eed7d737eb27b0005a74f638c80357"

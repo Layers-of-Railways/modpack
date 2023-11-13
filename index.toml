@@ -13,6 +13,10 @@ file = "config/ferritecore-mixin.toml"
 hash = "4218b3350b7b45e6ee4d2b9973c307a94b5da93c11f4e451f55c36a4ef34571c"
 
 [[files]]
+file = "config/immersive_weathering-common.toml"
+hash = "51b092f936d1e720345736096f275b5f956a3148571356cf38b98794aa28c529"
+
+[[files]]
 file = "config/incontrol/spawn.json"
 hash = "82a4f36a111f6b18ea89ed1b87bd4a8529ed14053cbb62601a7a8df8bc8bcceb"
 
@@ -1856,11 +1860,6 @@ hash = "2230c9283b87ecd6f84a0d6e0764dffb7d81bfb8ad15095c20f7dd092d1cd5cd"
 metafile = true
 
 [[files]]
-file = "mods/create-server.pw.toml"
-hash = "06ece3daa686e8879e865d3d8512f5de24a3a0a939c43412eb0abd98ccab57c2"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "e84904ac0f90c6534790baba7e3b8d74905113732164bff5b2ce143df6336065"
 metafile = true
@@ -1872,7 +1871,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "ac3927d019a784ce7f6d327b78aa0ed4e472ed17af1f4f35fa278683cedff5b6"
+hash = "3a4ac5bc652f9177c97800103a33d8216b09fe9b0ab948482acaa62097525654"
 metafile = true
 
 [[files]]
