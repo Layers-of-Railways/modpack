@@ -1,0 +1,13 @@
+name = "(Neo)Forge Early Loading Screen for Fabric"
+filename = "early-loading-screen-0.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qPqMrMUl/versions/99RJdkEG/early-loading-screen-0.1.0.jar"
+hash-format = "sha1"
+hash = "4c02e34e2dff11fa2f97e420d2d467cca19c2ac3"
+
+[update]
+[update.modrinth]
+mod-id = "qPqMrMUl"
+version = "99RJdkEG"
