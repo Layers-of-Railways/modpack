@@ -1,13 +1,13 @@
 name = "Simple Voice Chat Enhanced Groups"
-filename = "enhanced-groups-1.20.1-1.4.0.jar"
+filename = "enhanced-groups-1.20.1-1.5.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/1LE7mid6/versions/G7KQv061/enhanced-groups-1.20.1-1.4.0.jar"
+url = "https://cdn.modrinth.com/data/1LE7mid6/versions/7Vq4B28b/enhanced-groups-1.20.1-1.5.0.jar"
 hash-format = "sha1"
-hash = "b882705a4b3d54ec182172d453f92afe487de4a7"
+hash = "fb3338c06f4f8ffc53c017f3dc401dc31cd99b6a"
 
 [update]
 [update.modrinth]
 mod-id = "1LE7mid6"
-version = "G7KQv061"
+version = "7Vq4B28b"

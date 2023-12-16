@@ -1,0 +1,13 @@
+name = "Create Deco"
+filename = "createdeco-2.0.0-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sMvUb4Rb/versions/wCavpvnI/createdeco-2.0.0-fabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "890b90e1aacb5f23dc88c4adc4e388bc19b471cb"
+
+[update]
+[update.modrinth]
+mod-id = "sMvUb4Rb"
+version = "wCavpvnI"

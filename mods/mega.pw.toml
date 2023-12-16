@@ -1,13 +1,13 @@
 name = "MEGA Cells"
-filename = "megacells-fabric-2.2.2-1.20.1.jar"
+filename = "megacells-fabric-2.2.8-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jjuIRIVr/versions/ttdPOUhc/megacells-fabric-2.2.2-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/jjuIRIVr/versions/RPPyhbnp/megacells-fabric-2.2.8-1.20.1.jar"
 hash-format = "sha1"
-hash = "0bd1edc99ea47c6dfc38a78d1300ab80ccb405fa"
+hash = "8585f2b71e7f481f4b2c247ba338212845d2e2b3"
 
 [update]
 [update.modrinth]
 mod-id = "jjuIRIVr"
-version = "ttdPOUhc"
+version = "RPPyhbnp"

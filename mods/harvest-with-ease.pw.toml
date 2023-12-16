@@ -1,13 +1,13 @@
 name = "Harvest with ease"
-filename = "harvestwithease-1.20.1-7.1.0.0-fabric.jar"
+filename = "harvestwithease-1.20.1-8.0.0.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/W4Ajthd2/versions/OAIikBTR/harvestwithease-1.20.1-7.1.0.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/W4Ajthd2/versions/JWe8K7qh/harvestwithease-1.20.1-8.0.0.2-fabric.jar"
 hash-format = "sha1"
-hash = "dcc3bfd57eff432303f02f1ba81a8249491475dd"
+hash = "c746afc4c65c0c39184be8a4c21b1f2e9ccf1e93"
 
 [update]
 [update.modrinth]
 mod-id = "W4Ajthd2"
-version = "OAIikBTR"
+version = "JWe8K7qh"

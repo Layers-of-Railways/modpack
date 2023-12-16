@@ -1,0 +1,13 @@
+name = "Demanding Saplings"
+filename = "demandingsaplings-0.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qvyoz8jh/versions/AAXcnC6J/demandingsaplings-0.0.8.jar"
+hash-format = "sha1"
+hash = "123c5e1ee8d928a074a3e8e8e0f34878cb86f896"
+
+[update]
+[update.modrinth]
+mod-id = "qvyoz8jh"
+version = "AAXcnC6J"
