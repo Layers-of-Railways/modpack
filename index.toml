@@ -17,10 +17,6 @@ file = "config/modernfix-mixins.properties"
 hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
 
 [[files]]
-file = "config/natures_spirit.json"
-hash = "54f6aceaa4b595e107be86806f34026c9b3b50a324657705dbca47035bf668c9"
-
-[[files]]
 file = "config/openloader/data/ReTerraForged.zip"
 hash = "eb0344c4d943bec9c95a23745ed64c93e88db875b0584a7521ade9d4b055ee68"
 
@@ -64,14 +60,6 @@ hash = "463303f465914df89a159339318874c1b1ebfa3126d0c9938ecaf6f51faefc29"
 [[files]]
 file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
-
-[[files]]
-file = "config/regions_unexplored.conf"
-hash = "5c057537e7a8106b84ea95bfa663d98e492ffe080e547b0386d69f263cc12b54"
-
-[[files]]
-file = "config/terrablender.toml"
-hash = "999e6b48e6c9953bbba750ddac02ad61caeeb9b5ca21fbea7c7115bac4b69be3"
 
 [[files]]
 file = "config/yosbr/config/ae2/common.json"
@@ -1075,6 +1063,11 @@ hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
 metafile = true
 
 [[files]]
+file = "mods/promenade.pw.toml"
+hash = "4edb1d260abf93b2e69b319a44f2cbf26785850669dc28424bd678207c72f764"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
@@ -1102,11 +1095,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
-metafile = true
-
-[[files]]
-file = "mods/regions-unexplored.pw.toml"
-hash = "e8755c3a5f1911ca1c0b2a6c084c93b1bac1db2b9175d89adcba20158a031ec5"
 metafile = true
 
 [[files]]
