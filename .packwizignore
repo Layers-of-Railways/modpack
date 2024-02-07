@@ -23,6 +23,3 @@ git
 
 # Exclude github pages CNAME file
 CNAME
-
-# Exclude Development Files
-development_files

@@ -18,15 +18,11 @@ hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "efc9e33c432ec40d43097dec2344f0c471d9e7df3d46ab43da0c2f933d155260"
+hash = "99952cb5424105ebdb3b4ac85c17d0312a1b9bfec40bc2096436c55d09f473db"
 
 [[files]]
-file = "config/paxi/datapacks/VanillaForged_Cherry_Addon.zip"
-hash = "4e32e3caa213bb2cfe423b9c89de852ab43e961fa9ceba3486083f144644a69e"
-
-[[files]]
-file = "config/paxi/datapacks/VanillaForged_v1.2.zip"
-hash = "fd9da12c8b3e14b42a25cd0e31dd171ac211d676e87352986c45bf243eb733e1"
+file = "config/paxi/datapacks/ReTerraForged.zip"
+hash = "eb0344c4d943bec9c95a23745ed64c93e88db875b0584a7521ade9d4b055ee68"
 
 [[files]]
 file = "config/paxi/datapacks/better-endcity-better-end.zip"
@@ -514,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "95a0eea23fda83e653a91b2d90b4e71fd63f516739da28f27253cc66a7da1548"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "867a8ce1e5993887a1420761a63cd74ff6fca108695a3eb450346f819f080dd8"
 metafile = true
 
 [[files]]
