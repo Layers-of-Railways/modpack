@@ -5,6 +5,11 @@
             "-depends": {
                 "create": ""
             }
+        },
+        "sodium": {
+            "-breaks": {
+                "supplementaries": ""
+            }
         }
     }
 }
