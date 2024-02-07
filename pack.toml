@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4acc7ee60ce1375a964686f2dc25c3e46abdafba38a9affea544bec68a822bfc"
+hash = "5d0123454ff127ea51727adf54f0367e885f35678924efb5c17f718c0a5b2d4c"
 
 [versions]
 fabric = "0.15.3"
@@ -14,4 +14,4 @@ minecraft = "1.20.1"
 
 [options]
 acceptable-game-versions = ["1.20"]
-datapack-folder = "config/openloader/data"
+datapack-folder = "config/paxi/datapacks"

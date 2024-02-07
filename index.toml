@@ -17,39 +17,51 @@ file = "config/modernfix-mixins.properties"
 hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
 
 [[files]]
-file = "config/openloader/data/ReTerraForged.zip"
-hash = "eb0344c4d943bec9c95a23745ed64c93e88db875b0584a7521ade9d4b055ee68"
+file = "config/paxi/datapack_load_order.json"
+hash = "efc9e33c432ec40d43097dec2344f0c471d9e7df3d46ab43da0c2f933d155260"
 
 [[files]]
-file = "config/openloader/data/better-endcity-better-end.zip"
+file = "config/paxi/datapacks/VanillaForged_Cherry_Addon.zip"
+hash = "4e32e3caa213bb2cfe423b9c89de852ab43e961fa9ceba3486083f144644a69e"
+
+[[files]]
+file = "config/paxi/datapacks/VanillaForged_v1.2.zip"
+hash = "fd9da12c8b3e14b42a25cd0e31dd171ac211d676e87352986c45bf243eb733e1"
+
+[[files]]
+file = "config/paxi/datapacks/better-endcity-better-end.zip"
 hash = "642db2d0eb68dff95744946a16fa45b476b956e6d9603300cc83677f307f86ff"
 
 [[files]]
-file = "config/openloader/data/wandering trades v1.7.1 (MC 1.20.x).zip"
+file = "config/paxi/datapacks/wandering trades v1.7.1 (MC 1.20.x).zip"
 hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
 
 [[files]]
-file = "config/openloader/resources/colorful-nixies.pw.toml"
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/colorful-nixies.pw.toml"
 hash = "4c0fdefa84f8414640efc4c455e997f06d15cc1c706aa9f7db8504101276f35a"
 metafile = true
 
 [[files]]
-file = "config/openloader/resources/computercreate.pw.toml"
+file = "config/paxi/resourcepacks/computercreate.pw.toml"
 hash = "29dcb64eef6cf3678c323bc183697d22d12dede8080ee14a85013ae91b60db33"
 metafile = true
 
 [[files]]
-file = "config/openloader/resources/default-dark-mode.pw.toml"
+file = "config/paxi/resourcepacks/default-dark-mode.pw.toml"
 hash = "9a33c692779c39ba93f978d14d84aa5b3d98d4a00f066831957a4b980ab4cf4f"
 metafile = true
 
 [[files]]
-file = "config/openloader/resources/enhanced-boss-bars.pw.toml"
+file = "config/paxi/resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "591bda29ea000a2ab9003782f1aa395773e5b8f292d1b7b4c5db4888b1d7de74"
 metafile = true
 
 [[files]]
-file = "config/openloader/resources/even-better-enchants.pw.toml"
+file = "config/paxi/resourcepacks/even-better-enchants.pw.toml"
 hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
 metafile = true
 
@@ -253,10 +265,6 @@ hash = "49e24486eb35f16977b6abaa6ee104bf846815dec7d8f96276b829fe04fa8c01"
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
-
-[[files]]
-file = "mods/Blahaj-1.0.0.jar"
-hash = "9a4ce6191e81eec8a161f300c80c3915986f2f6ac9edbe5fe9f726553f0ec5fa"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -994,11 +1002,6 @@ hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
 metafile = true
 
 [[files]]
-file = "mods/open-loader.pw.toml"
-hash = "d2f68bad5068b7dd0ff76db5943ac58368be7348a60ceb6e848dc61876c733e1"
-metafile = true
-
-[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "977fdb7daeaa4a15d68e8509ebe774523b8d98250efeeb67f3721dd3ee5bc652"
 metafile = true
@@ -1011,6 +1014,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "e1434c282fc8d1d6d681838689200f09ffb94a7d3db112de72050597cbd70210"
 metafile = true
 
 [[files]]
@@ -1093,8 +1101,8 @@ hash = "f6238100a1fd9bd3dfacde950052f3a90cd2749fdcb4bfcbee58b3fc31665284"
 metafile = true
 
 [[files]]
-file = "mods/reterraforged-0.0.4-fabric-1.20.1.jar"
-hash = "524d0badc2aef7278f7cccc2807684081f71c5863e7353796e5c23a856da9d08"
+file = "mods/reterraforged-0.0.6-fabric-1.20.1.jar"
+hash = "00f6933717bf3fcad22fe3525bce3746d50fa26298d1755bf694fb06124819c8"
 
 [[files]]
 file = "mods/rhino.pw.toml"
