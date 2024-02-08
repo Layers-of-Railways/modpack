@@ -66,6 +66,10 @@ file = "config/picturesign.json"
 hash = "463303f465914df89a159339318874c1b1ebfa3126d0c9938ecaf6f51faefc29"
 
 [[files]]
+file = "config/promenade/biomes.json"
+hash = "c3e2996ab28fcbc84ed04b9f20cbeeb347e594da22b680bc70c7748b8285b3ac"
+
+[[files]]
 file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
