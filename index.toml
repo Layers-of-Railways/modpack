@@ -195,19 +195,19 @@ hash = "749847ca8a70e3b729b19f9578b997fe7423dcb174621f12e84ef3673581cfb6"
 
 [[files]]
 file = "kubejs/data/eco/worldgen/placed_feature/underwater_noise_andesite_rocks.json"
-hash = "3632ab796a618992bd954ee17f98f3a1001b921197217e98cdfcf4a03d88b981"
+hash = "654f7f3d8547dd15007e54c54d91ffc34df802b994c22686e53ef5f997ad404f"
 
 [[files]]
 file = "kubejs/data/eco/worldgen/placed_feature/underwater_noise_calcite_rocks.json"
-hash = "51819cef34a8bdb12ab0bcf21781e5b9e7ab2223166bdd3a03c5348622f30940"
+hash = "f84914a24102237df584c03cad81a51dd7705f42832d7bdb89038844b2364ac7"
 
 [[files]]
 file = "kubejs/data/eco/worldgen/placed_feature/underwater_noise_granite_rocks.json"
-hash = "4fc0b5bc510e9b9ce8cfaba81457594eb2d29eba56c0b7ee3e896437750d32ab"
+hash = "a5309ff2ca730f02bcdb04a2dc92cea3da5d206475d9b808d0a76b10ace906e0"
 
 [[files]]
 file = "kubejs/data/eco/worldgen/placed_feature/underwater_noise_ice_rocks.json"
-hash = "cc1960d9fa924e5913a1aba274dd2273e76f87fd63148483a5ffe03c3e4be70a"
+hash = "23de0573ba02bcc8ce0a14ce4d62b67e3b77490fded523cb537eeb841824cfd8"
 
 [[files]]
 file = "kubejs/server_scripts/compostables.js"
