@@ -273,6 +273,10 @@ hash = "de82b1dbf0023f4aae1db1fa69eda866a30f0afa57e16832d1ba8c504804d3a6"
 metafile = true
 
 [[files]]
+file = "mods/aileron-1.0.4+1.0.4-fabric.jar"
+hash = "d3b9c4965fb9a785d52f78bae8fc796ecdc85ed7da4f6b7cfa8058e51813a416"
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "e25c7ad24e44a02b5ec64134789ed604c28a997fe65e12ea4aea684400355644"
 metafile = true
