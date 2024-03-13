@@ -14,6 +14,7 @@ MODRINTH_DATA=$(cat <<EOF
 {
     "name": "$pack_name $pack_version",
     "version_number": "$pack_version",
+	"dependencies": [],
 	"version_type": "release",
 	"loaders": ["fabric"],
 	"featured": true,
