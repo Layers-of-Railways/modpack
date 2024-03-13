@@ -2,4 +2,4 @@
 
 mkdir -p output/
 cd prism/ || exit
-zip -r ../output/RailwaysPrismPack.zip *
+zip -r ../output/RailwaysPrismPack.zip .
