@@ -5,10 +5,6 @@ file = "config/chunky/config.json"
 hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "e9fdb274d4275791c6b96b9a4c3a4f1461567bee5be199cc5378c768951bcd81"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "2014afd35cfea600afb07552f8faa2740dfc82bd730ed2affd5e264a90f44565"
 
@@ -284,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "88b4be67ec85e614f238b45246da8065ff7f87e7a3f7a6dfd699c6a21f3729e2"
 metafile = true
 
 [[files]]
