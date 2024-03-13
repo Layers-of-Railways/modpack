@@ -1,13 +1,13 @@
 name = "Missing Wilds"
-filename = "MissingWilds-fabric-1.2.0+1.20.1.jar"
+filename = "MissingWilds-fabric-1.2.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Nw0MStSd/versions/ppVcErow/MissingWilds-fabric-1.2.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Nw0MStSd/versions/FU3pQpFT/MissingWilds-fabric-1.2.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "2d39dd077e1d4659356f0955992ee7a8fe000650"
+hash = "504680e195b575875acf0603bf9ebcb0a2574860"
 
 [update]
 [update.modrinth]
 mod-id = "Nw0MStSd"
-version = "ppVcErow"
+version = "FU3pQpFT"

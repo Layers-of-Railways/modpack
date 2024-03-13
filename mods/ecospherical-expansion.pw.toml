@@ -1,13 +1,13 @@
 name = "Ecospherical Expansion"
-filename = "eco-1.20.2-2.4.2.jar"
+filename = "eco-1.20.2-2.4.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WtcuxDNN/versions/HsV4TNHX/eco-1.20.2-2.4.2.jar"
+url = "https://cdn.modrinth.com/data/WtcuxDNN/versions/SuHP58hd/eco-1.20.2-2.4.4.jar"
 hash-format = "sha1"
-hash = "a0c761eb6b98fcdfad51edeea2bcedf950b6abae"
+hash = "76812029e44a5b633028ff4ac87204ac9f58160c"
 
 [update]
 [update.modrinth]
 mod-id = "WtcuxDNN"
-version = "HsV4TNHX"
+version = "SuHP58hd"
