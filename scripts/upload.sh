@@ -28,7 +28,7 @@ EOF
 
 packwiz mr export
 
-mv $pack_name-$pack_version.mrpack output/
+mv "$pack_name-$pack_version.mrpack" output/
 
 curl 'https://api.modrinth.com/v2/version' \
 	-H "Authorization: $MODRINTH_TOKEN" \
