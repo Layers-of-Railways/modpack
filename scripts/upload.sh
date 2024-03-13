@@ -8,6 +8,7 @@ function grabField() {
 
 pack_name=$(grabField "name")
 pack_version=$(grabField "version")
+pack_mc_version=$(grabField "minecraft")
 
 echo >&2 'Uploading Pack to Modrinth'
 MODRINTH_DATA=$(cat <<EOF
@@ -15,6 +16,7 @@ MODRINTH_DATA=$(cat <<EOF
     "name": "$pack_name $pack_version",
     "version_number": "$pack_version",
 	"dependencies": [],
+	"game_versions": ["$pack_mc_version"]
 	"version_type": "release",
 	"loaders": ["fabric"],
 	"featured": true,
