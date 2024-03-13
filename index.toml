@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/release.yml"
-hash = "2672e515a6de96056aadbbb3934cbbad29505055e97543f7d0aa18a285c9d90a"
+hash = "74e9565272fc06ff0234d904c1216d4c6ec49944cb2c83dc5c9883c00b3f1a13"
 
 [[files]]
 file = "config/chunky/config.json"
