@@ -210,6 +210,10 @@ file = "kubejs/data/eco/worldgen/placed_feature/underwater_noise_ice_rocks.json"
 hash = "23de0573ba02bcc8ce0a14ce4d62b67e3b77490fded523cb537eeb841824cfd8"
 
 [[files]]
+file = "kubejs/data/thundxrsbetterworldgen/worldgen/structure_set/ocean_monuments.json"
+hash = "e3eca2b4a073b8018f966462a41a934e165bfc6a1b2cd48c2b2b3d5a03b9a8d9"
+
+[[files]]
 file = "kubejs/server_scripts/compostables.js"
 hash = "c27f4d3dd0572658c89f8b0b1b42e5d33354312e1e203f941ad86043da5f312a"
 
