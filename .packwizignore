@@ -23,3 +23,6 @@ git
 
 # Exclude github pages CNAME file
 CNAME
+
+# Exclude prism pack folder
+prism

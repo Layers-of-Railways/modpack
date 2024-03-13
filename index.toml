@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "e4b9b02015fedc82540fdff83faca642bdaa4d5fbc88d2ad86c7bda4919799d4"
+
+[[files]]
 file = "config/chunky/config.json"
 hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
@@ -1406,6 +1410,10 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
 metafile = true
+
+[[files]]
+file = "scripts/upload.sh"
+hash = "3d1c7aaf991d1da8b89abd5f69f4a60232c7c67e46607e0d1aa8744c7e768324"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
