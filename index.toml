@@ -1096,11 +1096,6 @@ hash = "fad1ecdab969cd8c3f9acd9b4be802c4ad636720657239650da1d72d78df8ded"
 metafile = true
 
 [[files]]
-file = "mods/redirectionor.pw.toml"
-hash = "21e7b05ab7bb3eeef7a81106686868a204f918139221c5a57f07aae81e429af3"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
