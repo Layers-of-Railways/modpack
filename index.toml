@@ -609,6 +609,11 @@ hash = "6657230b10da7fa888154f1979e26ab1ae437d859eca061ad7f99f57b2d705a9"
 metafile = true
 
 [[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "ad0b1c92bf3db21f58b6c609e2da6cd303afedda9973000456e7e3886f906e89"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
 metafile = true
@@ -1208,6 +1213,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "250689d1d6e59b0e76638f28693b3148e72ae66d95c162dfeb7a8f872307f05b"
+metafile = true
+
+[[files]]
+file = "mods/structure-remover.pw.toml"
+hash = "0a68ad0aef99624a6bb9aec2f6e8d274ac6f1021352ab00cd32405aa68717f9c"
 metafile = true
 
 [[files]]
