@@ -877,6 +877,11 @@ hash = "df3bf405458a14ae114177c33956530f4fe98b2962b9446e9b7955c5e09dee17"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "cc34285a478bac62f41247f69a0e564a739018484dc0d7d4f1a27aef4e182eaf"
+metafile = true
+
+[[files]]
 file = "mods/log-begone.pw.toml"
 hash = "86ce30ccc9a035c6249d8140abf8d0fae7f828472913409b3febf46394bbc34d"
 metafile = true
