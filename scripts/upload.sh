@@ -12,8 +12,8 @@ pack_version=$(grabField "version")
 echo >&2 'Uploading Pack to Modrinth'
 MODRINTH_DATA=$(cat <<EOF
 {
-    "name": "$pack_name $pack_version"
-    "version_number": "$pack_version"
+    "name": "$pack_name $pack_version",
+    "version_number": "$pack_version",
 	"version_type": "release",
 	"loaders": ["fabric"],
 	"featured": true,
