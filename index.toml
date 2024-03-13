@@ -277,10 +277,6 @@ hash = "8457bb5287f25b35e01671ae37e57d83ce136db238476b325ae0cff006c51e10"
 metafile = true
 
 [[files]]
-file = "mods/aileron-1.0.4+1.0.4-fabric.jar"
-hash = "d3b9c4965fb9a785d52f78bae8fc796ecdc85ed7da4f6b7cfa8058e51813a416"
-
-[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "da788fb209f78828138920fa3f35d195a3e1d3bab14130ae86719fe5132336a4"
 metafile = true
@@ -333,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/autotag.pw.toml"
 hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "2aff68ad474f02f51dbdc05166952317806cda8128b347eadb54481394454f7c"
 metafile = true
 
 [[files]]
@@ -476,9 +477,8 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
-file = "mods/cobblegen.pw.toml"
+file = "mods/cobblegen.pw.toml.disabled"
 hash = "5f280744b5843c5ea05abd52f9380b026bba68d98b1be0796cab33c125ddf4ae"
-metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
@@ -1154,9 +1154,8 @@ hash = "c88d8d2d1638d2ecdd793b8f91e0dd7b5aefe5ee79f1223896363bb31e3aea55"
 metafile = true
 
 [[files]]
-file = "mods/slice-and-dice.pw.toml"
+file = "mods/slice-and-dice.pw.toml.disabled"
 hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
-metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
