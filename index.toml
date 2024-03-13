@@ -415,8 +415,8 @@ hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
 metafile = true
 
 [[files]]
-file = "mods/blahaj-beyond.pw.toml"
-hash = "6f7237a5525ab254f26b745d0775a3786e1eb1e092d7ea4e126b55e390c9bdb8"
+file = "mods/blahaj.pw.toml"
+hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
 metafile = true
 
 [[files]]
