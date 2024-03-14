@@ -20,11 +20,13 @@
 # Exclude packwiz git hooks and utils
 git
 /enable_hooks.sh
-
-# Exclude github pages CNAME file
-CNAME
-
-# Other
 prism
 scripts
 LICENSE
+.github
+.gitattributes
+.gitignore
+enable_hooks.sh
+
+# Exclude github pages CNAME file
+CNAME

@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/release.yml"
-hash = "a564d8aac801b6c868ef9ad4f5a64b9d168af15251925354c21cd7f04265d949"
-
-[[files]]
 file = "config/chunky/config.json"
 hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
@@ -524,9 +520,8 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
+file = "mods/copycats.pw.toml.disabled"
 hash = "707a4f84ccf7619c026a33167ea465f233de0abcd7f487c8d3c814ad09f477a3"
-metafile = true
 
 [[files]]
 file = "mods/cosmetic-armor.pw.toml"
