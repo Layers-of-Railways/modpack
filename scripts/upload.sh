@@ -19,7 +19,7 @@ MODRINTH_DATA=$(cat <<EOF
 	"game_versions": ["$pack_mc_version"],
 	"version_type": "release",
 	"loaders": ["fabric"],
-	"featured": true,
+	"featured": false,
 	"project_id": "9a0qj1oH",
 	"file_parts": [
 		"mrpack"
