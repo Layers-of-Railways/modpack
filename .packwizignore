@@ -24,6 +24,7 @@ git
 # Exclude github pages CNAME file
 CNAME
 
-# Prism pack and Scripts
+# Other
 prism
 scripts
+LICENSE
