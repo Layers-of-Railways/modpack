@@ -6,7 +6,7 @@ hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2014afd35cfea600afb07552f8faa2740dfc82bd730ed2affd5e264a90f44565"
+hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/lmft.json"
@@ -44,11 +44,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/computercreate.pw.toml"
 hash = "29dcb64eef6cf3678c323bc183697d22d12dede8080ee14a85013ae91b60db33"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/default-dark-mode.pw.toml"
-hash = "9a33c692779c39ba93f978d14d84aa5b3d98d4a00f066831957a4b980ab4cf4f"
 metafile = true
 
 [[files]]
@@ -174,10 +169,6 @@ file = "kubejs/client_scripts/emi/hide.js"
 hash = "28ca4d886a3a03738126cf581d8539203ddabf4e258337beab90bc67274ce3f4"
 
 [[files]]
-file = "kubejs/client_scripts/emi/mods/rs_hide.js.disabled"
-hash = "7626b7af50fc7a897cd8c1abe32a62a07683bffec38f2716cbb036c18d5efc91"
-
-[[files]]
 file = "kubejs/client_scripts/tooltips.js"
 hash = "4638bb3ea63bb9ee12383ea3f5521d9119fb7dcd4c1b3632e7cae6733ab8514e"
 
@@ -250,14 +241,6 @@ file = "kubejs/server_scripts/misc_recipes.js"
 hash = "d6e013d21b3014bda7d7b5f74f53b3e16807c30476dc89d78d980a29cc3b4060"
 
 [[files]]
-file = "kubejs/server_scripts/mods/rs.js.disabled"
-hash = "1dc7c72a576b3568922ad6483dd332bdfcc5dee9e0be4bfe4991fb3c6f255e0e"
-
-[[files]]
-file = "kubejs/server_scripts/mods/rs_removals.js.disabled"
-hash = "aae23dd04477ade32852f262698ddaf1865f4594edb2cb8e2cdea39afe61c594"
-
-[[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
 hash = "26667369e4504bb2d3e6a80eb3a03377ea9e720429665ac8928aceffc0ed87ed"
 
@@ -271,6 +254,10 @@ hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
 
 [[files]]
+file = "mods/Copycats-fabric.1.20.1-1.2.1.jar"
+hash = "6b9f2ddfd8328264eb6bf2aaebe37005c79f6d5ddf37bd2e1e65d911835675d9"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
@@ -278,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "8457bb5287f25b35e01671ae37e57d83ce136db238476b325ae0cff006c51e10"
+metafile = true
+
+[[files]]
+file = "mods/aileron.pw.toml"
+hash = "92c0c8ce733ad75ae5a207b20786dd7c712d90e9d0d5a390a5cbc00bf1cdf3bb"
 metafile = true
 
 [[files]]
@@ -481,10 +473,6 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
-file = "mods/cobblegen.pw.toml.disabled"
-hash = "5f280744b5843c5ea05abd52f9380b026bba68d98b1be0796cab33c125ddf4ae"
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "5333619ce0f7e191d409fac6cd1c5981b15fd9baee160114e4a5010d9b44761d"
 metafile = true
@@ -518,10 +506,6 @@ metafile = true
 file = "mods/controlling.pw.toml"
 hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
-
-[[files]]
-file = "mods/copycats.pw.toml.disabled"
-hash = "707a4f84ccf7619c026a33167ea465f233de0abcd7f487c8d3c814ad09f477a3"
 
 [[files]]
 file = "mods/cosmetic-armor.pw.toml"
@@ -825,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f722ea0372d2459a35504422fb4f42945ca7fbcbdaebf0a1feb9d5d276144901"
+hash = "9693e36d75b2b054cd7ff62348c4f52813890ce9e5bf7390f7014a11c69b0c6b"
 metafile = true
 
 [[files]]
@@ -965,7 +949,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0d9cc3aa762d5c8d1d60c6185f7ec390f8d9315a726c1f10e96bdb1d459110bb"
+hash = "2d4cae884155dbfb86ddb88f5b59e232c0b31a87acbe4b20f9cdeb0c75c361f7"
 metafile = true
 
 [[files]]
@@ -1160,10 +1144,6 @@ metafile = true
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7e5fa206c5818b4366f14c9fb6f8953ac0242032a0d02b368853e71ded91ac22"
 metafile = true
-
-[[files]]
-file = "mods/slice-and-dice.pw.toml.disabled"
-hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
@@ -1398,6 +1378,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "9a33c692779c39ba93f978d14d84aa5b3d98d4a00f066831957a4b980ab4cf4f"
 metafile = true
 
 [[files]]

@@ -21,12 +21,14 @@
 git
 /enable_hooks.sh
 prism
+output
 scripts
 LICENSE
 .github
 .gitattributes
 .gitignore
 enable_hooks.sh
+*.disabled
 
 # Exclude github pages CNAME file
 CNAME

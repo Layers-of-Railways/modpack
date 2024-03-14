@@ -1,15 +1,7 @@
-# All mods are working and issues are listed below
-
--   Smarter Farmers (farmers replant) - Not tested yet
--   FarmersDelight: Working but some recipes arent there in emi (stuffed pumpkin, glow berry custard, hot cocoa, apple cider and prob more) [1]
--   Emi: working, but has some weird shit (may be other mods fault, check recipe for stuffed pumpkin (doesnt exist)) [1]
-
--   [1]: Added compat mods and jei for runtime emi compat so these issues should be fixes
-
 # TO-DO
 
 -   setup styled player list and styled chat (https://gist.github.com/arnokeesman/84411929a02f00b847d1b2cca30ebe18)
--   prevent cadmus chunk loading
+-   prevent chunk loading
 -   ban tiny tnt
 -   disable capes from https://modrinth.com/mod/more-banner-features
 -   setup carpet mod

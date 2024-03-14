@@ -1,12 +1,12 @@
 name = "Steam 'n' Rails Modpack"
 author = "IThundxr"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5ef51f878ace0f098bff14d6a32b6d1ad210637fd2ecc23c22ce49925745b1fa"
+hash = "b9b25c09eb64cd7bb217637e7244280404b417844811cb31c0cb52c5eebfbe8c"
 
 [versions]
 fabric = "0.15.7"

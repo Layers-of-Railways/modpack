@@ -5,7 +5,7 @@
                 "text": "Steam 'n' Rails Pack",
                 "clickEvent": {
                     "action": "open_url",
-                    "value": "https://legacy.curseforge.com/minecraft/modpacks/create-steam-n-rails-server-pack"
+                    "value": "https://modrinth.com/modpack/steam-n-rails-modpack"
                 }
             }
         ]
