@@ -748,6 +748,11 @@ hash = "6397162c78c64d7e9130223c3a4094ea680df41a4d12f11a2c7fbfb6a73da202"
 metafile = true
 
 [[files]]
+file = "mods/hephaestus.pw.toml"
+hash = "b633daed2cf3a7985ed6602174a768932bff07fd8f4d700517ff0906726e100a"
+metafile = true
+
+[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "5e60804222681b936e5878d228fb10b5682e3af1d0eedbe120c0b4ee63cc8aaf"
 metafile = true
@@ -809,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "9693e36d75b2b054cd7ff62348c4f52813890ce9e5bf7390f7014a11c69b0c6b"
+hash = "f722ea0372d2459a35504422fb4f42945ca7fbcbdaebf0a1feb9d5d276144901"
 metafile = true
 
 [[files]]
@@ -920,6 +925,11 @@ metafile = true
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "2fbce6c9dc6eb7ec8cb0261e64113544b4eceab281b61dbf3f5dc7f138b10c6b"
+metafile = true
+
+[[files]]
+file = "mods/minemath.pw.toml"
+hash = "e9f86ed8d236c5ebe9bc44e477d737f8c9b7360c12bbd932b41c29bd07779055"
 metafile = true
 
 [[files]]

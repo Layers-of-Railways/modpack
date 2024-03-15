@@ -1,0 +1,13 @@
+name = "Hephaestus"
+filename = "Hephaestus-1.20.1-3.6.4.271.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sdSn3wvy/versions/BipXMnyx/Hephaestus-1.20.1-3.6.4.271.jar"
+hash-format = "sha1"
+hash = "ce7787800357f6bcdce27553ae1636a918bbb8e5"
+
+[update]
+[update.modrinth]
+mod-id = "sdSn3wvy"
+version = "BipXMnyx"
