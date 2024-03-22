@@ -218,7 +218,7 @@ hash = "23de0573ba02bcc8ce0a14ce4d62b67e3b77490fded523cb537eeb841824cfd8"
 
 [[files]]
 file = "kubejs/data/thundxrsbetterworldgen/worldgen/structure_set/ocean_monuments.json"
-hash = "e3eca2b4a073b8018f966462a41a934e165bfc6a1b2cd48c2b2b3d5a03b9a8d9"
+hash = "0ad75986034b0ac45f912db3b9686e914c4a62f5e7b772ee145b11f0902abbd8"
 
 [[files]]
 file = "kubejs/server_scripts/compostables.js"
@@ -472,6 +472,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "e3ca186b116bd65d49fb0db709a1b37d303318e3afb2e06bc662313b53346d06"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "1d1bd04755dff2783dfa9d5ef8d7e3c1236f30f965e9afcdf601253194052554"
 metafile = true
 
 [[files]]
