@@ -1050,11 +1050,6 @@ hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
 
 [[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "11aa8da6a60bd5f614f9208ad4f30a381fa4fc406ec57a51bb370811f73fe4fd"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
@@ -1345,11 +1340,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "7ea3c2a391ac210d51b66be41938be4a02ee2481c9f1e19d27a4c1212cf912b3"
-metafile = true
-
-[[files]]
-file = "mods/xxl-packets.pw.toml"
-hash = "6f4ce82de5399daf1dd136b34550cbd0b1bee4f68c4118233472af41c7e6d45e"
 metafile = true
 
 [[files]]
