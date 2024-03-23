@@ -8,14 +8,6 @@
             {
                 "namespace": "tconstruct",
                 "path": "worldgen/structure_set/(end|overworld)_.*_island"
-            },
-            {
-                "namespace": "eco",
-                "path": "worldgen/placed_feature/underwater_noise_.*_rocks"
-            },
-            {
-                "namespace": "eco",
-                "path": "worldgen/placed_feature/stone_rocks"
             }
         ]
     }

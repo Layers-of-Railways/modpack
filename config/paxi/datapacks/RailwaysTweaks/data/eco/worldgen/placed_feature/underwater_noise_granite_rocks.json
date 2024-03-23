@@ -1,0 +1,9 @@
+{
+    "feature": "eco:underwater_granite_rocks",
+    "placement": [
+        {
+            "type": "minecraft:count",
+            "count": 0
+        }
+    ]
+}

@@ -29,12 +29,32 @@ file = "config/paxi/datapacks/RailwaysTweaks/data/ae2/tags/worldgen/biome/has_me
 hash = "c54160d8e8654958f34db2692a16fe5ef4c3f84900d9180b873c54104178ae38"
 
 [[files]]
+file = "config/paxi/datapacks/RailwaysTweaks/data/eco/worldgen/placed_feature/stone_rocks.json"
+hash = "749847ca8a70e3b729b19f9578b997fe7423dcb174621f12e84ef3673581cfb6"
+
+[[files]]
+file = "config/paxi/datapacks/RailwaysTweaks/data/eco/worldgen/placed_feature/underwater_noise_andesite_rocks.json"
+hash = "654f7f3d8547dd15007e54c54d91ffc34df802b994c22686e53ef5f997ad404f"
+
+[[files]]
+file = "config/paxi/datapacks/RailwaysTweaks/data/eco/worldgen/placed_feature/underwater_noise_calcite_rocks.json"
+hash = "f84914a24102237df584c03cad81a51dd7705f42832d7bdb89038844b2364ac7"
+
+[[files]]
+file = "config/paxi/datapacks/RailwaysTweaks/data/eco/worldgen/placed_feature/underwater_noise_granite_rocks.json"
+hash = "a5309ff2ca730f02bcdb04a2dc92cea3da5d206475d9b808d0a76b10ace906e0"
+
+[[files]]
+file = "config/paxi/datapacks/RailwaysTweaks/data/eco/worldgen/placed_feature/underwater_noise_ice_rocks.json"
+hash = "23de0573ba02bcc8ce0a14ce4d62b67e3b77490fded523cb537eeb841824cfd8"
+
+[[files]]
 file = "config/paxi/datapacks/RailwaysTweaks/data/thundxrsbetterworldgen/structure_set/ocean_monuments.json"
 hash = "0ad75986034b0ac45f912db3b9686e914c4a62f5e7b772ee145b11f0902abbd8"
 
 [[files]]
 file = "config/paxi/datapacks/RailwaysTweaks/pack.mcmeta"
-hash = "6ffdc39a5c58df11b11162b196e6e9ffdc68cd356f6b7d3be5ca4f33ad65bd9f"
+hash = "6d52d80df28ef605333b6eb6cb181b23f5cf80a61aab8f4d942957ea1e2d5807"
 
 [[files]]
 file = "config/paxi/datapacks/ReTerraForged.zip"
