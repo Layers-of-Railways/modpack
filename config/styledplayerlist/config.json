@@ -1,7 +1,7 @@
 {
     "config_version": 2,
     "__comment": "Before changing anything, see https://github.com/Patbox/StyledPlayerList#configuration",
-    "default_style": "default",
+    "default_style": "railways",
     "messages": {
         "switch": "Your player list style has been changed to: <gold>${style}</gold>",
         "unknown": "<red>This style doesn't exist!</red>",

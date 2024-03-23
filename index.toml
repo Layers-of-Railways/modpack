@@ -25,6 +25,18 @@ file = "config/paxi/datapack_load_order.json"
 hash = "99952cb5424105ebdb3b4ac85c17d0312a1b9bfec40bc2096436c55d09f473db"
 
 [[files]]
+file = "config/paxi/datapacks/RailwaysTweaks/data/ae2/tags/worldgen/biome/has_meteorites.json"
+hash = "c54160d8e8654958f34db2692a16fe5ef4c3f84900d9180b873c54104178ae38"
+
+[[files]]
+file = "config/paxi/datapacks/RailwaysTweaks/data/thundxrsbetterworldgen/structure_set/ocean_monuments.json"
+hash = "0ad75986034b0ac45f912db3b9686e914c4a62f5e7b772ee145b11f0902abbd8"
+
+[[files]]
+file = "config/paxi/datapacks/RailwaysTweaks/pack.mcmeta"
+hash = "6ffdc39a5c58df11b11162b196e6e9ffdc68cd356f6b7d3be5ca4f33ad65bd9f"
+
+[[files]]
 file = "config/paxi/datapacks/ReTerraForged.zip"
 hash = "5468e8e448c6c21f18cab797851fade8cd7012a3b9380d361afa4f0e2dbe68ff"
 
@@ -39,6 +51,38 @@ hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/font/default.json"
+hash = "432b1b70a957fb0fb3699d99b2a954792023924e961c5064448710fff3c4523c"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/admin.png"
+hash = "7fe02803a75b7cd5c1a604418c5f03c396a1da9236185450b613618dd1140cfb"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/dev.png"
+hash = "48429654a25a9e1db26ec979d0f9b4f779c0c82815f806919aecfbdf13548838"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/discord.png"
+hash = "ce37f67902a658b05d5b25a52ea9157c5b9f169a7846ee22610993ac05f5a084"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/mod.png"
+hash = "151f0ac62722b9868d2838603f5666497a615d5341e177e29773c339f9adaeff"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/user.png"
+hash = "0406a4f740e7b9234973a353e2fba6c1f819950fd14d3a93304bb4747874bcc4"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/vip.png"
+hash = "9527304659be8f9b5ee23e455e20326f6faaae8b6a3a68a265b615907fbe1358"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/pack.mcmeta"
+hash = "04d90cd6c0c7eda18aee76107ac78f8246388deb4c7a01810af3cd757d67dfd0"
 
 [[files]]
 file = "config/paxi/resourcepacks/colorful-nixies.pw.toml"
@@ -74,7 +118,11 @@ hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
-hash = "5e4b8c4aba3984d0f69008820601b70765ec7638a87eb89d45c966aa4e91822d"
+hash = "8d09ff1ef085fabc8cc1a7c4a728c07925806973a5617d2b1fb36b317d460089"
+
+[[files]]
+file = "config/styledplayerlist/styles/railways.json"
+hash = "bda0794b9cb5871c8aa87f65742d18f412b7e8b2e0581b870266120dbb2c2fe7"
 
 [[files]]
 file = "config/tconstruct-common.toml"
@@ -149,34 +197,6 @@ file = "config/yosbr/options.txt"
 hash = "72333902e61b680eeca1f42e4dde22138777ae1743d6f183c4594e4336c56f74"
 
 [[files]]
-file = "kubejs/assets/minecraft/font/default.json"
-hash = "432b1b70a957fb0fb3699d99b2a954792023924e961c5064448710fff3c4523c"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/font/admin.png"
-hash = "7fe02803a75b7cd5c1a604418c5f03c396a1da9236185450b613618dd1140cfb"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/font/dev.png"
-hash = "48429654a25a9e1db26ec979d0f9b4f779c0c82815f806919aecfbdf13548838"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/font/discord.png"
-hash = "ce37f67902a658b05d5b25a52ea9157c5b9f169a7846ee22610993ac05f5a084"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/font/mod.png"
-hash = "151f0ac62722b9868d2838603f5666497a615d5341e177e29773c339f9adaeff"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/font/user.png"
-hash = "0406a4f740e7b9234973a353e2fba6c1f819950fd14d3a93304bb4747874bcc4"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/font/vip.png"
-hash = "9527304659be8f9b5ee23e455e20326f6faaae8b6a3a68a265b615907fbe1358"
-
-[[files]]
 file = "kubejs/client_scripts/emi/hide.js"
 hash = "28ca4d886a3a03738126cf581d8539203ddabf4e258337beab90bc67274ce3f4"
 
@@ -191,34 +211,6 @@ hash = "d93d05a3d1bad50c4d50318d0a9c1ef44d4e437a8042c7c9afb93c149bd4fdba"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "82a55d578953662838e4ef6539d75d7efb12651f58e3f0bea76a74dd3afe78b1"
-
-[[files]]
-file = "kubejs/data/ae2/tags/worldgen/biome/has_meteorites.json"
-hash = "c54160d8e8654958f34db2692a16fe5ef4c3f84900d9180b873c54104178ae38"
-
-[[files]]
-file = "kubejs/data/eco/worldgen/placed_feature/stone_rocks.json"
-hash = "749847ca8a70e3b729b19f9578b997fe7423dcb174621f12e84ef3673581cfb6"
-
-[[files]]
-file = "kubejs/data/eco/worldgen/placed_feature/underwater_noise_andesite_rocks.json"
-hash = "654f7f3d8547dd15007e54c54d91ffc34df802b994c22686e53ef5f997ad404f"
-
-[[files]]
-file = "kubejs/data/eco/worldgen/placed_feature/underwater_noise_calcite_rocks.json"
-hash = "f84914a24102237df584c03cad81a51dd7705f42832d7bdb89038844b2364ac7"
-
-[[files]]
-file = "kubejs/data/eco/worldgen/placed_feature/underwater_noise_granite_rocks.json"
-hash = "a5309ff2ca730f02bcdb04a2dc92cea3da5d206475d9b808d0a76b10ace906e0"
-
-[[files]]
-file = "kubejs/data/eco/worldgen/placed_feature/underwater_noise_ice_rocks.json"
-hash = "23de0573ba02bcc8ce0a14ce4d62b67e3b77490fded523cb537eeb841824cfd8"
-
-[[files]]
-file = "kubejs/data/thundxrsbetterworldgen/worldgen/structure_set/ocean_monuments.json"
-hash = "0ad75986034b0ac45f912db3b9686e914c4a62f5e7b772ee145b11f0902abbd8"
 
 [[files]]
 file = "kubejs/server_scripts/compostables.js"
