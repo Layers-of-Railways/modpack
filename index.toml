@@ -5,6 +5,18 @@ file = "config/ styled-chat.json"
 hash = "06cc392d5096536b6e51a276d9e1c488c308622ae333a17710ca2f396abe7db7"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "08c0a94cacc2235d23ac52bb4e7d9e48ca6095ffc140a459061c4898a9ba3982"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "2a7fdc39ac4c990de5d15c5ff295a043ba15a9d60e4667bf63f8dff28284a66f"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "83a74f8fc0756a952758f5be0667ff5437dd99e832835b2a70d6a4ac1a9669f6"
+
+[[files]]
 file = "config/chunky/config.json"
 hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
