@@ -233,6 +233,10 @@ file = "kubejs/client_scripts/emi/hide.js"
 hash = "28ca4d886a3a03738126cf581d8539203ddabf4e258337beab90bc67274ce3f4"
 
 [[files]]
+file = "kubejs/client_scripts/emi/mods/ae2_facade.js"
+hash = "87bf4ff09a286dcfcdad23637c5390f38d2158f0ad3ef8084cf70494528abc11"
+
+[[files]]
 file = "kubejs/client_scripts/tooltips.js"
 hash = "4638bb3ea63bb9ee12383ea3f5521d9119fb7dcd4c1b3632e7cae6733ab8514e"
 
