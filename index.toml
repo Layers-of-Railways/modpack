@@ -1463,3 +1463,7 @@ metafile = true
 [[files]]
 file = "unsup.ini"
 hash = "7aa4522a6e03f987bdceaa95be90c64a15ff4575dd089794283e30cf098e962d"
+
+[[files]]
+file = "unsup.jar"
+hash = "0c1331899c1f51488ba9760e303f04533e07b9b0192048c03e6937d93d0d62d0"
