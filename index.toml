@@ -1459,3 +1459,7 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "7aa4522a6e03f987bdceaa95be90c64a15ff4575dd089794283e30cf098e962d"
