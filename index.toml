@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "fd0b983347938ccecb95ce80691b76d7016531e02c59733f1c47466821030189"
+hash = "243a5c09239ddea64e7e67e225e94d99b430b769f1323b023207c14d79fb888a"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "fb74f8257a46a29c27c1861e7d4b5fd361bcffc9b167d49d846037f49a09ff70"
+hash = "01bce0a4d0d9dc49a44177c4ee59147f89b8c6a665a5cad35bc3d370387f61f1"
 metafile = true
 
 [[files]]
@@ -1171,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
+hash = "9e5c3576b374ae324fd08b35b2592c974e0ef95eec09828be85c34a861eb87b9"
 metafile = true
 
 [[files]]
