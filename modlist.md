@@ -127,7 +127,6 @@
 -   [Geophilic](https://modrinth.com/mod/hl5OLM95)
 -   [Hand Over Your Items](https://modrinth.com/mod/Z9RMqaGu)
 -   [Harvest with ease](https://modrinth.com/mod/W4Ajthd2)
--   [Hephaestus](https://modrinth.com/mod/sdSn3wvy)
 -   [Horse Buff](https://modrinth.com/mod/IrrG0G8l)
 -   [Inv View](https://modrinth.com/mod/jrDKjZP7)
 -   [Iris & Oculus Flywheel Compat](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat)

@@ -8,3 +8,13 @@
     Create Alloyed: Need to self port to 1.20 + fabric/multiloader
     Numismatics: Not done yet
     Others
+
+if hep the tconstruct port gets added use the following to disable it's islands
+"filter": {
+"block": [
+{
+"namespace": "tconstruct",
+"path": "worldgen/structure_set/(end|overworld)_.*_island"
+}
+]
+}

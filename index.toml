@@ -66,7 +66,7 @@ hash = "7babc68a8b86779fe636e50541398f931c1227ba126f7b5f5ac3a7f579d36b3e"
 
 [[files]]
 file = "config/paxi/datapacks/RailwaysTweaks/pack.mcmeta"
-hash = "6d52d80df28ef605333b6eb6cb181b23f5cf80a61aab8f4d942957ea1e2d5807"
+hash = "b5a6656666ef50a1148f88b3134e8bc4e7d8c41dfe6423a2c6fa483b3ba0af55"
 
 [[files]]
 file = "config/paxi/datapacks/ReTerraForged.zip"
@@ -159,10 +159,6 @@ hash = "8d09ff1ef085fabc8cc1a7c4a728c07925806973a5617d2b1fb36b317d460089"
 [[files]]
 file = "config/styledplayerlist/styles/railways.json"
 hash = "bda0794b9cb5871c8aa87f65742d18f412b7e8b2e0581b870266120dbb2c2fe7"
-
-[[files]]
-file = "config/tconstruct-common.toml"
-hash = "1da3ca23e611af3e4a0648c7db172f700fbb9062f08b5c896805b75f8e1a213d"
 
 [[files]]
 file = "config/yosbr/config/ae2/common.json"
@@ -803,11 +799,6 @@ metafile = true
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "6397162c78c64d7e9130223c3a4094ea680df41a4d12f11a2c7fbfb6a73da202"
-metafile = true
-
-[[files]]
-file = "mods/hephaestus.pw.toml"
-hash = "b633daed2cf3a7985ed6602174a768932bff07fd8f4d700517ff0906726e100a"
 metafile = true
 
 [[files]]
