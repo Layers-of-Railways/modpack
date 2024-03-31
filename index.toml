@@ -29,6 +29,10 @@ file = "config/lmft.json"
 hash = "70193fb4977fc63aea5cfbb1ec01b7cfb0d099c469740c61e2b7bf4dd27e60de"
 
 [[files]]
+file = "config/logbegone.toml"
+hash = "a0d6debb799a0676cb76d82f6da33949dce273844b8ff09ffbbfee243f54505f"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
 
