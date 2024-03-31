@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/computercreate.pw.toml"
-hash = "29dcb64eef6cf3678c323bc183697d22d12dede8080ee14a85013ae91b60db33"
+hash = "ee301fc97677ba5c2fcd584136d3354d0b074a85b6cae4f3ddd379a091e5ed3e"
 metafile = true
 
 [[files]]
@@ -147,6 +147,10 @@ hash = "c3e2996ab28fcbc84ed04b9f20cbeeb347e594da22b680bc70c7748b8285b3ac"
 [[files]]
 file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
+
+[[files]]
+file = "config/spiceoffabric.hjson"
+hash = "a84c96439be2bb268830aa4341614b89f529ffb4018147cb24d9c9d9fc343c6c"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
@@ -298,13 +302,17 @@ file = "mods/Copycats-fabric.1.20.1-1.2.1.jar"
 hash = "6b9f2ddfd8328264eb6bf2aaebe37005c79f6d5ddf37bd2e1e65d911835675d9"
 
 [[files]]
+file = "mods/Steam_Rails-fabric-1.20.1-1.6.0+fabric-mc1.20.1-build.1206.jar"
+hash = "94f391cb9b195305236002f9c4b2950ea402616917be6e9ce0fe1e361f56c36e"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "8457bb5287f25b35e01671ae37e57d83ce136db238476b325ae0cff006c51e10"
+hash = "1018fc8c76defd7852ba5caed8f8d9a77a2d3c0d80851010693118d2562f5a0b"
 metafile = true
 
 [[files]]
@@ -324,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "119c3154529d8f2b6745d30ad443ebb948149660121a62de1c632c162854f223"
+hash = "fd0b983347938ccecb95ce80691b76d7016531e02c59733f1c47466821030189"
 metafile = true
 
 [[files]]
@@ -419,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "546ad110838279308e92fa46583474e81484d4574ce924179d2c73744fa07ecf"
+hash = "052f488d4631346ace35ddb7849d68471b268293dd52ec702d054003c4747c89"
 metafile = true
 
 [[files]]
@@ -445,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin-fabric.pw.toml"
+hash = "b3db6131c25bba500442f1b07da7ba551618f5ff3e15d5cc8966688799f60712"
 metafile = true
 
 [[files]]
@@ -479,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "b30c045235fcafd2bae1e8272649fd511a04d2ccaa651222f099f3cf1addb32b"
+hash = "d100b64a9bff423874a840c410d1a4a4d916ddceb519ead64760d186a9fd8314"
 metafile = true
 
 [[files]]
@@ -504,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "1d1bd04755dff2783dfa9d5ef8d7e3c1236f30f965e9afcdf601253194052554"
+hash = "fb74f8257a46a29c27c1861e7d4b5fd361bcffc9b167d49d846037f49a09ff70"
 metafile = true
 
 [[files]]
@@ -568,11 +581,6 @@ hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
 metafile = true
 
 [[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "2250d424633babae3b3f240382111fe0588e30031421fb7d6ac4f3e9d27be18c"
-metafile = true
-
-[[files]]
 file = "mods/create-track-map.pw.toml"
 hash = "93adce5ea0a86dc042dfac4ae7f2f7068e159b57426cd4de2c7db35615f74e28"
 metafile = true
@@ -614,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/demanding-saplings.pw.toml"
-hash = "6ba1d4a0dd5990711c8c3ec2202bbcf858e05376a679d3453367bbf5a325c4ab"
+hash = "064ee491573d52360df19cae03703303a9cc73e6a9f33318d54693f115b77788"
 metafile = true
 
 [[files]]
@@ -624,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "2dfa5228b282489d8c7976482083883ccabec2cf27c5d29e00c809a0211fd71b"
+hash = "ceb13069c9a7fde3eb77d50617cf37c3a882c608f590e1cead19610a1ce13079"
 metafile = true
 
 [[files]]
@@ -639,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecospherical-expansion.pw.toml"
-hash = "9212dc9f258cda2114c10f727626a265762765e626a12b0eaa8491d623990817"
+hash = "1928538e6b06326b0fe807404da78100d1d6f74634ba1cc7ec39418311155693"
 metafile = true
 
 [[files]]
@@ -654,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b4d08a3dddc2daf3771527f7ce940bf04f0dd96389d55e2194861d0b258fd373"
+hash = "515401aa2bd4394d05d410a306d1890a3094c6121e1861c48e6a45f05bd7f01b"
 metafile = true
 
 [[files]]
@@ -1163,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
+hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
 metafile = true
 
 [[files]]
@@ -1202,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4196b3c15e223c9ca1c46edbe47f3456026ef4c2e6d51f818810ff442fb080de"
+hash = "d9e91f4215e627647093687adfbb3c7ca433d40b59fe5ab8931fab175f82fab6"
 metafile = true
 
 [[files]]
@@ -1223,6 +1231,11 @@ metafile = true
 [[files]]
 file = "mods/spelunkery.pw.toml"
 hash = "da7add3d42e061dd961abd0288d0ed8837e816b5eed75fa87c7609ee66b1e8b6"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
 metafile = true
 
 [[files]]
@@ -1272,7 +1285,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "042778d980d8d00f729a99bfa24689aafa848a9596d23447e059dee1929c03cf"
+hash = "65f347a0032d625a3911a27bf504f894670966e4c00dd31a0f3b01e27043cc9e"
 metafile = true
 
 [[files]]
@@ -1372,7 +1385,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "48cf73caa7488380ff1435bd6953883e9da7d3f25a00819ade22543f9407b0fe"
+hash = "e60b866379fdfec0c9b6eed19159fe591e5276127e45b0b3d2e555197cecd3f5"
 metafile = true
 
 [[files]]

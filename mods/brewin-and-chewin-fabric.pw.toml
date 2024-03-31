@@ -1,0 +1,13 @@
+name = "Brewin' And Chewin' [Fabric]"
+filename = "brewinandchewin-fabric-2.3.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e4G0uSdm/versions/EFkbOmzx/brewinandchewin-fabric-2.3.2%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "b864b5677dd00fe90f0311c3f27ca141a9dc598e"
+
+[update]
+[update.modrinth]
+mod-id = "e4G0uSdm"
+version = "EFkbOmzx"
