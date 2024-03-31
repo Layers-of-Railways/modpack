@@ -676,6 +676,11 @@ hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
+file = "mods/enchancement.pw.toml"
+hash = "b1fb98bba73569341ebc733ad2dcc6a3a0a7de580f0758f49f353c3367d2bd5f"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "2dfcb2cfbd297d87bc7d11617712c903a49c225278b7cc2e024f112f33412a61"
 metafile = true
@@ -1235,7 +1240,7 @@ metafile = true
 
 [[files]]
 file = "mods/spice-of-fabric.pw.toml"
-hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
+hash = "6ce103cf463401162eb2f09934b5aed9277e1f4788879e11d41b3574c6f7b37c"
 metafile = true
 
 [[files]]
@@ -1311,6 +1316,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b7bbe5dfca543853644d58d3e1a3379a99410054fe1ead9875bdb7b194037011"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]

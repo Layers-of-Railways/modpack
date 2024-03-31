@@ -1,6 +1,6 @@
 name = "Spice of Fabric"
 filename = "spiceoffabric-1.6.2+mc1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/roxihOCb/versions/JQeNIIvU/spiceoffabric-1.6.2%2Bmc1.20.1.jar"

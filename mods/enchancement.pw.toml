@@ -1,0 +1,13 @@
+name = "Enchancement"
+filename = "enchancement-1.20-20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6hN1V6wJ/versions/DNYIZjUo/enchancement-1.20-20.jar"
+hash-format = "sha1"
+hash = "eb6a581c0706a68e6aa9cbdb2f96e2c4b8490c6f"
+
+[update]
+[update.modrinth]
+mod-id = "6hN1V6wJ"
+version = "DNYIZjUo"
