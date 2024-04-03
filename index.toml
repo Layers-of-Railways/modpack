@@ -302,8 +302,8 @@ file = "mods/Copycats-fabric.1.20.1-1.2.1.jar"
 hash = "6b9f2ddfd8328264eb6bf2aaebe37005c79f6d5ddf37bd2e1e65d911835675d9"
 
 [[files]]
-file = "mods/Steam_Rails-fabric-1.20.1-1.6.0+fabric-mc1.20.1-build.1206.jar"
-hash = "94f391cb9b195305236002f9c4b2950ea402616917be6e9ce0fe1e361f56c36e"
+file = "mods/Steam_Rails-fabric-1.20.1-1.6.0+fabric-mc1.20.1-build.1229.jar"
+hash = "04e25ca2e6f61520fc1cfefcd0a53392d9b35c0f7425239a9c20cc5543f0c62e"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
