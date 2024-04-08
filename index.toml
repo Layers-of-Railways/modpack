@@ -1156,6 +1156,11 @@ hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
 metafile = true
 
 [[files]]
+file = "mods/railways-tweaks.pw.toml"
+hash = "6beb69823c49d35af8b088e18f00eff9b536b8f7eacc8d8c27366d7b94c94059"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "02f24aaf25f9885fa5f7b89f3251234ca0c9877b73e633e1bb37de894546f443"
 metafile = true
