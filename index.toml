@@ -302,10 +302,6 @@ file = "mods/Copycats-fabric.1.20.1-1.2.1.jar"
 hash = "6b9f2ddfd8328264eb6bf2aaebe37005c79f6d5ddf37bd2e1e65d911835675d9"
 
 [[files]]
-file = "mods/Steam_Rails-fabric-1.20.1-1.6.0+fabric-mc1.20.1-build.1229.jar"
-hash = "04e25ca2e6f61520fc1cfefcd0a53392d9b35c0f7425239a9c20cc5543f0c62e"
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
@@ -578,6 +574,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "046aad9034b26e7181eacf1cbb00b0b36dd8f4b8531645d32172ff9ee62c4842"
 metafile = true
 
 [[files]]
@@ -1063,6 +1064,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "1f265c12c3649ab889b96bf8a3f5263521e5afc82c66e094983bfd003b3200a2"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "f660ed080a596cbbaf70755536ec8443971e2eea2426a303777ded6a0bba080d"
 metafile = true
 
 [[files]]
