@@ -21,6 +21,10 @@ file = "config/chunky/config.json"
 hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "6aff33acadac41e158ef25466879e1e81d803ad94ffbdbad354424e3f3caebe3"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
