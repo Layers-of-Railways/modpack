@@ -567,6 +567,11 @@ hash = "95a0eea23fda83e653a91b2d90b4e71fd63f516739da28f27253cc66a7da1548"
 metafile = true
 
 [[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "9d1d5e95943b6317efee593128ff7462411f10a294e1fce87ccfe1e2d7999c52"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
@@ -1138,6 +1143,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "938b135f37da76c099b14ba0f381a8515a0a28de62445caff9b2de94737e8894"
+metafile = true
+
+[[files]]
+file = "mods/pretty-in-pink.pw.toml"
+hash = "d2bc506a1c1bef92deaffcf267c99cfcd870f8d06ca3583099d7340a734c00aa"
 metafile = true
 
 [[files]]
