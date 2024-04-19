@@ -158,6 +158,8 @@
 -   [Krypton](https://modrinth.com/mod/fQEb0iXm)
 -   [Spice of Fabric](https://modrinth.com/mod/roxihOCb)
 -   [Starlight (Fabric)](https://modrinth.com/mod/H8CaAYZC)
+-   [Impersonate](https://modrinth.com/mod/impersonate)
+-   [Item Blacklist](https://modrinth.com/mod/item-blacklist)
 -   [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
 -   [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dunegons)
 -   [YUNG's Better End Island](https://modrinth.com/mod/yungs-better-end-island)
