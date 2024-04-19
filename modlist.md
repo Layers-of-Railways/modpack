@@ -222,6 +222,7 @@
 -   [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU)
 -   [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87)
 -   [Default Dark Mode](https://modrinth.com/mod/6SLU7tS5)
+-   [Create Design & Decor](https://www.modrinth.com/mod/create-design-n-decor)
 
 ## Server Mods
 
