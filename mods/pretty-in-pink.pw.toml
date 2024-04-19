@@ -1,0 +1,13 @@
+name = "Pretty in Pink"
+filename = "pretty-in-pink-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5gM3HKP9/versions/laVTfOb8/pretty-in-pink-1.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "ccaf01139d39509c5a33e21ed9a911a2639e742d"
+
+[update]
+[update.modrinth]
+mod-id = "5gM3HKP9"
+version = "laVTfOb8"

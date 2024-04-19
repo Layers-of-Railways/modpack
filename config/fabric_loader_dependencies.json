@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "overrides": {
+        "railwaystweaks": {
+            "-depends": {
+                "fabric-api": ""
+            }
+        }
+    }
+}

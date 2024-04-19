@@ -21,6 +21,10 @@ file = "config/chunky/config.json"
 hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "6aff33acadac41e158ef25466879e1e81d803ad94ffbdbad354424e3f3caebe3"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
@@ -302,10 +306,6 @@ file = "mods/Copycats-fabric.1.20.1-1.2.1.jar"
 hash = "6b9f2ddfd8328264eb6bf2aaebe37005c79f6d5ddf37bd2e1e65d911835675d9"
 
 [[files]]
-file = "mods/Steam_Rails-fabric-1.20.1-1.6.0+fabric-mc1.20.1-build.1229.jar"
-hash = "04e25ca2e6f61520fc1cfefcd0a53392d9b35c0f7425239a9c20cc5543f0c62e"
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
@@ -571,13 +571,23 @@ hash = "95a0eea23fda83e653a91b2d90b4e71fd63f516739da28f27253cc66a7da1548"
 metafile = true
 
 [[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "2b235cb6a41a092158c6cdfa18913bfbd55150e23093dce96580476d140f8d02"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
+hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "046aad9034b26e7181eacf1cbb00b0b36dd8f4b8531645d32172ff9ee62c4842"
 metafile = true
 
 [[files]]
@@ -712,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
 metafile = true
 
 [[files]]
@@ -1066,6 +1076,11 @@ hash = "1f265c12c3649ab889b96bf8a3f5263521e5afc82c66e094983bfd003b3200a2"
 metafile = true
 
 [[files]]
+file = "mods/numismatics.pw.toml"
+hash = "f660ed080a596cbbaf70755536ec8443971e2eea2426a303777ded6a0bba080d"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
@@ -1135,6 +1150,11 @@ hash = "938b135f37da76c099b14ba0f381a8515a0a28de62445caff9b2de94737e8894"
 metafile = true
 
 [[files]]
+file = "mods/pretty-in-pink.pw.toml"
+hash = "d2bc506a1c1bef92deaffcf267c99cfcd870f8d06ca3583099d7340a734c00aa"
+metafile = true
+
+[[files]]
 file = "mods/promenade.pw.toml"
 hash = "4edb1d260abf93b2e69b319a44f2cbf26785850669dc28424bd678207c72f764"
 metafile = true
@@ -1147,6 +1167,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
+metafile = true
+
+[[files]]
+file = "mods/railways-tweaks.pw.toml"
+hash = "6beb69823c49d35af8b088e18f00eff9b536b8f7eacc8d8c27366d7b94c94059"
 metafile = true
 
 [[files]]
