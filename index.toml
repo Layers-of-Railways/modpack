@@ -69,7 +69,7 @@ file = "config/paxi/datapacks/RailwaysTweaks/data/eco/worldgen/placed_feature/un
 hash = "23de0573ba02bcc8ce0a14ce4d62b67e3b77490fded523cb537eeb841824cfd8"
 
 [[files]]
-file = "config/paxi/datapacks/RailwaysTweaks/data/thundxrsbetterworldgen/structure_set/ocean_monuments.json"
+file = "config/paxi/datapacks/RailwaysTweaks/data/thundxrsbetterworldgen/worldgen/structure_set/ocean_monuments.json"
 hash = "7babc68a8b86779fe636e50541398f931c1227ba126f7b5f5ac3a7f579d36b3e"
 
 [[files]]
