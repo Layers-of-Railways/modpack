@@ -711,6 +711,11 @@ hash = "d42acbade20a83ebd7faac05fbe979730a40a170e7ea6e31e126d2517bbb33dd"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "bbf1f031bb9dcf882fb9fd486cc840960075c1a1ade0046123307e7965a1c6db"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "3f8e8ac176ba49b38534ebebdbf062b8731b7399f7284eea48a56c286f0dc271"
 metafile = true
