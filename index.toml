@@ -22,7 +22,7 @@ hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "6aff33acadac41e158ef25466879e1e81d803ad94ffbdbad354424e3f3caebe3"
+hash = "d024c65c1f339136ce04b1d0fe8063d3e50d74a22d040f730a8fe3e248faca02"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
