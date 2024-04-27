@@ -5,6 +5,11 @@
             "-depends": {
                 "fabric-api": ""
             }
+        },
+        "plutonium": {
+            "-depends": {
+                "fabricloader": ""
+            }
         }
     }
 }

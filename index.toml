@@ -22,7 +22,7 @@ hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "6aff33acadac41e158ef25466879e1e81d803ad94ffbdbad354424e3f3caebe3"
+hash = "d024c65c1f339136ce04b1d0fe8063d3e50d74a22d040f730a8fe3e248faca02"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -69,8 +69,8 @@ file = "config/paxi/datapacks/RailwaysTweaks/data/eco/worldgen/placed_feature/un
 hash = "23de0573ba02bcc8ce0a14ce4d62b67e3b77490fded523cb537eeb841824cfd8"
 
 [[files]]
-file = "config/paxi/datapacks/RailwaysTweaks/data/thundxrsbetterworldgen/structure_set/ocean_monuments.json"
-hash = "7babc68a8b86779fe636e50541398f931c1227ba126f7b5f5ac3a7f579d36b3e"
+file = "config/paxi/datapacks/RailwaysTweaks/data/thundxrsbetterworldgen/worldgen/structure_set/ocean_monuments.json"
+hash = "ec9f340eb6e67578913689002f75a8b59170b45fffc611e5679da64d23d4015d"
 
 [[files]]
 file = "config/paxi/datapacks/RailwaysTweaks/pack.mcmeta"
@@ -821,6 +821,11 @@ hash = "6397162c78c64d7e9130223c3a4094ea680df41a4d12f11a2c7fbfb6a73da202"
 metafile = true
 
 [[files]]
+file = "mods/hephaestus.pw.toml"
+hash = "62eeeb1733f37ec138fc076c20d39a12c3d5020b4b67147a523d2fad118da9ff"
+metafile = true
+
+[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "5e60804222681b936e5878d228fb10b5682e3af1d0eedbe120c0b4ee63cc8aaf"
 metafile = true
@@ -1141,7 +1146,12 @@ metafile = true
 
 [[files]]
 file = "mods/plutonium.pw.toml"
-hash = "1f8a1e7683bc94c63a89c33026bb9f5d4fd1932f6d01372d6cac2623e5100535"
+hash = "00a470dfe6cf40ce9a165c672ee1c2582f5375d22681f3138a0ebb1c29fa9ae9"
+metafile = true
+
+[[files]]
+file = "mods/porting_lib.pw.toml"
+hash = "d0c32979073f5ae95c75e59db0627c58180156dfb8e2f59db166a88038cba979"
 metafile = true
 
 [[files]]
