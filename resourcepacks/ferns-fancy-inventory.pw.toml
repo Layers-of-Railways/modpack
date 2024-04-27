@@ -1,0 +1,13 @@
+name = "Fern's Fancy Inventory"
+filename = "Fern's Fancy Inventory 1.20+ 1.1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/64pG0L2N/versions/pnK554XC/Fern%27s%20Fancy%20Inventory%201.20%2B%201.1.2.zip"
+hash-format = "sha1"
+hash = "e57bd17b210782a3129c832c7bd4092262cdaebb"
+
+[update]
+[update.modrinth]
+mod-id = "64pG0L2N"
+version = "pnK554XC"

@@ -1489,8 +1489,8 @@ hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
 metafile = true
 
 [[files]]
-file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "9a33c692779c39ba93f978d14d84aa5b3d98d4a00f066831957a4b980ab4cf4f"
+file = "resourcepacks/ferns-fancy-inventory.pw.toml"
+hash = "900843a668a1fec492f225bf6e53f44fc4e1f397828d06579a44edcb5f19bf35"
 metafile = true
 
 [[files]]
