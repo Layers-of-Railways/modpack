@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
-hash = "128a34295dbfe747270221c001b072d18db1d6899fc3c7f1c9540af79b5ca54a"
-=======
-hash = "7eb6c3e0e7f9f7ccdf6bb8f5fea546297ba46761dd387bbee1282d05a7367bd0"
->>>>>>> 638bf98 (remove tconstruct islands)
+hash = "6258712293b7ed6b0b6214f1c77974a62cbf1aedd71cbf857719b946f2972b64"
 
 [versions]
 fabric = "0.15.7"
