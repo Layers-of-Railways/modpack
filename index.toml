@@ -1284,11 +1284,6 @@ hash = "b2c928a3b6f61ba90704491215f5a23b597704b1d442701cc3ed366d88022db5"
 metafile = true
 
 [[files]]
-file = "mods/starlight.pw.toml"
-hash = "250689d1d6e59b0e76638f28693b3148e72ae66d95c162dfeb7a8f872307f05b"
-metafile = true
-
-[[files]]
 file = "mods/structure-remover.pw.toml"
 hash = "0a68ad0aef99624a6bb9aec2f6e8d274ac6f1021352ab00cd32405aa68717f9c"
 metafile = true
