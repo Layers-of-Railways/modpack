@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "204a0bb9ffabc3158fcdc5508065b7f7bca7fb6c8fa64685399c9d93ab1d1f81"
+hash = "f2820df0f5b9cb37572d70be4aa7042ea68f4bc543a36a7342b9d54e9a6d7378"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "046aad9034b26e7181eacf1cbb00b0b36dd8f4b8531645d32172ff9ee62c4842"
+hash = "e2a5dba48a7a2c809a2d3b0fa4ae5d3664d559415fb843e09111f2bc4e068304"
 metafile = true
 
 [[files]]
