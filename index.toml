@@ -1067,7 +1067,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "2c0ef2c91594cff7e1520aea34571399baffa5efe9f51efe4d82d391dda1b460"
+hash = "c9cdb59d21e87a770310dedf5e5723bf9149d5e4f1949e60770587237236f99b"
 metafile = true
 
 [[files]]
@@ -1410,7 +1410,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "6f1753c4ae3446f7e91bc147588e9dd7b50283075b25ef8bb017099042078157"
+hash = "1657d0714c46b67a1cec4a07472d6c47a3f1cd45fa2fef52a14cd56c0c8d7751"
 metafile = true
 
 [[files]]
