@@ -5,6 +5,10 @@ file = "config/ styled-chat.json"
 hash = "06cc392d5096536b6e51a276d9e1c488c308622ae333a17710ca2f396abe7db7"
 
 [[files]]
+file = "config/auction-house.json5"
+hash = "e22b006affc471055e97ffb6d19429b7dcd11f5e977908b2780902e62ade32ce"
+
+[[files]]
 file = "config/bclib/client.json"
 hash = "08c0a94cacc2235d23ac52bb4e7d9e48ca6095ffc140a459061c4898a9ba3982"
 
