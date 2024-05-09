@@ -149,6 +149,11 @@ hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/refreshed-energistics.pw.toml"
+hash = "70c94a79af4f4588a5db385bdc49a36c5559b8b194f360cafa651d8dcbe802b0"
+metafile = true
+
+[[files]]
 file = "config/picturesign.json"
 hash = "463303f465914df89a159339318874c1b1ebfa3126d0c9938ecaf6f51faefc29"
 
