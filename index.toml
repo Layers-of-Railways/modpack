@@ -6,7 +6,7 @@ hash = "06cc392d5096536b6e51a276d9e1c488c308622ae333a17710ca2f396abe7db7"
 
 [[files]]
 file = "config/auction-house.json5"
-hash = "e22b006affc471055e97ffb6d19429b7dcd11f5e977908b2780902e62ade32ce"
+hash = "211a8f2221425336c5a1f13d0895706761fed4cd526e504ac74be19ff658a365"
 
 [[files]]
 file = "config/bclib/client.json"

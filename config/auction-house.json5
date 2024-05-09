@@ -12,6 +12,7 @@
         "ae2:creative_item_cell",
         "ae2:creative_fluid_cell",
         "ae2:creative_energy_cell",
+        "minecraft:dragon_egg",
     ],
     overworldBlacklist: [],
     netherBlacklist: [],
