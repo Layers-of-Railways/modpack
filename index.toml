@@ -1503,6 +1503,11 @@ hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/create-phonos.pw.toml"
+hash = "0452d2d897328adb92537daad7d05092eea1b03a881aed24659e516baad959c8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/ferns-fancy-inventory.pw.toml"
 hash = "bc4b3fd6725493be62bfca5c843d253498c125936060aa764332676cac8958a3"
 metafile = true
