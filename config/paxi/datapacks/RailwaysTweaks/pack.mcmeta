@@ -2,5 +2,17 @@
     "pack": {
         "pack_format": 15,
         "description": "Steam 'n' Rails Data Tweaks"
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "tconstruct",
+                "path": "worldgen/structure_set/.*_island"
+            },
+            {
+                "namespace": "tconstruct",
+                "path": "worldgen/.*_island"
+            }
+        ]
     }
 }

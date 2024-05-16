@@ -1,13 +1,13 @@
 name = "ItemPhysic Lite"
-filename = "ItemPhysicLite_FABRIC_v1.6.3_mc1.20.2.jar"
+filename = "ItemPhysicLite_FABRIC_v1.6.4_mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OuyCgP8t/versions/q24KUdWR/ItemPhysicLite_FABRIC_v1.6.3_mc1.20.2.jar"
+url = "https://cdn.modrinth.com/data/OuyCgP8t/versions/p4JZ7tZC/ItemPhysicLite_FABRIC_v1.6.4_mc1.20.1.jar"
 hash-format = "sha1"
-hash = "364cad5f227ec8f3e1417d11e073a7ebcbf527f7"
+hash = "936b9dd1fa1ef0d5dcf6ecac0959656811cb0de2"
 
 [update]
 [update.modrinth]
 mod-id = "OuyCgP8t"
-version = "q24KUdWR"
+version = "p4JZ7tZC"

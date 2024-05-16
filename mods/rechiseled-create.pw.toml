@@ -1,13 +1,13 @@
 name = "Rechiseled: Create"
-filename = "rechiseledcreate-1.0.2-fabric-mc1.20.jar"
+filename = "rechiseledcreate-1.0.2a-fabric-mc1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E6867niZ/versions/I2zO7N82/rechiseledcreate-1.0.2-fabric-mc1.20.jar"
+url = "https://cdn.modrinth.com/data/E6867niZ/versions/R9B3ktWE/rechiseledcreate-1.0.2a-fabric-mc1.20.jar"
 hash-format = "sha1"
-hash = "599f2ef88cd6f66a1d17b9b3f84f1b32f3865e40"
+hash = "d8be2c71e3874ef635d34fac4b175365b242e817"
 
 [update]
 [update.modrinth]
 mod-id = "E6867niZ"
-version = "I2zO7N82"
+version = "R9B3ktWE"
