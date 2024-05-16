@@ -308,7 +308,7 @@ hash = "26667369e4504bb2d3e6a80eb3a03377ea9e720429665ac8928aceffc0ed87ed"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "939a8f1804077bed05fd9a9afbf83fd0d924ad5ab860ae776697954bd0274fba"
+hash = "dd3d3c1bd095010aa1516c68430e6ad5131559fe2b535654472553d422331fe7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
