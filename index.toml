@@ -620,6 +620,11 @@ hash = "fe223b787025b59b74996607a0b038df4f6b602f7a3ca13872254548ffa8a90e"
 metafile = true
 
 [[files]]
+file = "mods/createrailwaysnavigator.pw.toml"
+hash = "2d7598d4c6e89c2441b385b62a95740e6da1bf064b6bb55fe45804c26b6c1a90"
+metafile = true
+
+[[files]]
 file = "mods/dawn.pw.toml"
 hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
