@@ -1,5 +1,7 @@
 {
     globalBlacklist: [
+        "mod_id:item_id",
+        "mod_id:item2_id",
         "armourers_workshop:skin-library-creative",
         "create:handheld_worldshaper",
         "create:creative_motor",
@@ -13,6 +15,7 @@
         "ae2:creative_fluid_cell",
         "ae2:creative_energy_cell",
         "minecraft:dragon_egg",
+        "createaddition:creative_generator",
     ],
     overworldBlacklist: [],
     netherBlacklist: [],
