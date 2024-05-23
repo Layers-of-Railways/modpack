@@ -1,2 +1,5 @@
 # Dont run prettier here since its annoying
 .packwizignore
+
+# Don't break json5 files
+**/*.json5
