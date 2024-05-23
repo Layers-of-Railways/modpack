@@ -29,7 +29,7 @@
         "ae2:creative_fluid_cell",
         "ae2:creative_energy_cell",
         "minecraft:dragon_egg",
-        "createaddition:creative_generator"
+        "createaddition:creative_energy"
     ],
     // -----------------------------------------------------------
     // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
