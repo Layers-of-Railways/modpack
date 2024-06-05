@@ -25,24 +25,12 @@ file = "config/fabric_loader_dependencies.json"
 hash = "d024c65c1f339136ce04b1d0fe8063d3e50d74a22d040f730a8fe3e248faca02"
 
 [[files]]
-file = "config/fancymenu/assets/fallbacktitle.png"
-hash = "7bf592012000ac87ff884db309dda5234312f39683d012a448eaf862f18f5445"
-
-[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
 hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
-
-[[files]]
-file = "config/fancymenu/customization/meow.txt"
-hash = "1216acaba685130dee145b54031f072fd1194949119e76c9b104ab2122c9e4a5"
-
-[[files]]
-file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "33f3635e2db64a1871e559ccfca328d16731cb914f2f981a533d9419cb4ea99c"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -66,7 +54,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "aa35a6d67ac58d2ddf2a10231df734c5561d41fe9940afd12e066346fcc4cefa"
+hash = "ea542f664b58f747096f8e906402d2ce887e6e8422ea5194b932a53933919930"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
