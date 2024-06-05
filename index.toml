@@ -5,10 +5,6 @@ file = "config/ styled-chat.json"
 hash = "06cc392d5096536b6e51a276d9e1c488c308622ae333a17710ca2f396abe7db7"
 
 [[files]]
-file = "config/auction-house.json5"
-hash = "211a8f2221425336c5a1f13d0895706761fed4cd526e504ac74be19ff658a365"
-
-[[files]]
 file = "config/bclib/client.json"
 hash = "08c0a94cacc2235d23ac52bb4e7d9e48ca6095ffc140a459061c4898a9ba3982"
 
@@ -75,6 +71,10 @@ hash = "aa35a6d67ac58d2ddf2a10231df734c5561d41fe9940afd12e066346fcc4cefa"
 [[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "c342e48d8a0b1ccee431f0817ac85369b4c1f4e1028062ef8f7438115f311d53"
 
 [[files]]
 file = "config/lmft.json"
@@ -929,8 +929,8 @@ hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
 
 [[files]]
-file = "mods/item-blacklist.pw.toml"
-hash = "4907615b2a90b474c57db3f920fa44a5f2c1b1b702ca7f90f7ef5e1e1f7cfbaf"
+file = "mods/item-obliterator.pw.toml"
+hash = "7ef9eaadf1dbe30b54bb36294ad838277bad60ac1e04b26cae83fb6139cb3994"
 metafile = true
 
 [[files]]
@@ -1151,6 +1151,11 @@ metafile = true
 [[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "50583888fb243c2a98f9ca32de1ff065a8ddeecf40e1b60389adf94f17edf675"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
 metafile = true
 
 [[files]]
