@@ -29,6 +29,50 @@ file = "config/fabric_loader_dependencies.json"
 hash = "d024c65c1f339136ce04b1d0fe8063d3e50d74a22d040f730a8fe3e248faca02"
 
 [[files]]
+file = "config/fancymenu/assets/fallbacktitle.png"
+hash = "7bf592012000ac87ff884db309dda5234312f39683d012a448eaf862f18f5445"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/meow.txt"
+hash = "1216acaba685130dee145b54031f072fd1194949119e76c9b104ab2122c9e4a5"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "33f3635e2db64a1871e559ccfca328d16731cb914f2f981a533d9419cb4ea99c"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "1d85f26b0ffee8052f9a2b47d3bb3a2c65e262a1ba56ad3b3902e22e582c3ab9"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "2a70971622b2c0951c7a467951b127021ff46ea16f7d857c603cb7a258feccb5"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "aa35a6d67ac58d2ddf2a10231df734c5561d41fe9940afd12e066346fcc4cefa"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
@@ -645,6 +689,11 @@ hash = "f189746778654d05f2f568cb23d3a6ea50c25b7c0f490c1091b77e2eb60327d9"
 metafile = true
 
 [[files]]
+file = "mods/delightful-creators-fabric.pw.toml"
+hash = "2669ee304ddaa3bc3879c25147b12fa382b6baa1cc75153639d33d8f954b9f83"
+metafile = true
+
+[[files]]
 file = "mods/demanding-saplings.pw.toml"
 hash = "9623eaa32af4617924dc93ff654f824b6bf583775b81116e341d0be8c9ad1494"
 metafile = true
@@ -760,6 +809,11 @@ hash = "4637aea36cfa56c6456981c710535cdde86f1006fb4c1ba239fbc759b782cd88"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
 metafile = true
@@ -777,6 +831,11 @@ metafile = true
 [[files]]
 file = "mods/fastquit.pw.toml"
 hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
+metafile = true
+
+[[files]]
+file = "mods/fdrfdcrf.pw.toml"
+hash = "aa138dc06124598475edfc23c6d179a3d02692abe834f99ecfe7077d41d9d936"
 metafile = true
 
 [[files]]
@@ -905,6 +964,11 @@ hash = "9ee44f2b5e17d15ac6ca16542413fd94314f840bd56fbec7e13faed7d2c411dd"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "067d992d925772f757e82085496010fb5bc1f5b84bd899f4c6be9fa1e638da49"
 metafile = true
@@ -1007,6 +1071,11 @@ metafile = true
 [[files]]
 file = "mods/mega.pw.toml"
 hash = "748815cd94ba16a42140a456af563d916cec58c84022b462c5607ce6c8f8a961"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
 
 [[files]]
@@ -1234,17 +1303,17 @@ hash = "f6238100a1fd9bd3dfacde950052f3a90cd2749fdcb4bfcbee58b3fc31665284"
 metafile = true
 
 [[files]]
+file = "mods/respite-creators-fabric.pw.toml"
+hash = "bf0954317bd6cb4067803b2324ec4669713e5c87ea0b778163574a8cf190fa0a"
+metafile = true
+
+[[files]]
 file = "mods/reterraforged-0.0.6-fabric-1.20.1.jar"
 hash = "00f6933717bf3fcad22fe3525bce3746d50fa26298d1755bf694fb06124819c8"
 
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
-metafile = true
-
-[[files]]
-file = "mods/rrls.pw.toml"
-hash = "e96bb13c530a62100ad228f1c59f0fc37ceb91ec3e622a0a5d0e32cbe5d95424"
 metafile = true
 
 [[files]]
