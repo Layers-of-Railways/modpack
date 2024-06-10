@@ -1267,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "53bd9f86830aaa778831b4c252179798a4359e5c837a196dd90ac5053ebcc75a"
+hash = "4464f1ce6e8d9d7b44d1c974747ce48483358c135171dd7b3ebb6de4cc12c8c3"
 metafile = true
 
 [[files]]
@@ -1332,11 +1332,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "9dc261013aeb469fb039c3dd47271351f339cfaf95f8c95a7c4053062d605255"
-metafile = true
-
-[[files]]
-file = "mods/sneaky-server.pw.toml"
-hash = "3d56b007768321cafab75e63bc422b6060e0da8ca162095d1b28d81392e94ca9"
 metafile = true
 
 [[files]]
