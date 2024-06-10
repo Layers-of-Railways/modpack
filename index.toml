@@ -1335,6 +1335,11 @@ hash = "9dc261013aeb469fb039c3dd47271351f339cfaf95f8c95a7c4053062d605255"
 metafile = true
 
 [[files]]
+file = "mods/sneaky-server.pw.toml"
+hash = "3d56b007768321cafab75e63bc422b6060e0da8ca162095d1b28d81392e94ca9"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
 metafile = true
