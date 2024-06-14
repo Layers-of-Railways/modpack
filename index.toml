@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "f2820df0f5b9cb37572d70be4aa7042ea68f4bc543a36a7342b9d54e9a6d7378"
+hash = "297457710ba0121b7b7ff4d36bd60ee6f260aabb293c7f27006289b3979c8b5d"
 metafile = true
 
 [[files]]
@@ -604,6 +604,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "0d22098248a52ed5fdd4805169a8b23be195684d91e75605bec360bc968fb918"
 metafile = true
 
 [[files]]
