@@ -1178,7 +1178,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "908a4dcd0909080901e66f5bed636316e10938d1795ad309697d40dd47fb7f7c"
+hash = "9305abd7bed1a6175113e2fca0fe65174023cda93ce42716c5a94eba5d715bbf"
 metafile = true
 
 [[files]]
@@ -1277,7 +1277,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "4464f1ce6e8d9d7b44d1c974747ce48483358c135171dd7b3ebb6de4cc12c8c3"
+hash = "bde545f204fc5eb27c4d5739e7721664958d4a74c12df19c994126044e22262a"
 metafile = true
 
 [[files]]
