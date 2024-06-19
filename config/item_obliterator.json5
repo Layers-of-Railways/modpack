@@ -19,7 +19,7 @@
         "minecraft:command_block",
         "minecraft:command_block_minecart",
         "minecraft:chain_command_block",
-        "minecraft:repeating_command_block"
+        "minecraft:repeating_command_block",
         "armourers_workshop:skin-library-creative",
         "create:handheld_worldshaper",
         "create:creative_motor",
