@@ -1277,7 +1277,12 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "4464f1ce6e8d9d7b44d1c974747ce48483358c135171dd7b3ebb6de4cc12c8c3"
+hash = "946e420569acfb2138a64700c909aadd76ae7ef0e194b628415e80664d02d53b"
+metafile = true
+
+[[files]]
+file = "mods/railwaystweaks.pw.toml"
+hash = "ae650ec24735852975738b600315a82dc9e8953e0943239e4d4d97eac0c9f0a7"
 metafile = true
 
 [[files]]
