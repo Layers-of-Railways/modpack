@@ -1,4 +1,7 @@
+let removeFromAllLootTables = ["minecraft:totem"];
+
 onEvent("lootjs", (event) => {
-    // disable totems
-    event.addBlockLootModifier(/.*/).removeLoot("minecraft:totem");
+    removeFromAllLootTables.forEach((item) => {
+        event.addBlockLootModifier(/.*/).removeLoot(item);
+    });
 });

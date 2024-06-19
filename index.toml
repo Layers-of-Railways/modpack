@@ -332,7 +332,7 @@ hash = "17f9f724dab3a3499a8ac933bb12a77740e02e45b3a6c403d3fa018cd077b457"
 
 [[files]]
 file = "kubejs/server_scripts/loot_modifications.js"
-hash = "deb1f3dab08ebb4269ccd4bc7187bf280db84e094f7892f00d76ff12c4aa4c4f"
+hash = "ff8092997eae613248e2abcf9a6d1576b43277ecb07a4eeed0c582a45a8c1726"
 
 [[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
