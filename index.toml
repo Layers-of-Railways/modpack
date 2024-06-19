@@ -331,6 +331,10 @@ file = "kubejs/server_scripts/easter_eggs.js"
 hash = "17f9f724dab3a3499a8ac933bb12a77740e02e45b3a6c403d3fa018cd077b457"
 
 [[files]]
+file = "kubejs/server_scripts/loot_modifications.js"
+hash = "deb1f3dab08ebb4269ccd4bc7187bf280db84e094f7892f00d76ff12c4aa4c4f"
+
+[[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
 hash = "d6e013d21b3014bda7d7b5f74f53b3e16807c30476dc89d78d980a29cc3b4060"
 
@@ -1042,6 +1046,11 @@ hash = "86ce30ccc9a035c6249d8140abf8d0fae7f828472913409b3febf46394bbc34d"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "33315b872164da7d6ecb69cb3996dc2ac6d126a33eb8b7e90425874f257aa93a"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
 metafile = true
@@ -1421,7 +1430,7 @@ metafile = true
 
 [[files]]
 file = "mods/taterzens.pw.toml"
-hash = "a9130456bfeb0256291677f12b0f732ec776fea865c9d9a8254980f02ae512e5"
+hash = "28143eb8e3d0b5c4a0e06dd78c25cdeb32196cc1c67766064527a27932f39b5b"
 metafile = true
 
 [[files]]
