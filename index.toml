@@ -352,10 +352,6 @@ hash = "bc4677b5d9ff2bca2d8e031faf781a10bc578b95cdb709527b8eb85d79e4daae"
 metafile = true
 
 [[files]]
-file = "mods/Copycats-fabric.1.20.1-1.2.1.jar"
-hash = "6b9f2ddfd8328264eb6bf2aaebe37005c79f6d5ddf37bd2e1e65d911835675d9"
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
@@ -1287,11 +1283,6 @@ metafile = true
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
 hash = "946e420569acfb2138a64700c909aadd76ae7ef0e194b628415e80664d02d53b"
-metafile = true
-
-[[files]]
-file = "mods/railwaystweaks.pw.toml"
-hash = "ae650ec24735852975738b600315a82dc9e8953e0943239e4d4d97eac0c9f0a7"
 metafile = true
 
 [[files]]
