@@ -17,4 +17,3 @@ packwiz.exe
 **/server
 # mcman: Exclude local dotenv files
 **/.env
-
