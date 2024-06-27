@@ -1,0 +1,17 @@
+name = "fabric-language-kotlin-1.10.20+kotlin.1.9.24"
+filename = "fabric-language-kotlin-1.10.20+kotlin.1.9.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/a7MqDLdC/fabric-language-kotlin-1.10.20%2Bkotlin.1.9.24.jar"
+hash = "1cae905fe4a051a3a1c6c60d292ad7455d4564f1754b362318d7be3807b45673f4933f3a27e6cc4bc9b2fe94708daf54bd70a7c226d39e132dc48aaa356184dc"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "Ha28R6CL"
+version = "a7MqDLdC"

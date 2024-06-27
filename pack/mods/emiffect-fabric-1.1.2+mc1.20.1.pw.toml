@@ -1,0 +1,17 @@
+name = "emiffect-fabric-1.1.2+mc1.20.1"
+filename = "emiffect-fabric-1.1.2+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/705gWllI/versions/BslzSzGd/emiffect-fabric-1.1.2%2Bmc1.20.1.jar"
+hash = "084bcd4a045e1a58cfff4fb6b8707ff72904ec183464b5c0772bcda11e4b369a503e00c386893da286b2675489ce2704759b5d36cdb42674b9a991f0ceaea331"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "705gWllI"
+version = "BslzSzGd"

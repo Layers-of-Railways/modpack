@@ -1,0 +1,17 @@
+name = "tectonic-fabric-1.20-2.3.4"
+filename = "tectonic-fabric-1.20-2.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/PFg0zBtc/tectonic-fabric-1.20-2.3.4.jar"
+hash = "2300ea86ec2e0156713f0e75411fa2997727f0a61bfb0fc59c24abc8df0375a81e39dd8c3dc0d336a060c9048e15b2547b089d0b30a689f3289335fb64fb2f1c"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "lWDHr9jE"
+version = "PFg0zBtc"

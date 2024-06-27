@@ -1,0 +1,17 @@
+name = "amendments-1.20-1.1.27-fabric"
+filename = "amendments-1.20-1.1.27-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6iTJugQR/versions/ctiduQ4p/amendments-1.20-1.1.27-fabric.jar"
+hash = "476aa7c9794d74a34d59c8aa27b05fde3ae2e6c0437afbbda926df1085314106cb253b772b0cb0de0286de452fbbd30db122729e40911ee21d6ee5d46c9ab8e2"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "6iTJugQR"
+version = "ctiduQ4p"

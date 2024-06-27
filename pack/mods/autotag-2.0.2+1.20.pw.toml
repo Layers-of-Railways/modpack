@@ -1,0 +1,17 @@
+name = "autotag-2.0.2+1.20"
+filename = "autotag-2.0.2+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8FdYDHF5/versions/ocD9XA8D/autotag-2.0.2%2B1.20.jar"
+hash = "86b27da622ca4d5003e2c78c9da91468fde31e6d57af92e3f346403935818b6b1f02f16114ff11fc635a2f6b7511003c37141fb947d9d8537805b7deff2bbd5d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "8FdYDHF5"
+version = "ocD9XA8D"

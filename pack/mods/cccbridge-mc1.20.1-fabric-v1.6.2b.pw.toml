@@ -1,0 +1,17 @@
+name = "cccbridge-mc1.20.1-fabric-v1.6.2b"
+filename = "cccbridge-mc1.20.1-fabric-v1.6.2b.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fXt291FO/versions/57pJUQQM/cccbridge-mc1.20.1-fabric-v1.6.2b.jar"
+hash = "f9311e1f851298478adafc8e22c98d9aee9c8b9783bde726c296991f725d7a3c611b4087136d8af1958673c795c4b3025f3b87abeb877502ecdeffa4cc8e934d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "fXt291FO"
+version = "57pJUQQM"

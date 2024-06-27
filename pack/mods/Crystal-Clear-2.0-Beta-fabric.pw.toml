@@ -1,0 +1,17 @@
+name = "Crystal-Clear-2.0-Beta-fabric"
+filename = "Crystal-Clear-2.0-Beta-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h7QgiH72/versions/p1Zl1Pi5/Crystal-Clear-2.0-Beta-fabric.jar"
+hash = "9c21f35d3127815cf4a090cf6619a68e4b88faa53dcc89fae033ab35245b7fb0171d4ea53aa0f0a1a3c50f7248c66cf2daad0491b1cfc209c509d543b1bb1eb5"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "h7QgiH72"
+version = "p1Zl1Pi5"

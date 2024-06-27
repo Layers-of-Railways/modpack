@@ -1,0 +1,13 @@
+name = "worldedit-mod-7.2.15"
+filename = "worldedit-mod-7.2.15.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4586/218/worldedit-mod-7.2.15.jar"
+hash = "bd0e7cff7896348faab92e43300d0639"
+hash-format = "md5"
+mode = "url"
+
+[option]
+optional = false
+default = false

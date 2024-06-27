@@ -1,0 +1,13 @@
+name = "swampier_swamps-1.20-4.0.0"
+filename = "swampier_swamps-1.20-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4580/758/swampier_swamps-1.20-4.0.0.jar"
+hash = "04b2a37704f2c6d732470016b7919c6c"
+hash-format = "md5"
+mode = "url"
+
+[option]
+optional = false
+default = false

@@ -1,0 +1,17 @@
+name = "morediscs-1.20.1-33-fabric"
+filename = "morediscs-1.20.1-33-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pXYChc1a/versions/MU4Hsnzz/morediscs-1.20.1-33-fabric.jar"
+hash = "05a886640477085cfe8e2e24db8b10ac8a47dc586d5f821c65ec4bd6953240aa951b33f84567bf5370b4ad7aef7310f170209f9b6f4863c64d225bc6de6298ee"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "pXYChc1a"
+version = "MU4Hsnzz"

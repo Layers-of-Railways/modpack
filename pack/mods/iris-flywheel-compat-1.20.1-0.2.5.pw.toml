@@ -1,0 +1,17 @@
+name = "iris-flywheel-compat-1.20.1-0.2.5"
+filename = "iris-flywheel-compat-1.20.1-0.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ndHYMY2K/versions/ce9TjaVw/iris-flywheel-compat-1.20.1-0.2.5.jar"
+hash = "8f027d3827ec7db5d08b564cc8dd092ac21ec8ddc0e386a1db63b2376327e5f20397756ff549c491d18133d5170a162218d6b1edafe5da0a546313ace4f035f8"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "ndHYMY2K"
+version = "ce9TjaVw"

@@ -1,0 +1,17 @@
+name = "letmedespawn-fabric-1.20.x-1.2.0"
+filename = "letmedespawn-fabric-1.20.x-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vE2FN5qn/versions/qpC0XlcW/letmedespawn-fabric-1.20.x-1.2.0.jar"
+hash = "184400eaa523f35b84ffe9e09ebbd0ea059af0143191bd56d171c6800aad6789f77470fb04f1e6454b7e67b79a059a0f818917248cd86de4198ef56fa81ce59c"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "vE2FN5qn"
+version = "qpC0XlcW"

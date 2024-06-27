@@ -1,0 +1,17 @@
+name = "spark-1.10.53-fabric"
+filename = "spark-1.10.53-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l6YH9Als/versions/XGW2fviP/spark-1.10.53-fabric.jar"
+hash = "ce6e8f7071bb37369ad3e90d844926b424e82d0fe0ffd0db7058abddc9cfcdd594e145c9395677ad70ec532f3da0b23b6862d1f1c20f7600263c215abb4fcea7"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "l6YH9Als"
+version = "XGW2fviP"

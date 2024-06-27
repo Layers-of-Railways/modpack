@@ -1,0 +1,17 @@
+name = "iris-1.7.0+mc1.20.1"
+filename = "iris-1.7.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/KHQ2Hnpt/iris-1.7.0%2Bmc1.20.1.jar"
+hash = "b02919e950102b77eb9f2908f8afa8b77af4b21381faf7c32c1b8a2efda3ca95acd21c940fe617165c3670ecc091c4f5034934e02ddec592f29c2c6cf85560f8"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "YL57xq9U"
+version = "KHQ2Hnpt"

@@ -1,0 +1,17 @@
+name = "fancymenu_fabric_3.2.3_MC_1.20.1"
+filename = "fancymenu_fabric_3.2.3_MC_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wq5SjeWM/versions/3dDslDXq/fancymenu_fabric_3.2.3_MC_1.20.1.jar"
+hash = "fb5574b32484425cc293937d331b0674b28bf6b05be1ca045769f6e458ed179b851322df68dbfbb6cd84c1deebf37a7343a6243dfde50d0bfeac36feb0b1a451"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "Wq5SjeWM"
+version = "3dDslDXq"

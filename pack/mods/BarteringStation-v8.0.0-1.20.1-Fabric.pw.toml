@@ -1,0 +1,17 @@
+name = "BarteringStation-v8.0.0-1.20.1-Fabric"
+filename = "BarteringStation-v8.0.0-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EOig9U0j/versions/tCw8RpfZ/BarteringStation-v8.0.0-1.20.1-Fabric.jar"
+hash = "9a5bb026efee4e764ed4a7ab9d9685755f2be227cbf14a4857f7e00c2edd40a49acd979cee2167a1867c01c77f30ecd38ca8d7797c5b0f4e037f0b7c53c38b9d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "EOig9U0j"
+version = "tCw8RpfZ"

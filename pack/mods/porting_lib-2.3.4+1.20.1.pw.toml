@@ -1,0 +1,17 @@
+name = "porting_lib-2.3.4+1.20.1"
+filename = "porting_lib-2.3.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tEJPA4Ty/versions/GWCykcY1/porting_lib-2.3.4%2B1.20.1.jar"
+hash = "76fe7b6ac3519e5f8189e63092bb4c5ac4241fcefa0ee3bf1b6777dd07e2065feb4e11bbf4a29f566ec0931657caea8d74d88ab7ceff3ef93d3a8c466196bf41"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "tEJPA4Ty"
+version = "GWCykcY1"

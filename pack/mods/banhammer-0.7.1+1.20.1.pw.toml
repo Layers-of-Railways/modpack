@@ -1,0 +1,17 @@
+name = "banhammer-0.7.1+1.20.1"
+filename = "banhammer-0.7.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wpqg0ciI/versions/G7qtTNmv/banhammer-0.7.1%2B1.20.1.jar"
+hash = "14b192fb8d4af9b84b33cb1e16dcd7f2fc33dc35d2b9d1981ba8eb03ab163a2c97902bde7c3fe73280d5dda5e289344dad0aebaef64b1be6cac1eddd95f3c9a1"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "Wpqg0ciI"
+version = "G7qtTNmv"

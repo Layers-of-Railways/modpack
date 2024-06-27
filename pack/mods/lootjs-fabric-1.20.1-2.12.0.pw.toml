@@ -1,0 +1,17 @@
+name = "lootjs-fabric-1.20.1-2.12.0"
+filename = "lootjs-fabric-1.20.1-2.12.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fJFETWDN/versions/4bA9z4Qr/lootjs-fabric-1.20.1-2.12.0.jar"
+hash = "18afd3cd0be3e3ca5dc1a61a3fbbe322ff40175ac2653f4066c772e45a6b03f58fe223cd08ca56118720fcfd490f272b496e802b8aba428e34ba847b3ae88eb2"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "fJFETWDN"
+version = "4bA9z4Qr"

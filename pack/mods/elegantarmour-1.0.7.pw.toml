@@ -1,0 +1,17 @@
+name = "elegantarmour-1.0.7"
+filename = "elegantarmour-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1LrBk5C6/versions/Sggsrxw0/elegantarmour-1.0.7.jar"
+hash = "adffb707162c7a67143a86fafeac6c4753b61cb2958e63f0e322f5440639882aa18634d853515bcdf57d70e8cf2255e6c2058af2fb73920979e5a6666fa1b63a"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "1LrBk5C6"
+version = "Sggsrxw0"

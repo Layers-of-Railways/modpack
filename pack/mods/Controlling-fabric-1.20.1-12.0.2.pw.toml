@@ -1,0 +1,17 @@
+name = "Controlling-fabric-1.20.1-12.0.2"
+filename = "Controlling-fabric-1.20.1-12.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/6ipZLQSK/Controlling-fabric-1.20.1-12.0.2.jar"
+hash = "1e3da9b2b50488daa7b9165930a48158330404110912037cf42543c6acf649ad79019a324ee42e5ef88ad51bb64ee40684a147bfb7847412259b7cebff0134ee"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "xv94TkTM"
+version = "6ipZLQSK"

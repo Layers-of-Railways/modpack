@@ -1,0 +1,17 @@
+name = "UnlimitedBannerLayers-1.1.0"
+filename = "UnlimitedBannerLayers-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VHtN7u8P/versions/6GOqO8tu/UnlimitedBannerLayers-1.1.0.jar"
+hash = "34b4097ff2dd9434c3aba1d2c15bfe82d3c3020a783666b6199bdd900b2b8648edbf9d6cd59594786b66830dcf7fe51778afb7118b67bfd9b88ab578988af70e"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "VHtN7u8P"
+version = "6GOqO8tu"

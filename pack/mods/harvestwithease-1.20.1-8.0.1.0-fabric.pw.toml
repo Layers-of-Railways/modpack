@@ -1,0 +1,17 @@
+name = "harvestwithease-1.20.1-8.0.1.0-fabric"
+filename = "harvestwithease-1.20.1-8.0.1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W4Ajthd2/versions/n6micWfq/harvestwithease-1.20.1-8.0.1.0-fabric.jar"
+hash = "33395c157762b3bef7c68faae71b1e0ac7bcc5fcea757132cdfcae2feba67c32e999e8228447d32f0512b11f824a7d06124be12deffd1cb9fc2e51e3b11ec895"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "W4Ajthd2"
+version = "n6micWfq"

@@ -1,0 +1,17 @@
+name = "peripheralworks-fabric-1.20.1-1.4.3"
+filename = "peripheralworks-fabric-1.20.1-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sf7QBsRP/versions/llME0vcm/peripheralworks-fabric-1.20.1-1.4.3.jar"
+hash = "ca8375665bc7d52ba2fd684d270b86069986834d52464ff00d32d3cc42dbb36f68f8317827bae9b841b166a194b0f99066bc1aa3fc04ddadbf33fe01a5730d79"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "Sf7QBsRP"
+version = "llME0vcm"

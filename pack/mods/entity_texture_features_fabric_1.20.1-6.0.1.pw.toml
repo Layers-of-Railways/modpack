@@ -1,0 +1,17 @@
+name = "entity_texture_features_fabric_1.20.1-6.0.1"
+filename = "entity_texture_features_fabric_1.20.1-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/jXc7eTKi/entity_texture_features_fabric_1.20.1-6.0.1.jar"
+hash = "d82a4ec5c0ea6e2bafa3c7507de262905f4254e10167e6cf84c355536e4f9895cf5c8ad4f3346dcefcc61b3ef565720edf771555ca015ac03326f51e214b326f"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "BVzZfTc1"
+version = "jXc7eTKi"

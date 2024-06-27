@@ -1,0 +1,17 @@
+name = "brewinandchewin-3.0.3+1.20.1"
+filename = "brewinandchewin-3.0.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e4G0uSdm/versions/KPe7wpZQ/brewinandchewin-3.0.3%2B1.20.1.jar"
+hash = "e1f35694e4c65322df74dd95758ee2064d3a69cb58b2adb91d8c3813531259696b9e83e6d7542cfe47f64b34485f3da1c2d7d5a5d5aacaa9d7f2e321c23fba55"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "e4G0uSdm"
+version = "KPe7wpZQ"

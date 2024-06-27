@@ -1,0 +1,13 @@
+name = "backpacked-fabric-1.20.1-2.2.7"
+filename = "backpacked-fabric-1.20.1-2.2.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4728/986/backpacked-fabric-1.20.1-2.2.7.jar"
+hash = "27a53a55d8379624e38d6e56ffed880f"
+hash-format = "md5"
+mode = "url"
+
+[option]
+optional = false
+default = false

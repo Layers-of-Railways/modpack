@@ -1,0 +1,17 @@
+name = "BlueMap-3.21-fabric-1.20"
+filename = "BlueMap-3.21-fabric-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/swbUV1cr/versions/KJdesrDu/BlueMap-3.21-fabric-1.20.jar"
+hash = "6cfd74a715d09d1ef2a101a2c0eaa41674be7d1b3303c23882c15c0576e2e3d092a90a34b016eee60c00d2c8469184e1e9064784f361791e91802a4485466428"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "swbUV1cr"
+version = "KJdesrDu"

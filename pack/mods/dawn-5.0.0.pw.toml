@@ -1,0 +1,17 @@
+name = "dawn-5.0.0"
+filename = "dawn-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/meZK2DCX/versions/J6b05anw/dawn-5.0.0.jar"
+hash = "1dc8e2c2e5785541f22f4b7c628c6deab4bc5b6c5880824f146e5bdefbb2b15686f3133bd0b015e0ebe33a014676e3c420e2faf06ce864a87b8d0f352aec4ffa"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "meZK2DCX"
+version = "J6b05anw"

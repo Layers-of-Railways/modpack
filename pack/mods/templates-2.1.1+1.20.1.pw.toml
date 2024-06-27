@@ -1,0 +1,17 @@
+name = "templates-2.1.1+1.20.1"
+filename = "templates-2.1.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cL15qXuP/versions/MfkaTSSm/templates-2.1.1%2B1.20.1.jar"
+hash = "4051d618fc26cb7052cb4936cf22026799b15b496a147ab121d699000af55dfd0263ed16810781559570bff89b511355695f8736c9627d55147a017170dfa3fd"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "cL15qXuP"
+version = "MfkaTSSm"

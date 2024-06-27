@@ -1,0 +1,17 @@
+name = "createaddition-fabric+1.20.1-1.2.3"
+filename = "createaddition-fabric+1.20.1-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/J3uh8pqe/createaddition-fabric%2B1.20.1-1.2.3.jar"
+hash = "1b3547ef31fddfed5fdb9f9a822354b150462052212f1935c9c3bf4167390cb744ee56b18ff07ed19e706462b5e9bb3c7f4182fe71d9d0bab3ad1bbdeeb9ba40"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "kU1G12Nn"
+version = "J3uh8pqe"

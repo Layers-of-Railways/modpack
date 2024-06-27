@@ -1,0 +1,17 @@
+name = "eco-1.20.x-2.4.6"
+filename = "eco-1.20.x-2.4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WtcuxDNN/versions/kgiB4umm/eco-1.20.x-2.4.6.jar"
+hash = "7139c1c141a55dc6279592aca59deab79e4d9942a398c0dd46c4d3c1413bfceacb12b467e9d6c4fd599ab2b7d2da40f44786d3547e7d286a1a4dd182e42720b7"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "WtcuxDNN"
+version = "kgiB4umm"

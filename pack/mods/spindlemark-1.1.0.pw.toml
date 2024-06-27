@@ -1,0 +1,17 @@
+name = "spindlemark-1.1.0"
+filename = "spindlemark-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u1qiGWU0/versions/scaChaDh/spindlemark-1.1.0.jar"
+hash = "405b8d4184d5f148e5c69aa8be361ac3d0b375faf5629df18fbaad93e1bed86276f497b2ce7026b2729a4c5f1835c763d7ae8e7c6d547a54ce62bafe591ebbb8"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "u1qiGWU0"
+version = "scaChaDh"

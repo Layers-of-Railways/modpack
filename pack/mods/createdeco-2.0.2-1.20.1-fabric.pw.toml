@@ -1,0 +1,17 @@
+name = "createdeco-2.0.2-1.20.1-fabric"
+filename = "createdeco-2.0.2-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sMvUb4Rb/versions/GsxgfeNu/createdeco-2.0.2-1.20.1-fabric.jar"
+hash = "f7ce4b520b7eb47fb9d1a8f510465b96673dee2d6f91ff0720713ee62143d095b399a980666538ebfb8b401fb5e93baf50a2cb2be6a4f2adfde2024f198a35c9"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "sMvUb4Rb"
+version = "GsxgfeNu"

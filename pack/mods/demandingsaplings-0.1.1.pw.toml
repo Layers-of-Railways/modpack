@@ -1,0 +1,17 @@
+name = "demandingsaplings-0.1.1"
+filename = "demandingsaplings-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qvyoz8jh/versions/dZ454Ly3/demandingsaplings-0.1.1.jar"
+hash = "cdf3ae899722ddf543f9aa496c70b63ca763e09f092b3560ce7f6071fdab6fc779b3cd377c15ec7e8e6fd55f684e3ed723eaf80f3026bf290dee5f88d4e54938"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "qvyoz8jh"
+version = "dZ454Ly3"

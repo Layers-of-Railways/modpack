@@ -1,0 +1,17 @@
+name = "figura-0.1.4+1.20.1-fabric-mc"
+filename = "figura-0.1.4+1.20.1-fabric-mc.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s9gIPDom/versions/DhHrk371/figura-0.1.4%2B1.20.1-fabric-mc.jar"
+hash = "33d1678ee971b0a7be36f705e70028d717412f23eae9f11bdae4f92913c475b4c3551fd4f47339a3751767bced161b575d38384fead352e00d91d84564cff5f5"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "s9gIPDom"
+version = "DhHrk371"

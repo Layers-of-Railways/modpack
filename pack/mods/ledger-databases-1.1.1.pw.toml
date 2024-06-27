@@ -1,0 +1,13 @@
+name = "ledger-databases-1.1.1"
+filename = "ledger-databases-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3834/676/ledger-databases-1.1.1.jar"
+hash = "a45b54becc2935816acd76706e400854"
+hash-format = "md5"
+mode = "url"
+
+[option]
+optional = false
+default = false

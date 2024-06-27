@@ -1,0 +1,17 @@
+name = "exposure_catalog-1.20.1-1.0.0-fabric"
+filename = "exposure_catalog-1.20.1-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PWcQ3kcp/versions/fqKGVY0P/exposure_catalog-1.20.1-1.0.0-fabric.jar"
+hash = "9ba72448b6c6b66812f01dadf291b6c95060b402b4c0cfd22e0399b9c88f302bb9a72ab081ffaeaba55fb3efe53e17b45d13380183f386bf0d8cdabf3ab91c04"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "PWcQ3kcp"
+version = "fqKGVY0P"

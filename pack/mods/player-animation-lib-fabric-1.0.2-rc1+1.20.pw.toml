@@ -1,0 +1,17 @@
+name = "player-animation-lib-fabric-1.0.2-rc1+1.20"
+filename = "player-animation-lib-fabric-1.0.2-rc1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gedNE4y2/versions/yDqYTUaf/player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar"
+hash = "4ed2659c9e9c1a1fa8936523f7d6de1b8012d8e06e6c58ef65ea5c7acef2b3a113afe584b3a31d70eee00423dbe533c06022cc5f169ab5a2ddf8167acf259ec8"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "gedNE4y2"
+version = "yDqYTUaf"

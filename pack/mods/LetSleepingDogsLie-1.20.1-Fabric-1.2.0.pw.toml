@@ -1,0 +1,17 @@
+name = "LetSleepingDogsLie-1.20.1-Fabric-1.2.0"
+filename = "LetSleepingDogsLie-1.20.1-Fabric-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nLlXyNIc/versions/ikP0b6Jy/LetSleepingDogsLie-1.20.1-Fabric-1.2.0.jar"
+hash = "e2769223ea74bdaa3fce04f32e4c03003728821cd704a5214e6ad0ed8ddc66126e894a99d14099c398d7177fcabab7ae150abc36b05a1fa58557d1e8e68daf3a"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "nLlXyNIc"
+version = "ikP0b6Jy"

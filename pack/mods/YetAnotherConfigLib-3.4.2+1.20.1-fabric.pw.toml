@@ -1,0 +1,17 @@
+name = "YetAnotherConfigLib-3.4.2+1.20.1-fabric"
+filename = "YetAnotherConfigLib-3.4.2+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/TD5Fv92S/YetAnotherConfigLib-3.4.2%2B1.20.1-fabric.jar"
+hash = "3d7fdd32a09fe893d249c6b63fafb58a299741dbee138ba203846e8ed6bcb8d5e7f9ee9ada8959341afbe3d334e6decad97a938f53ce546c16a2818322fa06ff"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "1eAoo2KR"
+version = "TD5Fv92S"

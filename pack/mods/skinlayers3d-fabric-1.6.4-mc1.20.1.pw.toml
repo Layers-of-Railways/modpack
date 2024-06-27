@@ -1,0 +1,17 @@
+name = "skinlayers3d-fabric-1.6.4-mc1.20.1"
+filename = "skinlayers3d-fabric-1.6.4-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/GeQIXZBw/skinlayers3d-fabric-1.6.4-mc1.20.1.jar"
+hash = "ea444b57d332dede1df89d66303430ad50e5319fbe07c6d29c94e3d30543f89118f70d7cf4c0e059909969c7569d1612fe71fd7995ed4d7526d5c029319f2450"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "zV5r3pPn"
+version = "GeQIXZBw"

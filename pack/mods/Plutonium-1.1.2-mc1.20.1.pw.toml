@@ -1,0 +1,13 @@
+name = "Plutonium-1.1.2-mc1.20.1"
+filename = "Plutonium-1.1.2-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/IThundxr/Plutonium/releases/download/v1.1.2/Plutonium-1.1.2-mc1.20.1.jar"
+hash = "8de3049633e66cbb06cc080b01ef502238a6f8d0612efd71fef561d1d21eae0c"
+hash-format = "sha256"
+mode = "url"
+
+[option]
+optional = false
+default = false

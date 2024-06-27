@@ -1,0 +1,17 @@
+name = "lootr-1.20-0.7.30.77"
+filename = "lootr-1.20-0.7.30.77.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EltpO5cN/versions/RJksbmWs/lootr-1.20-0.7.30.77.jar"
+hash = "1779943b1249a8b7cb2bab96f923b562f85b57b7daa3e7355f5f13fdb6b20908476475dcb395816b69d92dfe8c296d428be9d7b928f7b256977f2c617f3b3883"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "EltpO5cN"
+version = "RJksbmWs"

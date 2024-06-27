@@ -1,0 +1,17 @@
+name = "create_enchantment_industry-1.2.16"
+filename = "create_enchantment_industry-1.2.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AEZO385x/versions/SI0RzkGk/create_enchantment_industry-1.2.16.jar"
+hash = "c9b9c8d03c763aa6e378d20534e8ae25861e6895b8f2f301108ae7271a6bfaceae306f1b45fbf79db5aa05a0164efc57db5dba37be54cc82dc3a652d6f6d5c3d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "AEZO385x"
+version = "SI0RzkGk"

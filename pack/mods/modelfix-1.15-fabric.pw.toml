@@ -1,0 +1,17 @@
+name = "modelfix-1.15-fabric"
+filename = "modelfix-1.15-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QdG47OkI/versions/GkLb4bRl/modelfix-1.15-fabric.jar"
+hash = "8724fe22274465f38129f81babb97b7fff68e89b0c88e22a2acbd801ddbeb0210864c2774377fe7b69b917db5889677c1b0d67084f4847cab0f7bd3203e187d4"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "QdG47OkI"
+version = "GkLb4bRl"

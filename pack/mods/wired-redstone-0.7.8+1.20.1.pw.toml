@@ -1,0 +1,17 @@
+name = "wired-redstone-0.7.8+1.20.1"
+filename = "wired-redstone-0.7.8+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lyYGrdho/versions/3Nms4vt8/wired-redstone-0.7.8%2B1.20.1.jar"
+hash = "7e993b000924877fcfb2b8d7a36f404b14f00fde4b1c284a9f2cccf2d9e4944688b33fe863c64e464d5085c1011f87208d032996af7715eb58a1db3e42d27c8c"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "lyYGrdho"
+version = "3Nms4vt8"

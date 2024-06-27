@@ -1,0 +1,17 @@
+name = "extremesoundmuffler-3.41-fabric-1.20"
+filename = "extremesoundmuffler-3.41-fabric-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5IIKsxiL/versions/sawF6E7G/extremesoundmuffler-3.41-fabric-1.20.jar"
+hash = "0564f88495cf3b2f3efecc74f2225fab10e2f3c2f47aa8f3f8fa415daa148baceb04a67052fbe45e4e999626302e27323cafdb805e9d2e7894d50be39668e6bd"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "5IIKsxiL"
+version = "sawF6E7G"

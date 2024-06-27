@@ -1,0 +1,17 @@
+name = "duckyperiphs-1.20.1-1.3.1-fabric"
+filename = "duckyperiphs-1.20.1-1.3.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l2IpK3Ji/versions/FYDI2Gut/duckyperiphs-1.20.1-1.3.1-fabric.jar"
+hash = "dbefdf44def2db076c1f5394ad62427e511d926ed12e4adf57b683d2ff1a1e5d0a95a4a94272f4bbafdb24c373eb1c7dba364937993f323d3996629da0bb0acd"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "l2IpK3Ji"
+version = "FYDI2Gut"

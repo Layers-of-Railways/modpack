@@ -1,0 +1,17 @@
+name = "betterstats-3.9.7+fabric-1.20.1"
+filename = "betterstats-3.9.7+fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/L2ERNR7d/betterstats-3.9.7%2Bfabric-1.20.1.jar"
+hash = "ff4194fb6b21f70a257b81cf97bf0d0d2a56c17d2e2f82cf2262ef40ee5f4d4216a5d92546ce872e6fc7f481fcba3e0752b9e601fbceaad51dcdaa7c2a67c2d7"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "n6PXGAoM"
+version = "L2ERNR7d"

@@ -1,0 +1,17 @@
+name = "YungsBetterMineshafts-1.20-Fabric-4.0.4"
+filename = "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HjmxVlSr/versions/qLnQnqXS/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
+hash = "82d6e361ef403471beaaf2fa86964af541df167da56f53b820e5abfac693f63dd5d6c0aafbc9e9baa947b42a57c79f069ed6ede55e680a2523d2ca7f2e538b13"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "HjmxVlSr"
+version = "qLnQnqXS"

@@ -1,0 +1,17 @@
+name = "styled-chat-2.2.3+1.20.1"
+filename = "styled-chat-2.2.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/doqSKB0e/versions/7dmapSQA/styled-chat-2.2.3%2B1.20.1.jar"
+hash = "8f9396389c6d30befb7986c72ca22c92373c9c6d856af1544f62a13ced437657b8f5371adb916f83f0521c8d606e2f8839106c2d60b6b8acaea39f4df912a17b"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "doqSKB0e"
+version = "7dmapSQA"

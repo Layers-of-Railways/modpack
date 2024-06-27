@@ -1,0 +1,17 @@
+name = "emitrades-fabric-1.2.1+mc1.20.1"
+filename = "emitrades-fabric-1.2.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j2HhbEE7/versions/kWMqVWTm/emitrades-fabric-1.2.1%2Bmc1.20.1.jar"
+hash = "ab4a29bec2b4b093dcfa4fb6deba5929f4e50f012a9ea1000665a70271de634ee9c0cf8f502855eb1fd6162d4a3d595b17f387804dcf8a9e8afad8b041279aee"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "j2HhbEE7"
+version = "kWMqVWTm"

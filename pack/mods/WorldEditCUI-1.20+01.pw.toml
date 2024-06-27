@@ -1,0 +1,13 @@
+name = "WorldEditCUI-1.20+01"
+filename = "WorldEditCUI-1.20+01.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4575/22/WorldEditCUI-1.20+01.jar"
+hash = "0b8e9df18d7560279efcb22705f4e674"
+hash-format = "md5"
+mode = "url"
+
+[option]
+optional = false
+default = false

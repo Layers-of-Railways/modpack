@@ -1,0 +1,17 @@
+name = "design_decor-0.4_fabric+1.20.1"
+filename = "design_decor-0.4_fabric+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x49wilh8/versions/XwA7KWCB/design_decor-0.4_fabric%2B1.20.1.jar"
+hash = "bff1cd6c7e7072cfdd8b42930a7a0bc553e46c2cf3cf93cf14a95b181773156c62741c74a73b4a605b179ab5069e88d553041a40c8b6f15fe66096ff3781c7ba"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "x49wilh8"
+version = "XwA7KWCB"

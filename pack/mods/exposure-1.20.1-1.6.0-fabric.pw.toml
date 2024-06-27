@@ -1,0 +1,17 @@
+name = "exposure-1.20.1-1.6.0-fabric"
+filename = "exposure-1.20.1-1.6.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hB899VmG/versions/AlbUxt2P/exposure-1.20.1-1.6.0-fabric.jar"
+hash = "a8992a8085cb93eeeb8a5565c771e792af3322beaad3a4ff044083305a6c822640dbeb54cb6f884e02b28e8a033db128b7aca793acfa555ebf0b2a160a6e84c3"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "hB899VmG"
+version = "AlbUxt2P"

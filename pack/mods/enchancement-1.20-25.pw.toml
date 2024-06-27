@@ -1,0 +1,17 @@
+name = "enchancement-1.20-25"
+filename = "enchancement-1.20-25.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6hN1V6wJ/versions/OJkPjWWl/enchancement-1.20-25.jar"
+hash = "db9bb5e3d6d8767a6fdf7a25714b758febd165481f484a38afed8e10bbeac885ab61db93e83b59ad240a0d978fa1301633e1513a68d178f0897e056de85672c1"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "6hN1V6wJ"
+version = "OJkPjWWl"
