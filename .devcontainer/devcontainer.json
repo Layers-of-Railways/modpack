@@ -1,0 +1,24 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+    "features": {
+        "ghcr.io/devcontainers/features/common-utils:2": {},
+        "ghcr.io/devcontainers/features/git:1": {},
+        "ghcr.io/devcontainers/features/git-lfs:1": {},
+        "ghcr.io/devcontainers/features/python:1": {},
+        "ghcr.io/ParadigmMC/devcontainers/mcman": {},
+        "ghcr.io/devcontainers/features/java:1": {}
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "evenBetterToml.schema.associations": {
+                    "^.*server.toml$": "https://raw.githubusercontent.com/ParadigmMC/mcman/main/servertoml.schema.json"
+                }
+            },
+            "extensions": [
+                "tamasfe.even-better-toml",
+                "ms-vscode.notepadplusplus-keybindings"
+            ]
+        }
+    }
+}

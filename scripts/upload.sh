@@ -6,7 +6,6 @@ function grabField() {
     echo "$result"
 }
 
-pack_name=$(grabField "name")
 pack_version=$(grabField "version")
 pack_mc_version=$(grabField "minecraft")
 
@@ -29,7 +28,7 @@ MODRINTH_DATA=$(cat <<EOF
 EOF
 )
 
-packwiz mr export
+mcman export mrpack
 
 mv "$pack_name-$pack_version.mrpack" output/
 
