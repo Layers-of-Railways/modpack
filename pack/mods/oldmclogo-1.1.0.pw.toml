@@ -1,0 +1,17 @@
+name = "oldmclogo-1.1.0"
+filename = "oldmclogo-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/flwl1qw1/versions/vlRS65y7/oldmclogo-1.1.0.jar"
+hash = "1b2d9291e75b9935cf52823b6db9ad7eda272159158713c588c944cd12af7857620319b7f2e608d6374a02d6cd1f39f04b8fb79951371d47367996ec2179ca4d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "flwl1qw1"
+version = "vlRS65y7"

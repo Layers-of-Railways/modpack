@@ -1,0 +1,17 @@
+name = "multiworldborders-1.6.2-fabric-1.20"
+filename = "multiworldborders-1.6.2-fabric-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M7MroYMU/versions/rH2c52Rr/multiworldborders-1.6.2-fabric-1.20.jar"
+hash = "de2eb56b9b52e949df20b5e8bd3539924910fd0f91b10a0b820322afecf54e89711b515e041adff0d90676077b222864db6c58417ddeaf010205f5cbd1383c5d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "M7MroYMU"
+version = "rH2c52Rr"

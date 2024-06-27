@@ -1,0 +1,17 @@
+name = "Trowel-1.2.1-1.20"
+filename = "Trowel-1.2.1-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o8YrbYfv/versions/4Pi5XZ54/Trowel-1.2.1-1.20.jar"
+hash = "eb946c0ffae366ff7619f7b9ab05fd3c623b2960b15c57d8682d84d1042e29daec444202355c084a913d787a03b749c44fc09bf2b03c301c42aa891169bc0c58"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "o8YrbYfv"
+version = "4Pi5XZ54"

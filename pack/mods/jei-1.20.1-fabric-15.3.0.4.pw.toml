@@ -1,0 +1,17 @@
+name = "jei-1.20.1-fabric-15.3.0.4"
+filename = "jei-1.20.1-fabric-15.3.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/NsbSea5x/jei-1.20.1-fabric-15.3.0.4.jar"
+hash = "4ef89f16de8118be1c4982fcfb62aa2e16b557fc4ca8e972c72d04eb8e4a563d8aaeb282c6643f6b6945dadf91fb1a68599d87792e2b43ef7ca8763baadc1bf4"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "u6dRKJwZ"
+version = "NsbSea5x"

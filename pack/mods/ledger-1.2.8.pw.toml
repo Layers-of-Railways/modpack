@@ -1,0 +1,17 @@
+name = "ledger-1.2.8"
+filename = "ledger-1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/pOxgWfwI/ledger-1.2.8.jar"
+hash = "8230ae7ef5495dd43b6ebc19fb212b7ffb10dc571fc586ecc7e2cc8177989daa41c102ac386d82586c83a0b48b9dba29f095ffa4b8d78e34d715e25830117f8d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "LVN9ygNV"
+version = "pOxgWfwI"

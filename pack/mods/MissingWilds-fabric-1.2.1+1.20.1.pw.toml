@@ -1,0 +1,17 @@
+name = "MissingWilds-fabric-1.2.1+1.20.1"
+filename = "MissingWilds-fabric-1.2.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nw0MStSd/versions/FU3pQpFT/MissingWilds-fabric-1.2.1%2B1.20.1.jar"
+hash = "0985439f7fcd5d40bcf735edbab131704101507badfcebbab90f26a42f49d542aba8a56aef3289050064d7ede68e1c7f0c1b4cddf6a90b39a5906b8f169e9bee"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "Nw0MStSd"
+version = "FU3pQpFT"

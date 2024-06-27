@@ -1,0 +1,17 @@
+name = "YungsBetterNetherFortresses-1.20-Fabric-2.0.6"
+filename = "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z2mXHnxP/versions/FL88RLRu/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar"
+hash = "a752f0dea20fa86e6d3a4f87d180af706b2ad5e3d434185aaa624692fc55329a2e2e410e67f843ec982e7b90ae63565b4aed43adbee6c50ded403ef50d91d7fd"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "Z2mXHnxP"
+version = "FL88RLRu"

@@ -1,0 +1,17 @@
+name = "fusion-1.1.1-fabric-mc1.20.1"
+filename = "fusion-1.1.1-fabric-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p19vrgc2/versions/7gUFcBRP/fusion-1.1.1-fabric-mc1.20.1.jar"
+hash = "fc01e864873b30f3eba8dfdae8563f3ef46e116512a5bb2673ca2f5919ebb3ee6e10eba94b2fa343998b853b824f54f81cecf22730e5f808630e6e44909f0db6"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "p19vrgc2"
+version = "7gUFcBRP"

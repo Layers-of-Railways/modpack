@@ -1,0 +1,17 @@
+name = "completeconfig-2.5.0"
+filename = "completeconfig-2.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GtqG8z1h/versions/df7u1Xpi/completeconfig-2.5.0.jar"
+hash = "50cd6cd5b379e99025cf95cb50fbf878e560f68f14b0c6382cd5613b4205767e5a82a4a00e7c663c7044bab5623973d47518b16600adca223ebe33f0ba576b03"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "GtqG8z1h"
+version = "df7u1Xpi"

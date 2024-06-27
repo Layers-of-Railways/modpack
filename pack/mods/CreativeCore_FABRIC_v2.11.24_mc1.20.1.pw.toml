@@ -1,0 +1,17 @@
+name = "CreativeCore_FABRIC_v2.11.24_mc1.20.1"
+filename = "CreativeCore_FABRIC_v2.11.24_mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/VB2iKU0F/CreativeCore_FABRIC_v2.11.24_mc1.20.1.jar"
+hash = "b77bae2afb4c8f5aae7e3907cd0d49b8a893f957b60c957107ec6130865a0f3172488eede9fbe804074cd0bf2953de9d894fbd94606e3f228b62d2ece3ea4a77"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "OsZiaDHq"
+version = "VB2iKU0F"

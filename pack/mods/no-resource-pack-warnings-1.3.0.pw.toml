@@ -1,0 +1,17 @@
+name = "no-resource-pack-warnings-1.3.0"
+filename = "no-resource-pack-warnings-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6xKUDQcB/versions/Cs4frYPf/no-resource-pack-warnings-1.3.0.jar"
+hash = "e0ef15de5bbd7891feb27be825f98292973d4666da957c96c95f1e534f85ff7aeaa57d3677ef52bce2ba0104b94c6e0f26d8b284925c03f1b9b902873899ec89"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "6xKUDQcB"
+version = "Cs4frYPf"

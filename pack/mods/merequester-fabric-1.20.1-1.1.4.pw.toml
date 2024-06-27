@@ -1,0 +1,17 @@
+name = "merequester-fabric-1.20.1-1.1.4"
+filename = "merequester-fabric-1.20.1-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E6BFl96N/versions/NmhR6jIY/merequester-fabric-1.20.1-1.1.4.jar"
+hash = "29e7ce3c499298c625c515bfdc3658edcfa50efe3dd7e9841233279fda2b65153216d736557a3437ed4cbb21b917905b4e145404bf5b6761c5c534677178eebf"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "E6BFl96N"
+version = "NmhR6jIY"

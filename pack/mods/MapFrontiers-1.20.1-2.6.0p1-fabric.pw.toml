@@ -1,0 +1,17 @@
+name = "MapFrontiers-1.20.1-2.6.0p1-fabric"
+filename = "MapFrontiers-1.20.1-2.6.0p1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hWlsli6y/versions/ZtkXyDPP/MapFrontiers-1.20.1-2.6.0p1-fabric.jar"
+hash = "3a44b8f91e62ad2736d9d75afeb875cbb9ebf8aebed5514c0485c64144f7ba242e211e8e1ba266514f37c1eb17f3e5ab22aa027357493a92c4ff119bbaa0b903"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "hWlsli6y"
+version = "ZtkXyDPP"

@@ -1,0 +1,17 @@
+name = "dcintegration-fabric-3.0.7-1.20.1"
+filename = "dcintegration-fabric-3.0.7-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rbJ7eS5V/versions/WLOprDDs/dcintegration-fabric-3.0.7-1.20.1.jar"
+hash = "4723f3ffc0efefa63d49cae1825a3ec3cbcef81ddb77965fa2e61d0e9d7b868ea037274b548da6f5f53b2bdd9ea34a81eac71a3a9d076f6a82f6edbd421a0abf"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "rbJ7eS5V"
+version = "WLOprDDs"

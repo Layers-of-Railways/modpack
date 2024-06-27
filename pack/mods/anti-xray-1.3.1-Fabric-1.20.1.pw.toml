@@ -1,0 +1,17 @@
+name = "anti-xray-1.3.1-Fabric-1.20.1"
+filename = "anti-xray-1.3.1-Fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sml2FMaA/versions/uZuiksRa/anti-xray-1.3.1-Fabric-1.20.1.jar"
+hash = "db470b24e9ddfca59c24bdabdc98b88ffbdc4987cc625850475e12a2c1b9572873286e14c3f5967c3f5c80cd02f230a66f707c4c5577fd0772e18d5cddc82fb2"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "sml2FMaA"
+version = "uZuiksRa"

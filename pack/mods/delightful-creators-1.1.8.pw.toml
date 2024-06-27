@@ -1,0 +1,17 @@
+name = "delightful-creators-1.1.8"
+filename = "delightful-creators-1.1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jmJ87gsb/versions/66Jv0aZJ/delightful-creators-1.1.8.jar"
+hash = "4774b527ff61591dd3dcadb49a00882a2e181b9c26944b0383aeec7d8e71c43fabe743503166461e0f7e76cd9e5f17d7d3e8fb4c8c8e5616353f9a98e1380e32"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "jmJ87gsb"
+version = "66Jv0aZJ"

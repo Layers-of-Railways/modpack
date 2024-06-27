@@ -1,0 +1,17 @@
+name = "fdrfdcrf-0.0.0"
+filename = "fdrfdcrf-0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gulQYoue/versions/u3uog0VA/fdrfdcrf-0.0.0.jar"
+hash = "3b293cb3682da54d97653feef4d0a48a8405ad8be42ac689c7d9863623e98c7a258880561f8ac2282cf233dc2f5e581e613e635b6ee904f0fbb38a0923b5121d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "gulQYoue"
+version = "u3uog0VA"

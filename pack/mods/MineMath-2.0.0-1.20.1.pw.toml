@@ -1,0 +1,17 @@
+name = "MineMath-2.0.0-1.20.1"
+filename = "MineMath-2.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YAbaLUgy/versions/CucsR2zg/MineMath-2.0.0-1.20.1.jar"
+hash = "5b4027267de787679ef6d4be3b52e4fe6fb97eff4d79c6ec7be226514aa93e9b843ecdbff6d37fd0b6f9cf4fb54cff08c24cbd4cac393f969a9910527e08803f"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "YAbaLUgy"
+version = "CucsR2zg"

@@ -1,0 +1,17 @@
+name = "MagnumTorch-v8.0.2-1.20.1-Fabric"
+filename = "MagnumTorch-v8.0.2-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jorDmSKv/versions/JCiAyLV3/MagnumTorch-v8.0.2-1.20.1-Fabric.jar"
+hash = "29fc12699c2118cb51173541fa36abe06487ef6d3eaefd8ff1080bcdd9454667116790ac3b0566437c425aa2f8e31029e0f9afefb1d6d81498a201b8b2fc8b3a"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "jorDmSKv"
+version = "JCiAyLV3"

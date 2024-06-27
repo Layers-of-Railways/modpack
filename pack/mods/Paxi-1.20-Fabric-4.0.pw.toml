@@ -1,0 +1,17 @@
+name = "Paxi-1.20-Fabric-4.0"
+filename = "Paxi-1.20-Fabric-4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CU0PAyzb/versions/UVPLKCqf/Paxi-1.20-Fabric-4.0.jar"
+hash = "81a9918d6730db5d9b1b1eae3a7104ba4d83557aa90308b9acc1026cae1789265b7ebde9c6a573ebaca91bae6e0988f069f442f4d18d63f1c46909a758080e9e"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "CU0PAyzb"
+version = "UVPLKCqf"

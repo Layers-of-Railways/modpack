@@ -1,0 +1,17 @@
+name = "almostunified-fabric-1.20.1-0.9.3"
+filename = "almostunified-fabric-1.20.1-0.9.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/s5fw9UvM/almostunified-fabric-1.20.1-0.9.3.jar"
+hash = "764ced93262a7da93be7ccc9938ed3a71942b6c29e0eb5184e20ca9857a5909a97ba2a82f39997380b537c635508075a7083ba416a349483a3541644f0b3a8bb"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "sdaSaQEz"
+version = "s5fw9UvM"

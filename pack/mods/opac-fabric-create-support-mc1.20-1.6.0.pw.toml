@@ -1,0 +1,17 @@
+name = "opac-fabric-create-support-mc1.20-1.6.0"
+filename = "opac-fabric-create-support-mc1.20-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T4Cv5iZq/versions/Cf65NVxT/opac-fabric-create-support-mc1.20-1.6.0.jar"
+hash = "838b9daee980f39c09d71554eecffe65395cd5811b68e7ee65a1dc7634c45d1054350324190ebdeb5d6a74359319911bff96da32ce62ece21ef618be54e3a65b"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "T4Cv5iZq"
+version = "Cf65NVxT"

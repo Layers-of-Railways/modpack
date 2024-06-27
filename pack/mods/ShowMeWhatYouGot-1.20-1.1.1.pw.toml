@@ -1,0 +1,17 @@
+name = "ShowMeWhatYouGot-1.20-1.1.1"
+filename = "ShowMeWhatYouGot-1.20-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jTUiUpsh/versions/fQQ8wvKT/ShowMeWhatYouGot-1.20-1.1.1.jar"
+hash = "af08c3e83f885f51a5d881cf71a376790e7b20f43e488f3622a5280a1bf6d038d0abce0490813252d525af17f635fa8102e890276c9035c70c4663650f8db069"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "jTUiUpsh"
+version = "fQQ8wvKT"

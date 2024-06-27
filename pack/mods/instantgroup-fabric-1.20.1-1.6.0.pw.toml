@@ -1,0 +1,17 @@
+name = "instantgroup-fabric-1.20.1-1.6.0"
+filename = "instantgroup-fabric-1.20.1-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1LE7mid6/versions/YXLv3lWE/instantgroup-fabric-1.20.1-1.6.0.jar"
+hash = "a4ddf7fefe1cc930da506c1d560b9c1d964edc21804f60a353d2cf32ecb33cb4630362c3c65b3d4451e9dd2d4e11bd3257dab039481b4a1fa518b53e91b46661"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "1LE7mid6"
+version = "YXLv3lWE"

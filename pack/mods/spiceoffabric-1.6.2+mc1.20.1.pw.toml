@@ -1,0 +1,17 @@
+name = "spiceoffabric-1.6.2+mc1.20.1"
+filename = "spiceoffabric-1.6.2+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/roxihOCb/versions/JQeNIIvU/spiceoffabric-1.6.2%2Bmc1.20.1.jar"
+hash = "22259baf1f545feea132160008da008fd7d851c1595f3be321bed8c8861b4412276c26f1b2c15c6201611b36bd92fc29e627cf32b0787b855f1da9c8bae5f5df"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "roxihOCb"
+version = "JQeNIIvU"

@@ -1,0 +1,17 @@
+name = "modernfix-fabric-5.17.0+mc1.20.1"
+filename = "modernfix-fabric-5.17.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/fh7tdNlS/modernfix-fabric-5.17.0%2Bmc1.20.1.jar"
+hash = "5ceb7f8f5d54f29d963b805e84fd31cab2fe75b873cfc8f9f88eb0f12689771a36bc3eba46c0f3651a8959d0e914bb3bbc626c9ac0a02e1916064101a4dc732b"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "nmDcB62a"
+version = "fh7tdNlS"

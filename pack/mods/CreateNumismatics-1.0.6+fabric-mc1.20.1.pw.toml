@@ -1,0 +1,17 @@
+name = "CreateNumismatics-1.0.6+fabric-mc1.20.1"
+filename = "CreateNumismatics-1.0.6+fabric-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jdbbtt0i/versions/ExoJ4bOE/CreateNumismatics-1.0.6%2Bfabric-mc1.20.1.jar"
+hash = "cf9b0ecf404bfc9c18eaa9addca87ca5a17a046db6e9a16318854bfbf850f3c9e876a30a17d74feb40d9d8151c1da7494f1859a1c370624ee619cbdf1591512a"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "Jdbbtt0i"
+version = "ExoJ4bOE"

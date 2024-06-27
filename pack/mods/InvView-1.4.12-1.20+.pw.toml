@@ -1,0 +1,17 @@
+name = "InvView-1.4.12-1.20+"
+filename = "InvView-1.4.12-1.20+.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jrDKjZP7/versions/mQnjqDOd/InvView-1.4.12-1.20%2B.jar"
+hash = "3c7c4297ad424e32078da283ee02e3c3788dad5a71a9de9806ff5e9ca26ff8abe54dac6002f0f5387b1cfe01440679e99965449e82a9bd755d689f04e996e7e6"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "jrDKjZP7"
+version = "mQnjqDOd"

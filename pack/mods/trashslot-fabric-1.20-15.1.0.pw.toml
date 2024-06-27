@@ -1,0 +1,17 @@
+name = "trashslot-fabric-1.20-15.1.0"
+filename = "trashslot-fabric-1.20-15.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vRYk0bv7/versions/KUxVaZQX/trashslot-fabric-1.20-15.1.0.jar"
+hash = "f8cc6de9965de2053c978063f5a6a863bb22ffb31bbb3f418c37a8a017fab24c13c03cbe24a17a0cb265f37cf30440c8cfd1af1255981533514efba9e691ba62"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "vRYk0bv7"
+version = "KUxVaZQX"

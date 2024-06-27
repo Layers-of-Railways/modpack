@@ -1,0 +1,17 @@
+name = "deepslatecutting-fabric-1.7.0"
+filename = "deepslatecutting-fabric-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IiuFShHs/versions/DeBsNZpJ/deepslatecutting-fabric-1.7.0.jar"
+hash = "5e364de3544fe5f44dc8ba61f7085aa01d0bd2125308ceced86444d906657de9904b9888f457b758c309270e1710c2983124f91e9018fe00479e8c1b98b797aa"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "IiuFShHs"
+version = "DeBsNZpJ"

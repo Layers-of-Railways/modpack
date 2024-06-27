@@ -1,0 +1,17 @@
+name = "kubejs-fabric-2001.6.5-build.7"
+filename = "kubejs-fabric-2001.6.5-build.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/umyGl7zF/versions/j6kmkTxA/kubejs-fabric-2001.6.5-build.7.jar"
+hash = "b8afb4cb9b1c3ba0168a99d062325baa4a5b208e496ddfabb391cd2905be731946c86e54c70409946d921f17e13f07a3a9b63d1bd2a6a164ff0ddb8f83477d42"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "umyGl7zF"
+version = "j6kmkTxA"

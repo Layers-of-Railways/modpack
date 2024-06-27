@@ -1,0 +1,17 @@
+name = "Copycats-fabric.1.20.1-1.3.3"
+filename = "Copycats-fabric.1.20.1-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UT2M39wf/versions/zKGWCj4Y/Copycats-fabric.1.20.1-1.3.3.jar"
+hash = "371464ee309ada896d87059eb3aa006fae929ea09800696b613b45f76232f4d98826c60b71aa751bd4ad6dd66292f7fc3e6f30da37292968cb4b3f4fae819b45"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "UT2M39wf"
+version = "zKGWCj4Y"

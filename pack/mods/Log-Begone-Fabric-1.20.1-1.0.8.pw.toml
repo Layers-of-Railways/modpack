@@ -1,0 +1,17 @@
+name = "Log-Begone-Fabric-1.20.1-1.0.8"
+filename = "Log-Begone-Fabric-1.20.1-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9ON3zv6e/versions/IknbjT7v/Log-Begone-Fabric-1.20.1-1.0.8.jar"
+hash = "2a4998bd93b6642ea64151fc7e2545b8211d045762ee82acab2aa3afc91065b330a9d1eec4720c46b72ea522b89aae39640afad8cdbd2015872ece2ff2fa54d3"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "9ON3zv6e"
+version = "IknbjT7v"

@@ -1,0 +1,13 @@
+name = "fabricated_zoomer-5.0.0-beta.12+1.20.1"
+filename = "fabricated_zoomer-5.0.0-beta.12+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4706/437/fabricated_zoomer-5.0.0-beta.12%2b1.20.1.jar"
+hash = "a7f4fb09d0a9da92f97c9f50a16f326f"
+hash-format = "md5"
+mode = "url"
+
+[option]
+optional = false
+default = false

@@ -1,0 +1,17 @@
+name = "spelunkery-1.20.1-0.3.5-fabric"
+filename = "spelunkery-1.20.1-0.3.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/krskFMfA/versions/j8FDXfMx/spelunkery-1.20.1-0.3.5-fabric.jar"
+hash = "e6577716e7a7881522b49f5e4a63f52e779a4fef0b55b47b88602a9474ff6fd29a245caa836f048ec8dd2d9ada46d638b82d0780c9188abb4def41669a62d65b"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "krskFMfA"
+version = "j8FDXfMx"

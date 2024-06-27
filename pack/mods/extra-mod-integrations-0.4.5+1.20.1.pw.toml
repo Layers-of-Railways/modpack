@@ -1,0 +1,17 @@
+name = "extra-mod-integrations-0.4.5+1.20.1"
+filename = "extra-mod-integrations-0.4.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bpRHnWUb/versions/3MNWOVKW/extra-mod-integrations-0.4.5%2B1.20.1.jar"
+hash = "d5c267caafeb29a0d0315f458df585422f523582961e7e00013c133088b11939554dadbc334aed7d2ba9c502081727cf1891680064ec39d24b53b06f34e29e6a"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "bpRHnWUb"
+version = "3MNWOVKW"

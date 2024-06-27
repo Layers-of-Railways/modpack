@@ -1,0 +1,17 @@
+name = "mmode-fabric-1.20-1.1.1"
+filename = "mmode-fabric-1.20-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QOkEkSap/versions/TT7eUrpf/mmode-fabric-1.20-1.1.1.jar"
+hash = "4c0079e47fb6822bc45785d2e17d6593958a05eb851bd92f562343b63a6f50f6e62eba063c236b20157d75cd84474e05441b078ca472b760f418369b6f6202c7"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "QOkEkSap"
+version = "TT7eUrpf"

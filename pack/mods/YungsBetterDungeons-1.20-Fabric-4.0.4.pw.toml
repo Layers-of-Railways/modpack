@@ -1,0 +1,17 @@
+name = "YungsBetterDungeons-1.20-Fabric-4.0.4"
+filename = "YungsBetterDungeons-1.20-Fabric-4.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o1C1Dkj5/versions/nidyvq2m/YungsBetterDungeons-1.20-Fabric-4.0.4.jar"
+hash = "02ee00641aea2e80806923c1d97a366b82eb6d6e1d749fc8fb4eeddeddea718c08f5a87ba5189427f747801b899abe5a6138a260c7e7f949e5e69b4065ac5464"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "o1C1Dkj5"
+version = "nidyvq2m"

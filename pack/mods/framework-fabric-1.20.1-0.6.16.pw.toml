@@ -1,0 +1,13 @@
+name = "framework-fabric-1.20.1-0.6.16"
+filename = "framework-fabric-1.20.1-0.6.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4718/252/framework-fabric-1.20.1-0.6.16.jar"
+hash = "a3dcc6f989855e1284c508015ff6fcb5"
+hash-format = "md5"
+mode = "url"
+
+[option]
+optional = false
+default = false

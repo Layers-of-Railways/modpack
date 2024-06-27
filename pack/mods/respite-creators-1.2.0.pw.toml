@@ -1,0 +1,17 @@
+name = "respite-creators-1.2.0"
+filename = "respite-creators-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XDKcRhiQ/versions/buV74CFK/respite-creators-1.2.0.jar"
+hash = "08a260e878bd42415bf470742e657ff22e49a68bc76d314639f7aedbd4ec86023acaee10c97c8d47c23e8cb6654d9e0fc460255af04a38132fc79821d6fa9fe7"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "XDKcRhiQ"
+version = "buV74CFK"

@@ -1,0 +1,17 @@
+name = "mousewheelie-1.13.0+mc1.20.1"
+filename = "mousewheelie-1.13.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/wPtDzPBH/mousewheelie-1.13.0%2Bmc1.20.1.jar"
+hash = "1197bde58a580f3c28b27f639d23c83eccc06481ecd51ee9f83c9f6b34f080f16b4b33d9dd829e183a7c8aac83efd922edc6241fcca5770fb93328715e1d78cd"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "u5Ic2U1u"
+version = "wPtDzPBH"

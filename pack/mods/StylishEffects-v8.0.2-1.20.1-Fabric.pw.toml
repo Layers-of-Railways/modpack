@@ -1,0 +1,17 @@
+name = "StylishEffects-v8.0.2-1.20.1-Fabric"
+filename = "StylishEffects-v8.0.2-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/onDuQF5e/versions/LTSmZBSs/StylishEffects-v8.0.2-1.20.1-Fabric.jar"
+hash = "12180b384941538eb59de6c1f24ccb8f40e7199a537ce0c801c48655111446600c530e49cd4b41faa172667db75d62b9fc2206341999b86553eeed8631e84138"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "onDuQF5e"
+version = "LTSmZBSs"

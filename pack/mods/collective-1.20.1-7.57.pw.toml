@@ -1,0 +1,17 @@
+name = "collective-1.20.1-7.57"
+filename = "collective-1.20.1-7.57.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/HHgevNRj/collective-1.20.1-7.57.jar"
+hash = "4aa45e95bbbc90aa79c5ee26e4f1c633d84df314851cb26433407c7ada0601e658eaac2df0cf5cbcdd46a0552c06418325eda1f1fc87a7778b781f6167682abe"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "HHgevNRj"

@@ -1,0 +1,17 @@
+name = "taterzens-fabric-1.20.1-1.11.7"
+filename = "taterzens-fabric-1.20.1-1.11.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vE972Kux/versions/UN6eZfbk/taterzens-fabric-1.20.1-1.11.7.jar"
+hash = "9b574891fc534b4a3dfc5492b1589d164ce314d45d5cb8695b85491de5533b83746ca0a4bd5482abd78326ddea9960bd07623fad1d4feb00e6fed787dfb2465b"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "vE972Kux"
+version = "UN6eZfbk"

@@ -1,0 +1,17 @@
+name = "fullstackwatchdog-1.0.1+1.19.2-fabric"
+filename = "fullstackwatchdog-1.0.1+1.19.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oZiSDGCi/versions/bQS4RMW3/fullstackwatchdog-1.0.1%2B1.19.2-fabric.jar"
+hash = "aca5e11958e07e6da38fdbe044a9a5d0f2e976c8bd390dcfec91ba6f92b1ef2d801f98bb744f76d589e3f464dbc61d4181037453ee3d9b655df1fd15d240cf22"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "oZiSDGCi"
+version = "bQS4RMW3"

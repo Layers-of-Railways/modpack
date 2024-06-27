@@ -1,0 +1,17 @@
+name = "impersonate-2.10.2-standalone"
+filename = "impersonate-2.10.2-standalone.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xBZuWXoj/versions/6ZK2ddbg/impersonate-2.10.2-standalone.jar"
+hash = "629eb8658f0956998bd0dd4ed4e7a7b125cb4ec2d9e0299af2d46679e84a44d87a58140c714e49c54c40fdfc5bcc77c88fe75de48a7bb34cf30ebf6679a8b5e3"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "xBZuWXoj"
+version = "6ZK2ddbg"

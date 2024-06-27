@@ -1,0 +1,13 @@
+name = "Farmersrespite-Fabric-3.0.2"
+filename = "Farmersrespite-Fabric-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5252/387/Farmersrespite-Fabric-3.0.2.jar"
+hash = "65e78c74a22af5efd28607685d069254"
+hash-format = "md5"
+mode = "url"
+
+[option]
+optional = false
+default = false

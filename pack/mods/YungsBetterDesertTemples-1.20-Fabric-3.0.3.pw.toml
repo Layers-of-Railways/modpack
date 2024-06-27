@@ -1,0 +1,17 @@
+name = "YungsBetterDesertTemples-1.20-Fabric-3.0.3"
+filename = "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XNlO7sBv/versions/1Z9HNWpj/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar"
+hash = "29839615e042435b0fdacab2b97524a6689190692a289c25e305dbaec34764f38e70c65cfd77b49ac0dcc549281b61cfe244edc62809082e39db54990ef84cbf"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "XNlO7sBv"
+version = "1Z9HNWpj"

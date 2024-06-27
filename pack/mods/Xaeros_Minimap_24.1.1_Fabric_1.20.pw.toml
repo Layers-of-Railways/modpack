@@ -1,0 +1,17 @@
+name = "Xaeros_Minimap_24.1.1_Fabric_1.20"
+filename = "Xaeros_Minimap_24.1.1_Fabric_1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/C2jbx7JG/Xaeros_Minimap_24.1.1_Fabric_1.20.jar"
+hash = "53eba7ee9e9e334567ba28d963e02c342d4df65c3e8875023534f747dcefc118f1838356878d2c9ee48733f7e96350a57ce9a2404c70bae6aa5d10d548d1d25d"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "1bokaNcj"
+version = "C2jbx7JG"

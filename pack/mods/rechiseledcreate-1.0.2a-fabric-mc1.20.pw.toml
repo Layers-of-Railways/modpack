@@ -1,0 +1,17 @@
+name = "rechiseledcreate-1.0.2a-fabric-mc1.20"
+filename = "rechiseledcreate-1.0.2a-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E6867niZ/versions/R9B3ktWE/rechiseledcreate-1.0.2a-fabric-mc1.20.jar"
+hash = "224ddba2aaa32904b7749d35e471bb6768b9e5630afe351f5ff3288bd2149f282b609da3d303443603c42b1a56fe59c42758fa394082d46e9c60fd440fa13ea4"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "E6867niZ"
+version = "R9B3ktWE"

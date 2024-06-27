@@ -1,0 +1,17 @@
+name = "comforts-fabric-6.3.5+1.20.1"
+filename = "comforts-fabric-6.3.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/D2F8i5te/comforts-fabric-6.3.5%2B1.20.1.jar"
+hash = "68fe9aa7dfb23c0f0dd377a2430f4e7a7213dd280a1aec98ab336b4d87dc9eef48a81798e34d7e76b88f377bfb7c0a9200f4f4b8b1d978ddf217a0fd0594bcb0"
+hash-format = "sha512"
+mode = "url"
+
+[option]
+optional = false
+default = false
+
+[update.modrinth]
+mod-id = "SaCpeal4"
+version = "D2F8i5te"
