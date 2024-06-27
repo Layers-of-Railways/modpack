@@ -1,2 +1,5 @@
 # Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
 * -text
+# mcman: use lfs for worlds
+**/worlds/*.zip filter=lfs diff=lfs merge=lfs -text
+
