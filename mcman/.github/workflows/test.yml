@@ -1,0 +1,71 @@
+name: Test the server
+
+on:
+    workflow_dispatch:
+    push:
+        branches: main
+
+jobs:
+    test:
+        env:
+            upload_to_mclogs: true
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v3
+              with:
+                  lfs: true
+            - name: Setup Java
+              uses: actions/setup-java@v3
+              with:
+                  distribution: "temurin"
+                  java-version: "17"
+            - name: Cache
+              id: cache
+              uses: actions/cache@v3
+              with:
+                  key: mcman-build-${{ hashFiles('server.toml') }}
+                  path: |
+                      ./server
+                      ~/.cache/mcman
+                  restore-keys: |
+                      mcman-build-${{ hashFiles('server.toml') }}
+                      mcman-build-
+                      mcman-
+            - name: Install mcman
+              run: |
+                  wget https://github.com/ParadigmMC/mcman/releases/latest/download/mcman
+                  sudo mv ./mcman /usr/bin/
+                  sudo chmod +x /usr/bin/mcman
+            - name: Test the server
+              id: test
+              run: |
+                  mcman run --test
+            - run: |
+                  echo "### Server Logs" >> $GITHUB_STEP_SUMMARY
+                  echo "" >> $GITHUB_STEP_SUMMARY
+                  echo "```" >> $GITHUB_STEP_SUMMARY
+                  touch server/logs/latest.log
+                  cat server/logs/latest.log >> $GITHUB_STEP_SUMMARY
+                  echo "```" >> $GITHUB_STEP_SUMMARY
+            - if: steps.test.outcome == 'failure'
+              run: |
+                  for filename in ./server/crash-reports/*; do
+                    echo "### $filename" >> $GITHUB_STEP_SUMMARY
+                    echo "```" >> $GITHUB_STEP_SUMMARY
+                    cat $filename >> $GITHUB_STEP_SUMMARY
+                    echo "```" >> $GITHUB_STEP_SUMMARY
+                  done
+            - name: Archive log
+              uses: actions/upload-artifact@v3
+              with:
+                  name: latest.log
+                  path: |
+                      server/logs/latest.log
+            - name: Archive crash reports
+              uses: actions/upload-artifact@v3
+              if: steps.test.outcome == 'failure'
+              with:
+                  name: crash
+                  path: |
+                      server/crash-reports/*

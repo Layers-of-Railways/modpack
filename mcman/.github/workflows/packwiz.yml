@@ -1,0 +1,39 @@
+name: Export Packwiz
+
+on:
+    push:
+        branches:
+            - main
+        paths:
+            - config/**
+            - server.toml
+            - .github/workflows/packwiz.yml
+    workflow_dispatch:
+
+jobs:
+    packwiz-export:
+        runs-on: ubuntu-latest
+
+        permissions:
+            contents: write
+
+        steps:
+            - uses: actions/checkout@v2
+
+            - name: Install mcman
+              run: |
+                  wget https://github.com/ParadigmMC/mcman/releases/latest/download/mcman
+                  sudo mv ./mcman /usr/bin/
+                  sudo chmod +x /usr/bin/mcman
+
+            - name: Clear existing pack folder
+              run: rm -rf pack
+
+            - name: Run mcman export packwiz
+              run: mcman export packwiz
+              env:
+                  MODPACK_VERSION: "0.0.2"
+
+            - uses: stefanzweifel/git-auto-commit-action@v5
+              with:
+                  commit_message: Update packwiz pack

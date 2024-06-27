@@ -1,0 +1,40 @@
+name: Update Instance
+
+on:
+    workflow_dispatch:
+    push:
+        branches:
+            - main
+        paths:
+            - profile/**
+            - .github/workflows/instance.yml
+
+jobs:
+    update-instance:
+        runs-on: ubuntu-latest
+
+        permissions:
+            pages: write
+            contents: write
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v2
+
+            - name: Zip profile directory
+              run: zip -r profile.zip profile/
+
+            - run: |
+                  mkdir public
+                  mv profile.zip public/
+                  cp public/profile.zip "public/Steam 'n' Rails Modpack.zip"
+
+            - name: Publish to GitHub Pages
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  publish_dir: public
+                  publish_branch: gh-pages
+                  destination_dir: content
+                  keep_files: true
+                  commit_message: "Publish profile to GitHub Pages"
