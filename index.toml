@@ -1528,11 +1528,6 @@ hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "fb317684448237e6abc00d035d2054d57ab00a85303056391bf721e15b2298e0"
-metafile = true
-
-[[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "1657d0714c46b67a1cec4a07472d6c47a3f1cd45fa2fef52a14cd56c0c8d7751"
 metafile = true
