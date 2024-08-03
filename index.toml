@@ -340,7 +340,7 @@ hash = "d6e013d21b3014bda7d7b5f74f53b3e16807c30476dc89d78d980a29cc3b4060"
 
 [[files]]
 file = "kubejs/server_scripts/mods/phonos.js"
-hash = "4f2a30886ca1638ce57719a1609b8abc3ee9aa43c0411ca64f31b96ca0420b0f"
+hash = "e8862808248bdeaf8baf47a49b3a147cd932f888cb8852a0f956c808c86e2f52"
 
 [[files]]
 file = "kubejs/server_scripts/mods/tinkers.js"
