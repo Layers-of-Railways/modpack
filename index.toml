@@ -323,6 +323,10 @@ file = "kubejs/server_scripts/create/filling.js"
 hash = "e54142d989e30ccc33e9c13597a51bcc8029ba419bbe603603e9e1093048d8c0"
 
 [[files]]
+file = "kubejs/server_scripts/create/mechanical_crafting.js"
+hash = "9bbd7791f761a4aaa2645d9fcdddc862d2533c89c06f70b7d646c1d258cccc7b"
+
+[[files]]
 file = "kubejs/server_scripts/create/mixing.js"
 hash = "b2a9f8a2abb9d646e59174085c0a13acea9abead7c28c071cd9ba0b059b6ac19"
 
@@ -707,6 +711,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "43ea00d836bef5a72eb2e074e5b0ba534e09d31e41a674c8b3d77f307dfbd619"
+metafile = true
+
+[[files]]
+file = "mods/deepdrilling.pw.toml"
+hash = "26a52e3bf11ac92ac0db3536b2c97784a61ac39659238844b4f41819358741ac"
 metafile = true
 
 [[files]]
