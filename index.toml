@@ -323,6 +323,10 @@ file = "kubejs/server_scripts/create/filling.js"
 hash = "e54142d989e30ccc33e9c13597a51bcc8029ba419bbe603603e9e1093048d8c0"
 
 [[files]]
+file = "kubejs/server_scripts/create/mechanical_crafting.js"
+hash = "9bbd7791f761a4aaa2645d9fcdddc862d2533c89c06f70b7d646c1d258cccc7b"
+
+[[files]]
 file = "kubejs/server_scripts/create/mixing.js"
 hash = "b2a9f8a2abb9d646e59174085c0a13acea9abead7c28c071cd9ba0b059b6ac19"
 
@@ -660,6 +664,11 @@ hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "24cc95535c0882d588a82c66626db191302c8ca664136100f949f9232d4491eb"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "76cc1ad2fc58c6e28f25c47dd5012098f797e1363d5661f264bf3fbaa5c1cbc5"
 metafile = true
@@ -702,6 +711,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "43ea00d836bef5a72eb2e074e5b0ba534e09d31e41a674c8b3d77f307dfbd619"
+metafile = true
+
+[[files]]
+file = "mods/deepdrilling.pw.toml"
+hash = "26a52e3bf11ac92ac0db3536b2c97784a61ac39659238844b4f41819358741ac"
 metafile = true
 
 [[files]]
@@ -1146,7 +1160,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1870620ac0fb128b9a6f2cb8c6f887cb2a5f42bdf4aed1851f2f4f3d542fffc3"
+hash = "dc0ac3e0a3d1823aa30387953d4151bc155adb087fe4a86b5a550dcde7ce39dc"
 metafile = true
 
 [[files]]
@@ -1389,7 +1403,7 @@ metafile = true
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
-hash = "da7add3d42e061dd961abd0288d0ed8837e816b5eed75fa87c7609ee66b1e8b6"
+hash = "ccda4cdaed25c6a22bcae377dd15e321eea7c94996364527dd142b6303a1d417"
 metafile = true
 
 [[files]]

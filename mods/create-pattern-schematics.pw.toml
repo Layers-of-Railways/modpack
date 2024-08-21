@@ -1,0 +1,13 @@
+name = "Create: Pattern Schematics"
+filename = "pattern_schematics-1.1.4+fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cpqKG67r/versions/QhLRoiXT/pattern_schematics-1.1.4%2Bfabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "c2d815d34a5d5061a76fca0c5eea77ac48b52d03"
+
+[update]
+[update.modrinth]
+mod-id = "cpqKG67r"
+version = "QhLRoiXT"
