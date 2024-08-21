@@ -4,7 +4,9 @@ ServerEvents.recipes((event) => {
 
     let removerecipeinput = [];
 
-    let removerecipeoutput = [];
+    let removerecipeoutput = [
+        "create:cart_assembler"
+    ];
 
     removerecipe.forEach((recipeid) => {
         event.remove({ id: `${recipeid}` });
