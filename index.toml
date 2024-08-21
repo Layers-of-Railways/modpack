@@ -331,12 +331,8 @@ file = "kubejs/server_scripts/create/mixing.js"
 hash = "b2a9f8a2abb9d646e59174085c0a13acea9abead7c28c071cd9ba0b059b6ac19"
 
 [[files]]
-file = "kubejs/server_scripts/easter_eggs.js"
-hash = "17f9f724dab3a3499a8ac933bb12a77740e02e45b3a6c403d3fa018cd077b457"
-
-[[files]]
 file = "kubejs/server_scripts/loot_modifications.js"
-hash = "00d650a507e4c007894fff0267f94e95a44be13109e9a9b817f45f0722c1aaa9"
+hash = "a8dc4b82da481d07739706832e28f5bfb66bdf8ed3403e6a0ea56f7690468d39"
 
 [[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
@@ -352,7 +348,7 @@ hash = "0c456abba0dc9e59d49b951598c8e9be03d57c0501e7f8dbee84ccce5e41f95d"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
-hash = "26667369e4504bb2d3e6a80eb3a03377ea9e720429665ac8928aceffc0ed87ed"
+hash = "8778ba77c39649032c9495c6573c6b2089ff686e33ab6252a60e09b553bb4c74"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -1319,7 +1315,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "946e420569acfb2138a64700c909aadd76ae7ef0e194b628415e80664d02d53b"
+hash = "90eaf896d1e067b7540c9f3bd14bcb42ee8a36f535ca9d9c3c8980725860e078"
 metafile = true
 
 [[files]]
