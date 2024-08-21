@@ -1,7 +1,10 @@
-let removeFromAllLootTables = ["minecraft:totem"];
+let removeloot = [
+    [LootType.ENTITY, "minecraft:totem_of_undying"]
+];
 
 LootJS.modifiers(event => {
-    removeFromAllLootTables.forEach((item) => {
-        event.addBlockLootModifier(/.*/).removeLoot(item);
+    removeloot.forEach((remove) => {
+        event.addLootTypeModifier(remove[0])
+            .removeLoot(remove[1])
     });
 });
