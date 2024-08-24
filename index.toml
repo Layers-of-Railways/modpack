@@ -109,6 +109,10 @@ file = "config/paxi/datapacks/RailwaysTweaks/data/eco/worldgen/placed_feature/un
 hash = "23de0573ba02bcc8ce0a14ce4d62b67e3b77490fded523cb537eeb841824cfd8"
 
 [[files]]
+file = "config/paxi/datapacks/RailwaysTweaks/data/railwaystweaks/railways_liquid_fuel/remove_lava.json"
+hash = "a03f559eb7b5431d823088192de824bdb9717361589ae0964c008112e5d7842e"
+
+[[files]]
 file = "config/paxi/datapacks/RailwaysTweaks/pack.mcmeta"
 hash = "36a643178d1d6524c92622e8860f11b13d7193e4951dd8c38853ad2d6eba46b4"
 
@@ -882,6 +886,11 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
+metafile = true
+
+[[files]]
+file = "mods/firorize.pw.toml"
+hash = "96571a69b8162e4a9156ea87517f02b2ee38658a2eeee5f07ce1ebde41e4625d"
 metafile = true
 
 [[files]]
