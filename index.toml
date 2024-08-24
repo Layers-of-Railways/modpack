@@ -885,11 +885,6 @@ hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
 metafile = true
 
 [[files]]
-file = "mods/firorize.pw.toml"
-hash = "96571a69b8162e4a9156ea87517f02b2ee38658a2eeee5f07ce1ebde41e4625d"
-metafile = true
-
-[[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
 hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
