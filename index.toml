@@ -133,6 +133,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones /backslash_key.png"
+hash = "87f6c35ec2b761a51f7d6d0285a50d7338694d389ee093d261513b24fdc49dbf"
+
+[[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/font/default.json"
 hash = "432b1b70a957fb0fb3699d99b2a954792023924e961c5064448710fff3c4523c"
 
@@ -886,11 +890,6 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
-metafile = true
-
-[[files]]
-file = "mods/firorize.pw.toml"
-hash = "96571a69b8162e4a9156ea87517f02b2ee38658a2eeee5f07ce1ebde41e4625d"
 metafile = true
 
 [[files]]
