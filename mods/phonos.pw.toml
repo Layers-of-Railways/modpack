@@ -1,7 +1,7 @@
 name = "phonos"
-filename = "phonos-1.0.0-beta.11+1.20.1.jar"
+filename = "phonos-1.0.0-beta.13+1.20.1.jar"
 
 [download]
-url = "https://github.com/FoundationGames/Phonos/releases/download/v1.0.0-beta.11%2B1.20.1/phonos-1.0.0-beta.11+1.20.1.jar"
+url = "https://raw.githubusercontent.com/Layers-of-Railways/private_testing_modpack/main/mods/phonos-1.0.0-beta.13%2B1.20.1.jar"
 hash-format = "sha256"
-hash = "3da39c503bdfc22aa88f550f6713f21df745d10bef2f1b7574f6c78ce3c7e408"
+hash = "0efe29f04c94e06d630c4f1730d532fc2ce6e8c907ccc5b7a385b4c2ed0309ff"
