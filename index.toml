@@ -943,6 +943,11 @@ hash = "62eeeb1733f37ec138fc076c20d39a12c3d5020b4b67147a523d2fad118da9ff"
 metafile = true
 
 [[files]]
+file = "mods/heracles.pw.toml"
+hash = "305b728d64a514a052aac6a09b5b8a1a12559c68cf31d1b6cc5bb7ac1f18aac4"
+metafile = true
+
+[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "5e60804222681b936e5878d228fb10b5682e3af1d0eedbe120c0b4ee63cc8aaf"
 metafile = true
