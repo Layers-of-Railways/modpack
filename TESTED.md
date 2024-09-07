@@ -11,3 +11,4 @@
 -   Unlimit channels in AE2
 -   redo pack to work for AE2 (Szedann)
 -   Redo RS recipes into AE2 recipes (Joe)
+-   Go through all the Music Discs and ensure proper server-sided length (Slimeist)
