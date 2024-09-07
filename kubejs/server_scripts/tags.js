@@ -1,13 +1,25 @@
+let non_movable = [
+    "armourers_workshop:skin-library-creative",
+    "create:creative_motor",
+    "create:creative_fluid_tank",
+    "create:creative_crate",
+    "numismatics:creative_vendor",
+    "createaddition:creative_energy"
+]
+
+let bottomless_allow = [
+    "create:honey",
+    "minecraft:milk"
+]
+
 ServerEvents.tags("block", (event) => {
-    event.add("create:non_movable", "armourers_workshop:skin-library-creative");
-    event.add("create:non_movable", "create:creative_motor");
-    event.add("create:non_movable", "create:creative_fluid_tank");
-    event.add("create:non_movable", "create:creative_crate");
-    event.add("create:non_movable", "numismatics:creative_vendor");
+    non_movable.forEach((id) => {
+        event.add("create:non_movable", id);
+    })
 });
 
 ServerEvents.tags("fluid", (event) => {
-    // Bottomless Honey
-    event.add("create:bottomless/allow", "create:honey");
-    event.add("create:bottomless/allow", "minecraft:milk");
+    bottomless_allow.forEach((id) => {
+        event.add("create:bottomless/allow", id);
+    })
 });

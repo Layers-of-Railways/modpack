@@ -1,8 +1,31 @@
-# The configuration file for Log Begone
-
 [logbegone]
-# If a log message has one of these phrases, it will be filtered out from logging
-phrases = ["Failed to handle entity type"]
+phrases = [
+    "Ambiguity between arguments", # Minecraft
+    "missing from registry, but requested!", # Minecraft
+    "Expected name to be an item, was unknown string", # Minecraft
+    "Missing criteria, expected to find a JsonObject", # Minecraft
+    "Unknown Registry[ResourceKey[minecraft:root / minecraft:enchantment]", # Minecraft
+    "Invalid enchantment ID", # Minecraft
+    "Failed to handle entity type", # Carpet Mod
+    "Apply Modifications for", # BCLib
+    "Did not manage biome", # BCLib
+    "SemVer is recommended for reliably evaluating dependencies and prioritizing newer version", # Fabric Loader
+    "could not be read. If this is a development environment you can ignore this message", # Mixin
+    "Increase the value of maxShiftBy to suppress this warning.", # Mixin
+    "placard tooltip was null", # Create Deco
+    "Registering C2S receiver with id", # Fabric
+    "DragonLib", # Create Dragon Lib
+    "Registered Resource Key for biome:", # Nature's Spirit
+    "See https://vazkiimods.github.io/Patchouli/docs/upgrading/upgrade-guide-120 for details.", # Patchouli
+    "LootTable.Builder.build() called without setting loot table id.", # LootJS
+    "The following tags are invalid and will be ignored:" # Almost Unified
+]
 
-# If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
-regex = []
+regex = [
+    "Error loading class: .* \\(java.lang.ClassNotFoundException: .*\\)", # Mixin
+    "\\@Mixin target .* was not found", # Mixin
+    "Mixing .* from .* into", # Mixin
+    "Renaming synthetic method .* to .* in .* from mod", # Mixin
+    "Failed to parse recipe .*! Falling back to vanilla: .* can't be empty!", # KubeJS
+    "Your custom .* recipe \\(.*\\) specified a duration. Durations have no impact on this type of recipe.", # Create
+]

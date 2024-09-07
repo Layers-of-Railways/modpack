@@ -11,13 +11,13 @@ ServerEvents.recipes((event) => {
             },
             {
                 fluid: "create_enchantment_industry:experience",
-                amount: 100,
+                amount: 8100,
             },
         ],
         results: [
             {
                 fluid: "create_enchantment_industry:hyper_experience",
-                amount: 10,
+                amount: 810,
             },
         ],
         heatRequirement: "superheated",

@@ -5,7 +5,8 @@ ServerEvents.recipes((event) => {
     let removerecipeinput = [];
 
     let removerecipeoutput = [
-        "create:cart_assembler"
+        "create:cart_assembler",
+        "deepdrilling:drill_core",
     ];
 
     removerecipe.forEach((recipeid) => {

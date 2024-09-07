@@ -70,7 +70,7 @@ hash = "70193fb4977fc63aea5cfbb1ec01b7cfb0d099c469740c61e2b7bf4dd27e60de"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "a0d6debb799a0676cb76d82f6da33949dce273844b8ff09ffbbfee243f54505f"
+hash = "e80e58c15233cc861a8ce8b0e476fa78e1a74bc041cfc5b876240f55739005ff"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -292,7 +292,7 @@ hash = "72333902e61b680eeca1f42e4dde22138777ae1743d6f183c4594e4336c56f74"
 
 [[files]]
 file = "kubejs/client_scripts/emi/hide.js"
-hash = "28ca4d886a3a03738126cf581d8539203ddabf4e258337beab90bc67274ce3f4"
+hash = "e827234ec99b42ba01e084787cae1d6ba560f85ccc05a9ac2ea99873a899e821"
 
 [[files]]
 file = "kubejs/client_scripts/emi/mods/ae2_facade.js"
@@ -320,7 +320,7 @@ hash = "7aa26af76d5f91413f811b7220134a2ef70c62b378d1ca3fe6f83aeee645b947"
 
 [[files]]
 file = "kubejs/server_scripts/create/compacting.js"
-hash = "51b906d9b1a0c56abce87a20342cd05a8fcacd126bd50f1f2161b36f9cc27fc5"
+hash = "d1db46335cd54fe213e94f73929f46367804dbd2b60d192cd29d14da97cc9d8a"
 
 [[files]]
 file = "kubejs/server_scripts/create/crushing.js"
@@ -328,19 +328,19 @@ hash = "57a515eeff775c753ad4018a34aadec239a0673e247c38dfb799711845094af2"
 
 [[files]]
 file = "kubejs/server_scripts/create/filling.js"
-hash = "e54142d989e30ccc33e9c13597a51bcc8029ba419bbe603603e9e1093048d8c0"
+hash = "140b85daadd7009601d6631cca6bf8a777f5908aeb1ef74653836dc7c959f5e1"
 
 [[files]]
 file = "kubejs/server_scripts/create/mechanical_crafting.js"
-hash = "9bbd7791f761a4aaa2645d9fcdddc862d2533c89c06f70b7d646c1d258cccc7b"
+hash = "3b2583809f3268a148c9a22df48e523fab522f9eec8294ccaa2e0af7f5808398"
 
 [[files]]
 file = "kubejs/server_scripts/create/mixing.js"
-hash = "b2a9f8a2abb9d646e59174085c0a13acea9abead7c28c071cd9ba0b059b6ac19"
+hash = "1810f440fa7a8d8751bea4d658b9909d8a38a6449c9252a49508de32c16dc582"
 
 [[files]]
 file = "kubejs/server_scripts/loot_modifications.js"
-hash = "a8dc4b82da481d07739706832e28f5bfb66bdf8ed3403e6a0ea56f7690468d39"
+hash = "cb4c5693b3fadd86e53eea8553abeba5187f6b81d611e54c5d7ae23b25c4874c"
 
 [[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
@@ -352,15 +352,15 @@ hash = "e8862808248bdeaf8baf47a49b3a147cd932f888cb8852a0f956c808c86e2f52"
 
 [[files]]
 file = "kubejs/server_scripts/mods/tinkers.js"
-hash = "0c456abba0dc9e59d49b951598c8e9be03d57c0501e7f8dbee84ccce5e41f95d"
+hash = "9e8e75d7b1f64c0131fcff26b6fe0d2811427b30968ac6d67d49b10060e54be6"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
-hash = "8778ba77c39649032c9495c6573c6b2089ff686e33ab6252a60e09b553bb4c74"
+hash = "6c99d9148b34b839fd536cc6ae24e961040acb4713b8d41c827ad7267e2a3aa8"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "dd3d3c1bd095010aa1516c68430e6ad5131559fe2b535654472553d422331fe7"
+hash = "513d30faad111c24ea1c41155cf68e8858000827a645b99ac0bdf0f3ab9cb966"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -895,6 +895,11 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
+metafile = true
+
+[[files]]
+file = "mods/firorize.pw.toml"
+hash = "68111fb8cb170583795efd0b9d0eddf6f6bb3f66468c8d14d02c7aff8ee30061"
 metafile = true
 
 [[files]]
@@ -1662,12 +1667,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "f1ce0778845c0a21e9ec09f582e16d4395d6a226e3eae95dfe8421c7a9ff4d83"
+hash = "88e40e1591ad381291207cce0d547507ae6ca44893185a1e7ef37b7b86f29e57"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "f5f2f634a21371f9e857e33a2e45dfbad531b6c0bbe28bd7b9f53ec357b0cc23"
+hash = "9ed342e0d8a2200d2a5c01826dba51b70433ad2c0e998fda893b5fa2911c2516"
 metafile = true
 
 [[files]]

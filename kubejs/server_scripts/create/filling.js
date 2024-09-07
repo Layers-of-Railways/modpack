@@ -7,7 +7,7 @@ ServerEvents.recipes((event) => {
                 item: "minecraft:golden_apple",
             },
             {
-                amount: 250,
+                amount: 20250,
                 fluid: "create_enchantment_industry:hyper_experience",
             },
         ],
