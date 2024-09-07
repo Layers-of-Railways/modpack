@@ -4,8 +4,8 @@ phrases = [
     "missing from registry, but requested!", # Minecraft
     "Expected name to be an item, was unknown string", # Minecraft
     "Missing criteria, expected to find a JsonObject", # Minecraft
-    "Unknown Registry[ResourceKey[minecraft:root / minecraft:enchantment]", # Minecraft
-    "Invalid enchantment ID", # Minecraft
+    "Failed to load Modifier", # TConstruct
+    "Invalid enchantment to modifier mapping", # TConstruct
     "Failed to handle entity type", # Carpet Mod
     "Apply Modifications for", # BCLib
     "Did not manage biome", # BCLib
