@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/create-phonos.pw.toml"
-hash = "0452d2d897328adb92537daad7d05092eea1b03a881aed24659e516baad959c8"
+hash = "692b8af3072828fde6bec15c46b1801ac22bdec3188dbfe56baf9ad13c13b610"
 metafile = true
 
 [[files]]

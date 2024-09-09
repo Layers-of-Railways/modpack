@@ -1,13 +1,13 @@
 name = "Fluxie's Create's Style Phonos"
-filename = "Fluxie's Create's Style Phonos 1.20.1 1.0.1.zip"
+filename = "Fluxie's Create's Style Phonos 1.20.1 2.0.0 B.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/39NCEd0z/versions/KG6KwH3k/Fluxie%27s%20Create%27s%20Style%20Phonos%201.20.1%201.0.1.zip"
-hash-format = "sha1"
-hash = "19f18baec07998f62c2bffa10434c31457082167"
+url = "https://cdn.modrinth.com/data/39NCEd0z/versions/bVCNps1b/Fluxie%27s%20Create%27s%20Style%20Phonos%201.20.1%202.0.0%20B.zip"
+hash-format = "sha512"
+hash = "ed7218f800840d9e16f2b002657f2f3e56ab1980c25745b7c9c32fb110e3683bf0577b4f437378d3ee20a565d65c50d6da8086c5910ca4158f2575d7c92e164c"
 
 [update]
 [update.modrinth]
 mod-id = "39NCEd0z"
-version = "KG6KwH3k"
+version = "bVCNps1b"
