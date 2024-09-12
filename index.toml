@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
@@ -839,7 +839,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
@@ -918,6 +918,21 @@ hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "8a7f673c71c9523fded9f5bfd607424f8d6109d7d3b387ce703e86f28d4d9cf5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "65230127d2f844c7feabe3883f93125b2eb0d354c14a9cbbd81bdc6b668cb490"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "4b6e750998339114bf081528a710bf1f0090b52b9c83b971a727dd55157b67f7"
+metafile = true
+
+[[files]]
 file = "mods/fullstack-watchdog.pw.toml"
 hash = "33b0c63ff55058cfb285fbcc50a7adacde22ad699244266c847326377670aabe"
 metafile = true
@@ -950,11 +965,6 @@ metafile = true
 [[files]]
 file = "mods/hephaestus.pw.toml"
 hash = "62eeeb1733f37ec138fc076c20d39a12c3d5020b4b67147a523d2fad118da9ff"
-metafile = true
-
-[[files]]
-file = "mods/heracles.pw.toml"
-hash = "305b728d64a514a052aac6a09b5b8a1a12559c68cf31d1b6cc5bb7ac1f18aac4"
 metafile = true
 
 [[files]]
