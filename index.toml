@@ -1173,6 +1173,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/mod-loading-screen.pw.toml"
+hash = "62b1d0123bd16f728ba8808b2f4c7d4d647acebeb4a81d28c3719809af5d03eb"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "48812d772e135285b61d74a9936e22220efa1d8935ec1f06f34c2727ea915836"
 metafile = true
