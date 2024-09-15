@@ -125,6 +125,10 @@ file = "config/paxi/datapacks/better-endcity-better-end.zip"
 hash = "642db2d0eb68dff95744946a16fa45b476b956e6d9603300cc83677f307f86ff"
 
 [[files]]
+file = "config/paxi/datapacks/sound_lengths.zip"
+hash = "d25f752f8256a5a8747b73c1f1c49d3998b94cdcba3f16b28b16bc5aa34da2a9"
+
+[[files]]
 file = "config/paxi/datapacks/wandering trades v1.7.1 (MC 1.20.x).zip"
 hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
 
