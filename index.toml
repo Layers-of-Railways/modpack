@@ -647,6 +647,11 @@ hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "8023989ea674b490fbf84daac15359f628457c22f1702db8655f3c576e7f5b10"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "d3e3831377b8282db35ffe8446d535f30e011367b3187b2c96b5f179a1a77c59"
 metafile = true
