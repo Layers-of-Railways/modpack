@@ -922,21 +922,6 @@ hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
-file = "mods/ftb-library-fabric.pw.toml"
-hash = "8a7f673c71c9523fded9f5bfd607424f8d6109d7d3b387ce703e86f28d4d9cf5"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-fabric.pw.toml"
-hash = "65230127d2f844c7feabe3883f93125b2eb0d354c14a9cbbd81bdc6b668cb490"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-fabric.pw.toml"
-hash = "4b6e750998339114bf081528a710bf1f0090b52b9c83b971a727dd55157b67f7"
-metafile = true
-
-[[files]]
 file = "mods/fullstack-watchdog.pw.toml"
 hash = "33b0c63ff55058cfb285fbcc50a7adacde22ad699244266c847326377670aabe"
 metafile = true
