@@ -1,13 +1,13 @@
 name = "CompleteConfig"
-filename = "completeconfig-2.5.0.jar"
+filename = "completeconfig-2.5.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GtqG8z1h/versions/df7u1Xpi/completeconfig-2.5.0.jar"
+url = "https://cdn.modrinth.com/data/GtqG8z1h/versions/CmDKaH1R/completeconfig-2.5.2.jar"
 hash-format = "sha1"
-hash = "1c9ea8fb5cbc7d9aa39c9f388f87ee5a2e91fc87"
+hash = "2e53251a9413ef130dbded12a3ae5bba815d5a91"
 
 [update]
 [update.modrinth]
 mod-id = "GtqG8z1h"
-version = "df7u1Xpi"
+version = "CmDKaH1R"

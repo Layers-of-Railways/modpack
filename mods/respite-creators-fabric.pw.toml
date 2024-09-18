@@ -1,13 +1,13 @@
 name = "Respite Creators [Fabric]"
-filename = "respite-creators-1.2.0.jar"
+filename = "respite-creators-1.3.0-FDR.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XDKcRhiQ/versions/buV74CFK/respite-creators-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/XDKcRhiQ/versions/dZHrDfmD/respite-creators-1.3.0-FDR.jar"
 hash-format = "sha1"
-hash = "d4a5e7b145283299ff129633a28104aa1541242c"
+hash = "b82c5e617651dadd96f33fb716e7bca14b8d8a4e"
 
 [update]
 [update.modrinth]
 mod-id = "XDKcRhiQ"
-version = "buV74CFK"
+version = "dZHrDfmD"

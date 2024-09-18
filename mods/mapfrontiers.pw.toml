@@ -1,13 +1,13 @@
 name = "MapFrontiers"
-filename = "MapFrontiers-1.20.1-2.6.0p1-fabric.jar"
+filename = "MapFrontiers-1.20.1-2.6.0p5-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hWlsli6y/versions/ZtkXyDPP/MapFrontiers-1.20.1-2.6.0p1-fabric.jar"
+url = "https://cdn.modrinth.com/data/hWlsli6y/versions/FYFy0x3E/MapFrontiers-1.20.1-2.6.0p5-fabric.jar"
 hash-format = "sha1"
-hash = "b298ceab60585070a2dfbc6fc128ba3b0f8363b8"
+hash = "2a225655c229047fd1b8aaedf393b0f108c889eb"
 
 [update]
 [update.modrinth]
 mod-id = "hWlsli6y"
-version = "ZtkXyDPP"
+version = "FYFy0x3E"

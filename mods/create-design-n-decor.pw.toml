@@ -1,13 +1,13 @@
 name = "Create: Design n' Decor"
-filename = "design_decor-0.4_fabric+1.20.1.jar"
+filename = "design_decor-0.4.0b_fabric+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/x49wilh8/versions/XwA7KWCB/design_decor-0.4_fabric%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/x49wilh8/versions/6bv4ASFG/design_decor-0.4.0b_fabric%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "f4f51fc307de8bfad8631673e86b1c9d5070b419"
+hash = "6d3203e06128006c7c6222f3593648c4fd11d426"
 
 [update]
 [update.modrinth]
 mod-id = "x49wilh8"
-version = "XwA7KWCB"
+version = "6bv4ASFG"

@@ -1,13 +1,13 @@
 name = "Impersonate"
-filename = "impersonate-2.10.2-standalone.jar"
+filename = "impersonate-2.10.3-standalone.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/xBZuWXoj/versions/6ZK2ddbg/impersonate-2.10.2-standalone.jar"
+url = "https://cdn.modrinth.com/data/xBZuWXoj/versions/ajk5aewg/impersonate-2.10.3-standalone.jar"
 hash-format = "sha1"
-hash = "97f7611db4b44b3249becd9a879a3022c6ebf1f8"
+hash = "56822e97201490f3062e3a25b09ddcde7438477b"
 
 [update]
 [update.modrinth]
 mod-id = "xBZuWXoj"
-version = "6ZK2ddbg"
+version = "ajk5aewg"

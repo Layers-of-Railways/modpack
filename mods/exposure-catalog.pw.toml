@@ -1,13 +1,13 @@
 name = "Exposure Catalog"
-filename = "exposure_catalog-1.20.1-1.0.0-fabric.jar"
+filename = "exposure_catalog-1.20.1-1.0.3-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PWcQ3kcp/versions/fqKGVY0P/exposure_catalog-1.20.1-1.0.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/PWcQ3kcp/versions/uyXjWlIV/exposure_catalog-1.20.1-1.0.3-fabric.jar"
 hash-format = "sha1"
-hash = "868038875a20ab56348322335a179f73f9bef952"
+hash = "ba2cb9164947806f4e2cfc63c5de85ab7c233944"
 
 [update]
 [update.modrinth]
 mod-id = "PWcQ3kcp"
-version = "fqKGVY0P"
+version = "uyXjWlIV"

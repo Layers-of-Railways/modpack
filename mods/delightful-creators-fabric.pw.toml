@@ -1,13 +1,13 @@
 name = "Delightful Creators  [Fabric]"
-filename = "delightful-creators-1.1.8.jar"
+filename = "delightful-creators-1.3-1.20.x-FDR-support.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jmJ87gsb/versions/66Jv0aZJ/delightful-creators-1.1.8.jar"
+url = "https://cdn.modrinth.com/data/jmJ87gsb/versions/u29d1nXQ/delightful-creators-1.3-1.20.x-FDR-support.jar"
 hash-format = "sha1"
-hash = "539f3bde2a04d0b19254121bbc0d4ea441b6e4ef"
+hash = "bd9f9aafd77e90422fa16953fbf5881fa57a94d7"
 
 [update]
 [update.modrinth]
 mod-id = "jmJ87gsb"
-version = "66Jv0aZJ"
+version = "u29d1nXQ"
