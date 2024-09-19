@@ -198,6 +198,34 @@ hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/panorama/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "32373c393fb10a3efc4f87a70a297b3f99967c6c2daa2eb777c67ca43eaaeb89"
+
+[[files]]
+file = "config/paxi/resourcepacks/panorama/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "dd06bc19f3c4cdc7467c30a8a83928d04836bdf99fdfeccad366cb843e985583"
+
+[[files]]
+file = "config/paxi/resourcepacks/panorama/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "3ba62cdff1c3087db0bf046c0da58034637383bf6ad4f077139bb2d6cf239362"
+
+[[files]]
+file = "config/paxi/resourcepacks/panorama/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "6d53bc66cb1024f7eb673548d6bfaa63179ac7b6eef6b7784c06792789381a5d"
+
+[[files]]
+file = "config/paxi/resourcepacks/panorama/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "742adb899bab978fa20f48501418909e922cdfbee81dc4029b12ec110f8c35ad"
+
+[[files]]
+file = "config/paxi/resourcepacks/panorama/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "0fea1606bf1a09629dd76f7d292a1b474661579c8a1a53041d2282c9fbb74ace"
+
+[[files]]
+file = "config/paxi/resourcepacks/panorama/pack.mcmeta"
+hash = "4e51ed637821719baa8585123d511837a229137046bf5a598e8b9b6ff6703f77"
+
+[[files]]
 file = "config/paxi/resourcepacks/refreshed-energistics.pw.toml"
 hash = "70c94a79af4f4588a5db385bdc49a36c5559b8b194f360cafa651d8dcbe802b0"
 metafile = true
