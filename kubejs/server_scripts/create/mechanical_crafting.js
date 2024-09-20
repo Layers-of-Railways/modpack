@@ -1,3 +1,4 @@
+// priority: 100
 ServerEvents.recipes((event) => {
     event.custom({
         type: "create:mechanical_crafting",
