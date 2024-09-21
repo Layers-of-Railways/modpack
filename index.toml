@@ -364,7 +364,7 @@ hash = "140b85daadd7009601d6631cca6bf8a777f5908aeb1ef74653836dc7c959f5e1"
 
 [[files]]
 file = "kubejs/server_scripts/create/mechanical_crafting.js"
-hash = "3b2583809f3268a148c9a22df48e523fab522f9eec8294ccaa2e0af7f5808398"
+hash = "145de61aa8c85bd362aff8278c99240eda0b99ab5970c85a7e4cdb8efec35ddd"
 
 [[files]]
 file = "kubejs/server_scripts/create/mixing.js"
