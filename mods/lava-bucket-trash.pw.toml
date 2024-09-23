@@ -1,0 +1,13 @@
+name = "Lava Bucket Trash"
+filename = "lavabuckettrash-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l3w0ajnB/versions/jFUeTbze/lavabuckettrash-1.0.0.jar"
+hash-format = "sha1"
+hash = "c1ea9a44b222121b72fb23be8c458fdbf30246c3"
+
+[update]
+[update.modrinth]
+mod-id = "l3w0ajnB"
+version = "jFUeTbze"
