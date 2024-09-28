@@ -945,6 +945,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/forge-early-loading-screen-fabric.pw.toml"
+hash = "f0f8656af933452235ad0442aafe207a1ba2062b818b634a071441ce5ee7a724"
+metafile = true
+
+[[files]]
 file = "mods/framework-fabric.pw.toml"
 hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
@@ -1207,11 +1212,6 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
-metafile = true
-
-[[files]]
-file = "mods/mod-loading-screen.pw.toml"
-hash = "55f7e03688f05d9f5032aceefd9b9dcf337a30974164c447a34419e77f62d132"
 metafile = true
 
 [[files]]
