@@ -9,6 +9,16 @@ jobs:
             - name: Checkout Repository
               uses: actions/checkout@v4
 
+            - name: Push to Prod
+              run: |
+                git config user.name "github-actions-bot"
+                git config user.email "github-actions[bot]@users.noreply.github.com"
+                git checkout prod
+                git merge dev --no-ff -m "Merge dev into prod"
+                git push origin prod
+              env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
             - name: Setup Go
               uses: actions/setup-go@v5
               with:
