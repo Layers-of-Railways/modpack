@@ -70,7 +70,7 @@ hash = "70193fb4977fc63aea5cfbb1ec01b7cfb0d099c469740c61e2b7bf4dd27e60de"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "756edadebefb5a1462d17e673de387b4aafc031494d346e6c4f49a991941d8aa"
+hash = "20cd9f30dee2cbc00a6e33a048336a6252b54acf110493e435bab91f5b9b9423"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
