@@ -3,6 +3,8 @@ name: Release
 on: [workflow_dispatch]
 
 jobs:
+    push-to-prod-branch:
+      uses: ./.github/workflows/push-to-prod.yml
     release:
         runs-on: ubuntu-latest
         steps:
