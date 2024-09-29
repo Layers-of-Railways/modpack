@@ -28,7 +28,7 @@ scroll_list_customization {
 
 element {
   button_element_executable_block_identifier = ed467baa-f23d-4142-a231-aaa6c0d566cf-1715259909634
-  [executable_action_instance:738858e9-008c-406d-9e3e-cba428ed5348-1715259968102][action_type:joinserver] = 174.136.202.131:25565
+  [executable_action_instance:738858e9-008c-406d-9e3e-cba428ed5348-1715259968102][action_type:joinserver] = railways.ithundxr.dev
   [executable_block:ed467baa-f23d-4142-a231-aaa6c0d566cf-1715259909634][type:generic] = [executables:738858e9-008c-406d-9e3e-cba428ed5348-1715259968102;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
