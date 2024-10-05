@@ -376,7 +376,7 @@ hash = "cb4c5693b3fadd86e53eea8553abeba5187f6b81d611e54c5d7ae23b25c4874c"
 
 [[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
-hash = "d6e013d21b3014bda7d7b5f74f53b3e16807c30476dc89d78d980a29cc3b4060"
+hash = "4346ea71c33c9d69df7b5b75e942e14d9c0fda7d0a6c80e87c9fbc1cc9f204e2"
 
 [[files]]
 file = "kubejs/server_scripts/mods/phonos.js"
