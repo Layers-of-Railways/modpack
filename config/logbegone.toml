@@ -29,4 +29,5 @@ regex = [
     "Renaming synthetic method .* to .* in .* from mod", # Mixin
     "Failed to parse recipe .*! Falling back to vanilla: .* can't be empty!", # KubeJS
     "Your custom .* recipe \\(.*\\) specified a duration. Durations have no impact on this type of recipe.", # Create
+    "the node .* not found in world!", # Armourers Workshop
 ]
