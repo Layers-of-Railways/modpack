@@ -19,7 +19,8 @@ phrases = [
     "See https://vazkiimods.github.io/Patchouli/docs/upgrading/upgrade-guide-120 for details.", # Patchouli
     "LootTable.Builder.build() called without setting loot table id.", # LootJS
     "The following tags are invalid and will be ignored:", # Almost Unified
-    "Tried to attach from null" # ConnectibleChains
+    "Tried to attach from null", # ConnectibleChains
+    "io.netty.handler.timeout.ReadTimeoutException: null", # NettyIO
 ]
 
 regex = [
