@@ -21,6 +21,7 @@ phrases = [
     "The following tags are invalid and will be ignored:", # Almost Unified
     "Tried to attach from null", # ConnectibleChains
     "io.netty.handler.timeout.ReadTimeoutException: null", # NettyIO
+    "moved too quickly!", # Minecraft
 ]
 
 regex = [
