@@ -19,7 +19,8 @@ phrases = [
     "See https://vazkiimods.github.io/Patchouli/docs/upgrading/upgrade-guide-120 for details.", # Patchouli
     "LootTable.Builder.build() called without setting loot table id.", # LootJS
     "The following tags are invalid and will be ignored:", # Almost Unified
-    "Tried to attach from null" # ConnectibleChains
+    "Tried to attach from null", # ConnectibleChains
+    "io.netty.handler.timeout.ReadTimeoutException: null", # NettyIO
 ]
 
 regex = [
@@ -29,4 +30,5 @@ regex = [
     "Renaming synthetic method .* to .* in .* from mod", # Mixin
     "Failed to parse recipe .*! Falling back to vanilla: .* can't be empty!", # KubeJS
     "Your custom .* recipe \\(.*\\) specified a duration. Durations have no impact on this type of recipe.", # Create
+    "the node .* not found in world!", # Armourers Workshop
 ]
