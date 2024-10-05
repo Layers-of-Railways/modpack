@@ -14,13 +14,13 @@ phrases = [
     "Increase the value of maxShiftBy to suppress this warning.", # Mixin
     "placard tooltip was null", # Create Deco
     "Registering C2S receiver with id", # Fabric
-    "DragonLib", # Create Dragon Lib
     "Registered Resource Key for biome:", # Nature's Spirit
     "See https://vazkiimods.github.io/Patchouli/docs/upgrading/upgrade-guide-120 for details.", # Patchouli
     "LootTable.Builder.build() called without setting loot table id.", # LootJS
     "The following tags are invalid and will be ignored:", # Almost Unified
     "Tried to attach from null", # ConnectibleChains
     "io.netty.handler.timeout.ReadTimeoutException: null", # NettyIO
+    "moved too quickly!", # Minecraft
 ]
 
 regex = [
