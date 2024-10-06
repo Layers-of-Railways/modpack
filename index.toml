@@ -244,7 +244,7 @@ hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "08c31ecb2fe844767e668b03413ee6a1ee57dc2b2bcb7688be1f3ecadaf68ab8"
+hash = "0209b0c5ec7fa8e6d7b10a9b69a2badc2c632880954bced376eabcf40d2bfb66"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
