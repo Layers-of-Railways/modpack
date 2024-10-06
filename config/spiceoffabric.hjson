@@ -27,7 +27,7 @@
 		consume-duration: consumeDuration * power(1.3, timesEaten)
 		// default: 20
 		// 	Must be greater or equal to 0
-		history-length: 20
+		history-length: 5
 	}
 	carrot: {
 		// default: false

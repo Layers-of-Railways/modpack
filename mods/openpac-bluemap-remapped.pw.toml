@@ -1,0 +1,13 @@
+name = "OpenPaC BlueMap - Remapped"
+filename = "openpac-bluemap-integration-remapped-1.0.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/c8fL4H0n/versions/s6esP76C/openpac-bluemap-integration-remapped-1.0.3.jar"
+hash-format = "sha512"
+hash = "b37e2a9962907a67057ffaaed59d2a7f5574e9f9e5648d44ad8c3f3f7bd6aeed110c7f15f46db99712c1523dfc7a917488de29176c0820582ed54f5b9baa96d2"
+
+[update]
+[update.modrinth]
+mod-id = "c8fL4H0n"
+version = "s6esP76C"
