@@ -244,7 +244,7 @@ hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "a84c96439be2bb268830aa4341614b89f529ffb4018147cb24d9c9d9fc343c6c"
+hash = "08c31ecb2fe844767e668b03413ee6a1ee57dc2b2bcb7688be1f3ecadaf68ab8"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
@@ -1302,6 +1302,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "7e987a1cd98c2b5b26d11ded0cfe3c9d8270654cfe2cef4dae594189a149f403"
+metafile = true
+
+[[files]]
+file = "mods/openpac-bluemap-remapped.pw.toml"
+hash = "cd00059a964f8b2492a8f44acfd73410f254a32d6e710ced9115c640e63eb28d"
 metafile = true
 
 [[files]]
