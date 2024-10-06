@@ -21,6 +21,8 @@ phrases = [
     "Tried to attach from null", # ConnectibleChains
     "io.netty.handler.timeout.ReadTimeoutException: null", # NettyIO
     "moved too quickly!", # Minecraft
+    "Chunk Protection canBreakBlock", # WandsMod
+    "Opac canInteract", # WandsMod
 ]
 
 regex = [
