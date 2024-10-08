@@ -400,6 +400,10 @@ hash = "00318827d72a18aedaf7979e4f7938a0e6a2c35fc703906cad64ea6b38cb7200"
 metafile = true
 
 [[files]]
+file = "mods/ACME_Admin-0.1.0-beta.1+fabric-mc1.20.1-local.jar"
+hash = "79046a853c4aeaedb05050117db220c18207ab15a45d4ca74d33d479128aa4e7"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
