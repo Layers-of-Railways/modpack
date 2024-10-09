@@ -1701,6 +1701,11 @@ hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/animatronic-conductor.pw.toml"
+hash = "333b182c5454f16ffeed1f0ee9fb1c6b5d1f2b9dd0754c4f89d9870230059048"
+metafile = true
+
+[[files]]
 file = "resourcepacks/ferns-fancy-inventory.pw.toml"
 hash = "59fd0191db2076fcdb91fdb269ad72b0a2841a0e94a0f079825f2e9e5ae4e152"
 metafile = true

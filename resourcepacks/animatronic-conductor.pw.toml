@@ -1,0 +1,13 @@
+name = "Animatronic Conductor"
+filename = "AnimatronicConductor 2.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JZJHjd0b/versions/LU7txOPI/AnimatronicConductor%202.3.zip"
+hash-format = "sha1"
+hash = "494421aeaf3e83d8d60576c464c7304d506d0e27"
+
+[update]
+[update.modrinth]
+mod-id = "JZJHjd0b"
+version = "LU7txOPI"
