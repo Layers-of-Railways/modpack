@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
-hash = "43ea00d836bef5a72eb2e074e5b0ba534e09d31e41a674c8b3d77f307dfbd619"
+hash = "3e9b6969df15bf6fc56840fddfd1d38744f558d5a903e4b80e6c1bde52e46290"
 metafile = true
 
 [[files]]
