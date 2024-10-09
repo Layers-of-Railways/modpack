@@ -1059,11 +1059,6 @@ hash = "8e1fa4f58f8fa3e9d4f7f1592aa3d82ec7bf5d8b5817f9feb6f3f8b11e6ec0a4"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "828de80bef531bc15361186f960dad985cb7bde2a7a8659c1655d2b7c0d207e8"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
@@ -1171,11 +1166,6 @@ metafile = true
 [[files]]
 file = "mods/maintenancemode.pw.toml"
 hash = "0e2f681845283e7bd4e9b9fbd368d51667709a0a5d8cd1c131183310085f044b"
-metafile = true
-
-[[files]]
-file = "mods/mapfrontiers.pw.toml"
-hash = "131603e7d606cb8ea548821b4d15363179cce2ce3899e92d0f88c2e17ecfa081"
 metafile = true
 
 [[files]]
