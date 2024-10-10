@@ -1,0 +1,13 @@
+name = "ACME Admin Tools"
+filename = "ACME_Admin-0.1.0-beta.1+fabric-mc1.20.1-local.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V3mJiWkm/versions/HYeruP8L/ACME_Admin-0.1.0-beta.1%2Bfabric-mc1.20.1-local.jar"
+hash-format = "sha1"
+hash = "3535df9a3af87a9fa24b34c06f192b562d31caff"
+
+[update]
+[update.modrinth]
+mod-id = "V3mJiWkm"
+version = "HYeruP8L"
