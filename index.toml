@@ -400,8 +400,9 @@ hash = "00318827d72a18aedaf7979e4f7938a0e6a2c35fc703906cad64ea6b38cb7200"
 metafile = true
 
 [[files]]
-file = "mods/ACME_Admin-0.1.0-beta.1+fabric-mc1.20.1-local.jar"
-hash = "79046a853c4aeaedb05050117db220c18207ab15a45d4ca74d33d479128aa4e7"
+file = "mods/acme-admin-tools.pw.toml"
+hash = "9fdf8456d145b8d7c0691dc65b2fc35beae1abeef7f4515c58d46d1ea0615ed9"
+metafile = true
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -1324,8 +1325,8 @@ hash = "a0fb6a028f0c5b75ca2cc625cf81eec3e84ea856762df2561d2dbcb28c65289a"
 metafile = true
 
 [[files]]
-file = "mods/phonos-1.1.0-beta.3+1.20.1.jar"
-hash = "dd872f2311895b3579337e27242e29f11a704a34f757e799bf53d8c41867657e"
+file = "mods/phonos-1.1.1-beta.1+1.20.1.jar"
+hash = "d50c8534d582bff02181f3a8f5f7300cbd33d0bc418c4f6905557b0d8a66d9fa"
 
 [[files]]
 file = "mods/picturesign-2.0.0-beta.1+unascribedtheora-patch.5.jar"
