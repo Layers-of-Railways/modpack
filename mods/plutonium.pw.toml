@@ -1,7 +1,7 @@
 name = "plutonium"
-filename = "Plutonium-1.1.3-mc1.20.1.jar"
+filename = "Plutonium-1.1.5-mc1.20.1.jar"
 
 [download]
-url = "https://github.com/IThundxr/Plutonium/releases/download/v1.1.3/Plutonium-1.1.3-mc1.20.1.jar"
+url = "https://github.com/IThundxr/Plutonium/releases/download/v1.1.5/Plutonium-1.1.5-mc1.20.1.jar"
 hash-format = "sha256"
-hash = "199649d2a17c4763427e09643486662419f2d5cff37d4e5cc15708c853ff0a55"
+hash = "54b5531e663a76b93cf9a893bd00d609f6a87a701e8b9032fafaa8e8c85da9dd"
