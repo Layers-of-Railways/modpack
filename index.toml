@@ -137,6 +137,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/NS-Updated-Tracks-Taeco.zip"
+hash = "20249557f6c0d02553a7e1d7fcef7ac85f2198307d7c020f23d7e95773a8dcee"
+
+[[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/backslash_key.png"
 hash = "87f6c35ec2b761a51f7d6d0285a50d7338694d389ee093d261513b24fdc49dbf"
 
