@@ -1601,11 +1601,6 @@ hash = "c14621c85d8c741560119660e73d8b83963eed5e6c59b33124e1448af5f7fe06"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-permissions.pw.toml"
-hash = "07f7ec6edd1deefe5cf36f83104374ba2a28b44a0877984e5030e3a4e4de5854"
-metafile = true
-
-[[files]]
 file = "mods/vanish.pw.toml"
 hash = "e39b6be6d8465829fe40a2e42d3a86dbde2266a7c7cf48ba2d5741baa1749cae"
 metafile = true
