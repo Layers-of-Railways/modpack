@@ -444,11 +444,6 @@ hash = "8f16cfd00838e0fea189de57429e08a632944d48a62140d52af15c54b520c9b5"
 metafile = true
 
 [[files]]
-file = "mods/anti-xray.pw.toml"
-hash = "61c71aa07fd9db7729be843e369944da5faa76abba2b4052612ebcfd2e12acfb"
-metafile = true
-
-[[files]]
 file = "mods/antighost.pw.toml"
 hash = "9f22660d287a6a3ded24f5df8f944972933f04651cb30c9acb2e62132f3ffcd2"
 metafile = true
@@ -606,11 +601,6 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
 metafile = true
 
 [[files]]
@@ -1618,16 +1608,6 @@ metafile = true
 [[files]]
 file = "mods/worldborderfix.pw.toml"
 hash = "0b24d3fbf38ac7340c0fc39e4f9e2331ae733c975050c195268b09042322c770"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
-metafile = true
-
-[[files]]
-file = "mods/worldeditcui-fabric.pw.toml"
-hash = "48c5a8213925efd652a9e13f40116d53e0516e9147b27d6d0e0ae8cf68f83f6d"
 metafile = true
 
 [[files]]
