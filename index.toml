@@ -5,6 +5,10 @@ file = "config/ styled-chat.json"
 hash = "06cc392d5096536b6e51a276d9e1c488c308622ae333a17710ca2f396abe7db7"
 
 [[files]]
+file = "config/backpacked-common.toml"
+hash = "9fb5bc5b26e698815bde9afb430090fff1c80b4928e72928128b9b94f04cfac9"
+
+[[files]]
 file = "config/bclib/client.json"
 hash = "08c0a94cacc2235d23ac52bb4e7d9e48ca6095ffc140a459061c4898a9ba3982"
 
@@ -247,6 +251,14 @@ file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
+file = "config/servercore/config.yml"
+hash = "1f2e07acb77f0c38345fb0a366f44b3280e44811e4605a44f2fffc7dd2d22070"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "fbb29b9bf5d8f90f58568cfae7f85220d84465d78d6a4dcbfbe3c15ffd172f8d"
+
+[[files]]
 file = "config/spiceoffabric.hjson"
 hash = "0209b0c5ec7fa8e6d7b10a9b69a2badc2c632880954bced376eabcf40d2bfb66"
 
@@ -373,6 +385,10 @@ hash = "3b2583809f3268a148c9a22df48e523fab522f9eec8294ccaa2e0af7f5808398"
 [[files]]
 file = "kubejs/server_scripts/create/mixing.js"
 hash = "1810f440fa7a8d8751bea4d658b9909d8a38a6449c9252a49508de32c16dc582"
+
+[[files]]
+file = "kubejs/server_scripts/local_chat.js"
+hash = "42dc2fce3894780bdd70d59a563d497807aea9ac16d507ff49d27031e06e46f1"
 
 [[files]]
 file = "kubejs/server_scripts/loot_modifications.js"
@@ -1433,6 +1449,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
