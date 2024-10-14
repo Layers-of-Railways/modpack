@@ -375,6 +375,10 @@ file = "kubejs/server_scripts/create/mixing.js"
 hash = "1810f440fa7a8d8751bea4d658b9909d8a38a6449c9252a49508de32c16dc582"
 
 [[files]]
+file = "kubejs/server_scripts/local_chat.js"
+hash = "42dc2fce3894780bdd70d59a563d497807aea9ac16d507ff49d27031e06e46f1"
+
+[[files]]
 file = "kubejs/server_scripts/loot_modifications.js"
 hash = "cb4c5693b3fadd86e53eea8553abeba5187f6b81d611e54c5d7ae23b25c4874c"
 
