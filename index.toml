@@ -252,7 +252,7 @@ hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
 file = "config/servercore/config.yml"
-hash = "1f2e07acb77f0c38345fb0a366f44b3280e44811e4605a44f2fffc7dd2d22070"
+hash = "a02319bea45d4492e1095b1c61161d15cb35086c851767caa76ba8bce60a48b5"
 
 [[files]]
 file = "config/servercore/optimizations.yml"
@@ -399,8 +399,12 @@ file = "kubejs/server_scripts/misc_recipes.js"
 hash = "4346ea71c33c9d69df7b5b75e942e14d9c0fda7d0a6c80e87c9fbc1cc9f204e2"
 
 [[files]]
+file = "kubejs/server_scripts/mods/farmersdelight.js"
+hash = "6bc7c1a8ad7492389b931411e0d16fe0af14d246106476245851d77e5fb5775a"
+
+[[files]]
 file = "kubejs/server_scripts/mods/phonos.js"
-hash = "e8862808248bdeaf8baf47a49b3a147cd932f888cb8852a0f956c808c86e2f52"
+hash = "10836165aa320bafee53924c1d14b83388231c107c38b3bdcdbf96e469cda136"
 
 [[files]]
 file = "kubejs/server_scripts/mods/tinkers.js"
