@@ -28,7 +28,7 @@ dynamic:
   # Enables dynamic performance checks.
   enabled: true
   # The average MSPT to target.
-  target-mspt: 35
+  target-mspt: 45
   # The settings that will be decreased when the server is overloaded, in the specified order.
   # Removing a setting from the list will disable it.
   # ► max = The maximum value the server will increase the setting to.
@@ -44,7 +44,7 @@ dynamic:
 
     - setting: 'MOBCAP_PERCENTAGE'
       max: 100
-      min: 20
+      min: 40
       increment: 10
       interval: 15
 
@@ -56,7 +56,7 @@ dynamic:
 
     - setting: 'VIEW_DISTANCE'
       max: 12
-      min: 4
+      min: 6
       increment: 1
       interval: 150
 
@@ -107,7 +107,7 @@ mob-spawning:
   categories:
     - category: 'MONSTER'
       mobcap: 20
-      spawn-interval: 400
+      spawn-interval: 100
 
     - category: 'CREATURE'
       mobcap: 8
