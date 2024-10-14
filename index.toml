@@ -247,6 +247,14 @@ file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
+file = "config/servercore/config.yml"
+hash = "1f2e07acb77f0c38345fb0a366f44b3280e44811e4605a44f2fffc7dd2d22070"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "fbb29b9bf5d8f90f58568cfae7f85220d84465d78d6a4dcbfbe3c15ffd172f8d"
+
+[[files]]
 file = "config/spiceoffabric.hjson"
 hash = "0209b0c5ec7fa8e6d7b10a9b69a2badc2c632880954bced376eabcf40d2bfb66"
 
