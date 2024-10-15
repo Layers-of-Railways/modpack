@@ -1149,11 +1149,6 @@ hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
 metafile = true
 
 [[files]]
-file = "mods/let-sleeping-dogs-lie.pw.toml"
-hash = "455608abc9e99130ece17e243f4cb857357923acfd508c0caa98cbcd120d7360"
-metafile = true
-
-[[files]]
 file = "mods/lilac.pw.toml"
 hash = "40da6c11ac0a856fb0fa5688bf7df6538bba3cb0c0258b6611ce56fb8a0f0f69"
 metafile = true
