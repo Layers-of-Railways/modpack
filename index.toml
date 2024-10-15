@@ -804,6 +804,11 @@ hash = "5eddd4c6a5cba7cd4d3d9a0acd0e810ae040d92b6c1928984a9497a5187d143b"
 metafile = true
 
 [[files]]
+file = "mods/doggo-mod-overhauled.pw.toml"
+hash = "af7f8767a492330e81bd229d0a2da3d880b89276ece8407c4ea4cb1ddfd66e5d"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "ad0b1c92bf3db21f58b6c609e2da6cd303afedda9973000456e7e3886f906e89"
 metafile = true
@@ -866,6 +871,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "f74bba0bfe9e9fd9288d1afac05670ee574123cd336c4a4313a64fbccf6a62c3"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "34cae8159356aa6257340c0cfa0e4f13df5ed1d9f58eb50e68062a5a4e39de88"
 metafile = true
 
 [[files]]
@@ -1004,6 +1014,11 @@ hash = "11483562aa9ba14ee03da7204c6edcc45a2f18ce5076aafa4ca5c2d3f6b7dc5f"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
+metafile = true
+
+[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "f0d40f0f665ef29ddec86455dbcd3aba68621dc715294c5af346a97ab71989f2"
 metafile = true
@@ -1031,6 +1046,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "cacd5a91708f799da27924f237b9252d05438de1f9b4e3e978bf3894e8574df0"
 metafile = true
 
 [[files]]
@@ -1548,6 +1568,11 @@ metafile = true
 [[files]]
 file = "mods/swampier-swamps-fabric.pw.toml"
 hash = "dc303709ac6be8f692414659002f617822ec3adc14f846054c05af295fb90277"
+metafile = true
+
+[[files]]
+file = "mods/talkbubbles.pw.toml"
+hash = "5956607e8d1d115911e16b8f074b85340f974779c72a10b348a7211ba94d8fa9"
 metafile = true
 
 [[files]]
