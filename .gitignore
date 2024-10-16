@@ -19,3 +19,7 @@ output/
 # ProbeJS guts
 
 kubejs/probe/
+
+# ProbeJS config
+
+jsconfig.json
