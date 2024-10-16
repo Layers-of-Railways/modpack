@@ -6,13 +6,13 @@ StartupEvents.registry('item', e => {
     .unstackable()
     .rarity('epic')
     .glow(true)
-    .useAnimation('bow')
-    .useDuration(itemstack => 72000)
-    .use((level, player, hand) => {
+    .useAnimation('spyglass')
+    .useDuration(_itemstack => 72000)
+    .use((_level, player, _hand) => {
       player.playSound("minecraft:block.respawn_anchor.charge", 5, 0);
       return true;
     })
-    .releaseUsing((itemstack, level, entity, tick) => {
+    .releaseUsing((_itemstack_, _level, entity, _tick) => {
       var destination = entity.rayTrace(128, false);
       var destX = destination.getHitX();
       var destY = destination.getHitY();
@@ -21,7 +21,7 @@ StartupEvents.registry('item', e => {
       var offhandCount = entity.offHandItem.getCount();
       if (offhandItem.getId() == `minecraft:amethyst_shard` && offhandCount > 0 && destination.block != null){
         entity.offHandItem.setCount(offhandCount - 1);
-        entity.moveTo(destX, destY, destZ);
+        entity.teleportTo(destX, destY, destZ);
         entity.playSound("minecraft:entity.warden.sonic_boom", 5, 1);
       }
     });
