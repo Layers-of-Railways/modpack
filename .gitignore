@@ -15,3 +15,7 @@ packwiz.exe
 
 # Output dir
 output/
+
+# ProbeJS guts
+
+kubejs/probe/
