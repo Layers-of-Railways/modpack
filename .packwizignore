@@ -32,3 +32,8 @@ enable_hooks.sh
 
 # Exclude github pages CNAME file
 CNAME
+
+# Exclude probeJS guts
+
+kubejs/probe
+jsconfig.json
