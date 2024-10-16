@@ -1,6 +1,12 @@
 StartupEvents.registry('item', e => {
 
-    e.create('voidgazer_spyglass').displayName('Voidgazer Spyglass').texture('relics:item/voidgazer_spyglass').unstackable().rarity('epic').glow(true).useAnimation('bow')
+    e.create('voidgazer_spyglass')
+    .displayName('Voidgazer Spyglass')
+    .texture('relics:item/voidgazer_spyglass')
+    .unstackable()
+    .rarity('epic')
+    .glow(true)
+    .useAnimation('bow')
     .useDuration(itemstack => 72000)
     .use((level, player, hand) => {
       player.playSound("minecraft:block.respawn_anchor.charge", 5, 0);
