@@ -339,6 +339,18 @@ file = "config/yosbr/options.txt"
 hash = "72333902e61b680eeca1f42e4dde22138777ae1743d6f183c4594e4336c56f74"
 
 [[files]]
+file = "kubejs/assets/phonos/textures/item/antenna.png"
+hash = "958be02577e9def636498145d5078d5340c482590137172f3985a11149aebe2f"
+
+[[files]]
+file = "kubejs/assets/phonos/textures/item/dish_antenna.png"
+hash = "e36b7d017206c3eab3fc2a9c095704a236943a6169e77047e13b7db5ea33a04a"
+
+[[files]]
+file = "kubejs/assets/relics/textures/item/voidgazer_spyglass.png"
+hash = "7cc53ab713a8ada4a30d9e420ea7bd3d9207b436b8ab4ed602a1919bc3ba6152"
+
+[[files]]
 file = "kubejs/client_scripts/emi/hide.js"
 hash = "e827234ec99b42ba01e084787cae1d6ba560f85ccc05a9ac2ea99873a899e821"
 
@@ -404,7 +416,7 @@ hash = "6bc7c1a8ad7492389b931411e0d16fe0af14d246106476245851d77e5fb5775a"
 
 [[files]]
 file = "kubejs/server_scripts/mods/phonos.js"
-hash = "10836165aa320bafee53924c1d14b83388231c107c38b3bdcdbf96e469cda136"
+hash = "dec96c4cd9c71bea5b6d6ef0e0266e81de9899262597532475013e6321f49ea9"
 
 [[files]]
 file = "kubejs/server_scripts/mods/tinkers.js"
@@ -417,6 +429,10 @@ hash = "74e30b1d2dadd419b04dcecc8c690ff9b8b06dcc1badffc45fe33ec127694035"
 [[files]]
 file = "kubejs/server_scripts/tags.js"
 hash = "513d30faad111c24ea1c41155cf68e8858000827a645b99ac0bdf0f3ab9cb966"
+
+[[files]]
+file = "kubejs/startup_scripts/startup.js"
+hash = "0eb9c542edfca5c7f87901bdf35a69fb8a1c1ea7c573c9047a5cf3a135beabc6"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
