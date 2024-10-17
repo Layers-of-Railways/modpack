@@ -2,8 +2,8 @@ StartupEvents.registry('item', e => {
 
     e.create('voidgazer_spyglass')
     .displayName('Voidgazer Spyglass')
-    .texture('relics:item/voidgazer_spyglass_inv')
-    .modelJson('relics:model/voidgazer_spyglass_model')
+    .texture('relics:item/voidgazer_spyglass')
+    .modelJson('relics:model/voidgazer_spyglass')
     .unstackable()
     .rarity('epic')
     .glow(true)

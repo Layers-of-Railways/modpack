@@ -347,15 +347,15 @@ file = "kubejs/assets/phonos/textures/item/dish_antenna.png"
 hash = "e36b7d017206c3eab3fc2a9c095704a236943a6169e77047e13b7db5ea33a04a"
 
 [[files]]
+file = "kubejs/assets/relics/models/voidgazer_spyglass.json"
+hash = "be5f221a7db244eee79fddc54723e26e98f459112b5940bf53df5b73a9a05c0d"
+
+[[files]]
 file = "kubejs/assets/relics/models/voidgazer_spyglass_inv.json"
 hash = "8cbcc6fe46e6b83b1950ce6ee0a734960ad536ccd72281cb53c5f8ce8fbeb307"
 
 [[files]]
-file = "kubejs/assets/relics/models/voidgazer_spyglass_model.json"
-hash = "be5f221a7db244eee79fddc54723e26e98f459112b5940bf53df5b73a9a05c0d"
-
-[[files]]
-file = "kubejs/assets/relics/textures/item/voidgazer_spyglass_inv.png"
+file = "kubejs/assets/relics/textures/item/voidgazer_spyglass.png"
 hash = "5087d0595fec12786463819fa2fb7d1f80ec00919e92b5914d99efd4d36fd811"
 
 [[files]]
@@ -444,7 +444,7 @@ hash = "513d30faad111c24ea1c41155cf68e8858000827a645b99ac0bdf0f3ab9cb966"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
-hash = "15aa6046a1ecb356e3fafc555b220159d0e15323e00c9ac83f5819404e4b124b"
+hash = "ff38a829f76b0437022c2908fab7a7e4ff9b21f6348bea47f8adb9496009646c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
