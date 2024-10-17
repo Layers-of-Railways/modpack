@@ -13,11 +13,11 @@ StartupEvents.registry('item', e => {
       return true;
     })
     .releaseUsing((_itemstack, _level, entity, _tick) => {
-      var destination = entity.rayTrace(64, false);
+      var destination = entity.rayTrace(256, false);
       var destX = destination.getHitX();
       var destY = destination.getHitY();
       var destZ = destination.getHitZ();
-      var fuelNeeded = Math.ceil(entity.getDistance(destX, destY, destZ));
+      var fuelNeeded = Math.ceil(entity.getDistance(destX, destY, destZ)/4);
       var offhandItem = entity.getOffHandItem();
       var offhandCount = entity.offHandItem.getCount();
       if (offhandItem.getId() == `minecraft:amethyst_shard` && offhandCount > 0 && destination.block != null && fuelNeeded < offhandCount){
