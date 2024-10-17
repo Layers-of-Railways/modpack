@@ -347,8 +347,20 @@ file = "kubejs/assets/phonos/textures/item/dish_antenna.png"
 hash = "e36b7d017206c3eab3fc2a9c095704a236943a6169e77047e13b7db5ea33a04a"
 
 [[files]]
-file = "kubejs/assets/relics/textures/item/voidgazer_spyglass.png"
-hash = "7cc53ab713a8ada4a30d9e420ea7bd3d9207b436b8ab4ed602a1919bc3ba6152"
+file = "kubejs/assets/relics/models/voidgazer_spyglass_inv.json"
+hash = "8cbcc6fe46e6b83b1950ce6ee0a734960ad536ccd72281cb53c5f8ce8fbeb307"
+
+[[files]]
+file = "kubejs/assets/relics/models/voidgazer_spyglass_model.json"
+hash = "be5f221a7db244eee79fddc54723e26e98f459112b5940bf53df5b73a9a05c0d"
+
+[[files]]
+file = "kubejs/assets/relics/textures/item/voidgazer_spyglass_inv.png"
+hash = "5087d0595fec12786463819fa2fb7d1f80ec00919e92b5914d99efd4d36fd811"
+
+[[files]]
+file = "kubejs/assets/relics/textures/model/voidgazer_spyglass_model.png"
+hash = "bd24fa7297357125e80095e3e0b5093a1512599db197cc542745c93230425cfe"
 
 [[files]]
 file = "kubejs/client_scripts/emi/hide.js"
@@ -432,7 +444,7 @@ hash = "513d30faad111c24ea1c41155cf68e8858000827a645b99ac0bdf0f3ab9cb966"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
-hash = "fd63a8ecebed44a4e09665e9160d2a989c8dfebc708f08076d6c9f21420ea8b7"
+hash = "15aa6046a1ecb356e3fafc555b220159d0e15323e00c9ac83f5819404e4b124b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
