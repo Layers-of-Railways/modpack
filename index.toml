@@ -416,7 +416,7 @@ hash = "6bc7c1a8ad7492389b931411e0d16fe0af14d246106476245851d77e5fb5775a"
 
 [[files]]
 file = "kubejs/server_scripts/mods/phonos.js"
-hash = "eb29e4029dec3e87bfd623807627e98e46083b57c5dcc1b9ce022f9b313d09f8"
+hash = "aa1d654927552e9b3a7493e98f795500af1aadaf21cc03cfa2acb0f33a0b0fb9"
 
 [[files]]
 file = "kubejs/server_scripts/mods/tinkers.js"
@@ -432,7 +432,7 @@ hash = "513d30faad111c24ea1c41155cf68e8858000827a645b99ac0bdf0f3ab9cb966"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"
-hash = "b8c05b2ce0fd2ddee6d2b8b31ba04d8cddb94f6b26e7a2bf4408ab00df115a1b"
+hash = "fd63a8ecebed44a4e09665e9160d2a989c8dfebc708f08076d6c9f21420ea8b7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

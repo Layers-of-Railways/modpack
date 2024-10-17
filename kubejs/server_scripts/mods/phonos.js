@@ -200,8 +200,6 @@ ServerEvents.recipes((event) => {
             I: 'createaddition:iron_rod'
         }
     );
-    
-    
     for (let index in Color.DYE) {
         /** @type {Internal.DyeColor} */
         let color = Color.DYE[index];
