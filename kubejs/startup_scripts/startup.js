@@ -12,17 +12,17 @@ StartupEvents.registry('item', e => {
       player.playSound("minecraft:block.respawn_anchor.charge", 5, 0);
       return true;
     })
-    .releaseUsing((_itemstack_, _level, entity, _tick) => {
-      var destination = entity.rayTrace(128, false);
+    .releaseUsing((_itemstack, level, entity, _tick) => {
+      var destination = entity.rayTrace(64, false);
       var destX = destination.getHitX();
       var destY = destination.getHitY();
       var destZ = destination.getHitZ();
       var offhandItem = entity.getOffHandItem();
       var offhandCount = entity.offHandItem.getCount();
       if (offhandItem.getId() == `minecraft:amethyst_shard` && offhandCount > 0 && destination.block != null){
-        entity.offHandItem.setCount(offhandCount - 1);
+        entity.offHandItem.setCount(offhandCount - destination.distance);
         entity.teleportTo(destX, destY, destZ);
-        entity.playSound("minecraft:entity.warden.sonic_boom", 5, 1);
+        level.playSound("minecraft:entity.warden.sonic_boom", destX, destY, destZ, 5, 1);
       }
     });
     e.create('antenna').displayName('Antenna').texture('phonos:item/antenna');
