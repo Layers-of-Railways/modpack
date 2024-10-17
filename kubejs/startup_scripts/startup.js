@@ -22,7 +22,7 @@ StartupEvents.registry('item', e => {
       if (offhandItem.getId() == `minecraft:amethyst_shard` && offhandCount > 0 && destination.block != null){
         entity.offHandItem.setCount(offhandCount - destination.distance);
         entity.teleportTo(destX, destY, destZ);
-        level.playSound("minecraft:entity.warden.sonic_boom", destX, destY, destZ, 5, 1);
+        entity.playSound("minecraft:entity.warden.sonic_boom", 5, 1);
       }
     });
     e.create('antenna').displayName('Antenna').texture('phonos:item/antenna');
