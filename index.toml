@@ -431,10 +431,6 @@ file = "kubejs/server_scripts/mods/phonos.js"
 hash = "aa1d654927552e9b3a7493e98f795500af1aadaf21cc03cfa2acb0f33a0b0fb9"
 
 [[files]]
-file = "kubejs/server_scripts/mods/tinkers.js"
-hash = "9e8e75d7b1f64c0131fcff26b6fe0d2811427b30968ac6d67d49b10060e54be6"
-
-[[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
 hash = "74e30b1d2dadd419b04dcecc8c690ff9b8b06dcc1badffc45fe33ec127694035"
 
