@@ -12,6 +12,7 @@
 
 # Exclude Packwiz Binary
 packwiz.exe
+packwiz
 
 # Output dir
 output/
