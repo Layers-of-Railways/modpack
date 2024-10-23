@@ -20,4 +20,6 @@ ServerEvents.recipes((event) => {
     removerecipeoutput.forEach((recipeoutput) => {
         event.remove({ output: `${recipeoutput}` });
     });
+
+    event.remove({ input: "#c:chests", output: "minecraft:shulker_box" });
 });

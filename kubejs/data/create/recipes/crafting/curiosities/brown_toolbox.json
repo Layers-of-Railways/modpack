@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " C ",
+      "SWS",
+      " L "
+    ],
+    "key": {
+      "S": {
+        "tag": "c:gold_plates"
+      },
+      "C": {
+        "item": "create:cogwheel"
+      },
+      "W": {
+        "item": "expandedstorage:netherite_chest"
+      },
+      "L": {
+        "tag": "c:leather"
+      }
+    },
+    "result": {
+      "item": "create:brown_toolbox"
+    }
+}
