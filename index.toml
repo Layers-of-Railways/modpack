@@ -25,6 +25,10 @@ file = "config/chunky/config.json"
 hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "c122193e04ef2953818e3bc0306b702455a2e1293c1e71103cb20a1396fdcc1a"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "d024c65c1f339136ce04b1d0fe8063d3e50d74a22d040f730a8fe3e248faca02"
 
@@ -383,6 +387,14 @@ file = "kubejs/config/common.properties"
 hash = "82a55d578953662838e4ef6539d75d7efb12651f58e3f0bea76a74dd3afe78b1"
 
 [[files]]
+file = "kubejs/data/create/recipes/crafting/curiosities/brown_toolbox.json"
+hash = "43075a3aa1172cd1b1455510645ae9ea8c22c382035c0693158f4f6c17c59857"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/shulker_box.json"
+hash = "d6186f7fc0bb6988ca796a60b79165b2c463a94cc1d931969892b1690c95ef71"
+
+[[files]]
 file = "kubejs/server_scripts/compostables.js"
 hash = "c27f4d3dd0572658c89f8b0b1b42e5d33354312e1e203f941ad86043da5f312a"
 
@@ -432,7 +444,7 @@ hash = "aa1d654927552e9b3a7493e98f795500af1aadaf21cc03cfa2acb0f33a0b0fb9"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
-hash = "74e30b1d2dadd419b04dcecc8c690ff9b8b06dcc1badffc45fe33ec127694035"
+hash = "e1ee40f4943d7e869fff0c447f069641827f5cb631d2db73e8d8ef0bdd849e4d"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -595,11 +607,6 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
 hash = "dda8e3884776546230530725d76d00189b1067ef3ce4ff66158d72822aa9dd1f"
-metafile = true
-
-[[files]]
-file = "mods/building-wands.pw.toml"
-hash = "3e2208ffbdca484259dc9803852a4cebb3d94a0ca24d2b4b2af53f3e430338f5"
 metafile = true
 
 [[files]]
@@ -845,11 +852,6 @@ metafile = true
 [[files]]
 file = "mods/ecospherical-expansion.pw.toml"
 hash = "1928538e6b06326b0fe807404da78100d1d6f74634ba1cc7ec39418311155693"
-metafile = true
-
-[[files]]
-file = "mods/elegantarmour.pw.toml"
-hash = "afb14b32290f71125e251c560386191a0eca5d2daf1860d7efcb6e7b9b707779"
 metafile = true
 
 [[files]]
