@@ -30,7 +30,7 @@ hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "988f8b7789e138529d9d653f24da410f63230ba392adf0f987cc558d74f913cf"
+hash = "2c4a95596543261bc0bc92a39107b5e0dd5e8b7ff83dea511bcf6e12f0efa59d"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
