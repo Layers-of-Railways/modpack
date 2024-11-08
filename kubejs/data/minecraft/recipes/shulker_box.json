@@ -2,19 +2,16 @@
     "type": "minecraft:crafting_shaped",
     "category": "misc",
     "pattern": [
-      "SSS",
-      "ENE",
-      "SSS"
+      "S",
+      "D",
+      "S"
     ],
     "key": {
-      "N": {
-        "item": "expandedstorage:netherite_chest"
+      "D": {
+        "item": "expandedstorage:diamond_chest"
       },
       "S": {
         "item": "minecraft:shulker_shell"
-      },
-      "E": {
-        "item": "betterend:eternal_crystal"
       }
     },
     "result": {

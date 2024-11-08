@@ -1,0 +1,13 @@
+name = "Create+AE2 Compat"
+filename = "1.0.0-ae2-create-compat+mc1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CoGRfV1O/versions/6vx8TCsU/1.0.0-ae2-create-compat%2Bmc1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "dcbd5d6f822ceab925d167e99e71565986cef8bedb545a56d5003ac3dd126b750c96dd9ef6104b89c37c2d3d84c4060321a694616ea7df592b2d291a8beacdb3"
+
+[update]
+[update.modrinth]
+mod-id = "CoGRfV1O"
+version = "6vx8TCsU"

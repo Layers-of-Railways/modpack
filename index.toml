@@ -21,12 +21,16 @@ file = "config/bclib/server.json"
 hash = "83a74f8fc0756a952758f5be0667ff5437dd99e832835b2a70d6a4ac1a9669f6"
 
 [[files]]
+file = "config/carryon-common.json"
+hash = "821f3972161fce3a7ab30b5472b1008f72a5009a5cc9380a3c6ef55dcb4ced22"
+
+[[files]]
 file = "config/chunky/config.json"
 hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "c122193e04ef2953818e3bc0306b702455a2e1293c1e71103cb20a1396fdcc1a"
+hash = "988f8b7789e138529d9d653f24da410f63230ba392adf0f987cc558d74f913cf"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -131,6 +135,10 @@ hash = "5468e8e448c6c21f18cab797851fade8cd7012a3b9380d361afa4f0e2dbe68ff"
 [[files]]
 file = "config/paxi/datapacks/better-endcity-better-end.zip"
 hash = "642db2d0eb68dff95744946a16fa45b476b956e6d9603300cc83677f307f86ff"
+
+[[files]]
+file = "config/paxi/datapacks/liquidfuel.zip"
+hash = "3fb051dc136efd4959c682199b29e87d8261b7b7ec410953ec7c4e564482bf9d"
 
 [[files]]
 file = "config/paxi/datapacks/sound_lengths.zip"
@@ -374,6 +382,10 @@ file = "kubejs/assets/runic_shards/textures/item/combat_gold.png"
 hash = "01e728290bda410e6ead6b6d8ec8aedb7ade02b81ccd5e8130e48e557da4c4bc"
 
 [[files]]
+file = "kubejs/assets/runic_shards/textures/item/combat_incomplete.png"
+hash = "8bc0d14750806cfbd51bdb9898335af082637ce997efbfc711a40a807fc5ebaa"
+
+[[files]]
 file = "kubejs/assets/runic_shards/textures/item/combat_inert.png"
 hash = "63d83b15145f566b2d356afdf635c56c436af8096eaaaf3385fc40a0dc6f3380"
 
@@ -388,6 +400,10 @@ hash = "26ee51e76bf3fdb7cc211a0a3981eb916dfbad9a0cacd63bc580d662c2315800"
 [[files]]
 file = "kubejs/assets/runic_shards/textures/item/conjuring_gold.png"
 hash = "8d573c4c2b180a4fbcf9dec8e0449f334adeaf2c6cc22ead5061caf6515a25ca"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/conjuring_incomplete.png"
+hash = "b9b825a5f0187d5510c57193dff64550fb32fe6c9eb5adc375eb123ebbea31e7"
 
 [[files]]
 file = "kubejs/assets/runic_shards/textures/item/conjuring_inert.png"
@@ -406,6 +422,10 @@ file = "kubejs/assets/runic_shards/textures/item/transport_gold.png"
 hash = "6e65730c0269ebc75854924de29aa75f4625660782dcd15dd327a62d5963a9b1"
 
 [[files]]
+file = "kubejs/assets/runic_shards/textures/item/transport_incomplete.png"
+hash = "c31fcbef5b5eaddadae97084df514e03ac19bcc96b867b5837145cb483435dbc"
+
+[[files]]
 file = "kubejs/assets/runic_shards/textures/item/transport_inert.png"
 hash = "c04020103e7947f0957e23c33b8736df748a3158b436ee27ddd8f6d891d10bcb"
 
@@ -420,6 +440,10 @@ hash = "aa77f415cf442c52404a12bf771ecf3491e2577036088570c9305227cde51931"
 [[files]]
 file = "kubejs/assets/runic_shards/textures/item/utility_gold.png"
 hash = "cee1bec6c6130c074981aeb07e29d73a577fc79bbba7bc28e5381a87e54b364e"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/utility_incomplete.png"
+hash = "6a01bfbdc6062b3c54fb8bcbbf9a7ca57303525b3308d55508f3dc5eb448735a"
 
 [[files]]
 file = "kubejs/assets/runic_shards/textures/item/utility_inert.png"
@@ -455,11 +479,15 @@ hash = "cd5616617d0c1219c54eb85e3d56e3c0efa92fa492b0b2d4980b8b0870d264a9"
 
 [[files]]
 file = "kubejs/data/create/recipes/crafting/curiosities/brown_toolbox.json"
-hash = "43075a3aa1172cd1b1455510645ae9ea8c22c382035c0693158f4f6c17c59857"
+hash = "45d26a6d873bea2dbb9b693865225b218050b3cd61e11a3118c53c6814ed6e3c"
 
 [[files]]
 file = "kubejs/data/minecraft/recipes/shulker_box.json"
-hash = "d6186f7fc0bb6988ca796a60b79165b2c463a94cc1d931969892b1690c95ef71"
+hash = "ddec276786d2a9082eb9376604cccb1fce7694d9d15ce4e6bacf95ccf1c650da"
+
+[[files]]
+file = "kubejs/server_scripts/betterend/infusion.js"
+hash = "f49ad03ce37c2f54765a6c5a5aedd4748443871964ac6e111c397982e1a74f91"
 
 [[files]]
 file = "kubejs/server_scripts/compostables.js"
@@ -490,6 +518,14 @@ file = "kubejs/server_scripts/create/mixing.js"
 hash = "1810f440fa7a8d8751bea4d658b9909d8a38a6449c9252a49508de32c16dc582"
 
 [[files]]
+file = "kubejs/server_scripts/create/sequenced_assembly.js"
+hash = "7ea109dacee39772f296e34586b2e5bc0891f6c13d594451b05ee617b670ee60"
+
+[[files]]
+file = "kubejs/server_scripts/createadditions/charging.js"
+hash = "c6f5233610de98f80eb2b1b2b6cf5e73df472a0ba096c0f5d209c53ee1b7b3e5"
+
+[[files]]
 file = "kubejs/server_scripts/local_chat.js"
 hash = "42dc2fce3894780bdd70d59a563d497807aea9ac16d507ff49d27031e06e46f1"
 
@@ -502,6 +538,10 @@ file = "kubejs/server_scripts/misc_recipes.js"
 hash = "4346ea71c33c9d69df7b5b75e942e14d9c0fda7d0a6c80e87c9fbc1cc9f204e2"
 
 [[files]]
+file = "kubejs/server_scripts/mods/computercraft.js"
+hash = "f6c2608bcb3e2d8d7cb63a6775b736448a5d3e019fd6a2ccfbb40a61a05e911b"
+
+[[files]]
 file = "kubejs/server_scripts/mods/farmersdelight.js"
 hash = "6bc7c1a8ad7492389b931411e0d16fe0af14d246106476245851d77e5fb5775a"
 
@@ -510,12 +550,36 @@ file = "kubejs/server_scripts/mods/phonos.js"
 hash = "10836165aa320bafee53924c1d14b83388231c107c38b3bdcdbf96e469cda136"
 
 [[files]]
+file = "kubejs/server_scripts/poly's fixes/farmersdelight.js"
+hash = "7b1cbd8ed4d6f49300357c128cb1bb4ca8f8002665bb23c56c036cc6f9c6a0bf"
+
+[[files]]
+file = "kubejs/server_scripts/poly's fixes/lapisshard.js"
+hash = "1d619d062d1f831fb208e1d64c14ba7d5f98bbd3becc973cfd37d65a1b2ed8ef"
+
+[[files]]
+file = "kubejs/server_scripts/poly's fixes/logging.js"
+hash = "91bd04de6b114fade6b711508b7af9c8e401eb486f94cb1e6d59124184658cce"
+
+[[files]]
+file = "kubejs/server_scripts/poly's fixes/thallasium.js"
+hash = "7fc60ad769e51ecd62a49c50e1e6d7d53497d931f8afb488af5eed0d438f2570"
+
+[[files]]
+file = "kubejs/server_scripts/poly's fixes/tinkersfixes.js"
+hash = "d56ca08d48dc43da87d350b93a4e2a01fe8711d6ae85205a64f5a029bb7cb96e"
+
+[[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
-hash = "e1ee40f4943d7e869fff0c447f069641827f5cb631d2db73e8d8ef0bdd849e4d"
+hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
 
 [[files]]
 file = "kubejs/server_scripts/relics.js"
-hash = "ac80c570ed02153a3dd69ada29976e61d3ff6759a46b300a2052c38c6eb8501b"
+hash = "73e438e4042dfa6ab37aa0948ac8e62e9989e8325a961b5abebe2be1f4e8fe8a"
+
+[[files]]
+file = "kubejs/server_scripts/smithing.js"
+hash = "d54f1fb3afc2f8560ee5032fe5684deee96de51e2e194fcee6f00b28c35f6c86"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -523,7 +587,7 @@ hash = "a43bc99c4e74bf923311d6be0c3bb02e26eb997e6fb279854b0224b6c261d336"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
-hash = "041c8f2fe51d0140098d9b936cca824f3037d5e04b4df49ed55fa41019d80cb1"
+hash = "5f1930313ff42c99a156eec2e57598060a0a6e0eab3fc1b7953a837f8cb9cf0c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -543,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "30f6a07aacfc0b9a5038a3e5261f231e81af3b6388cf473c87f978f4e2fb9347"
+metafile = true
+
+[[files]]
+file = "mods/ae2_create_evecompat.pw.toml"
+hash = "5485fd3d231be784683bb3ebb5aef07c35221f6ba6ba8e9a834f7ea20121e00f"
 metafile = true
 
 [[files]]
@@ -707,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
 metafile = true
 
 [[files]]
@@ -818,11 +887,6 @@ metafile = true
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "6b4e4ced7cb3323842a46fa78fe1e5e8ff2badd6814d09dab5ea9e5ca0f28a7c"
-metafile = true
-
-[[files]]
-file = "mods/create-dynamic-lights.pw.toml"
-hash = "236dcb0e37036f124ecd51369b1ad1fc75235665c061103189da9999dbd1a0d5"
 metafile = true
 
 [[files]]
@@ -1201,18 +1265,8 @@ hash = "067d992d925772f757e82085496010fb5bc1f5b84bd899f4c6be9fa1e638da49"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-additions.pw.toml"
-hash = "6f246a41e80cac4a01951f19f572c038e84b7bcac747b608786a884e68206881"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "08466e36ec0585de1c99f28e5f91566160e06283e5d69ad47c74623f72ce9385"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
 
 [[files]]
@@ -1371,6 +1425,11 @@ hash = "1447b2cbf7c1d96fd410f85fdd029c1de4a4f8709d09146e602b6054065e49c0"
 metafile = true
 
 [[files]]
+file = "mods/morejs.pw.toml"
+hash = "34d3a4818233d1503c47535f3aeb265f37ceae7c92cc4e5c2b253c8c3af037ac"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
@@ -1476,6 +1535,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "dc8a98026a13e4e808fec7e4511e1cddc2edacfa52e93ec6173dfc60e02c331f"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "50c3264db098f9d4390d21508ab2f6b21a68a2b52eda373d0205569387cdb329"
 metafile = true
 
 [[files]]
