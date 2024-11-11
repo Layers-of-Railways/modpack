@@ -1,0 +1,6 @@
+[
+  { "value": 8, "variation": 3, "item": "minecraft:copper_ingot", "limit": 20 },
+  { "value": 2, "variation": 1, "item": "minecraft:iron_ingot", "limit": 12 },
+  { "value": 10, "variation": 2, "item": "minecraft:gold_ingot", "limit": 20 },
+  { "value": 12, "variation": 10, "item": "create:zinc_ingot", "limit": 100 }
+]

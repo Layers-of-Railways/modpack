@@ -29,6 +29,10 @@ file = "config/chunky/config.json"
 hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "6f0095a916ab7af3c2dbb24c93025792567d42455ed40caa9e2890ba6c7d1642"
+
+[[files]]
 file = "config/enchancement.json"
 hash = "2c4a95596543261bc0bc92a39107b5e0dd5e8b7ff83dea511bcf6e12f0efa59d"
 
