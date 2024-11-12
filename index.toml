@@ -30,7 +30,7 @@ hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "6f0095a916ab7af3c2dbb24c93025792567d42455ed40caa9e2890ba6c7d1642"
+hash = "efc7adb6368bc0985acea044a4d9533060d79ee6f726d9113bde4404d74b03d5"
 
 [[files]]
 file = "config/enchancement.json"
