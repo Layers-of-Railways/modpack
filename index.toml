@@ -30,7 +30,11 @@ hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "78291684fb5d86460d9f75ca2c30d8da5602abb1af972763d6b3a7d8e3a69844"
+hash = "f76545068a5d44d8511661e299920c2689942631fef544c6367d8325cd4dba0d"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "d1748d1e0a68876ec8aeecc478522477f7233a1718d524111a3bdfb35b0705f7"
 
 [[files]]
 file = "config/enchancement.json"
@@ -263,7 +267,7 @@ hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
 file = "config/servercore/config.yml"
-hash = "a02319bea45d4492e1095b1c61161d15cb35086c851767caa76ba8bce60a48b5"
+hash = "de6cd8419ec8114d43e3477dbcc5e18aa68e1710d59d989a4635adc533a33917"
 
 [[files]]
 file = "config/servercore/optimizations.yml"

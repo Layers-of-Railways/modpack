@@ -126,7 +126,7 @@
 		#[in Revolutions per Minute]
 		#Rotation speed at which the maximum stats of fans are reached.
 		#Range: > 64
-		fanRotationArgmax = 256
+		fanRotationArgmax = 128
 		#.
 		#Maximum distance in blocks from where Fans can pull entities.
 		#Range: > 5
@@ -412,7 +412,7 @@
 		#.
 		#Amount of game ticks between shots of the cannon. Higher => Slower
 		#Range: > 1
-		schematicannonDelay = 40
+		schematicannonDelay = 20
 #.
 #Equipment and gadgets added by Create
 [equipment]
