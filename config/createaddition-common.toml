@@ -7,7 +7,7 @@
 	max_stress = 16384
 	#Forge Energy conversion rate (in E/t at 256 RPM, value is the E/t generated and consumed is at 256rpm).
 	#Range: > 0
-	fe_at_max_rpm = 480
+	fe_at_max_rpm = 240
 #Electric Motor
 [electric_motor]
 	#Electric Motor internal capacity in E.

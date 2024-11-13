@@ -30,11 +30,11 @@ hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "f76545068a5d44d8511661e299920c2689942631fef544c6367d8325cd4dba0d"
+hash = "493bda59077e562266abe96a5611a5bc601a4fda1fa309b24a2060a1b4b97fa5"
 
 [[files]]
 file = "config/createaddition-common.toml"
-hash = "d1748d1e0a68876ec8aeecc478522477f7233a1718d524111a3bdfb35b0705f7"
+hash = "2bc237f4d164b4a910781e8539e5b125f21eba5f371423b770b9137e522214f4"
 
 [[files]]
 file = "config/enchancement.json"

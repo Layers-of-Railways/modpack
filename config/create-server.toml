@@ -93,7 +93,7 @@
 	#[in Revolutions per Minute]
 	#Maximum allowed rotation speed for any Kinetic Block.
 	#Range: > 64
-	maxRotationSpeed = 128
+	maxRotationSpeed = 256
 	#.
 	#Max Distance in blocks a Weighted Ejector can throw
 	#Range: > 0
@@ -126,7 +126,7 @@
 		#[in Revolutions per Minute]
 		#Rotation speed at which the maximum stats of fans are reached.
 		#Range: > 64
-		fanRotationArgmax = 128
+		fanRotationArgmax = 256
 		#.
 		#Maximum distance in blocks from where Fans can pull entities.
 		#Range: > 5
@@ -412,7 +412,7 @@
 		#.
 		#Amount of game ticks between shots of the cannon. Higher => Slower
 		#Range: > 1
-		schematicannonDelay = 20
+		schematicannonDelay = 5
 #.
 #Equipment and gadgets added by Create
 [equipment]
