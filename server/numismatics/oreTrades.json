@@ -1,6 +1,34 @@
 [
-  { "value": 8, "variation": 3, "item": "minecraft:copper_ingot", "name": "Copper Ingot", "limit": 20 },
-  { "value": 2, "variation": 1, "item": "minecraft:iron_ingot", "name": "Iron Ingot", "limit": 12 },
-  { "value": 10, "variation": 2, "item": "minecraft:gold_ingot", "name": "Gold Ingot", "limit": 20 },
-  { "value": 12, "variation": 10, "item": "create:zinc_ingot", "name": "Zinc Ingot", "limit": 100 }
+    {
+        "item": "minecraft:copper_ingot",
+        "name": "Copper Ingot",
+        "amount": 12,
+        "value": 8,
+        "limit": 20,
+        "variation": 3
+    },
+    {
+        "item": "minecraft:iron_ingot",
+        "name": "Iron Ingot",
+        "amount": 1,
+        "value": 12,
+        "limit": 100,
+        "variation": 12
+    },
+    {
+        "item": "minecraft:gold_ingot",
+        "name": "Gold Ingot",
+        "amount": 2,
+        "value": 32,
+        "limit": 10,
+        "variation": 4
+    },
+    {
+        "item": "create:zinc_ingot",
+        "name": "Zinc Ingot",
+        "amount": 64,
+        "value": 12,
+        "variation": 10,
+        "limit": 100
+    }
 ]
