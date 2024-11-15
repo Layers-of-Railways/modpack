@@ -1,6 +1,6 @@
 {
-  "trade_cycle": 600,
-  "max_trades_per_cycle": 10,
+  "tradeCycle": 600,
+  "maxTradesPerCycle": 10,
   "announce": true,
   "blacklist": [
     { "name": "Sleepy_Evelyn", "uuid": "c31a8cfa-ecd7-4ec2-8976-cb86c8c651e2" }
