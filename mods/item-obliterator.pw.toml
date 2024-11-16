@@ -1,6 +1,6 @@
 name = "Item Obliterator"
 filename = "Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/3ESR84kR/versions/tl9Z9uga/Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar"

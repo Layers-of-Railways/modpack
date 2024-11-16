@@ -3,7 +3,7 @@ name: Refresh
 on: workflow_dispatch
 
 jobs:
-    release:
+    refresh:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout Repository

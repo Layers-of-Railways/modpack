@@ -12,6 +12,15 @@
 
 # Exclude Packwiz Binary
 packwiz.exe
+packwiz
 
 # Output dir
 output/
+
+# ProbeJS guts
+
+kubejs/probe/*
+
+# ProbeJS config
+
+jsconfig.json

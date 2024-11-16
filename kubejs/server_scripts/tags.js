@@ -47,7 +47,7 @@ let non_movable = [
     "createaddition:creative_energy",
 ];
 
-let bottomless_allow = ["create:honey", "minecraft:milk"];
+let bottomless_allow = ["create:honey", "milk:milk_fluid_block"];
 
 ServerEvents.tags("block", (event) => {
     better_end_chests.forEach((id) => {

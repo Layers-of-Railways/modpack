@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "S",
+      "D",
+      "S"
+    ],
+    "key": {
+      "D": {
+        "item": "expandedstorage:diamond_chest"
+      },
+      "S": {
+        "item": "minecraft:shulker_shell"
+      }
+    },
+    "result": {
+      "item": "minecraft:shulker_box"
+    },
+    "show_notification": true
+  }
+  

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/joEfVgkn/versions/Mkla4B3q/carryon-fabric-1.20.1-2.1.2.7.jar"
-hash-format = "sha1"
-hash = "8f3858977becfbc26f67f4a5579881e15e07d69d"
+hash-format = "sha512"
+hash = "ca96f56dba50ea4827ec7a15bc590ccb29aba01896550d3cb398bed18acdf469dd351cdc9312e4743f54955b3162e744c58d76c88eb79b1e5e5b4570f5b33c64"
 
 [update]
 [update.modrinth]
