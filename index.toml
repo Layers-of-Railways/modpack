@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ styled-chat.json"
-hash = "06cc392d5096536b6e51a276d9e1c488c308622ae333a17710ca2f396abe7db7"
-
-[[files]]
 file = "config/backpacked-common.toml"
 hash = "9fb5bc5b26e698815bde9afb430090fff1c80b4928e72928128b9b94f04cfac9"
 
@@ -276,6 +272,10 @@ hash = "fbb29b9bf5d8f90f58568cfae7f85220d84465d78d6a4dcbfbe3c15ffd172f8d"
 [[files]]
 file = "config/spiceoffabric.hjson"
 hash = "0209b0c5ec7fa8e6d7b10a9b69a2badc2c632880954bced376eabcf40d2bfb66"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "06cc392d5096536b6e51a276d9e1c488c308622ae333a17710ca2f396abe7db7"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
