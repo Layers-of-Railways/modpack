@@ -18,7 +18,7 @@
 	food: {
 		// default: hungerValue * power(0.7, timesEaten)
 		// 	Must be a valid expression
-		hunger: hungerValue * power(0.7, timesEaten)
+		hunger: hungerValue * power(0.9, timesEaten)
 		// default: saturationValue
 		// 	Must be a valid expression
 		saturation: saturationValue
@@ -27,13 +27,13 @@
 		consume-duration: consumeDuration * power(1.3, timesEaten)
 		// default: 20
 		// 	Must be greater or equal to 0
-		history-length: 5
+		history-length: 3
 	}
 	carrot: {
 		// default: false
-		enable: false
+		enable: true
 		// default: 0.6 * baseHealth + max(2 * floor(log2(uniqueFoodsEaten)), 0)
-		health-formula: 0.6 * baseHealth + max(2 * floor(log2(uniqueFoodsEaten)), 0)
+		health-formula: baseHealth + max(2 * floor(log2(uniqueFoodsEaten)), 0)
 		// default: -1
 		// 	Must be inclusively between -1 and 200
 		max-health: -1

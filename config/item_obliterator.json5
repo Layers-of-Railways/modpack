@@ -31,7 +31,16 @@
         "minecraft:dragon_egg",
         "createaddition:creative_energy",
         "spelunkery:flint_hammer_and_chisel",
-        "spelunkery:obsidian_hammer_and_chisel"
+        "spelunkery:obsidian_hammer_and_chisel",
+        "ae2:spatial_cell_component_2",
+        "ae2:spatial_cell_component_16",
+        "ae2:spatial_cell_component_128",
+        "ae2:spatial_storage_cell_2",
+        "ae2:spatial_storage_cell_16",
+        "ae2:spatial_storage_cell_128",
+        "ae2:spacial_pylon",
+        "ae2:spatial_io_port",
+        "ae2:spatial_anchor"
     ],
     // -----------------------------------------------------------
     // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

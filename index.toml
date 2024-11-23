@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ styled-chat.json"
-hash = "06cc392d5096536b6e51a276d9e1c488c308622ae333a17710ca2f396abe7db7"
-
-[[files]]
 file = "config/backpacked-common.toml"
 hash = "9fb5bc5b26e698815bde9afb430090fff1c80b4928e72928128b9b94f04cfac9"
 
@@ -82,7 +78,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "d1ff672be2cb2c7a384f422ecb3ed044799b421a3433a0743eb4bd550d9693ce"
+hash = "80959ea4544fbe8e3a62883674f3db45ec27cebf773d7df9b8f4a41902431ae6"
 
 [[files]]
 file = "config/lmft.json"
@@ -275,7 +271,11 @@ hash = "fbb29b9bf5d8f90f58568cfae7f85220d84465d78d6a4dcbfbe3c15ffd172f8d"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "0209b0c5ec7fa8e6d7b10a9b69a2badc2c632880954bced376eabcf40d2bfb66"
+hash = "4714e5ca5d24131a24f11ef39730ba60bc35c57808a68b30e94624fbe580204c"
+
+[[files]]
+file = "config/styled-chat.json"
+hash = "06cc392d5096536b6e51a276d9e1c488c308622ae333a17710ca2f396abe7db7"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
@@ -547,7 +547,7 @@ hash = "c6f5233610de98f80eb2b1b2b6cf5e73df472a0ba096c0f5d209c53ee1b7b3e5"
 
 [[files]]
 file = "kubejs/server_scripts/local_chat.js"
-hash = "42dc2fce3894780bdd70d59a563d497807aea9ac16d507ff49d27031e06e46f1"
+hash = "e33d12f0409dc096d3408899bf30093b2d80930d2806c90f1d3b3625039825d6"
 
 [[files]]
 file = "kubejs/server_scripts/loot_modifications.js"
@@ -555,7 +555,7 @@ hash = "cb4c5693b3fadd86e53eea8553abeba5187f6b81d611e54c5d7ae23b25c4874c"
 
 [[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
-hash = "4346ea71c33c9d69df7b5b75e942e14d9c0fda7d0a6c80e87c9fbc1cc9f204e2"
+hash = "a02dc867796b46032b5d7a1b004984f92a2891e845bba4bcf98b1d2b15ad59cc"
 
 [[files]]
 file = "kubejs/server_scripts/mods/computercraft.js"
@@ -563,11 +563,11 @@ hash = "f6c2608bcb3e2d8d7cb63a6775b736448a5d3e019fd6a2ccfbb40a61a05e911b"
 
 [[files]]
 file = "kubejs/server_scripts/mods/farmersdelight.js"
-hash = "6bc7c1a8ad7492389b931411e0d16fe0af14d246106476245851d77e5fb5775a"
+hash = "e7eca84aedff32c1346213753ae790cef04be79803aa091a953065405a54d8ae"
 
 [[files]]
 file = "kubejs/server_scripts/mods/phonos.js"
-hash = "10836165aa320bafee53924c1d14b83388231c107c38b3bdcdbf96e469cda136"
+hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
 [[files]]
 file = "kubejs/server_scripts/poly's fixes/farmersdelight.js"
@@ -603,7 +603,7 @@ hash = "d54f1fb3afc2f8560ee5032fe5684deee96de51e2e194fcee6f00b28c35f6c86"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "a43bc99c4e74bf923311d6be0c3bb02e26eb997e6fb279854b0224b6c261d336"
+hash = "d4bf020dc40f5a5d17fe1a727698114d0c14323aaae1e67fe5d23b7c8a17cd8e"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
@@ -1599,7 +1599,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "ecdac95acc1eb492271dd759e430fb79f46d4768c7fefb16c05285b9ab82c9b5"
+hash = "2acbac0bab6fe0e170e51528c8c641e0e81e2033968def8f4c8f1ab26e1368b4"
 metafile = true
 
 [[files]]

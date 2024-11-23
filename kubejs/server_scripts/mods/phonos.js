@@ -24,158 +24,157 @@ ServerEvents.recipes((event) => {
         S: "#createaddition:spools",
         N: "create:copper_nugget",
     });
-    
+
     event.shaped(
-        'phonos:connection_hub',
+        "phonos:connection_hub",
         [
-            ' C ',
-            'CBC',
-            ' C '
+            " C ",
+            "CBC",
+            " C ",
         ],
         {
-            B: 'create:brass_casing',
-            C: 'create:copper_nugget',
-        }
+            B: "create:brass_casing",
+            C: "create:copper_nugget",
+        },
     );
-    
+
     event.shaped(
-        'phonos:radio_transceiver',
+        "phonos:radio_transceiver",
         [
-            ' I ',
-            ' T ',
-            'EBE'
+            " I ",
+            " T ",
+            "EBE",
         ],
         {
-            I: 'minecraft:iron_bars',
-            T: 'minecraft:redstone_torch',
-            E: 'create:electron_tube',
-            B: 'create:brass_casing'
-        }
+            I: "minecraft:iron_bars",
+            T: "minecraft:redstone_torch",
+            E: "create:electron_tube",
+            B: "create:brass_casing",
+        },
     );
-    
+
     event.shaped(
-    	'phonos:radio_loudspeaker',
+        "phonos:radio_loudspeaker",
         [
-            ' I ',
-            ' T ',
-            ' N '
+            " I ",
+            " T ",
+            " N ",
         ],
         {
-            I: 'minecraft:iron_bars',
-            T: 'minecraft:redstone_torch',
-            N: 'minecraft:note_block'
-        }
+            I: "minecraft:iron_bars",
+            T: "minecraft:redstone_torch",
+            N: "minecraft:note_block",
+        },
     );
     event.shaped(
-    	'phonos:audio_switch',
+        "phonos:audio_switch",
         [
-            ' R ',
-            'SBS',
-            ' R '
+            " R ",
+            "SBS",
+            " R ",
         ],
         {
-           R: 'minecraft:redstone_dust',
-           S: '#createaddition:spools',
-           B: 'create:brass_casing'
-        }
+            R: "minecraft:redstone_dust",
+            S: "#createaddition:spools",
+            B: "create:brass_casing",
+        },
     );
     event.shaped(
-    	'phonos:satellite_receiver',
+        "phonos:satellite_receiver",
         [
-            'I I',
-            ' I ',
-            'EBE'
+            "I I",
+            " I ",
+            "EBE",
         ],
         {
-            I: 'create:iron_sheet',
-            E: 'create:electron_tube',
-            B: 'create:brass_casing'
-        }
+            I: "create:iron_sheet",
+            E: "create:electron_tube",
+            B: "create:brass_casing",
+        },
     );
     event.shaped(
-    	'phonos:microphone_base',
+        "phonos:microphone_base",
         [
-            ' E ',
-            ' R ',
-            ' B '
+            " E ",
+            " R ",
+            " B ",
         ],
         {
-            E: 'minecraft:echo_shard',
-            R: 'createaddition:iron_rod',
-            B: 'create:brass_casing'
-        }
+            E: "minecraft:echo_shard",
+            R: "createaddition:iron_rod",
+            B: "create:brass_casing",
+        },
     );
     event.shaped(
-    	'phonos:wireless_microphone_base',
+        "phonos:wireless_microphone_base",
         [
-            ' R ',
-            ' E ',
-            ' B '
+            " R ",
+            " E ",
+            " B ",
         ],
         {
-            E: 'minecraft:echo_shard',
-            R: 'minecraft:redstone_torch',
-            B: 'create:brass_casing'
-        }
+            E: "minecraft:echo_shard",
+            R: "minecraft:redstone_torch",
+            B: "create:brass_casing",
+        },
     );
     event.shaped(
-    	'phonos:portable_radio',
+        "phonos:portable_radio",
         [
-            ' I ',
-            'EAE',
-            ' P '
+            " I ",
+            "EAE",
+            " P ",
         ],
         {
-            I: 'minecraft:iron_bars',
-            A: 'create:andesite_alloy',
-            E: 'create:electron_tube',
-            P: 'create:precision_mechanism'
-        }
+            I: "minecraft:iron_bars",
+            A: "create:andesite_alloy",
+            E: "create:electron_tube",
+            P: "create:precision_mechanism",
+        },
     );
     event.shaped(
-    	'phonos:portable_satellite_radio',
+        "phonos:portable_satellite_radio",
         [
-            ' E ',
-            'TAT',
-            ' P '
+            " E ",
+            "TAT",
+            " P ",
         ],
         {
-            E: 'createaddition:electrum_rod',
-            T: 'create:electron_tube',
-            A: 'create:andesite_alloy',
-            P: 'create:precision_mechanism'
-        }
+            E: "createaddition:electrum_rod",
+            T: "create:electron_tube",
+            A: "create:andesite_alloy",
+            P: "create:precision_mechanism",
+        },
     );
     event.shaped(
-    	'phonos:portable_record_player',
+        "phonos:portable_record_player",
         [
-            ' R ',
-            'ADA',
-            'EPE'
+            " R ",
+            "ADA",
+            "EPE",
         ],
         {
-            R: 'minecraft:redstone_torch',
-            D: 'minecraft:diamond',
-            A: 'create:andesite_alloy',
-            E: 'create:electron_tube',
-            P: 'create:precision_mechanism'
-        }
+            R: "minecraft:redstone_torch",
+            D: "minecraft:diamond",
+            A: "create:andesite_alloy",
+            E: "create:electron_tube",
+            P: "create:precision_mechanism",
+        },
     );
     event.shaped(
-    	'phonos:headset',
+        "phonos:headset",
         [
-            ' A ',
-            'I I',
-            'N N'
+            " A ",
+            "I I",
+            "N N",
         ],
         {
-            N: 'minecraft:note_block',
-            A: 'create:andesite_alloy',
-            I: 'createaddition:iron_rod'
-        }
+            N: "minecraft:note_block",
+            A: "create:andesite_alloy",
+            I: "createaddition:iron_rod",
+        },
     );
-    
-    
+
 
     for (let index in Color.DYE) {
         /** @type {Internal.DyeColor} */

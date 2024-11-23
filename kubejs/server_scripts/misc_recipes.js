@@ -1,14 +1,14 @@
 // priority: 0
 ServerEvents.recipes((event) => {
     event.shaped(
-        Item.of('minecraft:furnace', 1),
+        Item.of("minecraft:furnace", 1),
         [
-            'AAA',
-            'A A',
-            'AAA'
+            "AAA",
+            "A A",
+            "AAA",
         ],
         {
-            A: '#minecraft:stone_crafting_materials'
-        }
-    )
+            A: "#minecraft:stone_crafting_materials",
+        },
+    );
 });
