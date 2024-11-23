@@ -78,7 +78,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "80959ea4544fbe8e3a62883674f3db45ec27cebf773d7df9b8f4a41902431ae6"
+hash = "d1ff672be2cb2c7a384f422ecb3ed044799b421a3433a0743eb4bd550d9693ce"
 
 [[files]]
 file = "config/lmft.json"
@@ -366,10 +366,6 @@ file = "kubejs/assets/phonos/textures/item/dish_antenna.png"
 hash = "e36b7d017206c3eab3fc2a9c095704a236943a6169e77047e13b7db5ea33a04a"
 
 [[files]]
-file = "kubejs/assets/relics/models/CFinder.json"
-hash = "3aba2d23ac8afa4b63135c2f0b01c3e0e8237fb865432ea9f4f571913ca9f7ad"
-
-[[files]]
 file = "kubejs/assets/relics/models/voidgazer_spyglass.json"
 hash = "be5f221a7db244eee79fddc54723e26e98f459112b5940bf53df5b73a9a05c0d"
 
@@ -380,14 +376,6 @@ hash = "8cbcc6fe46e6b83b1950ce6ee0a734960ad536ccd72281cb53c5f8ce8fbeb307"
 [[files]]
 file = "kubejs/assets/relics/textures/item/voidgazer_spyglass.png"
 hash = "5087d0595fec12786463819fa2fb7d1f80ec00919e92b5914d99efd4d36fd811"
-
-[[files]]
-file = "kubejs/assets/relics/textures/model/CFinder.png"
-hash = "aedd9c0a8e571584705ccb73fca7635081a977961cfd671d75639d297dbbbdc9"
-
-[[files]]
-file = "kubejs/assets/relics/textures/model/CFinder_e.png"
-hash = "afbd17b9aeed30b64c76c6f19ac37b698358b7d50fc57e77e16c1dca64ee79de"
 
 [[files]]
 file = "kubejs/assets/relics/textures/model/voidgazer_spyglass_model.png"
@@ -496,6 +484,10 @@ hash = "d93d05a3d1bad50c4d50318d0a9c1ef44d4e437a8042c7c9afb93c149bd4fdba"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "cd5616617d0c1219c54eb85e3d56e3c0efa92fa492b0b2d4980b8b0870d264a9"
+
+[[files]]
+file = "kubejs/data/ae2/tags/blocks/blacklisted/spatial.json"
+hash = "5e581581f871bb6a1c75dc884fc0662d4cde83b9b0c6a90458183818599354c0"
 
 [[files]]
 file = "kubejs/data/create/recipes/crafting/curiosities/brown_toolbox.json"
