@@ -271,7 +271,7 @@ hash = "fbb29b9bf5d8f90f58568cfae7f85220d84465d78d6a4dcbfbe3c15ffd172f8d"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "0209b0c5ec7fa8e6d7b10a9b69a2badc2c632880954bced376eabcf40d2bfb66"
+hash = "4714e5ca5d24131a24f11ef39730ba60bc35c57808a68b30e94624fbe580204c"
 
 [[files]]
 file = "config/styled-chat.json"
