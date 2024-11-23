@@ -570,10 +570,6 @@ file = "kubejs/server_scripts/mods/phonos.js"
 hash = "10836165aa320bafee53924c1d14b83388231c107c38b3bdcdbf96e469cda136"
 
 [[files]]
-file = "kubejs/server_scripts/player_compass.js"
-hash = "43a075aff59871a168be8148ac7d24e83f68cef713cabe9720f26afefea8d046"
-
-[[files]]
 file = "kubejs/server_scripts/poly's fixes/farmersdelight.js"
 hash = "7b1cbd8ed4d6f49300357c128cb1bb4ca8f8002665bb23c56c036cc6f9c6a0bf"
 
@@ -594,10 +590,6 @@ file = "kubejs/server_scripts/poly's fixes/tinkersfixes.js"
 hash = "d56ca08d48dc43da87d350b93a4e2a01fe8711d6ae85205a64f5a029bb7cb96e"
 
 [[files]]
-file = "kubejs/server_scripts/purgatory_chat.js"
-hash = "847540cb56469ba0a1e93767843fe433ae52c7cdcb5d8cf2da1b3c39afb97fc8"
-
-[[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
 hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
 
@@ -615,7 +607,7 @@ hash = "a43bc99c4e74bf923311d6be0c3bb02e26eb997e6fb279854b0224b6c261d336"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
-hash = "1ef00bce39552ce7d7273f49e2504b6943577192d3b68945447229e30827d57a"
+hash = "b766170cd83e82671daf07ad1151ec6d1470ed395ee07e574672de53563eaa5d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

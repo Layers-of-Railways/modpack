@@ -63,7 +63,7 @@ StartupEvents.registry('item', e => {
   .tooltip("An inert runic shard, formatted for utility spells.");
 
   e.create('incomplete_gilded_transport_shard')
-  .formattedDisplayName(Component.string("Inert Transport Shard").lightPurple())
+  .formattedDisplayName(Component.string("Incomplete Gilded Transport Shard").lightPurple())
   .texture('runic_shards:item/transport_incomplete')
   .unstackable()
   .rarity("common")
