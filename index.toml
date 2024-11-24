@@ -78,7 +78,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "80959ea4544fbe8e3a62883674f3db45ec27cebf773d7df9b8f4a41902431ae6"
+hash = "eed9ab70d89d525fa2a81b5ff3c2637dcfe132287a5be3c3223dd457ced5c4dc"
 
 [[files]]
 file = "config/lmft.json"
@@ -558,6 +558,10 @@ file = "kubejs/server_scripts/mods/phonos.js"
 hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
 [[files]]
+file = "kubejs/server_scripts/mods/tinkers.js"
+hash = "1cdd7282bfc4beb43c7145da573f84403356c45ca5e01a5d8e9382af85d6fd65"
+
+[[files]]
 file = "kubejs/server_scripts/poly's fixes/farmersdelight.js"
 hash = "7b1cbd8ed4d6f49300357c128cb1bb4ca8f8002665bb23c56c036cc6f9c6a0bf"
 
@@ -591,7 +595,7 @@ hash = "d54f1fb3afc2f8560ee5032fe5684deee96de51e2e194fcee6f00b28c35f6c86"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "d4bf020dc40f5a5d17fe1a727698114d0c14323aaae1e67fe5d23b7c8a17cd8e"
+hash = "f1b788c37e03ff03bdef3181599a9fcc9c4dd4d6c010942f6042962e2cf304d1"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
