@@ -494,6 +494,14 @@ file = "kubejs/data/minecraft/recipes/shulker_box.json"
 hash = "ddec276786d2a9082eb9376604cccb1fce7694d9d15ce4e6bacf95ccf1c650da"
 
 [[files]]
+file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/lava/passive.json"
+hash = "1988bd3fe557fce4c56e357fbf857e308868c64501c95857039667c7a1fd7255"
+
+[[files]]
+file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/portal_fluid/passive.json"
+hash = "f0ecd634b2777064b09442045b4d0ab7d02c6874b8476bb24a3abd2100928d6e"
+
+[[files]]
 file = "kubejs/server_scripts/betterend/infusion.js"
 hash = "f49ad03ce37c2f54765a6c5a5aedd4748443871964ac6e111c397982e1a74f91"
 
@@ -1494,6 +1502,11 @@ metafile = true
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "c8df23a6f0bd41d2f562b460e94bb3df7df1932298bf7b5081e43dfd7c270fae"
+metafile = true
+
+[[files]]
+file = "mods/ns-cr-rc.pw.toml"
+hash = "1a6fe5303c71f2c1cd0a412caf918024e5753b9bc31661eaea38b0071f8770fe"
 metafile = true
 
 [[files]]
