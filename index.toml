@@ -366,10 +366,6 @@ file = "kubejs/assets/phonos/textures/item/dish_antenna.png"
 hash = "e36b7d017206c3eab3fc2a9c095704a236943a6169e77047e13b7db5ea33a04a"
 
 [[files]]
-file = "kubejs/assets/relics/models/CFinder.json"
-hash = "3aba2d23ac8afa4b63135c2f0b01c3e0e8237fb865432ea9f4f571913ca9f7ad"
-
-[[files]]
 file = "kubejs/assets/relics/models/voidgazer_spyglass.json"
 hash = "be5f221a7db244eee79fddc54723e26e98f459112b5940bf53df5b73a9a05c0d"
 
@@ -380,14 +376,6 @@ hash = "8cbcc6fe46e6b83b1950ce6ee0a734960ad536ccd72281cb53c5f8ce8fbeb307"
 [[files]]
 file = "kubejs/assets/relics/textures/item/voidgazer_spyglass.png"
 hash = "5087d0595fec12786463819fa2fb7d1f80ec00919e92b5914d99efd4d36fd811"
-
-[[files]]
-file = "kubejs/assets/relics/textures/model/CFinder.png"
-hash = "aedd9c0a8e571584705ccb73fca7635081a977961cfd671d75639d297dbbbdc9"
-
-[[files]]
-file = "kubejs/assets/relics/textures/model/CFinder_e.png"
-hash = "afbd17b9aeed30b64c76c6f19ac37b698358b7d50fc57e77e16c1dca64ee79de"
 
 [[files]]
 file = "kubejs/assets/relics/textures/model/voidgazer_spyglass_model.png"
@@ -765,6 +753,11 @@ hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
 hash = "dda8e3884776546230530725d76d00189b1067ef3ce4ff66158d72822aa9dd1f"
 metafile = true
@@ -892,6 +885,11 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "d3e3831377b8282db35ffe8446d535f30e011367b3187b2c96b5f179a1a77c59"
+metafile = true
+
+[[files]]
+file = "mods/create-connected-fabric.pw.toml"
+hash = "68f1f763b3505a7765b431395c67c169f5f7ec59eca8eab2b46f5ce2397d0816"
 metafile = true
 
 [[files]]
@@ -1050,6 +1048,11 @@ hash = "f74bba0bfe9e9fd9288d1afac05670ee574123cd336c4a4313a64fbccf6a62c3"
 metafile = true
 
 [[files]]
+file = "mods/estrogen.pw.toml"
+hash = "157d7826377eefc4746e7f8037e2169a90571c3c34d4d2ce1505c7767c6fbbb9"
+metafile = true
+
+[[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "34cae8159356aa6257340c0cfa0e4f13df5ed1d9f58eb50e68062a5a4e39de88"
 metafile = true
@@ -1182,6 +1185,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "0b20ffa61c1bd741aeb720c397ea91367662d8523b421faf26081a02b8410c05"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
@@ -1652,6 +1660,11 @@ hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "d5d7b7d8ddc60eac234033a30c8980a6d2d1ea07a0da45faabf82026432799a8"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
@@ -1669,6 +1682,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "67e281e2ddabbf5bac3768f73563f976aab05fb7392b3ce2e07fd11ac8797bc3"
+metafile = true
+
+[[files]]
+file = "mods/snowy-spirit.pw.toml"
+hash = "c7f87fa4a0fb66266880aebfd5c1afe13e6532037cdbfd6c29ed28021977bde5"
 metafile = true
 
 [[files]]

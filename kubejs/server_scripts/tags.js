@@ -71,3 +71,15 @@ ServerEvents.tags("fluid", (event) => {
         event.add("create:bottomless/allow", id);
     });
 });
+
+ServerEvents.tags("item", (event) => {
+    const ingots = ["copper", "brass", "zinc", "gold"];
+
+    ingots.forEach((material) => {
+        event.add(`forge:nuggets/${material}`, `#c:${material}_nuggets`)
+        event.add(`forge:ingots/${material}`, `#c:${material}_ingots`)
+        event.add(`forge:plates/${material}`, `#c:${material}_plates`)
+        event.add(`forge:blocks/${material}`, `#c:${material}_blocks`)
+    });
+    event.add('c:silver_ingots', '#c:brass_ingots')
+});

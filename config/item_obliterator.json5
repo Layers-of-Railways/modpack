@@ -40,7 +40,8 @@
         "ae2:spatial_storage_cell_128",
         "ae2:spacial_pylon",
         "ae2:spatial_io_port",
-        "ae2:spatial_anchor"
+        "ae2:spatial_anchor",
+        "ae2:matter_cannon"
     ],
     // -----------------------------------------------------------
     // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
