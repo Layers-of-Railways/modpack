@@ -6,12 +6,12 @@
         "entries": [
           {
             "type": "minecraft:item",
-            "weight": 150,
+            "weight": 300,
             "name": "spelunkery:magma_pebble"
           },
           {
             "type": "minecraft:item",
-            "weight": 10,
+            "weight": 5,
             "name": "spelunkery:raw_gold_nugget"
           },
           {
@@ -41,12 +41,12 @@
   
           {
             "type": "minecraft:item",
-            "weight": 200,
+            "weight": 600,
             "name": "spelunkery:netherrack_pebble"
           },
           {
             "type": "minecraft:item",
-            "weight": 100,
+            "weight": 300,
             "name": "spelunkery:blackstone_pebble",
             "conditions": [
               {

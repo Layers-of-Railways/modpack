@@ -503,7 +503,7 @@ hash = "ddec276786d2a9082eb9376604cccb1fce7694d9d15ce4e6bacf95ccf1c650da"
 
 [[files]]
 file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/lava/passive.json"
-hash = "1988bd3fe557fce4c56e357fbf857e308868c64501c95857039667c7a1fd7255"
+hash = "e4a27bee2c336a8f69cd0fc35dd9c254ab7746e19b9992588e9322e6cb47cca4"
 
 [[files]]
 file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/portal_fluid/passive.json"
