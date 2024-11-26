@@ -374,6 +374,10 @@ file = "kubejs/assets/phonos/textures/item/dish_antenna.png"
 hash = "e36b7d017206c3eab3fc2a9c095704a236943a6169e77047e13b7db5ea33a04a"
 
 [[files]]
+file = "kubejs/assets/relics/models/CFinder.json"
+hash = "3aba2d23ac8afa4b63135c2f0b01c3e0e8237fb865432ea9f4f571913ca9f7ad"
+
+[[files]]
 file = "kubejs/assets/relics/models/voidgazer_spyglass.json"
 hash = "be5f221a7db244eee79fddc54723e26e98f459112b5940bf53df5b73a9a05c0d"
 
@@ -384,6 +388,14 @@ hash = "8cbcc6fe46e6b83b1950ce6ee0a734960ad536ccd72281cb53c5f8ce8fbeb307"
 [[files]]
 file = "kubejs/assets/relics/textures/item/voidgazer_spyglass.png"
 hash = "5087d0595fec12786463819fa2fb7d1f80ec00919e92b5914d99efd4d36fd811"
+
+[[files]]
+file = "kubejs/assets/relics/textures/model/CFinder.png"
+hash = "aedd9c0a8e571584705ccb73fca7635081a977961cfd671d75639d297dbbbdc9"
+
+[[files]]
+file = "kubejs/assets/relics/textures/model/CFinder_e.png"
+hash = "afbd17b9aeed30b64c76c6f19ac37b698358b7d50fc57e77e16c1dca64ee79de"
 
 [[files]]
 file = "kubejs/assets/relics/textures/model/voidgazer_spyglass_model.png"
@@ -603,7 +615,7 @@ hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
 
 [[files]]
 file = "kubejs/server_scripts/relics.js"
-hash = "aae8fabb7a802beebe767a9c2e24a3ae6d2fd1dd4cfbc0e3b5d0f4df5b5abe27"
+hash = "021a0052a513de17b1bae88c0e4abb2c8522057bfed8cb10c4538452301cc633"
 
 [[files]]
 file = "kubejs/server_scripts/smithing.js"
