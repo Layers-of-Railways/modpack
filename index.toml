@@ -648,6 +648,10 @@ hash = "92c0c8ce733ad75ae5a207b20786dd7c712d90e9d0d5a390a5cbc00bf1cdf3bb"
 metafile = true
 
 [[files]]
+file = "mods/air-strafing-attribute-1.3.jar"
+hash = "2bdc035efbf72c5ca0d861c099d3175e0cdcf4e0b6168826c898d9e508ade88f"
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "ea9c9695bf4a5d371600366a3f24912042e09b6295a00eab6eaafddd598ec4bb"
 metafile = true
@@ -841,6 +845,10 @@ metafile = true
 file = "mods/cloth-config.pw.toml"
 hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
+
+[[files]]
+file = "mods/cmods-1.3.0+fabric-1.20.1.jar"
+hash = "a67bcbf8449587ac240a3f7ec794cb65dacde8755d3ca3315ad0bae4f3c3e8cf"
 
 [[files]]
 file = "mods/cobweb.pw.toml"
