@@ -1058,6 +1058,11 @@ hash = "d1c3e8626b56c91b98a0d0472b00fcc6b890006bed3b3b6aba0899d260debc27"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-weather.pw.toml"
+hash = "8e8c7dbc64b07e88e4e7f19b88bf9e5d8f97cac3082fdac76f2ef5e0f7be658c"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "2beb95d8ff5770b423a562d408305b92c20b873a1d3b56f059d2837ea61fbbe4"
 metafile = true
@@ -1550,6 +1555,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
