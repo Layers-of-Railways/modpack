@@ -1,0 +1,13 @@
+name = "Oreganized"
+filename = "Oreganized-2.0.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2FJutzEL/versions/9KLOnNlG/Oreganized-2.0.3-fabric.jar"
+hash-format = "sha1"
+hash = "f3cb4315dacac6e4b7f1e9039a6a55771133c3fe"
+
+[update]
+[update.modrinth]
+mod-id = "2FJutzEL"
+version = "9KLOnNlG"
