@@ -619,7 +619,7 @@ hash = "d54f1fb3afc2f8560ee5032fe5684deee96de51e2e194fcee6f00b28c35f6c86"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "bd528d9e9a3fe1568d346558e077823e97f06baf03e0ffde0113f39ac465871f"
+hash = "0bebee8ed75bfdd72194e8df3c37097b1f8fb19244b8ec1f324f18275670a669"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
