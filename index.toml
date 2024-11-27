@@ -502,6 +502,14 @@ file = "kubejs/data/minecraft/recipes/shulker_box.json"
 hash = "ddec276786d2a9082eb9376604cccb1fce7694d9d15ce4e6bacf95ccf1c650da"
 
 [[files]]
+file = "kubejs/data/sereneseasons/tags/worldgen/biome/lesser_color_change_biomes.json"
+hash = "1abc6a883070cc03bdc243a8c3d5a5855ddb10c7c0f0aa74c53331fb0617e658"
+
+[[files]]
+file = "kubejs/data/sereneseasons/tags/worldgen/biome/tropical_biomes.json"
+hash = "fd27e8fbdb10c4d1a707e8a85626849af36eedaa770f3e14d150f80bf9328aaf"
+
+[[files]]
 file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/lava/passive.json"
 hash = "e4a27bee2c336a8f69cd0fc35dd9c254ab7746e19b9992588e9322e6cb47cca4"
 
@@ -611,7 +619,7 @@ hash = "d54f1fb3afc2f8560ee5032fe5684deee96de51e2e194fcee6f00b28c35f6c86"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "f1b788c37e03ff03bdef3181599a9fcc9c4dd4d6c010942f6042962e2cf304d1"
+hash = "bd528d9e9a3fe1568d346558e077823e97f06baf03e0ffde0113f39ac465871f"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
@@ -1001,11 +1009,6 @@ hash = "8e0d1ccb359215aea3bb724edf7a3c8537bfcb8403153dc8cf39e3e76e9e7e8c"
 metafile = true
 
 [[files]]
-file = "mods/demanding-saplings.pw.toml"
-hash = "9623eaa32af4617924dc93ff654f824b6bf583775b81116e341d0be8c9ad1494"
-metafile = true
-
-[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
 metafile = true
@@ -1063,11 +1066,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "d1c3e8626b56c91b98a0d0472b00fcc6b890006bed3b3b6aba0899d260debc27"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-weather.pw.toml"
-hash = "8e8c7dbc64b07e88e4e7f19b88bf9e5d8f97cac3082fdac76f2ef5e0f7be658c"
 metafile = true
 
 [[files]]
@@ -1133,6 +1131,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-promenade.pw.toml"
+hash = "7e3d599f8c8ea528a719950aa538e56908e010b378e9bf57afb98cead652196d"
 metafile = true
 
 [[files]]
@@ -1531,6 +1534,11 @@ hash = "1a6fe5303c71f2c1cd0a412caf918024e5753b9bc31661eaea38b0071f8770fe"
 metafile = true
 
 [[files]]
+file = "mods/ns-fd-rc.pw.toml"
+hash = "3ddeef7e97f806fe523d6cef0e5ba61807ec28e73bbbee622817035cf46009ff"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "8d93d1db086d63d10edb0a3ad6926aeb6e6aab8985ff3a7eac1ec313ebce4420"
 metafile = true
@@ -1700,6 +1708,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/seasonhud-fabric.pw.toml"
+hash = "6ab1aba56bbf182c5e1f0b0f1d5503b305e9f9e165cb4805d9cad9354ef2bf4d"
 metafile = true
 
 [[files]]
@@ -1915,6 +1928,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "e012c2d48d8c2ef08e8a77a83476db46a81f9a5ee3aa90e5c57e2af508bd9089"
+metafile = true
+
+[[files]]
+file = "mods/yetjustanothersilver.pw.toml"
+hash = "c9bbe58ea720c69fbd3bcfcf90e3b27deea02fabecb836337afb88efd825a815"
 metafile = true
 
 [[files]]

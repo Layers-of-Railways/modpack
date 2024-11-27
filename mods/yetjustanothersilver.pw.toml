@@ -1,0 +1,13 @@
+name = "YetJustAnotherSilver"
+filename = "YetJustAnotherSilver-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dsEsgw8u/versions/OsSNU3KG/YetJustAnotherSilver-1.0.3.jar"
+hash-format = "sha512"
+hash = "54be5f7d51dcb1c85ed49c561e2767fa3706fbc0daebd2b1b8a4e8c720d183e3a787080de29c9b95ed5c7bfed90f3f2d725b4fa2c4aa1207171a3b30c714d1c9"
+
+[update]
+[update.modrinth]
+mod-id = "dsEsgw8u"
+version = "OsSNU3KG"
