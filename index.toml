@@ -267,7 +267,7 @@ hash = "722f7545a5a592f0aed25ae8dd0a4f53f7abaf0bb53da96417d87e9096e75631"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
-hash = "9a4e136103db2a7922d075a75f8c4a9980f62d32b0b2e412d9e3c1ba5be03ae6"
+hash = "ffae37360859373a38c179948293afefc98285aa559b381011d9b68bbb4f78ca"
 
 [[files]]
 file = "config/servercore/config.yml"
