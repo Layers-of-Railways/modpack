@@ -1,0 +1,13 @@
+name = "Create: Connected Fabric"
+filename = "create_connected-0.7.4-mc1.20.1+FABRIC+HOTFIX.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QtkeMX9L/versions/S7xwyDWA/create_connected-0.7.4-mc1.20.1%2BFABRIC%2BHOTFIX.jar"
+hash-format = "sha512"
+hash = "0b0becf2132fb5841907c3a71bdaba11afa456f2519f0b0e7de41164ee14b89cc7562f8eb3b51d75485fdd3c9df6a712672aec9b1afb2f96cc3a476cc93547a5"
+
+[update]
+[update.modrinth]
+mod-id = "QtkeMX9L"
+version = "S7xwyDWA"

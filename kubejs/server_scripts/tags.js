@@ -64,10 +64,206 @@ ServerEvents.tags("block", (event) => {
     non_movable.forEach((id) => {
         event.add("create:non_movable", id);
     });
+
+    // Serene Seasons - Crop Block Tags
+    const crops = {
+        spring: [
+            "farmersrespite:small_tea_bush",
+            "farmersrespite:tea_bush",
+            "promenade:blush_sakura_sapling",
+            "promenade:cotton_sakura_sapling",
+            "natures_spirit:fir_sapling",
+            "natures_spirit:willow_sapling",
+            "natures_spirit:aspen_sapling",
+            "natures_spirit:cypress_sapling",
+            "natures_spirit:saxual_sapling",
+            "natures_spirit:mahogany_sapling",
+            "natures_spirit:yellow_larch_sapling",
+            "natures_spirit:larch_sapling",
+            "promenade:blueberry_bush"
+        ],
+        summer: [
+            "farmersrespite:small_tea_bush",
+            "farmersrespite:tea_bush",
+            "farmersrespite:coffee_bush",
+            "farmersrespite:coffee_bush_top",
+            "farmersrespite:coffee_stem",
+            "farmersrespite:coffee_stem_double",
+            "promenade:palm_sapling",
+            "natures_spirit:fir_sapling",
+            "natures_spirit:willow_sapling",
+            "natures_spirit:aspen_sapling",
+            "natures_spirit:olive_sapling",
+            "natures_spirit:ghaf_sapling",
+            "natures_spirit:cypress_sapling",
+            "natures_spirit:joshua_sapling",
+            "natures_spirit:palo_verde_sapling",
+            "natures_spirit:saxual_sapling",
+            "natures_spirit:mahogany_sapling",
+            "tropics:palm_sapling",
+            "natures_spirit:yellow_larch_sapling",
+            "natures_spirit:larch_sapling",
+            "promenade:blueberry_bush"
+        ],
+        autumn: [
+            "farmersrespite:small_tea_bush",
+            "farmersrespite:tea_bush",
+            "minecraft:potatoes",
+            "promenade:sap_maple_sapling",
+            "promenade:vermilion_maple_sapling",
+            "promenade:fulvous_maple_sapling",
+            "promenade:mikado_maple_sapling",
+            "natures_spirit:fir_sapling",
+            "natures_spirit:aspen_sapling",
+            "natures_spirit:red_maple_sapling",
+            "natures_spirit:orange_maple_sapling",
+            "natures_spirit:yellow_maple_sapling",
+            "natures_spirit:mahogany_sapling"
+        ],
+        yearRound: [
+            "spelunkery:conk_fungus",
+            "spelunkery:button_mushroom",
+            "spelunkery:inkcap_mushroom",
+            "spelunkery:white_inkcap_mushroom",
+            "spelunkery:shiitake_mushroom",
+            "natures_spirit:redwood_sapling",
+            "natures_spirit:sugi_sapling",
+            "natures_spirit:cedar_sapling",
+            "promenade:dark_amaranth_fungus"
+        ]
+    };
+
+    Object.entries(crops).forEach(([season, crops]) => {
+        crops.forEach((crop) => {
+            event.add(`sereneseasons:${season}_crops`, crop)
+        });
+    });
+
+    crops.yearRound.forEach((crop) => {
+        event.add(`sereneseasons:spring_crops`, crop)
+        event.add(`sereneseasons:summer_crops`, crop)
+        event.add(`sereneseasons:autumn_crops`, crop)
+        event.add(`sereneseasons:winter_crops`, crop)
+    });
+
+    // Serene Seasons - Greenhouse Glass Block Tags
+    const colours = ["white", "light_gray", "gray", "black", "brown", "red", "orange", "yellow", 
+        "lime", "green", "cyan", "light_blue", "blue", "purple", "magenta", "pink"];
+    colours.forEach((colour) => {
+        event.add("c:glass_blocks", `#chipped:${colour}_stained_glass`)
+        event.add("c:glass_blocks", `consistency_plus:${colour}_tinted_glass`)
+    })
+
+    const crystalClearVariants = ["brass", "copper", "andesite", "train"];
+    crystalClearVariants.forEach((variant) => {
+        event.add("c:glass_blocks", `crystal_clear:${variant}_glass_casing`)
+        event.add("c:glass_blocks", `crystal_clear:${variant}_clear_glass_casing`)
+    });
+
+    const miscGlass = ["chipped:glass_ochre_froglight", "chipped:glass_ocre_froglight", "chipped:glass_verdant_froglight",
+        "chipped:glass_pearlescent_froglight", "tconstruct:clear_glass", "tconstruct:clear_tinted_glass", "tconstruct:soul_glass",
+        "tconstruct:scorched_glass", "tconstruct:seared_glass"
+    ];
+    miscGlass.forEach((item) => {
+        event.add("c:glass_blocks", item)
+    });
+    event.add("c:glass_blocks", "#chipped:glass");
 });
 
 ServerEvents.tags("fluid", (event) => {
     bottomless_allow.forEach((id) => {
         event.add("create:bottomless/allow", id);
     });
+});
+
+ServerEvents.tags("item", (event) => {
+    // Ore tags
+    const ingots = ["copper", "brass", "zinc", "gold", "silver"];
+
+    ingots.forEach((material) => {
+        event.add(`forge:nuggets/${material}`, `#c:${material}_nuggets`)
+        event.add(`forge:ingots/${material}`, `#c:${material}_ingots`)
+        event.add(`forge:plates/${material}`, `#c:${material}_plates`)
+        event.add(`forge:blocks/${material}`, `#c:${material}_blocks`)
+    });
+    
+    // Serene Seasons - Crop Item Tags
+    const crops = {
+        spring: [
+            "farmersrespite:tea_seeds",
+            "minecraft:beetroot_seeds",
+            "promenade:blush_sakura_sapling",
+            "promenade:cotton_sakura_sapling",
+            "natures_spirit:fir_sapling",
+            "natures_spirit:willow_sapling",
+            "natures_spirit:aspen_sapling",
+            "natures_spirit:cypress_sapling",
+            "natures_spirit:saxual_sapling",
+            "natures_spirit:mahogany_sapling",
+            "natures_spirit:yellow_larch_sapling",
+            "natures_spirit:larch_sapling",
+            "promenade:blueberries"
+        ],
+        summer: [
+            "farmersrespite:tea_seeds",
+            "farmersrespite:coffee_berries",
+            "promenade:palm_sapling",
+            "natures_spirit:fir_sapling",
+            "natures_spirit:willow_sapling",
+            "natures_spirit:aspen_sapling",
+            "natures_spirit:olive_sapling",
+            "natures_spirit:ghaf_sapling",
+            "natures_spirit:cypress_sapling",
+            "natures_spirit:joshua_sapling",
+            "natures_spirit:palo_verde_sapling",
+            "natures_spirit:saxual_sapling",
+            "natures_spirit:mahogany_sapling",
+            "tropics:palm_sapling",
+            "natures_spirit:yellow_larch_sapling",
+            "natures_spirit:larch_sapling",
+            "promenade:blueberries"
+        ],
+        autumn: [
+            "farmersrespite:tea_seeds",
+            "minecraft:potato",
+            "promenade:sap_maple_sapling",
+            "promenade:vermilion_maple_sapling",
+            "promenade:fulvous_maple_sapling",
+            "promenade:mikado_maple_sapling",
+            "natures_spirit:fir_sapling",
+            "natures_spirit:aspen_sapling",
+            "natures_spirit:red_maple_sapling",
+            "natures_spirit:orange_maple_sapling",
+            "natures_spirit:yellow_maple_sapling",
+            "natures_spirit:mahogany_sapling"
+        ],
+        yearRound: [
+            "spelunkery:conk_fungus",
+            "spelunkery:phosphor_fungus",
+            "spelunkery:button_mushroom",
+            "spelunkery:inkcap_mushroom",
+            "promenade:dark_amaranth_fungus",
+            "spelunkery:white_inkcap_mushroom",
+            "spelunkery:shiitake_mushroom",
+            "natures_spirit:redwood_sapling",
+            "natures_spirit:sugi_sapling",
+            "natures_spirit:cedar_sapling"
+        ]
+    }
+
+    Object.entries(crops).forEach(([season, crops]) => {
+        crops.forEach((crop) => {
+            event.add(`sereneseasons:${season}_crops`, crop)
+        });
+    });
+
+    crops.yearRound.forEach((crop) => {
+        event.add(`sereneseasons:spring_crops`, crop)
+        event.add(`sereneseasons:summer_crops`, crop)
+        event.add(`sereneseasons:autumn_crops`, crop)
+        event.add(`sereneseasons:winter_crops`, crop)
+    });
+
+    // Misc
+    event.add("c:seeds", "supplementaries:flax_seeds")
 });

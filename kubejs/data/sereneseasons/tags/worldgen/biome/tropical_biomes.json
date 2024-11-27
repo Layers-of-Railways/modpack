@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+      "natures_spirit:arid_savanna",
+      "natures_spirit:oak_savanna",
+      "natures_spirit:shrubland",
+      "natures_spirit:bamboo_wetlands",
+      "natures_spirit:drylands",
+      "natures_spirit:tropical_woods",
+      "natures_spirit:tropical_basin",
+      "natures_spirit:tropical_shores",
+      "natures_spirit:stratified_desert",
+      "natures_spirit:sparse_tropical_woods",
+      "natures_spirit:scorched_dunes",
+      "natures_spirit:xeric_plains",
+      "natures_spirit:dusty_slopes"
+    ]
+  }

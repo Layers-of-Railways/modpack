@@ -31,6 +31,8 @@ StartupEvents.registry('item', e => {
       entity.playSound("minecraft:block.respawn_anchor.deplete", 5, 1);
     }
   });
+
+
   e.create('inert_transport_shard')
   .formattedDisplayName(Component.string("Inert Transport Shard").lightPurple())
   .texture('runic_shards:item/transport_inert')
@@ -61,7 +63,7 @@ StartupEvents.registry('item', e => {
   .tooltip("An inert runic shard, formatted for utility spells.");
 
   e.create('incomplete_gilded_transport_shard')
-  .formattedDisplayName(Component.string("Inert Transport Shard").lightPurple())
+  .formattedDisplayName(Component.string("Incomplete Gilded Transport Shard").lightPurple())
   .texture('runic_shards:item/transport_incomplete')
   .unstackable()
   .rarity("common")
@@ -126,7 +128,7 @@ StartupEvents.registry('item', e => {
       return true;
     })
     .releaseUsing((_itemstack, _level, player, tick) => {
-      if (tick >= 20){
+      if (tick <= 71980){
         player.playSound("block.amethyst_cluster.break");
         useShard(_itemstack, player, _level);
       } else { 
@@ -150,7 +152,7 @@ StartupEvents.registry('item', e => {
       return true;
     })
     .releaseUsing((_itemstack, _level, player, tick) => {
-      if (tick >= 20){
+      if (tick <= 71980){
         player.playSound("block.amethyst_cluster.break");
         useShard(_itemstack, player, _level);
       } else { 
@@ -174,7 +176,7 @@ StartupEvents.registry('item', e => {
       return true;
     })
     .releaseUsing((_itemstack, _level, player, tick) => {
-      if (tick >= 20){
+      if (tick <= 71980){
         player.playSound("block.amethyst_cluster.break");
         useShard(_itemstack, player, _level);
       } else { 
@@ -198,7 +200,7 @@ StartupEvents.registry('item', e => {
       return true;
     })
     .releaseUsing((_itemstack, _level, player, tick) => {
-      if (tick >= 20){
+      if (tick <= 71980){
         player.playSound("block.conduit.activate");
         useShard(_itemstack, player, _level);
       } else { 
@@ -222,7 +224,7 @@ StartupEvents.registry('item', e => {
       return true;
     })
     .releaseUsing((_itemstack, _level, player, tick) => {
-      if (tick >= 20){
+      if (tick <= 71980){
         player.playSound("block.conduit.activate");
         useShard(_itemstack, player, _level);
       } else { 
@@ -246,7 +248,7 @@ StartupEvents.registry('item', e => {
       return true;
     })
     .releaseUsing((_itemstack, _level, player, tick) => {
-      if (tick >= 20){
+      if (tick <= 71980){
         player.playSound("block.conduit.activate");
         useShard(_itemstack, player, _level);
       } else { 
@@ -270,7 +272,7 @@ StartupEvents.registry('item', e => {
       return true;
     })
     .releaseUsing((_itemstack, _level, player, tick) => {
-      if (tick >= 20){
+      if (tick <= 71980){
         player.playSound("entity.evoker.cast_spell");
         useShard(_itemstack, player, _level);
       } else { 
@@ -294,7 +296,7 @@ StartupEvents.registry('item', e => {
       return true;
     })
     .releaseUsing((_itemstack, _level, player, tick) => {
-      if (tick >= 20){
+      if (tick <= 71980){
         player.playSound("entity.evoker.cast_spell");
         useShard(_itemstack, player, _level);
       } else { 
@@ -318,7 +320,7 @@ StartupEvents.registry('item', e => {
       return true;
     })
     .releaseUsing((_itemstack, _level, player, tick) => {
-      if (tick >= 20){
+      if (tick <= 71980){
         player.playSound("entity.evoker.cast_spell");
         useShard(_itemstack, player, _level);
       } else { 
@@ -342,7 +344,7 @@ StartupEvents.registry('item', e => {
       return true;
     })
     .releaseUsing((_itemstack, _level, player, tick) => {
-      if (tick >= 20){
+      if (tick <= 71980){
         player.playSound("block.conduit.attack.target");
         useShard(_itemstack, player, _level);
       } else { 
@@ -366,7 +368,7 @@ StartupEvents.registry('item', e => {
       return true;
     })
     .releaseUsing((_itemstack, _level, player, tick) => {
-      if (tick >= 20){
+      if (tick <= 71980){
         player.playSound("block.conduit.attack.target");
         useShard(_itemstack, player, _level);
       } else { 
@@ -390,7 +392,7 @@ StartupEvents.registry('item', e => {
       return true;
     })
     .releaseUsing((_itemstack, _level, player, tick) => {
-      if (tick >= 20){
+      if (tick <= 71980){
         player.playSound("block.conduit.attack.target");
         useShard(_itemstack, player, _level);
       } else { 

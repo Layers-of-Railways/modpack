@@ -1,0 +1,13 @@
+name = "Nature's Spirit - Farmer's Delight Recipe Compat"
+filename = "ns-fd-rc-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bJTRwh2l/versions/8nTfo8uu/ns-fd-rc-0.1.0.jar"
+hash-format = "sha512"
+hash = "725958b212ed4332ff2a050c30142dba89cf9bc1ee865fe9778f808cd37a0c0cacbe317703860c4c8812a1bd579c5f1f1cb68e4a9a12e8336579ebff48b26606"
+
+[update]
+[update.modrinth]
+mod-id = "bJTRwh2l"
+version = "8nTfo8uu"

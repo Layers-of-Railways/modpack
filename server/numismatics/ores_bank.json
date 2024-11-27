@@ -1,27 +1,34 @@
-[
+{
+  "tradeCycle": 600,
+  "maxTradesPerCycle": 10,
+  "announce": true,
+  "blacklist": [
+    { "name": "Sleepy_Evelyn", "uuid": "c31a8cfa-ecd7-4ec2-8976-cb86c8c651e2" }
+  ],
+  "trades": [
     {
         "item": "minecraft:copper_ingot",
         "name": "Copper Ingot",
         "amount": 12,
         "value": 8,
-        "limit": 20,
-        "variation": 3
+        "variation": 3,
+        "chance": 0.1
     },
     {
         "item": "minecraft:iron_ingot",
         "name": "Iron Ingot",
         "amount": 1,
         "value": 12,
-        "limit": 100,
-        "variation": 12
+        "variation": 12,
+        "chance": 0.15
     },
     {
         "item": "minecraft:gold_ingot",
         "name": "Gold Ingot",
         "amount": 2,
         "value": 32,
-        "limit": 10,
-        "variation": 4
+        "variation": 4,
+        "chance": 0.5
     },
     {
         "item": "create:zinc_ingot",
@@ -29,6 +36,7 @@
         "amount": 64,
         "value": 12,
         "variation": 10,
-        "limit": 100
+        "chance": 0.25
     }
-]
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: Promenade"
+filename = "farmers-cutting-promenade-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eAGs83gV/versions/8t819gxH/farmers-cutting-promenade-1.20.1-1.0.jar"
+hash-format = "sha512"
+hash = "bee4ee43bd562af78d91ac865d11c1eed1cebde13538306428c9add5f7056d22aed2fcc6fa4ec72de070280f7f22401f6253c93c1e99431b4ec3235ba5232f95"
+
+[update]
+[update.modrinth]
+mod-id = "eAGs83gV"
+version = "8t819gxH"
