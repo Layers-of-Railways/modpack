@@ -582,6 +582,10 @@ file = "kubejs/server_scripts/mods/phonos.js"
 hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
 [[files]]
+file = "kubejs/server_scripts/mods/tinkers.js"
+hash = "1cdd7282bfc4beb43c7145da573f84403356c45ca5e01a5d8e9382af85d6fd65"
+
+[[files]]
 file = "kubejs/server_scripts/poly's fixes/farmersdelight.js"
 hash = "7b1cbd8ed4d6f49300357c128cb1bb4ca8f8002665bb23c56c036cc6f9c6a0bf"
 
@@ -1659,7 +1663,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "8aa08c6d0a3ce0f9a10466db7b2e7cde1d73a259e822ccf92e6519e7ce748bda"
+hash = "e6574fddc87cea14725c6a156b8e54745eb6f923b8bd123cc62d57f7e799f6e7"
 metafile = true
 
 [[files]]
