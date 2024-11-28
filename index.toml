@@ -37,6 +37,14 @@ file = "config/enchancement.json"
 hash = "2c4a95596543261bc0bc92a39107b5e0dd5e8b7ff83dea511bcf6e12f0efa59d"
 
 [[files]]
+file = "config/estrogen-client.toml"
+hash = "20837f44060b86c107b7b70cbb925dff7126d4f6d907bb4f56d786314c0fc624"
+
+[[files]]
+file = "config/estrogen-common.toml"
+hash = "8c2abae0be3c1aad6244b47cbde95892d55d046ff15e35621eca5e5cbd276c87"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "d024c65c1f339136ce04b1d0fe8063d3e50d74a22d040f730a8fe3e248faca02"
 
@@ -1536,11 +1544,6 @@ metafile = true
 [[files]]
 file = "mods/ns-cr-rc.pw.toml"
 hash = "1a6fe5303c71f2c1cd0a412caf918024e5753b9bc31661eaea38b0071f8770fe"
-metafile = true
-
-[[files]]
-file = "mods/ns-fd-rc.pw.toml"
-hash = "3ddeef7e97f806fe523d6cef0e5ba61807ec28e73bbbee622817035cf46009ff"
 metafile = true
 
 [[files]]
