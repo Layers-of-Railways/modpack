@@ -1,7 +1,7 @@
 name = "railways-tweaks"
-filename = "RailwaysTweaks-0.0.47.jar"
+filename = "RailwaysTweaks-0.0.48.jar"
 
 [download]
-url = "https://github.com/Layers-of-Railways/RailwaysTweaks/releases/download/v0.0.47/RailwaysTweaks-0.0.47.jar"
+url = "https://github.com/Layers-of-Railways/RailwaysTweaks/releases/download/v0.0.48/RailwaysTweaks-0.0.48.jar"
 hash-format = "sha256"
-hash = "045dc7054ee165317a52c4138f3e8564b9f124bd89b78286605ec6fff4224498"
+hash = "e6e6f2b42bcdd970b93e9f1a43a2b555f1b519615e01b256c82c66045772ffe8"
