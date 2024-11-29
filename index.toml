@@ -959,7 +959,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dynamic-lights.pw.toml"
-hash = "9140775b940d0226c24e58044b6d21f8570fc10bd06dbe21e559c7566d79f590"
+hash = "f225bfe9a222d6f75b6bb25889b10f839b433d0ca76e663c3e5ea64cc0eef02e"
 metafile = true
 
 [[files]]
@@ -1584,7 +1584,7 @@ metafile = true
 
 [[files]]
 file = "mods/observable.pw.toml"
-hash = "37651f530c1d59e5158e446983ed6e65e9e5094642eec1ec9f5b0d4e1d1ac1b1"
+hash = "866fe66f4977cfc8cd8d81722269b9ad5666d347cb74c117fafdc60cd294d161"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "Observable"
 filename = "observable-4.4.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/VYRu7qmG/versions/MprPnUls/observable-4.4.2.jar"

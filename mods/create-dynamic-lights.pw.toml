@@ -1,6 +1,6 @@
 name = "Create: Dynamic Lights"
 filename = "create-dyn-light-fabric1.20.1+1.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/evMQRxqV/versions/nJgqKQD5/create-dyn-light-fabric1.20.1%2B1.0.2.jar"
