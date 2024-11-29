@@ -11,3 +11,8 @@ hash = "4841b993d37c0944ca6f7a02809364e561a6acc3"
 [update.modrinth]
 mod-id = "YL57xq9U"
 version = "1CMVXDHo"
+
+[option]
+optional = true
+default = true
+description = "Support for custom Shaders"

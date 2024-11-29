@@ -11,3 +11,8 @@ hash = "61e41fa8d8098b70a74e5d9d4e7e30eb864d53db"
 [update.modrinth]
 mod-id = "ndHYMY2K"
 version = "j3lv6Qgi"
+
+[option]
+optional = true
+default = true
+description = "Support for Shaders with Create Flywheel."

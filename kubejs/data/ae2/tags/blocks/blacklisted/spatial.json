@@ -1,0 +1,26 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:bedrock",
+      "minecraft:end_portal",
+      "minecraft:end_portal_frame",
+      "minecraft:end_gateway",
+      "universal_graves:visual_grave",
+      "universal_graves:container_grave",
+      "universal_graves:grave",
+      "ae2:creative_energy_cell",
+      "createaddition:creative_energy",
+      "createaddition:accumulator",
+      "create:creative_crate",
+      "create:creative_fluid_tank",
+      "create:creative_motor",
+      "numismatics:creative_vendor",
+      "armourers_workshop:skin-library-creative",
+      "create:fluid_tank",
+      "create:item_vault",
+      {
+        "id": "#c:movement_restricted",
+        "required": false
+      }
+    ]
+  }
