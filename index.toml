@@ -86,7 +86,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "eed9ab70d89d525fa2a81b5ff3c2637dcfe132287a5be3c3223dd457ced5c4dc"
+hash = "7777b6acd3ec5b53c23f801a1d375c841b811bf9bf653c8daaa747364927b08a"
 
 [[files]]
 file = "config/lmft.json"
@@ -502,6 +502,10 @@ file = "kubejs/config/common.properties"
 hash = "cd5616617d0c1219c54eb85e3d56e3c0efa92fa492b0b2d4980b8b0870d264a9"
 
 [[files]]
+file = "kubejs/data/ae2/tags/blocks/blacklisted/spatial.json"
+hash = "5e581581f871bb6a1c75dc884fc0662d4cde83b9b0c6a90458183818599354c0"
+
+[[files]]
 file = "kubejs/data/create/recipes/crafting/curiosities/brown_toolbox.json"
 hash = "45d26a6d873bea2dbb9b693865225b218050b3cd61e11a3118c53c6814ed6e3c"
 
@@ -583,7 +587,7 @@ hash = "f6c2608bcb3e2d8d7cb63a6775b736448a5d3e019fd6a2ccfbb40a61a05e911b"
 
 [[files]]
 file = "kubejs/server_scripts/mods/farmersdelight.js"
-hash = "e7eca84aedff32c1346213753ae790cef04be79803aa091a953065405a54d8ae"
+hash = "8d599b88eda467bdfd6b2b2d72ce9516b06ed512f2f2e5f095c7acf5a4a4412e"
 
 [[files]]
 file = "kubejs/server_scripts/mods/phonos.js"
@@ -591,11 +595,7 @@ hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
 [[files]]
 file = "kubejs/server_scripts/mods/tinkers.js"
-hash = "1cdd7282bfc4beb43c7145da573f84403356c45ca5e01a5d8e9382af85d6fd65"
-
-[[files]]
-file = "kubejs/server_scripts/poly's fixes/farmersdelight.js"
-hash = "7b1cbd8ed4d6f49300357c128cb1bb4ca8f8002665bb23c56c036cc6f9c6a0bf"
+hash = "e04bf2f439814a94bb3bac04325d260caefaa77ec5ea99e34c11ec379429f25c"
 
 [[files]]
 file = "kubejs/server_scripts/poly's fixes/lapisshard.js"
@@ -608,10 +608,6 @@ hash = "91bd04de6b114fade6b711508b7af9c8e401eb486f94cb1e6d59124184658cce"
 [[files]]
 file = "kubejs/server_scripts/poly's fixes/thallasium.js"
 hash = "7fc60ad769e51ecd62a49c50e1e6d7d53497d931f8afb488af5eed0d438f2570"
-
-[[files]]
-file = "kubejs/server_scripts/poly's fixes/tinkersfixes.js"
-hash = "d56ca08d48dc43da87d350b93a4e2a01fe8711d6ae85205a64f5a029bb7cb96e"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
@@ -758,6 +754,11 @@ hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
 metafile = true
 
 [[files]]
+file = "mods/beaconoverhaul.pw.toml"
+hash = "948e2afde3a7a98cca263230450e50d861fdd8984c87a464897c17a3105c6037"
+metafile = true
+
+[[files]]
 file = "mods/better-log4j-config.pw.toml"
 hash = "a6a8ef4b8f5acbe5b834e453b873aa95adf7c1debf0ff546ce2eed5177f948c2"
 metafile = true
@@ -785,6 +786,11 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "b02a808166a12bda1a4bb63e2ac0596f0c9006461956207775f9255fcee24d2a"
 metafile = true
 
 [[files]]
@@ -952,6 +958,11 @@ hash = "6b4e4ced7cb3323842a46fa78fe1e5e8ff2badd6814d09dab5ea9e5ca0f28a7c"
 metafile = true
 
 [[files]]
+file = "mods/create-dynamic-lights.pw.toml"
+hash = "9140775b940d0226c24e58044b6d21f8570fc10bd06dbe21e559c7566d79f590"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
@@ -1024,6 +1035,11 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "bfea39fa87d572fb36860c915666ca16daca9d93bfdbcdd9185f8b490f0ecb41"
 metafile = true
 
 [[files]]
@@ -1242,6 +1258,11 @@ hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
+file = "mods/gui-pack-utils.pw.toml"
+hash = "0878f3e8decf1bba498ef62d7c26ae0698dc10af89871f06bde87e77746d5ce5"
+metafile = true
+
+[[files]]
 file = "mods/hand-over-your-items.pw.toml"
 hash = "11483562aa9ba14ee03da7204c6edcc45a2f18ce5076aafa4ca5c2d3f6b7dc5f"
 metafile = true
@@ -1293,12 +1314,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "3448fc32106cb97efb4da88e5ea44056ec62d4e5b172a2f71696dab0ca2ccbe8"
+hash = "dc1dae1567b0d338676f0c1aae73c79734ee719f04925b1ab2093773cae0e0e5"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "aac37788ac1acd537a8b5b32fc2489cddf8034f196f7f38c0755837764b4f01d"
+hash = "a3703e73f03285a342d4344d30e2dfbc0fb72cb787351933bc1abefdced7be61"
 metafile = true
 
 [[files]]
@@ -1344,6 +1365,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "08466e36ec0585de1c99f28e5f91566160e06283e5d69ad47c74623f72ce9385"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "afd9f1b92d4af4b01eb15885f929bfdf8d1495ae6b1f70835ed3c0c4189cf61a"
 metafile = true
 
 [[files]]
@@ -1554,6 +1580,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "2209ce7afd887d1c1dfea7132d3d72d15d1f445215220af0c16db46d596b6cdb"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "37651f530c1d59e5158e446983ed6e65e9e5094642eec1ec9f5b0d4e1d1ac1b1"
 metafile = true
 
 [[files]]
@@ -1924,6 +1955,16 @@ hash = "0b24d3fbf38ac7340c0fc39e4f9e2331ae733c975050c195268b09042322c770"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "ec373874dc611293b4177860b0e72cc423a104b2ff6d69dfa091a269e2f1b4b1"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "1e0c9d9a6668e446574c159961f02f2aec7eb392295130a601c42a0bef74cac3"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "10cfaa777886c9437f456e06ac45be7cc26249ab64a2bd97d45fe17a0e7b452c"
 metafile = true
@@ -2005,7 +2046,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ferns-fancy-inventory.pw.toml"
-hash = "59fd0191db2076fcdb91fdb269ad72b0a2841a0e94a0f079825f2e9e5ae4e152"
+hash = "d43567494deb63db732f604867130b4009f9ed3ce76b3d70210597dba029e646"
 metafile = true
 
 [[files]]
