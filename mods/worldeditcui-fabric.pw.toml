@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4575022
 project-id = 402098
-
-[option]
-optional = true
-default = false
-description = "A Graphical user interface for Worldedit"
