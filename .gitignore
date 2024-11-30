@@ -4,8 +4,9 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
-# Exclude jetbrains IDE files
+# Exclude IDE files
 .idea
+.vscode
 
 # Exclude Mac metadata files
 .DS_Store

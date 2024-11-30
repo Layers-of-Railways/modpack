@@ -370,10 +370,6 @@ file = "config/yosbr/options.txt"
 hash = "72333902e61b680eeca1f42e4dde22138777ae1743d6f183c4594e4336c56f74"
 
 [[files]]
-file = "kubejs/.vscode/settings.json"
-hash = "afb76563b06f66bd43192519a59f355d17a0b6e2f7a52a1dff08940d5237f4d6"
-
-[[files]]
 file = "kubejs/assets/phonos/textures/item/antenna.png"
 hash = "958be02577e9def636498145d5078d5340c482590137172f3985a11149aebe2f"
 
