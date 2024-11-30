@@ -1,0 +1,18 @@
+name = "Create: Dynamic Lights"
+filename = "create-dyn-light-fabric1.20.1+1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/evMQRxqV/versions/nJgqKQD5/create-dyn-light-fabric1.20.1%2B1.0.2.jar"
+hash-format = "sha512"
+hash = "d8645d381832384e1afb4675877d8633dec2cf52142cc69aa3f9dfd33ca1d4bb64e0fdb7e391fb32002730d73c59e2489cff6d8b2e047dd2607a16053b4fe4c9"
+
+[update]
+[update.modrinth]
+mod-id = "evMQRxqV"
+version = "nJgqKQD5"
+
+[option]
+optional = true
+default = false
+description = "Fancy in-game lighting support for Create contraptions"
