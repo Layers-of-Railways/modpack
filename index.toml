@@ -275,7 +275,7 @@ hash = "722f7545a5a592f0aed25ae8dd0a4f53f7abaf0bb53da96417d87e9096e75631"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
-hash = "edc5e75452879707c149126680e580aa6403931dcdcc04bc1d93fe60bc37803d"
+hash = "a06a93b57d4c98e2c5ebf2da18da12b843e956912ed7e3a8274c21513b434354"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -1692,7 +1692,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "f5e1c47933860d0dde0daeac4587cf1fae8579c19f1e07f7acb509dcf05d1c3e"
+hash = "7ea65315aebb1cb0c3d227912137867b22b51603fd2f93cf18966867d0df72eb"
 metafile = true
 
 [[files]]
