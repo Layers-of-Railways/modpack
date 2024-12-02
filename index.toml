@@ -386,6 +386,10 @@ file = "kubejs/assets/relics/models/voidgazer_spyglass_inv.json"
 hash = "8cbcc6fe46e6b83b1950ce6ee0a734960ad536ccd72281cb53c5f8ce8fbeb307"
 
 [[files]]
+file = "kubejs/assets/relics/textures/item/manifest_destiny.png"
+hash = "e278e6eb0616319252029903ba5bdbd4d12341cac12e9d4a9012e3fe1d1b3f92"
+
+[[files]]
 file = "kubejs/assets/relics/textures/item/voidgazer_spyglass.png"
 hash = "5087d0595fec12786463819fa2fb7d1f80ec00919e92b5914d99efd4d36fd811"
 
@@ -627,7 +631,7 @@ hash = "0bebee8ed75bfdd72194e8df3c37097b1f8fb19244b8ec1f324f18275670a669"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
-hash = "b766170cd83e82671daf07ad1151ec6d1470ed395ee07e574672de53563eaa5d"
+hash = "4f7d2b7877f6230af620fad1e9a9f9047ae7df42e813ab820dfd454fa0d864f5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
