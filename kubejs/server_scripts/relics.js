@@ -39,6 +39,8 @@ ServerEvents.customCommand((event) => {
         spawnGateIndirect(event.getEntity(), event.getEntity().server);
     } else if (id == "tellSpawn") {
         tellSpawn(event.getEntity(), event.getEntity().server);
+    } else if (id == "pulseRifle"){
+        pulseRifle(event.getEntity(), event.getEntity().server);
     }
     /**
      * 
@@ -353,7 +355,7 @@ ServerEvents.customCommand((event) => {
         var hitX = rayHit.getHitX();
         var hitY = rayHit.getHitY();
         var hitZ = rayHit.getHitZ();
-        var targer = skullOwner.getUUID("Id").toString();
+        var target = skullOwner.getUUID("Id").toString();
         teleExitFromString(target, server);
         server.runCommandSilent("execute in " + summonDim + " run tp " + target + " " + hitX + " " + hitY + " " + hitZ);
         teleEnterFromString(target, server);
@@ -416,5 +418,23 @@ ServerEvents.customCommand((event) => {
         entity.setMotion(motionX, motionY, motionZ);
         entity.hurtMarked = true;
     }
+
+        /**
+     * 
+     * @param {Internal.LivingEntity} entity
+     * @param {Internal.MinecraftServer} server
+     */
+
+        function pulseRifle(entity, server) {
+            let speed = -3;
+            var rayHit = entity.rayTrace(64, false);
+            entity.level.explode(entity, rayHit.getHitX(), rayHit.getHitY(), rayHit.getHitZ(), 1, false, "none");
+            server.runCommandSilent("execute positioned "+rayHit.getHitX()+" "+rayHit.getHitY()+" "+rayHit.getHitZ()+" playsound minecraft:entity.dragon_fireball.explode master @a[distance=..5] 5")
+            let motionX = entity.lookAngle.x() * speed;
+            let motionY = entity.lookAngle.y() * speed;
+            let motionZ = entity.lookAngle.z() * speed;
+            entity.setMotion(motionX, motionY, motionZ);
+            entity.hurtMarked = true;
+        }
 
 })

@@ -615,7 +615,7 @@ hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
 
 [[files]]
 file = "kubejs/server_scripts/relics.js"
-hash = "021a0052a513de17b1bae88c0e4abb2c8522057bfed8cb10c4538452301cc633"
+hash = "b9988972e093b3e2d72d7d73b1dbeca808f63678e9cee240f367a2c59234f016"
 
 [[files]]
 file = "kubejs/server_scripts/smithing.js"
@@ -1937,6 +1937,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
 metafile = true
 
 [[files]]
