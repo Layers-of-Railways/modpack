@@ -412,7 +412,7 @@
 		#.
 		#Amount of game ticks between shots of the cannon. Higher => Slower
 		#Range: > 1
-		schematicannonDelay = 5
+		schematicannonDelay = 20
 #.
 #Equipment and gadgets added by Create
 [equipment]
