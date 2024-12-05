@@ -818,6 +818,11 @@ hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
@@ -1695,11 +1700,6 @@ hash = "c63ce1e54a1503684b6da8e1f545080dba5922555db53b7ab35e8734c7cfd779"
 metafile = true
 
 [[files]]
-file = "mods/raknetify.pw.toml"
-hash = "77c059da1c8711f34d6eeaf52dea012b7f43b34f9063b1b1fcd5a31e82cbd309"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "41f18dab192c79a4f4ec38422b38c3d6198ebae71abab86cfbf305a1d008c051"
 metafile = true
@@ -2060,7 +2060,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "e179f8e89e0122b9327eff5828abe0a9f0172e8e71e3a49f9a0e787cefed83e2"
+hash = "c34644d5e47f0fed1a4115ce3c500a0d8196122c5b6bb1421c4281a28b3664c5"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
