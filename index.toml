@@ -723,11 +723,6 @@ hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "c4ebf1d6edaa3b11254e4100428930f2178bad9f779bda0aea1277a7f7d3af9f"
-metafile = true
-
-[[files]]
 file = "mods/backpacked-fabric.pw.toml"
 hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
 metafile = true
@@ -1349,11 +1344,6 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "067d992d925772f757e82085496010fb5bc1f5b84bd899f4c6be9fa1e638da49"
 metafile = true
 
 [[files]]
