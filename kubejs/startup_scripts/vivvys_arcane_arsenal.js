@@ -32,6 +32,67 @@ StartupEvents.registry('item', e => {
     }
   });
 
+  e.create('manifest_destiny','sword')
+  .displayName('Manifest Destiny')
+  .texture('relics:item/manifest_destiny')
+  .unstackable()
+  .rarity('epic')
+  .tooltip('A hammer forged from netherite and raw earth magic. The air around it shimmers with heat distortions and unlimited potential.')
+  .glow(true)
+  .barColor(_itemstack => Color.rgba(255, 122, 47, 1))
+  .barWidth(itemstack => itemstack.nbt.contains('Fuel') ? 13 - Math.ceil(0.013*itemstack.nbt.getInt('Fuel')) : 0)
+  .useAnimation('toot_horn')
+  .attackDamageBaseline(9)
+  .tier('netherite')
+  .speedBaseline(-3.1)
+  .useDuration(_itemstack => 72000)
+  .use((_level, player, _hand) => {
+    var fuelValue = 0;
+    var offHand = player.offHandItem.getId();
+    switch(offHand){
+      case 'minecraft:lava_bucket':{
+        fuelValue = 100;
+        player.setOffHandItem("minecraft:bucket");
+        player.playSound('item.bucket.empty_lava', 5);
+        break;
+      }
+      case 'minecraft:magma_cream':{
+        fuelValue = 8 * player.offhandItem.getCount();
+        player.offHandItem.shrink(player.offHandItem.getCount());
+        player.playSound('item.firecharge.use', 5)
+        break;
+      }
+      case 'minecraft:blaze_rod':{
+        fuelValue = 12 * player.offHandItem.getCount()
+        player.offHandItem.shrink(player.offHandItem.getCount());
+        player.playSound('entity.blaze.ambient', 5);
+        break;
+      }
+      default:{
+        break;
+      }
+    }
+    player.mainHandItem.nbt.setNbt({Fuel:fuelValue});
+    return true;
+  })
+  .releaseUsing((itemstack, _level, player, tick) => {
+    var requestedUnits = Math.ceil((72000 - tick)/10);
+    var fuelValue = itemstack.nbt.getInt('Fuel');
+    var offHand = player.offHandItem.getId();
+    switch(offHand){
+      case 'minecraft:cobblestone:':{
+        var cost = requestedUnits;
+        var fuelRemaining = fuelValue - cost;
+        if (fuelRemaining <= 0) {
+          requestedUnits = Math.ceil(fuelValue/cost);
+          cost = fuelRemaining;
+        }
+        player.give(Item.of('minecraft:cobblestone', requestedUnits))
+        break;
+      }
+    }
+  })
+
 
   e.create('inert_transport_shard')
   .formattedDisplayName(Component.string("Inert Transport Shard").lightPurple())

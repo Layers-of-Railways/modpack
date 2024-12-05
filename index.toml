@@ -386,6 +386,10 @@ file = "kubejs/assets/relics/models/voidgazer_spyglass_inv.json"
 hash = "8cbcc6fe46e6b83b1950ce6ee0a734960ad536ccd72281cb53c5f8ce8fbeb307"
 
 [[files]]
+file = "kubejs/assets/relics/textures/item/manifest_destiny.png"
+hash = "e278e6eb0616319252029903ba5bdbd4d12341cac12e9d4a9012e3fe1d1b3f92"
+
+[[files]]
 file = "kubejs/assets/relics/textures/item/voidgazer_spyglass.png"
 hash = "5087d0595fec12786463819fa2fb7d1f80ec00919e92b5914d99efd4d36fd811"
 
@@ -615,7 +619,7 @@ hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
 
 [[files]]
 file = "kubejs/server_scripts/relics.js"
-hash = "021a0052a513de17b1bae88c0e4abb2c8522057bfed8cb10c4538452301cc633"
+hash = "b9988972e093b3e2d72d7d73b1dbeca808f63678e9cee240f367a2c59234f016"
 
 [[files]]
 file = "kubejs/server_scripts/smithing.js"
@@ -627,7 +631,7 @@ hash = "0bebee8ed75bfdd72194e8df3c37097b1f8fb19244b8ec1f324f18275670a669"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
-hash = "b766170cd83e82671daf07ad1151ec6d1470ed395ee07e574672de53563eaa5d"
+hash = "4f7d2b7877f6230af620fad1e9a9f9047ae7df42e813ab820dfd454fa0d864f5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -811,11 +815,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
-metafile = true
-
-[[files]]
-file = "mods/capes.pw.toml"
-hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
@@ -1696,6 +1695,11 @@ hash = "c63ce1e54a1503684b6da8e1f545080dba5922555db53b7ab35e8734c7cfd779"
 metafile = true
 
 [[files]]
+file = "mods/raknetify.pw.toml"
+hash = "77c059da1c8711f34d6eeaf52dea012b7f43b34f9063b1b1fcd5a31e82cbd309"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "41f18dab192c79a4f4ec38422b38c3d6198ebae71abab86cfbf305a1d008c051"
 metafile = true
@@ -1940,6 +1944,11 @@ hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
+metafile = true
+
+[[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "1657d0714c46b67a1cec4a07472d6c47a3f1cd45fa2fef52a14cd56c0c8d7751"
 metafile = true
@@ -2051,7 +2060,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "c34644d5e47f0fed1a4115ce3c500a0d8196122c5b6bb1421c4281a28b3664c5"
+hash = "e179f8e89e0122b9327eff5828abe0a9f0172e8e71e3a49f9a0e787cefed83e2"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
