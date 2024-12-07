@@ -1695,10 +1695,6 @@ hash = "c63ce1e54a1503684b6da8e1f545080dba5922555db53b7ab35e8734c7cfd779"
 metafile = true
 
 [[files]]
-file = "mods/raknetify-fabric-0.1.0+alpha.5.139-all.jar"
-hash = "a63355df3896c1fd29290d0b0a20d1b01ffeed391c0566e1f63d8972f0d85eae"
-
-[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "41f18dab192c79a4f4ec38422b38c3d6198ebae71abab86cfbf305a1d008c051"
 metafile = true
