@@ -370,6 +370,10 @@ file = "config/yosbr/options.txt"
 hash = "72333902e61b680eeca1f42e4dde22138777ae1743d6f183c4594e4336c56f74"
 
 [[files]]
+file = "icon.png"
+hash = "8137a94f5830c3bf0ef17197168288da465f0d6752d3acffa29237ea61543c4c"
+
+[[files]]
 file = "kubejs/assets/phonos/textures/item/antenna.png"
 hash = "958be02577e9def636498145d5078d5340c482590137172f3985a11149aebe2f"
 
@@ -2055,7 +2059,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "e179f8e89e0122b9327eff5828abe0a9f0172e8e71e3a49f9a0e787cefed83e2"
+hash = "12de4453ec125d0b7180d0718d75f289406a45223faddd892498d6c6d7f72c27"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
