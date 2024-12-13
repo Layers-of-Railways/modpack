@@ -149,6 +149,11 @@ file = "config/paxi/datapacks/better-endcity-better-end.zip"
 hash = "642db2d0eb68dff95744946a16fa45b476b956e6d9603300cc83677f307f86ff"
 
 [[files]]
+file = "config/paxi/datapacks/lectern-overhaul.pw.toml"
+hash = "45880fcb31bbfb72792003eed9a41ab2ad8f5a1d319f10fa729fe2f6dbb8aa51"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/liquidfuel.zip"
 hash = "3fb051dc136efd4959c682199b29e87d8261b7b7ec410953ec7c4e564482bf9d"
 
@@ -268,6 +273,14 @@ hash = "c3e2996ab28fcbc84ed04b9f20cbeeb347e594da22b680bc70c7748b8285b3ac"
 [[files]]
 file = "config/puzzle.json"
 hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
+
+[[files]]
+file = "config/remote_player_waypoints_for_xaero/friends.json5"
+hash = "d035bf2bd85727f1b20388b919ffe022cf453087e6d382c5b00bd9e704ccc49c"
+
+[[files]]
+file = "config/remote_player_waypoints_for_xaero/general.json5"
+hash = "c31bb987d0fd7649c8f1f81d8f2cfb1457b8e641e8ac036adac89d4a277303b7"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -722,6 +735,11 @@ hash = "66ca517a1a308d9640b15679a8867378e6fdbeae6073f8585c00a8eef9cefc92"
 metafile = true
 
 [[files]]
+file = "mods/arsenal.pw.toml"
+hash = "e82e5b7bce49e0c3a6f4616f5c94c8d65c383d7bfdf7ec9903801f1351686dfe"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
 metafile = true
@@ -739,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/backpacked-fabric.pw.toml"
 hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
+metafile = true
+
+[[files]]
+file = "mods/backport-paintings-1.21.pw.toml"
+hash = "be772ee2203fc0d3589f0f207e334dc31731d80e3bfadc93cf73b4818ee38313"
 metafile = true
 
 [[files]]
@@ -988,6 +1011,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "064808462edac75a4165894f615a05011f027a9868d4922b232ea9a9177c0165"
 metafile = true
 
 [[files]]
@@ -1356,6 +1384,11 @@ hash = "5e83a4294f11fd592e58b0fe8a4041ebdf30875c9dd16060cb74189a7aad240d"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "36a2bb1e5126cfd8f54ec2022c0d2192f57538f3e85af1d591fd20be11a813eb"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
@@ -1699,6 +1732,11 @@ hash = "c63ce1e54a1503684b6da8e1f545080dba5922555db53b7ab35e8734c7cfd779"
 metafile = true
 
 [[files]]
+file = "mods/ratatouille.pw.toml"
+hash = "db7c47fac84cfc274fcb3ca5d86c2fa974dff11f81c6d7619d69cab59bf6fc99"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "41f18dab192c79a4f4ec38422b38c3d6198ebae71abab86cfbf305a1d008c051"
 metafile = true
@@ -1711,6 +1749,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
+hash = "aa55dabbd43c9cb26a850f62af626c303066c8ee84823527c97ed9f20494b898"
 metafile = true
 
 [[files]]
@@ -1775,6 +1818,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "67e281e2ddabbf5bac3768f73563f976aab05fb7392b3ce2e07fd11ac8797bc3"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "95a81f1a568965dcad18b754354581975ce5c9491b21a6276f107561fcc75c13"
 metafile = true
 
 [[files]]
@@ -2055,6 +2103,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/human-era-villagers-illagers.pw.toml"
+hash = "dc03b77856f4b6ddd1ef0af34d9316702f1ead0965ef07a4877b78a0c4856e5e"
 metafile = true
 
 [[files]]

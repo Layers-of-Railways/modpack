@@ -1,0 +1,13 @@
+name = "Arsenal"
+filename = "arsenal-0.1.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SQhWMwht/versions/nUBE8ygr/arsenal-0.1.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "8c1bf9bc681dec71a9bf8a1e2f29dd9ba23870ba0b06498a708896a68715cc1e23398b04aae6d8ffbb637c39290d2b7fe1c1c88dca6818576eeea74489289bc6"
+
+[update]
+[update.modrinth]
+mod-id = "SQhWMwht"
+version = "nUBE8ygr"
