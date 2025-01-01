@@ -1,0 +1,88 @@
+{
+  "enable": true,
+  "enable_bluemap_compat": true,
+  "watch_interval_seconds": 0.5,
+  "server_port": 25585,
+  "map_style": {
+    "font": "ui-monospace, \"JetBrains Mono\", monospace",
+    "colors": {
+      "background": "#888",
+      "track": {
+        "occupied": "red",
+        "reserved": "pink",
+        "free": "white"
+      },
+      "signal": {
+        "green": "#71db51",
+        "yellow": "#ffd15c",
+        "red": "#ff5f5c",
+        "outline": "black"
+      },
+      "portal": {
+        "primary": "purple",
+        "outline": "white"
+      },
+      "station": {
+        "primary": "white",
+        "outline": "black"
+      },
+      "train": "cyan",
+      "lead_car": "plum"
+    }
+  },
+  "map_view": {
+    "initial_dimension": "minecraft:overworld",
+    "initial_position": {
+      "x": 0,
+      "z": 0
+    },
+    "initial_zoom": 3,
+    "min_zoom": 0,
+    "max_zoom": 4,
+    "zoom_controls": false,
+    "signals_on": "RIGHT"
+  },
+  "dimensions": {
+    "minecraft:overworld": {
+      "label": "Overworld"
+    },
+    "minecraft:the_nether": {
+      "label": "Nether"
+    },
+    "minecraft:the_end": {
+      "label": "End"
+    }
+  },
+  "layers": {
+    "tracks": {
+      "label": "Tracks",
+      "min_zoom": 0,
+      "max_zoom": 4
+    },
+    "blocks": {
+      "label": "Track Occupancy",
+      "min_zoom": 0,
+      "max_zoom": 4
+    },
+    "signals": {
+      "label": "Signals",
+      "min_zoom": 0,
+      "max_zoom": 4
+    },
+    "portals": {
+      "label": "Portals",
+      "min_zoom": 0,
+      "max_zoom": 4
+    },
+    "stations": {
+      "label": "Stations",
+      "min_zoom": 0,
+      "max_zoom": 4
+    },
+    "trains": {
+      "label": "Trains",
+      "min_zoom": 0,
+      "max_zoom": 4
+    }
+  }
+}
