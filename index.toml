@@ -995,8 +995,9 @@ hash = "e8b1c09912f9bb477bbaf0b1b970d0d47e941c59977be1f86f676a31b1bf9a21"
 metafile = true
 
 [[files]]
-file = "mods/create-track-map-1.5+mc1.20.1-fabric.jar"
-hash = "3bc62ac2c356ed1108b4369a6c9885f188b0181eff63392f0cbe3f3a55052e12"
+file = "mods/create-track-map.pw.toml"
+hash = "fdb792b21ae5c87a16cdeff86ae0e966def807a0fa789eae1f8d6f79245d32d3"
+metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
