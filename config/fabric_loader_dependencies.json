@@ -1,6 +1,16 @@
 {
     "version": 1,
     "overrides": {
+        "railways": {
+            "-depends": {
+                "create": ""
+            }
+        },
+        "numismatics": {
+            "-depends": {
+                "create": ""
+            }
+        },
         "railwaystweaks": {
             "-depends": {
                 "fabric-api": ""

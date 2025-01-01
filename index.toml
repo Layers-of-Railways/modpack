@@ -54,7 +54,7 @@ hash = "8c2abae0be3c1aad6244b47cbde95892d55d046ff15e35621eca5e5cbd276c87"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "9232abad06c4ac24f00d307f1ef07ef3d47df7d2318dbea5c122ad1b3752f87f"
+hash = "dd026db05dcfc301a71da9766a2cab97cbcd805393a6bbe56735a5743dee2d5e"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "a940269d83e13c7d68fbbad4be8122704ae317e3d794553406f1bee9560509b7"
+hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
