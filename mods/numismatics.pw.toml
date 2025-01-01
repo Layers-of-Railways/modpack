@@ -1,7 +1,7 @@
 name = "numismatics"
-filename = "CreateNumismatics-fabric-1.20.1-1.1.0+fabric-mc1.20.1-build.541.jar"
+filename = "CreateNumismatics-fabric-1.20.1-1.1.0+fabric-mc1.20.1-build.588.jar"
 
 [download]
-url = "https://maven.ithundxr.dev/snapshots/dev/ithundxr/createnumismatics/CreateNumismatics-fabric-1.20.1/1.1.0+fabric-mc1.20.1-build.541/CreateNumismatics-fabric-1.20.1-1.1.0+fabric-mc1.20.1-build.541.jar"
+url = "https://maven.ithundxr.dev/snapshots/dev/ithundxr/createnumismatics/CreateNumismatics-fabric-1.20.1/1.1.0+fabric-mc1.20.1-build.588/CreateNumismatics-fabric-1.20.1-1.1.0+fabric-mc1.20.1-build.588.jar"
 hash-format = "sha256"
-hash = "87c752508cccf74f759ca623bb2ce7dca28ef49ca28e2143d8a3e18a44b78083"
+hash = "24e7e2d458d0699fa5da0ca9b6353d3352255d9a227a93d0ffa09d9f00c279b0"

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ae2/common.json"
+hash = "67e7af957d25eeb8d0c1932df505ecbcbb6feec0e4559cf71cd8ea827d5db26b"
+
+[[files]]
 file = "config/backpacked-common.toml"
 hash = "9fb5bc5b26e698815bde9afb430090fff1c80b4928e72928128b9b94f04cfac9"
 
@@ -46,7 +50,7 @@ hash = "8c2abae0be3c1aad6244b47cbde95892d55d046ff15e35621eca5e5cbd276c87"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d024c65c1f339136ce04b1d0fe8063d3e50d74a22d040f730a8fe3e248faca02"
+hash = "9232abad06c4ac24f00d307f1ef07ef3d47df7d2318dbea5c122ad1b3752f87f"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -977,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+hash = "a940269d83e13c7d68fbbad4be8122704ae317e3d794553406f1bee9560509b7"
 metafile = true
 
 [[files]]
@@ -987,8 +991,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
+hash = "e8b1c09912f9bb477bbaf0b1b970d0d47e941c59977be1f86f676a31b1bf9a21"
 metafile = true
+
+[[files]]
+file = "mods/create-track-map-1.5+mc1.20.1-fabric.jar"
+hash = "3bc62ac2c356ed1108b4369a6c9885f188b0181eff63392f0cbe3f3a55052e12"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
@@ -1207,7 +1215,7 @@ metafile = true
 
 [[files]]
 file = "mods/firorize.pw.toml"
-hash = "68111fb8cb170583795efd0b9d0eddf6f6bb3f66468c8d14d02c7aff8ee30061"
+hash = "48125cebdb3d190d82de1e6ab4348748f88790c03fa1df22f07c38aa14f5f88d"
 metafile = true
 
 [[files]]
@@ -1342,7 +1350,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "ccf6d5c394ae08243f852a14e196f5d6311f280d766bef6c03943dd7f653a1fe"
+hash = "fd806713c4bd32080e12e65c012ad93de6a6fae53484fa13a72603c39f3eae63"
 metafile = true
 
 [[files]]
@@ -1577,7 +1585,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "2209ce7afd887d1c1dfea7132d3d72d15d1f445215220af0c16db46d596b6cdb"
+hash = "a25f16835aa593e94899b340b788f14d9d6862dd1d5fa95e49705397410f6b4e"
 metafile = true
 
 [[files]]
@@ -1670,7 +1678,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
+hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
 
 [[files]]
@@ -1695,7 +1703,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "c63ce1e54a1503684b6da8e1f545080dba5922555db53b7ab35e8734c7cfd779"
+hash = "2999625272332654fc2763f66e59782bf6261086ec65366d58ddeab7e87ca5be"
 metafile = true
 
 [[files]]

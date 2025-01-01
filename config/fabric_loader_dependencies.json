@@ -10,6 +10,21 @@
             "-depends": {
                 "fabricloader": ""
             }
+        },
+        "design_decor": {
+            "-depends": {
+                "create": ""
+            }
+        },
+        "deepdrilling": {
+            "-depends": {
+                "create": ""
+            }
+        },
+        "apcrcompat": {
+            "-depends": {
+                "create": ""
+            }
         }
     }
 }
