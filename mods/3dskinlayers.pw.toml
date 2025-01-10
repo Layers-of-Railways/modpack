@@ -11,3 +11,8 @@ hash = "a28968dac130113b299b4773e72d5217c9d73fed"
 [update.modrinth]
 mod-id = "zV5r3pPn"
 version = "kFPX5Wmk"
+
+[option]
+optional = true
+default = false
+description = "3D skin layers for players"
