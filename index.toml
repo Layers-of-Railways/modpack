@@ -1649,6 +1649,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "8d1b6bac3c5126ea931a02fc9237bb064a39714fc3ddc8f6161b85d3c757cf10"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true

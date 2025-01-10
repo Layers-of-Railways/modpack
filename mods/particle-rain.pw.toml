@@ -1,0 +1,18 @@
+name = "Particle Rain"
+filename = "particle-rain-3.0.6-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nrikgvxm/versions/lwOTe5KX/particle-rain-3.0.6-1.20.jar"
+hash-format = "sha1"
+hash = "709037b724ca8da4aba823797871d8fa26b0cccf"
+
+[update]
+[update.modrinth]
+mod-id = "nrikgvxm"
+version = "lwOTe5KX"
+
+[option]
+optional = true
+default = false
+description = "Better looking weather effects"
