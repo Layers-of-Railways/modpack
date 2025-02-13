@@ -94,7 +94,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "7777b6acd3ec5b53c23f801a1d375c841b811bf9bf653c8daaa747364927b08a"
+hash = "99e6ca3251767333bfe9397b4e389bcbb5a1b7627768dd1f32493e36490f5dc1"
 
 [[files]]
 file = "config/lmft.json"
@@ -930,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "e856e65f33ff1746f365f10eb3c5a26515d74837577fb05c3b25d8debcd22198"
+hash = "fb3d6463ab07baa3cc0e0d6cfacbcaaeec3c32ef495b9c7762042897c4e35fc3"
 metafile = true
 
 [[files]]
@@ -1585,7 +1585,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatics.pw.toml"
-hash = "a25f16835aa593e94899b340b788f14d9d6862dd1d5fa95e49705397410f6b4e"
+hash = "24f8ad24bddff1479d4a244fac4ecbe590abbd753fd9e8aa9c0672deb03eac45"
 metafile = true
 
 [[files]]
