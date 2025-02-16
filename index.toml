@@ -744,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "mods/arsenal.pw.toml"
-hash = "e82e5b7bce49e0c3a6f4616f5c94c8d65c383d7bfdf7ec9903801f1351686dfe"
+hash = "3dfb613d8cb47b4f9090d8eff4d67b94a62ca397a6e2bc27aee8fe96d6d264f7"
 metafile = true
 
 [[files]]
