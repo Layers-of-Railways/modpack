@@ -1,0 +1,32 @@
+{
+	"enabled": true,
+	"updateDelay": 2000,
+	"serverEntries": [
+		{
+			"maptype": "Bluemap",
+			"ip": "railways.ithundxr.dev",
+			"link": "map.railways.ithundxr.dev"
+		}
+	],
+	"defaultY": 64,
+	"minimapWaypointsRenderBelow": "WHEN_PLAYER_LIST_SHOWN",
+	"enablePlayerWaypoints": true,
+	"enablePlayerIcons": true,
+	"showAfkInTabList": true,
+	"timeUntilAfk": 300,
+	"showAfkTimeInTabList": true,
+	"hideAfkMinutes": false,
+	"unknownAfkStateColor": 6316128,
+	"AfkColor": 16733440,
+	"playerWaypointColor": "DarkPurple",
+	"enableMarkerWaypoints": true,
+	"markerWaypointColor": "Gray",
+	"ignoredServers": [],
+	"ignoreMarkerMessage": false,
+	"debugMode": false,
+	"minDistance": 20,
+	"maxDistance": 3260,
+	"maxIconDistance": 3102,
+	"minDistanceMarker": 20,
+	"maxDistanceMarker": 3080
+}

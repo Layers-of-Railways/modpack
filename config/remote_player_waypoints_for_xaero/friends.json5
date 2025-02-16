@@ -1,0 +1,11 @@
+{
+	"friendList": [],
+	"onlyShowFriendsWaypoints": false,
+	"onlyShowFriendsIcons": false,
+	"overwriteFriendDistances": false,
+	"overwriteFriendWaypointColor": false,
+	"friendWaypointColor": "Black",
+	"minFriendDistance": 0,
+	"maxFriendDistance": 100000,
+	"maxFriendIconDistance": 100000
+}

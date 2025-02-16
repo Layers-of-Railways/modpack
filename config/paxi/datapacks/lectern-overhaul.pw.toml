@@ -1,0 +1,13 @@
+name = "Lectern Overhaul"
+filename = "Lectern-Overhaul-v1.0-1.20.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4NooE2hx/versions/IDVpe7ad/Lectern-Overhaul-v1.0-1.20.1.zip"
+hash-format = "sha512"
+hash = "062ff15c861a7d1f7c2c4febb3a32fc7b9cd1e04ba9e1dfa7f3971dd6fe5a758124422e24ee3e38dc1a369d170cdfe41ae3f9f8b2836c1a74eafc533f1dd2229"
+
+[update]
+[update.modrinth]
+mod-id = "4NooE2hx"
+version = "IDVpe7ad"
