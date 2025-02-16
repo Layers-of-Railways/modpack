@@ -1,0 +1,13 @@
+name = "XXL Packets"
+filename = "xlpackets-fabric-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SeCuopwJ/versions/crZrkVzH/xlpackets-fabric-1.20.1-1.0.5.jar"
+hash-format = "sha512"
+hash = "285ab55fa228ba986a6017f24082d6abc4ce8a68ffeb565ea341882b65ec17435b3bd9c5b654f02def2bb74d2a55ac89c9e1f3477affc4a14eb74f974031b934"
+
+[update]
+[update.modrinth]
+mod-id = "SeCuopwJ"
+version = "crZrkVzH"
