@@ -1087,6 +1087,11 @@ hash = "5eddd4c6a5cba7cd4d3d9a0acd0e810ae040d92b6c1928984a9497a5187d143b"
 metafile = true
 
 [[files]]
+file = "mods/doggo-mod-overhauled.pw.toml"
+hash = "17d4a0b52323087d4e6ca1ca0203594c47ecd35abe31106f0ec2119a894401f4"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "ad0b1c92bf3db21f58b6c609e2da6cd303afedda9973000456e7e3886f906e89"
 metafile = true
@@ -1342,6 +1347,11 @@ hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "b9fa4052f55fb11d52dcd0825cfa1b0341b741b1fe9029fbcc79abede25ccf56"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorting.pw.toml"
 hash = "cacd5a91708f799da27924f237b9252d05438de1f9b4e3e978bf3894e8574df0"
 metafile = true
@@ -1389,6 +1399,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "5e83a4294f11fd592e58b0fe8a4041ebdf30875c9dd16060cb74189a7aad240d"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "d05198eff022c2e1e750da3fef268dc0bacfbfbac3a2da72b630acb451311be1"
 metafile = true
 
 [[files]]
@@ -1831,6 +1846,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "edba7765364ba526fcc7da563e9858d997dd9915401e08040c32de7f79d1bb91"
+metafile = true
+
+[[files]]
+file = "mods/signoddities.pw.toml"
+hash = "6b2893c26cc1073cb60d5044fc51093fc4e79f4a0bd9258454a5430ba29cd8b4"
 metafile = true
 
 [[files]]
