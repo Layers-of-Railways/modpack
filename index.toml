@@ -154,8 +154,16 @@ hash = "45880fcb31bbfb72792003eed9a41ab2ad8f5a1d319f10fa729fe2f6dbb8aa51"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/liquidfuel.zip"
-hash = "3fb051dc136efd4959c682199b29e87d8261b7b7ec410953ec7c4e564482bf9d"
+file = "config/paxi/datapacks/liquidfuel/data/liquidfuel/railways_liquid_fuel/bioethanol.json"
+hash = "a39dfe699b6a417621e1ec63be06e1d0556bac2e355c5237fd6ad7d26e46b525"
+
+[[files]]
+file = "config/paxi/datapacks/liquidfuel/data/liquidfuel/railways_liquid_fuel/seed_oil.json"
+hash = "b2ffc946e3336331793a66a0ee1d2b211a90f2065fb7fb8b44edd4282a706c57"
+
+[[files]]
+file = "config/paxi/datapacks/liquidfuel/pack.mcmeta"
+hash = "40e9825d341c3bda63a17c117f5c5fd57e667e0cef2c4088eef93f70f0da9f58"
 
 [[files]]
 file = "config/paxi/datapacks/sound_lengths.zip"
