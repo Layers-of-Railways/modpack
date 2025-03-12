@@ -1,0 +1,13 @@
+name = "Sign Oddities"
+filename = "szoddities-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qFUgTUoW/versions/ZCRev4AQ/szoddities-1.1.0.jar"
+hash-format = "sha512"
+hash = "d327fb64edfde9baf193ece61454e706a2b52179418d306138432201ba16e31a940f359ffee0b2f3c5056e03d158fd9b9754a3ee059676aa6afed48d6016959c"
+
+[update]
+[update.modrinth]
+mod-id = "qFUgTUoW"
+version = "ZCRev4AQ"

@@ -1,6 +1,16 @@
 {
     "version": 1,
     "overrides": {
+        "railways": {
+            "-depends": {
+                "create": ""
+            }
+        },
+        "numismatics": {
+            "-depends": {
+                "create": ""
+            }
+        },
         "railwaystweaks": {
             "-depends": {
                 "fabric-api": ""
@@ -9,6 +19,21 @@
         "plutonium": {
             "-depends": {
                 "fabricloader": ""
+            }
+        },
+        "design_decor": {
+            "-depends": {
+                "create": ""
+            }
+        },
+        "deepdrilling": {
+            "-depends": {
+                "create": ""
+            }
+        },
+        "apcrcompat": {
+            "-depends": {
+                "create": ""
             }
         }
     }

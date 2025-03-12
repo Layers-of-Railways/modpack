@@ -179,7 +179,7 @@
 		#.
 		#Max length of rope available off a Rope Pulley.
 		#Range: > 1
-		maxRopeLength = 256
+		maxRopeLength = 384
 		#.
 		#Configure how Reinforced Deepslate blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE

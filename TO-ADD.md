@@ -1,1 +1,0 @@
-- https://modrinth.com/mod/firorize (https://github.com/RuffleSteels/Firorize/issues/22)
