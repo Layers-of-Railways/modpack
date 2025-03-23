@@ -616,7 +616,7 @@ hash = "cb4c5693b3fadd86e53eea8553abeba5187f6b81d611e54c5d7ae23b25c4874c"
 
 [[files]]
 file = "kubejs/server_scripts/manifest_destiny.js"
-hash = "14c3810589cbfb7e280a1125293a7f01de2931262ff510ebf6403b53f0d625e1"
+hash = "3d69a8c85ca5c37ff0db70c1db1521b6410c503cc60b3a0d6c794090bf57d58c"
 
 [[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
@@ -668,7 +668,7 @@ hash = "0bebee8ed75bfdd72194e8df3c37097b1f8fb19244b8ec1f324f18275670a669"
 
 [[files]]
 file = "kubejs/startup_scripts/manifest_destiny.js"
-hash = "2b91f7801bb07c7814218ffc87b589b4ae323799757731e392feb2ed9df5542b"
+hash = "26a915e5e5f0039c5e8039ece6db6b5084b9e165355232fda73f8125e94f10a9"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"

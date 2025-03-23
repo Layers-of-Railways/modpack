@@ -98,7 +98,7 @@ ItemEvents.rightClicked('minecraft:manifest_destiny', event => {
     if (offhandItem && stoneTypes.includes(offhandItem.id)) {
 
         // Duplicate stone
-        if (fuel >= 100) {
+        if (fuel >= 10) {
             if (player.inventory.add(offhandItem.id)) {
                 console.log("Player position: " + player.blockPosition()); // Check player's position
                 // Play sound when duplicating

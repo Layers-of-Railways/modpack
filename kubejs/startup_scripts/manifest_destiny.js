@@ -5,7 +5,7 @@ StartupEvents.registry('item', event => {
       .unstackable()
       .rarity('epic')
       .tooltip('A hammer forged from netherite and raw earth magic.')
-      .tooltip('The air around it shimmers with heat distortions and unlimited potential')
+      .tooltip('The air around it shimmers with heat distortions and unlimited potential.')
       .glow(true)
       .barColor(_ => Color.rgba(255, 122, 47, 1))
       .barWidth(itemstack => {
@@ -13,7 +13,7 @@ StartupEvents.registry('item', event => {
           if (!nbt.Fuel) nbt.Fuel = 0; // Create NBT if missing
           return Math.ceil(0.013 * nbt.Fuel);
       })
-      .useAnimation('toot_horn')
+      .useAnimation('spear')
       .attackDamageBaseline(11)
       .tier('netherite')
       .speedBaseline(-3.1)
