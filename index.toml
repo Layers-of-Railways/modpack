@@ -615,6 +615,10 @@ file = "kubejs/server_scripts/loot_modifications.js"
 hash = "cb4c5693b3fadd86e53eea8553abeba5187f6b81d611e54c5d7ae23b25c4874c"
 
 [[files]]
+file = "kubejs/server_scripts/manifest_destiny.js"
+hash = "3d69a8c85ca5c37ff0db70c1db1521b6410c503cc60b3a0d6c794090bf57d58c"
+
+[[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
 hash = "a02dc867796b46032b5d7a1b004984f92a2891e845bba4bcf98b1d2b15ad59cc"
 
@@ -652,7 +656,7 @@ hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
 
 [[files]]
 file = "kubejs/server_scripts/relics.js"
-hash = "b9988972e093b3e2d72d7d73b1dbeca808f63678e9cee240f367a2c59234f016"
+hash = "5aa31d2380bde47a2f5f17d889ae32c080e77ba573a6480ca971ee2059dc0e0f"
 
 [[files]]
 file = "kubejs/server_scripts/smithing.js"
@@ -663,8 +667,12 @@ file = "kubejs/server_scripts/tags.js"
 hash = "0bebee8ed75bfdd72194e8df3c37097b1f8fb19244b8ec1f324f18275670a669"
 
 [[files]]
+file = "kubejs/startup_scripts/manifest_destiny.js"
+hash = "26a915e5e5f0039c5e8039ece6db6b5084b9e165355232fda73f8125e94f10a9"
+
+[[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
-hash = "4f7d2b7877f6230af620fad1e9a9f9047ae7df42e813ab820dfd454fa0d864f5"
+hash = "1770930f9fabef9dc8e655e4dcd8d1e46de55439d133be7889d1695c4f392407"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1705,8 +1713,8 @@ hash = "a0fb6a028f0c5b75ca2cc625cf81eec3e84ea856762df2561d2dbcb28c65289a"
 metafile = true
 
 [[files]]
-file = "mods/phonos-1.1.1-beta.2+1.20.1.jar"
-hash = "6738298213d1de963167ca433f622e3e027f30ef3f49cdd6e471823e7717a4a2"
+file = "mods/phonos-1.0.0-beta.20+fabric-1.20.1.jar"
+hash = "f1a410e2e8c48d13ec319a528af481e39d019dc86ac3e39c8993f5048f2f6958"
 
 [[files]]
 file = "mods/picturesign-2.0.0-beta.1+unascribedtheora-patch.5.jar"

@@ -1,5 +1,6 @@
 ServerEvents.customCommand((event) => {
-    var id = event.getId();
+    const {Spell} = event.data
+    var id = event.data.Spell;
     if (event.getPlayer().hand == 'off_hand') return;
     /**
      * All custom spells go in here. Simply write your spell as a function, 
@@ -39,8 +40,10 @@ ServerEvents.customCommand((event) => {
         spawnGateIndirect(event.getEntity(), event.getEntity().server);
     } else if (id == "tellSpawn") {
         tellSpawn(event.getEntity(), event.getEntity().server);
-    } else if (id == "pulseRifle"){
+    } else if (id == "pulseRifle") {
         pulseRifle(event.getEntity(), event.getEntity().server);
+    } else if (id == "nbtTestAdd") {
+        nbtTestAdd(event.getEntity(), event.getEntity().server);
     }
     /**
      * 
@@ -419,22 +422,40 @@ ServerEvents.customCommand((event) => {
         entity.hurtMarked = true;
     }
 
-        /**
-     * 
-     * @param {Internal.LivingEntity} entity
-     * @param {Internal.MinecraftServer} server
-     */
+    /**
+    * 
+    * @param {Internal.LivingEntity} entity
+    * @param {Internal.MinecraftServer} server
+    */
 
-        function pulseRifle(entity, server) {
-            let speed = -3;
-            var rayHit = entity.rayTrace(64, false);
-            entity.level.explode(entity, rayHit.getHitX(), rayHit.getHitY(), rayHit.getHitZ(), 1, false, "none");
-            server.runCommandSilent("execute positioned "+rayHit.getHitX()+" "+rayHit.getHitY()+" "+rayHit.getHitZ()+" playsound minecraft:entity.dragon_fireball.explode master @a[distance=..5] 5")
-            let motionX = entity.lookAngle.x() * speed;
-            let motionY = entity.lookAngle.y() * speed;
-            let motionZ = entity.lookAngle.z() * speed;
-            entity.setMotion(motionX, motionY, motionZ);
-            entity.hurtMarked = true;
+    function pulseRifle(entity, server) {
+        let speed = -3;
+        var rayHit = entity.rayTrace(64, false);
+        entity.level.explode(entity, rayHit.getHitX(), rayHit.getHitY(), rayHit.getHitZ(), 1, false, "none");
+        server.runCommandSilent("execute positioned " + rayHit.getHitX() + " " + rayHit.getHitY() + " " + rayHit.getHitZ() + " playsound minecraft:entity.dragon_fireball.explode master @a[distance=..5] 5")
+        let motionX = entity.lookAngle.x() * speed;
+        let motionY = entity.lookAngle.y() * speed;
+        let motionZ = entity.lookAngle.z() * speed;
+        entity.setMotion(motionX, motionY, motionZ);
+        entity.hurtMarked = true;
+    }
+
+    /**
+    * 
+    * @param {Internal.LivingEntity} entity
+    * @param {Internal.MinecraftServer} server
+    */
+
+    function nbtTestAdd(entity, server) {
+        let handItem = entity.getMainHandItem();
+        if (handItem.nbt.contains("Test")){
+            var test = handItem.nbt.getDouble("Test") + 1;
+            handItem.nbt.putDouble("Test", test);
+            player.tell("Adding one!");
         }
+        else{
+            handItem.nbt.putDouble("Test", 0);
+        }
+    }
 
 })
