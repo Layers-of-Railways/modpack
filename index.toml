@@ -656,7 +656,7 @@ hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
 
 [[files]]
 file = "kubejs/server_scripts/relics.js"
-hash = "5aa31d2380bde47a2f5f17d889ae32c080e77ba573a6480ca971ee2059dc0e0f"
+hash = "03ea4c44e67ca95f31b6087da202e31ba335d548c2abff4bfb1577bdb2a348a4"
 
 [[files]]
 file = "kubejs/server_scripts/smithing.js"
@@ -672,7 +672,7 @@ hash = "26a915e5e5f0039c5e8039ece6db6b5084b9e165355232fda73f8125e94f10a9"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
-hash = "1770930f9fabef9dc8e655e4dcd8d1e46de55439d133be7889d1695c4f392407"
+hash = "854888ca6adee687a12a91af090707811b712f760a897fb4a2c0d83166eedbbb"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

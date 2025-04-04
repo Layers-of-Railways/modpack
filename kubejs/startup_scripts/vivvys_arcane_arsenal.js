@@ -100,7 +100,16 @@ StartupEvents.registry('item', e => {
       if (nbt.getString("Spell") == null){
         itemstack.setNbt("{\"Spell\":\"\"}");
       }
-      player.sendData("spellcast", {Spell: spell});
+      //player.runCommandSilent("kubejs custom_command " +spell);
+      // check for enchantment on shard and remove
+      if (itemstack.nbtString.includes("Enchantment")) {
+        player.tell(Text.gold("Shards cannot support the magic of an enchantment! The arcane energy sizzles and fades..."));
+        itemstack.nbt.remove('Enchantments');
+      } else {
+        player.sendData("spellcast", {Spell: spell});
+        //player.tell("Spell sent");
+      }
+      
       player.addItemCooldown(player.mainHandItem, 20);
       
       itemstack.setDamageValue(itemstack.getDamageValue() + 1);
@@ -438,5 +447,3 @@ StartupEvents.registry('item', e => {
         useAdmin(itemstack, player, _level);
       });
 })
-
-
