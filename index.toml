@@ -804,7 +804,7 @@ hash = "7fc60ad769e51ecd62a49c50e1e6d7d53497d931f8afb488af5eed0d438f2570"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
-hash = "13384509d4a08981a7b001d6d410c9fa456a6f4585806b6e23fd3a2b22a01593"
+hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
 
 [[files]]
 file = "kubejs/server_scripts/relics.js"
