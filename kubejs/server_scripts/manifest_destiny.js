@@ -128,7 +128,7 @@ ItemEvents.rightClicked('minecraft:manifest_destiny', event => {
     if (offhandItem && smeltables[offhandItem.id]) {
 
         // Smelt ore
-        if (fuel >= 100) {
+        if (fuel >= 10) {
             let resultItem = smeltables[offhandItem.id];
             if (player.inventory.add(resultItem)) {
                 offhandItem.shrink(1); // Remove one of the raw item

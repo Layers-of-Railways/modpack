@@ -403,6 +403,130 @@ file = "icon.png"
 hash = "8137a94f5830c3bf0ef17197168288da465f0d6752d3acffa29237ea61543c4c"
 
 [[files]]
+file = "kubejs/assets/event_equipment/textures/item/admin_baton.png"
+hash = "bc434fff1fe022b2275c92f87102b535a4b7d37264f56c631c2511f33c7b402d"
+
+[[files]]
+file = "kubejs/assets/event_equipment/textures/item/divine_trophy.png"
+hash = "6bb5ac7584b36ceb388d705906d4d648c933dc0878bed34190ed095f1841c6ac"
+
+[[files]]
+file = "kubejs/assets/event_equipment/textures/item/explosive_baton.png"
+hash = "beb9b24be3799a7788ab02fb499e7da03adb4550b98d6b13b58a0dd2b685a871"
+
+[[files]]
+file = "kubejs/assets/event_equipment/textures/item/gilded_trophy.png"
+hash = "78f2269db725498315ef296513b4b405208896c8cd93bbc4f4229df8aa86c4c0"
+
+[[files]]
+file = "kubejs/assets/event_equipment/textures/item/infernal_trophy.png"
+hash = "66f6ff52a2c0ff8d54e7c347306a8b67faa705ef2c46ab094d4db0f2475d4bb4"
+
+[[files]]
+file = "kubejs/assets/event_equipment/textures/item/prize_token.png"
+hash = "e50d8ff443199a7aa96cff0957d00d7a45262087bee2f47c1142db551119adf8"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/block/bloodstone_block.png"
+hash = "7ff39092b0a1b690681a8fac078fa8d7a7506d45982544648c0975b2040c67cf"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/block/divine_bronze_block.png"
+hash = "dbfe2dbbbc3cd294bff0829ff014b110b1d2c5806d9e71dd46700a4dfc9e5ab7"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/block/stellite_block.png"
+hash = "4f8a10d51bed005ac1fc9612fb0c659413c742b4857904fe32ceabdb3fd19044"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/bloodstone_fragment.png"
+hash = "2977f0d6b67ed9b08e470003a2ef17a556458f7042cb2a2c764b3ce712064240"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/bloodstone_shard.png"
+hash = "ef272cee077b6cb2edc87c406433d4062f18d5f2fd31424608b38baeed6bc085"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/divine_axe.png"
+hash = "64817b91c37170e579dfdce11e91bb64e4aac1265fcd237043f8b0db8bd036d1"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/divine_bronze_ingot.png"
+hash = "6d72d23f78c06a02f6c1bd330873798d91124df666792e82e8c3616a42d22720"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/divine_bronze_nugget.png"
+hash = "21851245228121106c32686e8ed9c3513917c324ea023a1203eeab8b736ecdc9"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/divine_bronze_sheet.png"
+hash = "2b5fd685a19f93b0cbf3952bc0ce968989635b9a5aa0bde6a08e6a208783e277"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/divine_circuit_depreciated.png"
+hash = "80c8900f0396a3f9399bf8628bb159a1349213f0213fabd2ba31dac3a04e9de1"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/divine_mechanical_components.png"
+hash = "c794910085bf70e39685c9575380e6dbff0ac14ac30191de1a6e13a01c432b5f"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/divine_pickaxe.png"
+hash = "b9b3694f5aff9b4a38496bcafcf05d39ca285a433272c3f00ed238b3c74a26fd"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/divine_scythe.png"
+hash = "b78b4219e070bb8f9464e37b7e3ef353567cc444bced72032ef8679a9588134b"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/divine_shovel.png"
+hash = "4315ad43f4c15cc6d8c701d63088195219a254e198b136b7900ee9ed9a4167f1"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/divine_staff_depreciated.png"
+hash = "2a1a1ff55ffe2ad66575df3718c169b29b8cb295212870e3de1db847fcf74834"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/divine_sword.png"
+hash = "a74460875d8071a71e011de7ae57dad5cc283dcf57720f6c53e127a702b1c9a4"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/divine_wand.png"
+hash = "e64c2b64405b51e8a728d1f62246e553d0160605f79e34005c47f639e0856e26"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/greater_energy_cell.png"
+hash = "177e1ca6539a78729c6098b1b1583345a26a2b76c9bdc92d13d9bf772c5016c6"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/lesser_energy_cell.png"
+hash = "a47111b71b590f53a9e8c1e8a784799df97f782209a2016889779adc318e4955"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/staff_gem_unused.png"
+hash = "8ff6a2411d1053207bdce6e18f3cd04aa68a7d923f917da0f1fc7d31edb62add"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/stellite_arcane_focus.png"
+hash = "57eaf8b86ff78abe7c01a1458da30f98abceb92a1b034586e30a339bd2868ad7"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/stellite_depreciated.png"
+hash = "983b9cd8dbe624d3b4c5df7957e79feb1bcb37890869fda18a1606d20fa41b4a"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/stellite_diagonal_unused.png"
+hash = "f7d3a43b9716b9723c2e349f7a52d71b0395bbc3217529fb087bee16c383dbfc"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/stellite_shard.png"
+hash = "649210db8a6a8df1ae0b0795db080d7d282764580713729175b4496b2e4c87bd"
+
+[[files]]
+file = "kubejs/assets/godforge/textures/item/sturdy_handle.png"
+hash = "3c64e057832c0ddace49de3c25a65f6aa68ec1d8c60d791475e416caf2d9ce68"
+
+[[files]]
 file = "kubejs/assets/phonos/textures/item/antenna.png"
 hash = "958be02577e9def636498145d5078d5340c482590137172f3985a11149aebe2f"
 
@@ -424,6 +548,10 @@ hash = "e278e6eb0616319252029903ba5bdbd4d12341cac12e9d4a9012e3fe1d1b3f92"
 
 [[files]]
 file = "kubejs/assets/relics/textures/item/voidgazer_spyglass.png"
+hash = "5087d0595fec12786463819fa2fb7d1f80ec00919e92b5914d99efd4d36fd811"
+
+[[files]]
+file = "kubejs/assets/relics/textures/item/voidgazer_spyglass.png.orig"
 hash = "5087d0595fec12786463819fa2fb7d1f80ec00919e92b5914d99efd4d36fd811"
 
 [[files]]
@@ -607,6 +735,30 @@ file = "kubejs/server_scripts/gamers recipe fixs.js"
 hash = "bf19de6432befdeb2f6f55f1f0492ac2636a6a1f9f229457a7a6abbb70b856e1"
 
 [[files]]
+file = "kubejs/server_scripts/godforged/godforged_axe.js"
+hash = "dee38fcb366ac3234cf4b6677dcc67fe9328cde5537980363c5fe0c895aa0e44"
+
+[[files]]
+file = "kubejs/server_scripts/godforged/godforged_pickaxe.js"
+hash = "e0c2ebd5150840e71d2bb609c4ac533a5ae6a37668c9910182e7c3205aff4d42"
+
+[[files]]
+file = "kubejs/server_scripts/godforged/godforged_scythe.js"
+hash = "7798dafde627bc2a0793090e13b1d36a6d7b798d9cea746a1c653807f418e4c4"
+
+[[files]]
+file = "kubejs/server_scripts/godforged/godforged_shovel.js"
+hash = "bde84c0e20bf80fdf5312a7a8de84918cacfabc0afb6a4b18f51bac4ff835823"
+
+[[files]]
+file = "kubejs/server_scripts/godforged/godforged_sword.js"
+hash = "5ebe0858d166982e17f7810bf129adabd5dfe1e5df542369783fd838d8cc03e0"
+
+[[files]]
+file = "kubejs/server_scripts/godforged_tag.js"
+hash = "5ba63d8deeaabdec09788754f9c816a5dafbc1e6e444ea28fc80b5ccf2fd249a"
+
+[[files]]
 file = "kubejs/server_scripts/local_chat.js"
 hash = "e33d12f0409dc096d3408899bf30093b2d80930d2806c90f1d3b3625039825d6"
 
@@ -616,7 +768,7 @@ hash = "cb4c5693b3fadd86e53eea8553abeba5187f6b81d611e54c5d7ae23b25c4874c"
 
 [[files]]
 file = "kubejs/server_scripts/manifest_destiny.js"
-hash = "3d69a8c85ca5c37ff0db70c1db1521b6410c503cc60b3a0d6c794090bf57d58c"
+hash = "6c8461f32e557331c0301a045c2c28f8fa19a5eafc19dceb83432d4a5fae5410"
 
 [[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
@@ -652,11 +804,15 @@ hash = "7fc60ad769e51ecd62a49c50e1e6d7d53497d931f8afb488af5eed0d438f2570"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removals.js"
-hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
+hash = "13384509d4a08981a7b001d6d410c9fa456a6f4585806b6e23fd3a2b22a01593"
 
 [[files]]
 file = "kubejs/server_scripts/relics.js"
 hash = "03ea4c44e67ca95f31b6087da202e31ba335d548c2abff4bfb1577bdb2a348a4"
+
+[[files]]
+file = "kubejs/server_scripts/relics.js.orig"
+hash = "ac80c570ed02153a3dd69ada29976e61d3ff6759a46b300a2052c38c6eb8501b"
 
 [[files]]
 file = "kubejs/server_scripts/smithing.js"
@@ -667,12 +823,40 @@ file = "kubejs/server_scripts/tags.js"
 hash = "0bebee8ed75bfdd72194e8df3c37097b1f8fb19244b8ec1f324f18275670a669"
 
 [[files]]
+file = "kubejs/startup_scripts/godforge/godforged_blocks.js"
+hash = "bcc1d7bd038140e23040458412625913286699fdefd0fd16a02ef419bfdcbff6"
+
+[[files]]
+file = "kubejs/startup_scripts/godforge/godforged_components.js"
+hash = "173b25477b0e3379211c0521f272ccc73acf12af2033e628943dec404e97edbc"
+
+[[files]]
+file = "kubejs/startup_scripts/godforge/godforged_tier.js"
+hash = "02429419bb384b7dd827eab4e996bf6b69138dc70b84aca7a74b478ca867d84f"
+
+[[files]]
+file = "kubejs/startup_scripts/godforge/godforged_tools.js"
+hash = "a5d1a6007b39e6800604d55a2db3b35cfee8040421dc7ade2cf3d543d9900580"
+
+[[files]]
 file = "kubejs/startup_scripts/manifest_destiny.js"
-hash = "26a915e5e5f0039c5e8039ece6db6b5084b9e165355232fda73f8125e94f10a9"
+hash = "00158b0a7a651d682952776e310964a1bd3b5446c146c1cd07f96b38d3026a01"
+
+[[files]]
+file = "kubejs/startup_scripts/race_components.js"
+hash = "0cebcfdb5dd1fa0e7629fbf2875aa7a0d15151aa45d10e9e2ce1e28a1f070010"
+
+[[files]]
+file = "kubejs/startup_scripts/startup.js.orig"
+hash = "f1c6dac1f16a36ef6ef2044c21a52ab1e9434cab17738d98f1f1caca83111dcf"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
 hash = "854888ca6adee687a12a91af090707811b712f760a897fb4a2c0d83166eedbbb"
+
+[[files]]
+file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js.orig"
+hash = "22ebd2fe237c8086021307f8c9df3ae9b8dfaa074b7b689711d9b73aa6dacadc"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1184,7 +1368,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "ffefd82fd93e9a006db3a751c8acb29b7d119190ecc81de40eaa0c3a9375f884"
+hash = "54085d4b80e4d2854a7ea26127bd66ea9b94aeeff5569aec5d35b39da707563e"
 metafile = true
 
 [[files]]
@@ -1350,6 +1534,11 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "79a44cccc73cb418b07f2bea85029a82428065e73519ef5b9c0444f77b041f53"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "6fa4c6f790bafc2d8770009d600011def0b1004bf7f4921f4e9948edc6a02fd2"
 metafile = true
 
 [[files]]
@@ -1605,6 +1794,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "db4e4babfeb24ddf55c947dcd12fcd2ee92e88848049d3f40363184e2a524d5b"
 metafile = true
 
 [[files]]

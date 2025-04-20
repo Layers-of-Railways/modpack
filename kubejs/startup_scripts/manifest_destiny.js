@@ -13,7 +13,7 @@ StartupEvents.registry('item', event => {
           if (!nbt.Fuel) nbt.Fuel = 0; // Create NBT if missing
           return Math.ceil(0.013 * nbt.Fuel);
       })
-      .useAnimation('spear')
+      .useAnimation('toot_horn')
       .attackDamageBaseline(11)
       .tier('netherite')
       .speedBaseline(-3.1)

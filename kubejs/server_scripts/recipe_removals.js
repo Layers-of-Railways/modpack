@@ -38,4 +38,5 @@ ServerEvents.recipes((event) => {
     });
 
     event.remove({ input: "#c:chests", output: "minecraft:shulker_box" });
+    event.remove({ recipeID:"tconstruct:smeltery/melting/metal/netherite/lodestone/minecraft/lodestone"});
 });
