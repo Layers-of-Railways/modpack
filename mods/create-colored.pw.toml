@@ -1,0 +1,13 @@
+name = "Create: Colored"
+filename = "create-colored-1.1.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qNpwRYsF/versions/Z02hyH5u/create-colored-1.1.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "e0af77e9646d1fbf27a2b376d1f29c195e8b3088591c7e03092b6052026e0fc93ea12d40124099325063ba5d16557e24d391d6773df2c217833dca1eab3a4fa2"
+
+[update]
+[update.modrinth]
+mod-id = "qNpwRYsF"
+version = "Z02hyH5u"

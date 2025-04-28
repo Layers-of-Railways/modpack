@@ -1,18 +1,18 @@
 name = "Iris Shaders"
-filename = "iris-1.7.2+mc1.20.1.jar"
+filename = "iris-1.7.6+mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1CMVXDHo/iris-1.7.2%2Bmc1.20.1.jar"
-hash-format = "sha1"
-hash = "4841b993d37c0944ca6f7a02809364e561a6acc3"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/s5eFLITc/iris-1.7.6%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "f1337b0441c31269bd3bfcb28647d521326a83e73128c1ac8d065615f8a5a4ca1e8c96a468b356584236ece5b164ec8d8a52b1878064f4e391ecf4f32885e301"
 
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"
-version = "1CMVXDHo"
+version = "s5eFLITc"
 
 [option]
 optional = true
-default = true
 description = "Support for custom Shaders"
+default = true
