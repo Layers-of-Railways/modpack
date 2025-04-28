@@ -15,4 +15,4 @@ version = "mYl4RvKg"
 [option]
 optional = true
 default = false
-description = "Fancy in-game lighting"
+description = "Fancy in-game lighting. WARNING: Can cause additional lag."

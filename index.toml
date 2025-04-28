@@ -1198,7 +1198,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dynamic-lights.pw.toml"
-hash = "f225bfe9a222d6f75b6bb25889b10f839b433d0ca76e663c3e5ea64cc0eef02e"
+hash = "38c479e44804a56c27ac90d19ae0a4e9a7dbc4d2c3ca0870de1f9802c3945c5e"
 metafile = true
 
 [[files]]
@@ -1628,7 +1628,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "afd9f1b92d4af4b01eb15885f929bfdf8d1495ae6b1f70835ed3c0c4189cf61a"
+hash = "f7a47592a7f1982e88fa9d18779408debc5282f61bd73fd22c9c422b54949756"
 metafile = true
 
 [[files]]
