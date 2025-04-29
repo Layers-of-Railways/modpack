@@ -1422,11 +1422,6 @@ hash = "9c227262ccd3fd4bbc6337fe29e5146ab14c76e6fc64d09454f836d34de9a53e"
 metafile = true
 
 [[files]]
-file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "539d6886ae4cf9859ddea56dc447939efc6a54d60a4fa4c63143116f605bfa5c"
-metafile = true
-
-[[files]]
 file = "mods/fast-item-frames.pw.toml"
 hash = "cc97855c84e212325dde1b177ebc8a14c8ce1737e742ea058576cf267009cbc1"
 metafile = true
