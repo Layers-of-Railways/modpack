@@ -2090,7 +2090,7 @@ metafile = true
 
 [[files]]
 file = "mods/spelunkery.pw.toml"
-hash = "84bac71c0be3a61f5e89561a8d68a6e26832617d52c6f07108f2f19404839e29"
+hash = "5a955b4e4c847837490e430e4a586e6aa9692c32acad9321391881d2107058b4"
 metafile = true
 
 [[files]]
@@ -2140,7 +2140,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "97acb27ee8b31a8877f74d9376a5e2d6c81b54a3359c85e9d3cb545050b98481"
+hash = "b52762ecbf8d003dcfece87414708d94db789a01d98cae1530464f2906a958f2"
 metafile = true
 
 [[files]]
