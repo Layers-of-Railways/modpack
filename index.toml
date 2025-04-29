@@ -1632,6 +1632,11 @@ hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
@@ -2046,11 +2051,6 @@ metafile = true
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
 hash = "6ab1aba56bbf182c5e1f0b0f1d5503b305e9f9e165cb4805d9cad9354ef2bf4d"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "d5d7b7d8ddc60eac234033a30c8980a6d2d1ea07a0da45faabf82026432799a8"
 metafile = true
 
 [[files]]
