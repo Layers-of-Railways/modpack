@@ -954,7 +954,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "860a3575c2d712700cee7cc57c9d91b0c89a273a3fced97f9cd7ca26fd26583f"
+hash = "8cad1501d8ab1d14acdad3a9351527c6ffd2b45a19c7452dcf97261c1ad6743f"
 metafile = true
 
 [[files]]
@@ -2250,7 +2250,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "6cc9dcf9d184bfc8f4943802906d7e50f96bcb01bfc40c6eaaee8bc5ebc79b96"
+hash = "1fa0b53b49cd8da062a1fe4ecd7fbcc6124dbec730ea8bb8c4944ac927dc9470"
 metafile = true
 
 [[files]]

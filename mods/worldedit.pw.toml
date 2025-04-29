@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4586218
 project-id = 225608
+
+[option]
+optional = true
+default = false
+description = "Simple in-game map editor"
