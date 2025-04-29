@@ -11,8 +11,3 @@ hash = "df46824e9a43a75782e4892290f7ecf3ec0d7234ab9cc86c0909583072ea4e8f112e2bec
 [update.modrinth]
 mod-id = "N6n5dqoA"
 version = "V2yrnNhH"
-
-[option]
-optional = true
-default = false
-description = "All-in-one tool for editing your world"
