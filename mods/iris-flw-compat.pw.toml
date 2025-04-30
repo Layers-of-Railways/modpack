@@ -1,18 +1,18 @@
 name = "Iris & Oculus Flywheel Compat"
-filename = "iris-flywheel-compat-fabric1.20.1+1.1.3a.jar"
+filename = "iris-flywheel-compat-fabric1.20.1+1.1.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ndHYMY2K/versions/j3lv6Qgi/iris-flywheel-compat-fabric1.20.1%2B1.1.3a.jar"
-hash-format = "sha1"
-hash = "61e41fa8d8098b70a74e5d9d4e7e30eb864d53db"
+url = "https://cdn.modrinth.com/data/ndHYMY2K/versions/v3unHP1U/iris-flywheel-compat-fabric1.20.1%2B1.1.4.jar"
+hash-format = "sha512"
+hash = "d6559eef6823c7eb64f5fbf581402e66bcd58f9b8ceb6ba35c8ddc3edbb38f2e4cfb17e4c2e6c06e6583b68bc50ce7583cb944a5816e06d8c7b63c8d41c49c32"
 
 [update]
 [update.modrinth]
 mod-id = "ndHYMY2K"
-version = "j3lv6Qgi"
+version = "v3unHP1U"
 
 [option]
 optional = true
-default = true
 description = "Support for Shaders with Create Flywheel."
+default = true

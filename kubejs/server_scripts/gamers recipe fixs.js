@@ -172,3 +172,754 @@ ServerEvents.recipes(event => {
 });
 //i am getting better at this (i think)
 
+
+
+
+//natures spirit wood stripping recipes for farmers and create
+
+
+// all of the cutting board recipes(this took like 1h)
+
+
+ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:fir_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_fir_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:redwood_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_redwood_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:wisteria_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_wisteria_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:sugi_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_sugi_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:willow_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_willow_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:aspen_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_aspen_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:maple_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_maple_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:cypress_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_cypress_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:olive_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_olive_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:joshua_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_joshua_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:ghaf_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_ghaf_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:palo_verde_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_palo_verde_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:coconut_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_coconut_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:cedar_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_cedar_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:larch_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_larch_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:mahogany_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_mahogany_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+  ServerEvents.recipes((e) => {
+    e.custom({
+      type: "farmersdelight:cutting",
+      ingredients: [
+        {
+          item: "natures_spirit:saxaul_log"
+        }
+      ],
+      result: [
+        {
+          count: 1,
+          item: 'natures_spirit:stripped_saxaul_log'
+        },
+        {
+            count: 1,
+            item: 'farmersdelight:tree_bark'
+          }
+      ],
+      tool: {
+        tag: "c:axes"
+      }
+    })
+  })
+
+// the deployer part YIPPEE
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:redwood_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_redwood_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:sugi_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_sugi_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:wisteria_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_wisteria_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:fir_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_fir_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:willow_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_willow_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:aspen_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_aspen_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:maple_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_maple_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:cypress_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_cypress_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:olive_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_olive_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:joshua_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_joshua_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:ghaf_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_ghaf_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:palo_verde_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_palo_verde_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:coconut_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_coconut_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:cedar_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_cedar_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:larch_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_larch_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:mahogany_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_mahogany_log"
+    }
+  ]
+})
+})
+
+ServerEvents.recipes((e) => {
+  e.custom({
+  type: "create:deploying",
+  ingredients: [
+    {
+      item: "natures_spirit:saxaul_log"
+    },
+    {
+      tag: "c:axes"
+    }
+  ],
+  results: [
+    {
+      item: "natures_spirit:stripped_saxaul_log"
+    }
+  ]
+})
+})
+
+//i am all done after like 2days
+
+//wow 920 lines you you even see these?
+//tbf you prob do go read all of this to see if i do anything bad but i am not a ahole so i wont 
+//i just want to help
+
+//damn i remember that from before i was a mod
+//i wont change any of my old shit unless i need too

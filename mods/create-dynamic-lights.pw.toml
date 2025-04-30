@@ -15,4 +15,4 @@ version = "nJgqKQD5"
 [option]
 optional = true
 default = false
-description = "Fancy in-game lighting support for Create contraptions"
+description = "Fancy in-game lighting support for Create contraptions. WARNING: Can cause additional lag."

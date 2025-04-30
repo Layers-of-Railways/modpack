@@ -375,7 +375,7 @@
 	#.
 	#Maximum possible distance in blocks between data gatherers and their target.
 	#Range: > 1
-	displayLinkRange = 64
+	displayLinkRange = 128
 #.
 #Everything related to Schematic tools
 [schematics]
@@ -387,7 +387,7 @@
 	#[in KiloBytes]
 	#The maximum allowed file size of uploaded Schematics.
 	#Range: > 16
-	maxSchematics = 256
+	maxSchematics = 1024
 	#.
 	#.
 	#Whether placing a Schematic directly in Creative Mode should replace world blocks with Air
@@ -396,7 +396,7 @@
 	#[in Bytes]
 	#The maximum packet size uploaded Schematics are split into.
 	#Range: 256 ~ 32767
-	maxSchematicPacketSize = 1024
+	maxSchematicPacketSize = 2048
 
 	#.
 	#Schematicannon
