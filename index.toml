@@ -1812,6 +1812,11 @@ hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
 
 [[files]]
+file = "mods/natures-spirit.pw.toml"
+hash = "0b44d9567780cba574a078caf1cd387bb8a870521dff35a6090f417b07b94ae4"
+metafile = true
+
+[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
 metafile = true
