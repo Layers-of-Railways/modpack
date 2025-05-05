@@ -1218,7 +1218,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
-hash = "4dbfc7d3ec58848f2978856ef4069e96c4ac0eb303d2a534085d681f6ab4cef6"
+hash = "489b16e57d68fac5ac96dd6126bd5972dfe246651a464a38c4f408f54bcf78eb"
 metafile = true
 
 [[files]]
