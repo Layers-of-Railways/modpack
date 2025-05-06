@@ -63,7 +63,7 @@ StartupEvents.registry('item', e => {
 
   e.create('incomplete_gilded_transport_shard')
   .formattedDisplayName(Component.string("Incomplete Gilded Transport Shard").lightPurple())
-  .texture('runic_shards:item/incomplete_gilded_transport_shard')
+  .texture('runic_shards:item/incomplete_gilded_transportation_shard')
   .unstackable()
   .rarity("common")
   .glow(false)
@@ -122,7 +122,7 @@ StartupEvents.registry('item', e => {
 
   e.create('transport_shard_basic')
     .formattedDisplayName(Component.string("Transport Shard").lightPurple())
-    .texture('runic_shards:item/transport_shard')
+    .texture('runic_shards:item/transportation_shard')
     .unstackable()
     .glow(true)
     .maxDamage(4)
@@ -170,7 +170,7 @@ StartupEvents.registry('item', e => {
 
     e.create('transport_shard_netherite')
     .formattedDisplayName(Component.string("Reinforced Transport Shard").lightPurple())
-    .texture('runic_shards:item/reinforced_transport_shard')
+    .texture('runic_shards:item/reinforced_transportation_shard')
     .unstackable()
     .glow(true)
     .maxDamage(64)
@@ -455,7 +455,6 @@ StartupEvents.registry('item', e => {
       .useAnimation('bow')
       .tooltip("An ancient shard of runic crystal, formatted with a single use of a warp spell.")
       .tooltip(Component.string("You\'re not quite sure how you got this.").lightPurple())
-      .maxDamage(1)
       .use((_level, player, _hand) => {
         player.playSound("item.lodestone_compass.lock", 5, 1);
         return true;
@@ -469,8 +468,8 @@ StartupEvents.registry('item', e => {
         }
       });
 
-      const useAncient = (itemstack, player, _level) => {
-        var spell = "transport_synchronizer_key_v0";
+    const useAncient = (itemstack, player, _level) => {
+      var spell = "transport_synchronizer_key_v0";
         if (itemstack.nbtString.includes("Enchantment")) {
           player.tell(Text.gold("Shards cannot support the magic of an enchantment! The arcane energy sizzles and fades..."));
           itemstack.nbt.remove('Enchantments');
