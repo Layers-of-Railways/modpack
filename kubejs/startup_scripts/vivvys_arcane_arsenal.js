@@ -449,7 +449,7 @@ StartupEvents.registry('item', e => {
 
     e.create('ancient_teleportation_shard')
       .formattedDisplayName(Component.string("Ancient Teleportation Shard").green())
-      .texture('runic_shard:item/ancient_teleportation_shard')
+      .texture('runic_shards:item/ancient_teleportation_shard')
       .unstackable()
       .glow(true)
       .useAnimation('bow')
