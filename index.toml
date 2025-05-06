@@ -42,7 +42,7 @@ hash = "2bc237f4d164b4a910781e8539e5b125f21eba5f371423b770b9137e522214f4"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "2c4a95596543261bc0bc92a39107b5e0dd5e8b7ff83dea511bcf6e12f0efa59d"
+hash = "402f9e35898f40f48f6c38d1882f4e309f07d585799ad35a37d09743d78f22a8"
 
 [[files]]
 file = "config/estrogen-client.toml"
@@ -563,6 +563,10 @@ file = "kubejs/assets/runic_shards/textures/item/admin_shard.png"
 hash = "6903235b125ac6e495ae6b8489a21fa88e0562de5f974ab16c80829846c8d85f"
 
 [[files]]
+file = "kubejs/assets/runic_shards/textures/item/ancient_teleportation_shard.png"
+hash = "5da29116dd65f0e2a4ccd231308c59e89e942308d1efb215192b9da5e314d161"
+
+[[files]]
 file = "kubejs/assets/runic_shards/textures/item/combat_gold.png"
 hash = "01e728290bda410e6ead6b6d8ec8aedb7ade02b81ccd5e8130e48e557da4c4bc"
 
@@ -581,6 +585,10 @@ hash = "fa7b8e360e2eefdcb2d9b57439d159ecd200de0239a44326574e1de8e5157c50"
 [[files]]
 file = "kubejs/assets/runic_shards/textures/item/combat_netherite.png"
 hash = "26ee51e76bf3fdb7cc211a0a3981eb916dfbad9a0cacd63bc580d662c2315800"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/combat_shard.png"
+hash = "562cf72eeaeaefecfdd381adfaa90510a37fea386fe9fa17b6a36f81adad1f20"
 
 [[files]]
 file = "kubejs/assets/runic_shards/textures/item/conjuring_gold.png"
@@ -603,6 +611,74 @@ file = "kubejs/assets/runic_shards/textures/item/conjuring_netherite.png"
 hash = "bd135e439d3773e7f60b6f78ec495a4089a54c12aae1002014ed6c083b2310c7"
 
 [[files]]
+file = "kubejs/assets/runic_shards/textures/item/conjuring_shard.png"
+hash = "bf079507b0f3ffcb2140120fb9ce198afe9e6dcdec241e1fe7f95804f5659171"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/gilded_combat_shard.png"
+hash = "422842f144a3eca54a4585cfa19f295fc9d89661a8e6705dc89f1b3401343aea"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/gilded_conjuring_shard.png"
+hash = "96e202fa2ae83e05ebbc7aa47035beb162502671c90fa5b68e77a04a89455f65"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/gilded_transportation_shard.png"
+hash = "2caba29f8d1a1784398eaa570faf21f72dbb49380b8c5046e67f668f76a0d681"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/gilded_utility_shard.png"
+hash = "100e208c63be1712263b2008e57bad2664339ab1aa342bac97c384a6b966d7d0"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/incomplete_gilded_combat_shard.png"
+hash = "f6e399fadf8ed119bed340a3392ec2d2be397d8f7425961b9fa5a6434b3abf9c"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/incomplete_gilded_conjuring_shard.png"
+hash = "5d848bf887607048e1e7ba571b746116179ab77d9399ad6a899355d3ffe8afb2"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/incomplete_gilded_transportation_shard.png"
+hash = "3f4e0cff4e713ded451ad85880be6bb415154f332f237f6d29cddc9dc702e83d"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/incomplete_gilded_utility_shard.png"
+hash = "32dbba6c2ff1625deb66ae7220ed29ab61c9549a6ee934df0b9fb8f5a7f51d0a"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/refined_amethyst.png"
+hash = "e4e14c8dda4e774fc008d627e57a8d4dedcc6eb6208fa6173e21a2c89e302646"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/refined_cinnabar.png"
+hash = "a6b029ce71422b45fbfd3805b3fdc6dbe89048a58b25d75e08d7ba8581293df4"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/refined_diamond.png"
+hash = "15bf950fb947bc9d293c2867573bfa3a51050b561541ce2eb8b2ccb1b73a2088"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/refined_emerald.png"
+hash = "41ff39cdb0349d3e693bb1b419a322977957164a5eef06014afc94046535ffd3"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/reinforced_combat_shard.png"
+hash = "3e1b4d9106dd7f674d4a0766467b3086fb6758ca8979ab311c19a571bea7e971"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/reinforced_conjuring_shard.png"
+hash = "6db6e9498c8e1fea0bb4acfc26d1f125336c0bd58d4b2484abb53e5072274a70"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/reinforced_transportation_shard.png"
+hash = "b5500aa605fe5e2d9236dedcd775ed86cfc544de57ae574e1c4df18178c4f68a"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/reinforced_utility_shard.png"
+hash = "1886b40065bb86096590d108dd227666d8e64fc2abf139aa14d84d55dd9f7c89"
+
+[[files]]
 file = "kubejs/assets/runic_shards/textures/item/transport_gold.png"
 hash = "6e65730c0269ebc75854924de29aa75f4625660782dcd15dd327a62d5963a9b1"
 
@@ -623,6 +699,10 @@ file = "kubejs/assets/runic_shards/textures/item/transport_netherite.png"
 hash = "aa77f415cf442c52404a12bf771ecf3491e2577036088570c9305227cde51931"
 
 [[files]]
+file = "kubejs/assets/runic_shards/textures/item/transportation_shard.png"
+hash = "348b3dceecd8a5f8ccc2a42c48ac62624ca6e7caaea51b1599e6ca60140508c8"
+
+[[files]]
 file = "kubejs/assets/runic_shards/textures/item/utility_gold.png"
 hash = "cee1bec6c6130c074981aeb07e29d73a577fc79bbba7bc28e5381a87e54b364e"
 
@@ -641,6 +721,10 @@ hash = "511cd22515b1d000936800e6209b338af6b44fe52e20136bafa2f4302c628d44"
 [[files]]
 file = "kubejs/assets/runic_shards/textures/item/utility_netherite.png"
 hash = "0cdf23d1ab7cc4e5f9fbe51e232b76009527a0a693ec4a3da4a4082df23dc20e"
+
+[[files]]
+file = "kubejs/assets/runic_shards/textures/item/utility_shard.png"
+hash = "e0c10ddef8959ec120873240e256413f593b5e18d53d511d339759d977925527"
 
 [[files]]
 file = "kubejs/client_scripts/emi/hide.js"
@@ -692,7 +776,7 @@ hash = "f0ecd634b2777064b09442045b4d0ab7d02c6874b8476bb24a3abd2100928d6e"
 
 [[files]]
 file = "kubejs/server_scripts/betterend/infusion.js"
-hash = "f49ad03ce37c2f54765a6c5a5aedd4748443871964ac6e111c397982e1a74f91"
+hash = "696072bdba01ac3e2de6ea63c2b2bae19886cbb8464f56afa3f8be7d442db255"
 
 [[files]]
 file = "kubejs/server_scripts/compostables.js"
@@ -724,7 +808,7 @@ hash = "1810f440fa7a8d8751bea4d658b9909d8a38a6449c9252a49508de32c16dc582"
 
 [[files]]
 file = "kubejs/server_scripts/create/sequenced_assembly.js"
-hash = "7ea109dacee39772f296e34586b2e5bc0891f6c13d594451b05ee617b670ee60"
+hash = "23c1763126816cf74e8a44df1b5569ea88300e9f64989201a104cebc13ea03d7"
 
 [[files]]
 file = "kubejs/server_scripts/createadditions/charging.js"
@@ -768,7 +852,7 @@ hash = "cb4c5693b3fadd86e53eea8553abeba5187f6b81d611e54c5d7ae23b25c4874c"
 
 [[files]]
 file = "kubejs/server_scripts/manifest_destiny.js"
-hash = "6c8461f32e557331c0301a045c2c28f8fa19a5eafc19dceb83432d4a5fae5410"
+hash = "c72da20c3c4ca90d446b186b28076e1a551c1735403fa70204a495d4643dc0a1"
 
 [[files]]
 file = "kubejs/server_scripts/misc_recipes.js"
@@ -852,7 +936,7 @@ hash = "f1c6dac1f16a36ef6ef2044c21a52ab1e9434cab17738d98f1f1caca83111dcf"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
-hash = "854888ca6adee687a12a91af090707811b712f760a897fb4a2c0d83166eedbbb"
+hash = "341c71f40de8c43de90ea8963c522379817c45691222306e5417e7fbbc0ae891"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js.orig"
@@ -861,6 +945,16 @@ hash = "22ebd2fe237c8086021307f8c9df3ae9b8dfaa074b7b689711d9b73aa6dacadc"
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "84edd7c7a1cd700e88798a744658040e46489a52e388ffd69e9b7dd9734f8d30"
+metafile = true
+
+[[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "856c61ddccf4a4937eaac7f355e126a1ad6a7a08206198578146e24048450585"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "eb6027f889866dddde5c67919a8a3e873c0fae7ff477aea4a4df12334675933e"
 metafile = true
 
 [[files]]
@@ -985,6 +1079,11 @@ metafile = true
 [[files]]
 file = "mods/bartering-station.pw.toml"
 hash = "3f3094de80c370f4cdbc1a3ffeaed34c65d1a151ae7b5204ee00ab78fe9f5e8e"
+metafile = true
+
+[[files]]
+file = "mods/basic-storage.pw.toml"
+hash = "12942bd5f6a9eb3cbe1aa17603649ea0bed4abd67ea1f4a45345c4ac2aa54df9"
 metafile = true
 
 [[files]]
@@ -1539,6 +1638,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "6fa4c6f790bafc2d8770009d600011def0b1004bf7f4921f4e9948edc6a02fd2"
+metafile = true
+
+[[files]]
+file = "mods/impenduits.pw.toml"
+hash = "ab6885e818f451218c32a103df4846daf7f850af665c091775b08e2de6f4b09b"
 metafile = true
 
 [[files]]
@@ -2189,11 +2293,6 @@ hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
-metafile = true
-
-[[files]]
 file = "mods/tropics.pw.toml"
 hash = "65c8004b9cf63b885e3d9400366db5e761645fbed2060306d06106b6a9f83883"
 metafile = true
@@ -2331,6 +2430,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
+metafile = true
+
+[[files]]
+file = "mods/zipline.pw.toml"
+hash = "67804761fe467c3789cee0bf0b7f7646c6fecc67907e92499cc778a8838e1db8"
 metafile = true
 
 [[files]]

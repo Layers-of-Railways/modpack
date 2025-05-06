@@ -1,0 +1,13 @@
+name = "Basic Storage"
+filename = "basicstorage-1.0.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NMOanmPo/versions/s327ftNA/basicstorage-1.0.5%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "5fbdd8ef46c7db1efcc5fd9dc8aaa107e74b6d9f"
+
+[update]
+[update.modrinth]
+mod-id = "NMOanmPo"
+version = "s327ftNA"

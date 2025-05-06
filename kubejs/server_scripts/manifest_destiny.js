@@ -92,7 +92,14 @@ ItemEvents.rightClicked('minecraft:manifest_destiny', event => {
     // Duplication logic: if the offhand item is a stone type
     let stoneTypes = [
         'minecraft:cobblestone', 'minecraft:stone', 'minecraft:deepslate',
-        'minecraft:granite', 'minecraft:diorite', 'minecraft:andesite'
+        'minecraft:granite', 'minecraft:diorite', 'minecraft:andesite',
+        'minecraft:tuff', 'minecraft:dripstone_block', 'minecraft:calcite',
+        'minecraft:blackstone', 'minecraft:cobbled_deepslate', 'create:limestone',
+        'create:scoria', 'create:scorchia', 'minecraft:basalt', 'minecraft:prismarine',
+        'minecraft:sandstone', 'minecraft:red_sandstone', 'promenade:blunite',
+        'twigs:schist', 'twigs:rhyolite', 'natures_spirit:chert',
+        'natures_spirit:travertine', 'twigs:bloodstone', 'natures_spirit:kaolin',
+        'minecraft:dirt'
     ];
 
     if (offhandItem && stoneTypes.includes(offhandItem.id)) {
@@ -128,7 +135,7 @@ ItemEvents.rightClicked('minecraft:manifest_destiny', event => {
     if (offhandItem && smeltables[offhandItem.id]) {
 
         // Smelt ore
-        if (fuel >= 10) {
+        if (fuel >= 100) {
             let resultItem = smeltables[offhandItem.id];
             if (player.inventory.add(resultItem)) {
                 offhandItem.shrink(1); // Remove one of the raw item

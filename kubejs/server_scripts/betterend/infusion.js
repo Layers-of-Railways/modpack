@@ -65,7 +65,7 @@ ServerEvents.recipes(event => {
             }
         },
         input: {
-            item: "minecraft:amethyst_shard"
+            item: "spelunkery:cinnabar"
         },
         result: {
             item: "kubejs:inert_combat_shard"
@@ -102,7 +102,7 @@ ServerEvents.recipes(event => {
             }
         },
         input: {
-            item: "tconstruct:earth_slime_crystal"
+            item: "minecraft:emerald"
         },
         result: {
             item: "kubejs:inert_conjuring_shard"
@@ -139,7 +139,7 @@ ServerEvents.recipes(event => {
             }
         },
         input: {
-            item: "ae2:certus_quartz_crystal"
+            item: "minecraft:diamond"
         },
         result: {
             item: "kubejs:inert_utility_shard"

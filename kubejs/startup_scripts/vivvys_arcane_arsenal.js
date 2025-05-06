@@ -33,56 +33,56 @@ StartupEvents.registry('item', e => {
   });
 
   e.create('inert_transport_shard')
-  .formattedDisplayName(Component.string("Inert Transport Shard").lightPurple())
-  .texture('runic_shards:item/transport_inert')
+  .formattedDisplayName(Component.string("Refined Amethyst").lightPurple())
+  .texture('runic_shards:item/refined_amethyst')
   .unstackable()
   .rarity("common")
   .glow(false)
-  .tooltip("An inert runic shard, formatted for transport spells.");
+  .tooltip("A refined piece of amethyst crystal.");
   e.create('inert_combat_shard')
-  .formattedDisplayName(Component.string("Inert Combat Shard").red())
-  .texture('runic_shards:item/combat_inert')
+  .formattedDisplayName(Component.string("Refined Cinnabar").red())
+  .texture('runic_shards:item/refined_cinnabar')
   .unstackable()
   .rarity("common")
   .glow(false)
-  .tooltip("An inert runic shard, formatted for combat spells.");
+  .tooltip("A refined piece of cinnabar crystal.");
   e.create('inert_conjuring_shard')
-  .formattedDisplayName(Component.string("Inert Conjuring Shard").green())
+  .formattedDisplayName(Component.string("Refined Emerald").green())
   .texture('runic_shards:item/conjuring_inert')
   .unstackable()
   .rarity("common")
   .glow(false)
-  .tooltip("An inert runic shard, formatted for conjuring spells.");
+  .tooltip("A refined piece of emerald.");
   e.create('inert_utility_shard')
-  .formattedDisplayName(Component.string("Inert Utility Shard").blue())
+  .formattedDisplayName(Component.string("Refined Diamond").blue())
   .texture('runic_shards:item/utility_inert')
   .unstackable()
   .rarity("common")
   .glow(false)
-  .tooltip("An inert runic shard, formatted for utility spells.");
+  .tooltip("A refined piece of diamond.");
 
   e.create('incomplete_gilded_transport_shard')
   .formattedDisplayName(Component.string("Incomplete Gilded Transport Shard").lightPurple())
-  .texture('runic_shards:item/transport_incomplete')
+  .texture('runic_shards:item/incomplete_gilded_transport_shard')
   .unstackable()
   .rarity("common")
   .glow(false)
   .tooltip("An inert runic shard, formatted for transport spells.");
   e.create('incomplete_gilded_combat_shard')
   .formattedDisplayName(Component.string("Incomplete Gilded Combat Shard").red())
-  .texture('runic_shards:item/combat_incomplete')
+  .texture('runic_shards:item/incomplete_gilded_combat_shard')
   .unstackable()
   .rarity("common")
   .glow(false)
   e.create('incomplete_gilded_conjuring_shard')
   .formattedDisplayName(Component.string("Incomplete Gilded Conjuring Shard").green())
-  .texture('runic_shards:item/conjuring_incomplete')
+  .texture('runic_shards:item/incomplete_gilded_conjuring_shard')
   .unstackable()
   .rarity("common")
   .glow(false)
   e.create('incomplete_gilded_utility_shard')
   .formattedDisplayName(Component.string("Incomplete Gilded Utility Shard").blue())
-  .texture('runic_shards:item/utility_incomplete')
+  .texture('runic_shards:item/incomplete_gilded_utility_shard')
   .unstackable()
   .rarity("common")
   .glow(false)
@@ -122,7 +122,7 @@ StartupEvents.registry('item', e => {
 
   e.create('transport_shard_basic')
     .formattedDisplayName(Component.string("Transport Shard").lightPurple())
-    .texture('runic_shards:item/transport_iron')
+    .texture('runic_shards:item/transport_shard')
     .unstackable()
     .glow(true)
     .maxDamage(4)
@@ -146,7 +146,7 @@ StartupEvents.registry('item', e => {
 
     e.create('transport_shard_gilded')
     .formattedDisplayName(Component.string("Gilded Transport Shard").lightPurple())
-    .texture('runic_shards:item/transport_gold')
+    .texture('runic_shards:item/gilded_transportation_shard')
     .unstackable()
     .glow(true)
     .maxDamage(16)
@@ -170,7 +170,7 @@ StartupEvents.registry('item', e => {
 
     e.create('transport_shard_netherite')
     .formattedDisplayName(Component.string("Reinforced Transport Shard").lightPurple())
-    .texture('runic_shards:item/transport_netherite')
+    .texture('runic_shards:item/reinforced_transport_shard')
     .unstackable()
     .glow(true)
     .maxDamage(64)
@@ -194,7 +194,7 @@ StartupEvents.registry('item', e => {
 
   e.create('utility_shard_basic')
     .formattedDisplayName(Component.string("Utility Shard").blue())
-    .texture('runic_shards:item/utility_iron')
+    .texture('runic_shards:item/utility_shard')
     .unstackable()
     .glow(true)
     .maxDamage(4)
@@ -218,7 +218,7 @@ StartupEvents.registry('item', e => {
 
     e.create('utility_shard_gilded')
     .formattedDisplayName(Component.string("Gilded Utility Shard").blue())
-    .texture('runic_shards:item/utility_gold')
+    .texture('runic_shards:item/gilded_utility_shard')
     .unstackable()
     .glow(true)
     .maxDamage(16)
@@ -242,7 +242,7 @@ StartupEvents.registry('item', e => {
 
     e.create('utility_shard_netherite')
     .formattedDisplayName(Component.string("Reinforced Utility Shard").blue())
-    .texture('runic_shards:item/utility_netherite')
+    .texture('runic_shards:item/reinforced_utility_shard')
     .unstackable()
     .glow(true)
     .maxDamage(64)
@@ -266,7 +266,7 @@ StartupEvents.registry('item', e => {
 
     e.create('combat_shard_basic')
     .formattedDisplayName(Component.string("Combat Shard").red())
-    .texture('runic_shards:item/combat_iron')
+    .texture('runic_shards:item/combat_shard')
     .unstackable()
     .glow(true)
     .maxDamage(4)
@@ -290,7 +290,7 @@ StartupEvents.registry('item', e => {
 
     e.create('combat_shard_gilded')
     .formattedDisplayName(Component.string("Gilded Combat Shard").red())
-    .texture('runic_shards:item/combat_gold')
+    .texture('runic_shards:item/gilded_combat_shard')
     .unstackable()
     .glow(true)
     .maxDamage(16)
@@ -314,7 +314,7 @@ StartupEvents.registry('item', e => {
 
     e.create('combat_shard_netherite')
     .formattedDisplayName(Component.string("Reinforced Combat Shard").red())
-    .texture('runic_shards:item/combat_netherite')
+    .texture('runic_shards:item/reinforced_combat_shard')
     .unstackable()
     .glow(true)
     .maxDamage(64)
@@ -338,7 +338,7 @@ StartupEvents.registry('item', e => {
 
     e.create('conjuring_shard_basic')
     .formattedDisplayName(Component.string("Conjuring Shard").green())
-    .texture('runic_shards:item/conjuring_iron')
+    .texture('runic_shards:item/conjuring_shard')
     .unstackable()
     .glow(true)
     .maxDamage(4)
@@ -362,7 +362,7 @@ StartupEvents.registry('item', e => {
 
     e.create('conjuring_shard_gilded')
     .formattedDisplayName(Component.string("Gilded Conjuring Shard").green())
-    .texture('runic_shards:item/conjuring_gold')
+    .texture('runic_shards:item/gilded_conjuring_shard')
     .unstackable()
     .glow(true)
     .maxDamage(16)
@@ -386,7 +386,7 @@ StartupEvents.registry('item', e => {
 
     e.create('conjuring_shard_netherite')
     .formattedDisplayName(Component.string("Reinforced Conjuring Shard").green())
-    .texture('runic_shards:item/conjuring_netherite')
+    .texture('runic_shards:item/reinforced_conjuring_shard')
     .unstackable()
     .glow(true)
     .maxDamage(64)
@@ -446,4 +446,38 @@ StartupEvents.registry('item', e => {
         player.playSound("item.trident.thunder", 5, 1);
         useAdmin(itemstack, player, _level);
       });
+
+    e.create('ancient_teleportation_shard')
+      .formattedDisplayName(Component.string("Ancient Teleportation Shard").darkPurple())
+      .texture('runic_shard:item/ancient_teleportation_shard')
+      .unstackable()
+      .glow(true)
+      .useAnimation('bow')
+      .tooltip("An ancient shard, formatted with a single use of a warp spell.")
+      .tooltip(Component.string("You\'re not quite sure how you got this.").lightPurple())
+      .maxDamage(1)
+      .use((_level, player, _hand) => {
+        player.playSound("item.lodestone_compass.lock", 5, 1);
+        return true;
+      })
+      .releaseUsing((_itemstack, _level, player, tick) => {
+        if (tick <= 71980){
+          player.playSound("block.amethyst_cluster.break");
+          useAncient(_itemstack, player, _level);
+        } else { 
+          return true;
+        }
+      });
+
+      const useAncient = (itemstack, player, _level) => {
+        var spell = "transport_synchronizer_key_v0";
+        if (itemstack.nbtString.includes("Enchantment")) {
+          player.tell(Text.gold("Shards cannot support the magic of an enchantment! The arcane energy sizzles and fades..."));
+          itemstack.nbt.remove('Enchantments');
+        } else {
+          player.sendData("spellcast", {Spell: spell});
+        }
+        player.playSound("entity.item.break", 5, 1);
+        itemstack.shrink(1);
+      }
 })
