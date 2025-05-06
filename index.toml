@@ -29,10 +29,6 @@ file = "config/chunky/config.json"
 hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
-file = "config/connectiblechains.toml"
-hash = "2f6d61f5fe2d62bd16aea86ece934544932922ea3a558923b82a5ccc03bc47a5"
-
-[[files]]
 file = "config/create-server.toml"
 hash = "709080f0e25df2d04ee9d939ff7ca37eecd2950fd87bc005c9018dcc45dd641b"
 
@@ -952,16 +948,6 @@ hash = "84edd7c7a1cd700e88798a744658040e46489a52e388ffd69e9b7dd9734f8d30"
 metafile = true
 
 [[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-hash = "856c61ddccf4a4937eaac7f355e126a1ad6a7a08206198578146e24048450585"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "eb6027f889866dddde5c67919a8a3e873c0fae7ff477aea4a4df12334675933e"
-metafile = true
-
-[[files]]
 file = "mods/acme-admin-tools.pw.toml"
 hash = "9fdf8456d145b8d7c0691dc65b2fc35beae1abeef7f4515c58d46d1ea0615ed9"
 metafile = true
@@ -1642,11 +1628,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "6fa4c6f790bafc2d8770009d600011def0b1004bf7f4921f4e9948edc6a02fd2"
-metafile = true
-
-[[files]]
-file = "mods/impenduits.pw.toml"
-hash = "ab6885e818f451218c32a103df4846daf7f850af665c091775b08e2de6f4b09b"
 metafile = true
 
 [[files]]
@@ -2434,11 +2415,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "f683e330873db2c19856790cf2b4b226eecbb44d42c4700b32caab671b2c21f4"
-metafile = true
-
-[[files]]
-file = "mods/zipline.pw.toml"
-hash = "67804761fe467c3789cee0bf0b7f7646c6fecc67907e92499cc778a8838e1db8"
 metafile = true
 
 [[files]]
