@@ -30,7 +30,7 @@ hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/connectiblechains.toml"
-hash = "60c9ae1f09bacf5630a93d5e820ca2b93a55cb16c5f890cbccae94ca5e705688"
+hash = "2f6d61f5fe2d62bd16aea86ece934544932922ea3a558923b82a5ccc03bc47a5"
 
 [[files]]
 file = "config/create-server.toml"
