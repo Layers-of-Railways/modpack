@@ -6,17 +6,17 @@ ServerEvents.recipes(event => {
         event.custom({
             type: "create:sequenced_assembly",
             ingredient: {
-                item: `kubejs:inert_${name}_shard`
+                item: `kubejs:${name}_shard_basic`
             },
             transitionalItem: {
-                item: `kubejs:inert_${name}_shard`
+                item: `kubejs:${name}_shard_basic`
             },
             sequence: [
                 {
                     type: "create:deploying",
                     ingredients: [
                         {
-                            item: `kubejs:inert_${name}_shard`
+                            item: `kubejs:${name}_shard_basic`
                         },
                         {
                             tag: "c:gold_plates"
@@ -24,7 +24,7 @@ ServerEvents.recipes(event => {
                     ],
                     results: [
                         {
-                            item: `kubejs:inert_${name}_shard`
+                            item: `kubejs:${name}_shard_basic`
                         }
                     ]
                 },
@@ -32,7 +32,7 @@ ServerEvents.recipes(event => {
                     type: "create:deploying",
                     ingredients: [
                         {
-                            item: `kubejs:inert_${name}_shard`
+                            item: `kubejs:${name}_shard_basic`
                         },
                         {
                             item: "endrem:cryptic_eye"
@@ -40,7 +40,7 @@ ServerEvents.recipes(event => {
                 ],
                     results: [
                         {
-                            item: `kubejs:inert_${name}_shard`
+                            item: `kubejs:${name}_shard_basic`
                         }
                     ]
                 },
@@ -48,7 +48,7 @@ ServerEvents.recipes(event => {
                     type: "create:deploying",
                     ingredients: [
                         {
-                            item: `kubejs:inert_${name}_shard`
+                            item: `kubejs:${name}_shard_basic`
                         },
                         {
                             tag: "c:gold_plates"
@@ -56,7 +56,7 @@ ServerEvents.recipes(event => {
                     ],
                     results: [
                         {
-                            item: `kubejs:inert_${name}_shard`
+                            item: `kubejs:${name}_shard_basic`
                         }
                     ]
                 }

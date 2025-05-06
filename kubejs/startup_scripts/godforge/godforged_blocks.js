@@ -6,7 +6,6 @@ StartupEvents.registry('block', event =>{
         .resistance(3)
         .tagBlock('godforged_storage_block')
         .requiresTool(true)
-        .lightLevel(15)
         .textureAll('godforge:block/stellite_block')
         .tagBlock('minecraft:needs_diamond_tool');
 
