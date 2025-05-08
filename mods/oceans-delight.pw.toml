@@ -1,0 +1,13 @@
+name = "Ocean's Delight"
+filename = "oceansdelight-fdrf-fabric-1.0.2-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DGiq4ZSW/versions/FzmG9oHh/oceansdelight-fdrf-fabric-1.0.2-1.20.jar"
+hash-format = "sha1"
+hash = "304368f379aebb5f16b869a1d7ea52a88db68025"
+
+[update]
+[update.modrinth]
+mod-id = "DGiq4ZSW"
+version = "FzmG9oHh"
