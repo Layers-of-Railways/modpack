@@ -843,10 +843,6 @@ file = "kubejs/server_scripts/godforged_tag.js"
 hash = "5ba63d8deeaabdec09788754f9c816a5dafbc1e6e444ea28fc80b5ccf2fd249a"
 
 [[files]]
-file = "kubejs/server_scripts/local_chat.js"
-hash = "e33d12f0409dc096d3408899bf30093b2d80930d2806c90f1d3b3625039825d6"
-
-[[files]]
 file = "kubejs/server_scripts/loot_modifications.js"
 hash = "cb4c5693b3fadd86e53eea8553abeba5187f6b81d611e54c5d7ae23b25c4874c"
 
@@ -908,7 +904,7 @@ hash = "0bebee8ed75bfdd72194e8df3c37097b1f8fb19244b8ec1f324f18275670a669"
 
 [[files]]
 file = "kubejs/startup_scripts/godforge/godforged_blocks.js"
-hash = "bcc1d7bd038140e23040458412625913286699fdefd0fd16a02ef419bfdcbff6"
+hash = "86a6e0323299e78d79be131e3054303896fabc8d5016ab83c8be3c84a3f742fa"
 
 [[files]]
 file = "kubejs/startup_scripts/godforge/godforged_components.js"
@@ -936,7 +932,7 @@ hash = "f1c6dac1f16a36ef6ef2044c21a52ab1e9434cab17738d98f1f1caca83111dcf"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
-hash = "341c71f40de8c43de90ea8963c522379817c45691222306e5417e7fbbc0ae891"
+hash = "f582f85556c318d11977fc6c69070a7b940934ec4664e072333e54f567892b6e"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js.orig"
@@ -1882,7 +1878,7 @@ metafile = true
 
 [[files]]
 file = "mods/morejs.pw.toml"
-hash = "34d3a4818233d1503c47535f3aeb265f37ceae7c92cc4e5c2b253c8c3af037ac"
+hash = "bbc644aa76652e3c0db78be59e152df1de9a7072651639eadfca82415f6daf45"
 metafile = true
 
 [[files]]
