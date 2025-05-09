@@ -48,7 +48,10 @@
     // -----------------------------------------------------------
     // Items here will not be able to be right-clicked (Interact)
     //    Example: minecraft:apple
-    only_disable_interactions: [],
+    only_disable_interactions: [
+        "spelunkery:portal_fluid_bottle",
+        "spelunkery:portal_fluid_bucket"
+    ],
     // -----------------------------------------------------------
     // Items here will not be able to be used to attack
     //    Example: minecraft:diamond_sword
