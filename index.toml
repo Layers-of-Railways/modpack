@@ -98,7 +98,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "99e6ca3251767333bfe9397b4e389bcbb5a1b7627768dd1f32493e36490f5dc1"
+hash = "30e2b9fcc0c5252b9b1b793079404a517c5f05829736ca7d8658885f46c4f387"
 
 [[files]]
 file = "config/lmft.json"
@@ -1082,11 +1082,6 @@ hash = "3f3094de80c370f4cdbc1a3ffeaed34c65d1a151ae7b5204ee00ab78fe9f5e8e"
 metafile = true
 
 [[files]]
-file = "mods/basic-storage.pw.toml"
-hash = "12942bd5f6a9eb3cbe1aa17603649ea0bed4abd67ea1f4a45345c4ac2aa54df9"
-metafile = true
-
-[[files]]
 file = "mods/bclib.pw.toml"
 hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
 metafile = true
@@ -1333,11 +1328,6 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "6957ba2519b78040639a1368df90ec5197cb3e0cd24764aed30efce4cb182e6c"
-metafile = true
-
-[[files]]
-file = "mods/cultural-delights-fabric.pw.toml"
-hash = "a36c65979c1ad3234d90a43ddd20f534b9c6d72a33f59b5a346dbe54435b8bc6"
 metafile = true
 
 [[files]]
