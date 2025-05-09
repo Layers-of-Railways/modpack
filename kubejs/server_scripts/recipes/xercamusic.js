@@ -135,12 +135,12 @@ ServerEvents.recipes((event) => {
         T: 'minecraft:stick'
     })
     event.shaped('xercamusic:bass_guitar', [
-        '  I',
-        'CS ',
+        '  S',
+        'CI ',
         'NC '
     ], {
         N: 'phonos:electronic_note_block',
-        S: 'minecraft:string',
+        S: 'minecraft:stick',
         C: 'minecraft:crimson_planks',
         I: 'createaddition:iron_rod'
     })

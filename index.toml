@@ -779,70 +779,6 @@ file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/portal_fluid/passive.
 hash = "f0ecd634b2777064b09442045b4d0ab7d02c6874b8476bb24a3abd2100928d6e"
 
 [[files]]
-file = "kubejs/server_scripts/betterend/infusion.js"
-hash = "696072bdba01ac3e2de6ea63c2b2bae19886cbb8464f56afa3f8be7d442db255"
-
-[[files]]
-file = "kubejs/server_scripts/compostables.js"
-hash = "c27f4d3dd0572658c89f8b0b1b42e5d33354312e1e203f941ad86043da5f312a"
-
-[[files]]
-file = "kubejs/server_scripts/convert.js"
-hash = "7aa26af76d5f91413f811b7220134a2ef70c62b378d1ca3fe6f83aeee645b947"
-
-[[files]]
-file = "kubejs/server_scripts/create/compacting.js"
-hash = "d1db46335cd54fe213e94f73929f46367804dbd2b60d192cd29d14da97cc9d8a"
-
-[[files]]
-file = "kubejs/server_scripts/create/crushing.js"
-hash = "57a515eeff775c753ad4018a34aadec239a0673e247c38dfb799711845094af2"
-
-[[files]]
-file = "kubejs/server_scripts/create/filling.js"
-hash = "140b85daadd7009601d6631cca6bf8a777f5908aeb1ef74653836dc7c959f5e1"
-
-[[files]]
-file = "kubejs/server_scripts/create/mechanical_crafting.js"
-hash = "3b2583809f3268a148c9a22df48e523fab522f9eec8294ccaa2e0af7f5808398"
-
-[[files]]
-file = "kubejs/server_scripts/create/mixing.js"
-hash = "1810f440fa7a8d8751bea4d658b9909d8a38a6449c9252a49508de32c16dc582"
-
-[[files]]
-file = "kubejs/server_scripts/create/sequenced_assembly.js"
-hash = "23c1763126816cf74e8a44df1b5569ea88300e9f64989201a104cebc13ea03d7"
-
-[[files]]
-file = "kubejs/server_scripts/createadditions/charging.js"
-hash = "c6f5233610de98f80eb2b1b2b6cf5e73df472a0ba096c0f5d209c53ee1b7b3e5"
-
-[[files]]
-file = "kubejs/server_scripts/gamers recipe fixs.js"
-hash = "4ae94e3505af1cc3804d0f51f5f8c8d9af75adf8550f6ebf222bb98896042201"
-
-[[files]]
-file = "kubejs/server_scripts/godforged/godforged_axe.js"
-hash = "dee38fcb366ac3234cf4b6677dcc67fe9328cde5537980363c5fe0c895aa0e44"
-
-[[files]]
-file = "kubejs/server_scripts/godforged/godforged_pickaxe.js"
-hash = "e0c2ebd5150840e71d2bb609c4ac533a5ae6a37668c9910182e7c3205aff4d42"
-
-[[files]]
-file = "kubejs/server_scripts/godforged/godforged_scythe.js"
-hash = "7798dafde627bc2a0793090e13b1d36a6d7b798d9cea746a1c653807f418e4c4"
-
-[[files]]
-file = "kubejs/server_scripts/godforged/godforged_shovel.js"
-hash = "bde84c0e20bf80fdf5312a7a8de84918cacfabc0afb6a4b18f51bac4ff835823"
-
-[[files]]
-file = "kubejs/server_scripts/godforged/godforged_sword.js"
-hash = "5ebe0858d166982e17f7810bf129adabd5dfe1e5df542369783fd838d8cc03e0"
-
-[[files]]
 file = "kubejs/server_scripts/godforged_tag.js"
 hash = "5ba63d8deeaabdec09788754f9c816a5dafbc1e6e444ea28fc80b5ccf2fd249a"
 
@@ -855,40 +791,112 @@ file = "kubejs/server_scripts/manifest_destiny.js"
 hash = "c72da20c3c4ca90d446b186b28076e1a551c1735403fa70204a495d4643dc0a1"
 
 [[files]]
-file = "kubejs/server_scripts/misc_recipes.js"
-hash = "a02dc867796b46032b5d7a1b004984f92a2891e845bba4bcf98b1d2b15ad59cc"
+file = "kubejs/server_scripts/recipes/betterend.js"
+hash = "696072bdba01ac3e2de6ea63c2b2bae19886cbb8464f56afa3f8be7d442db255"
 
 [[files]]
-file = "kubejs/server_scripts/mods/computercraft.js"
+file = "kubejs/server_scripts/recipes/compostables.js"
+hash = "c27f4d3dd0572658c89f8b0b1b42e5d33354312e1e203f941ad86043da5f312a"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/computercraft.js"
 hash = "f6c2608bcb3e2d8d7cb63a6775b736448a5d3e019fd6a2ccfbb40a61a05e911b"
 
 [[files]]
-file = "kubejs/server_scripts/mods/farmersdelight.js"
+file = "kubejs/server_scripts/recipes/create/compacting.js"
+hash = "d1db46335cd54fe213e94f73929f46367804dbd2b60d192cd29d14da97cc9d8a"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/create/crushing.js"
+hash = "57a515eeff775c753ad4018a34aadec239a0673e247c38dfb799711845094af2"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/create/filling.js"
+hash = "140b85daadd7009601d6631cca6bf8a777f5908aeb1ef74653836dc7c959f5e1"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/create/mechanical_crafting.js"
+hash = "3b2583809f3268a148c9a22df48e523fab522f9eec8294ccaa2e0af7f5808398"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/create/mixing.js"
+hash = "1810f440fa7a8d8751bea4d658b9909d8a38a6449c9252a49508de32c16dc582"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/create/sequenced_assembly.js"
+hash = "23c1763126816cf74e8a44df1b5569ea88300e9f64989201a104cebc13ea03d7"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/createadditions.js"
+hash = "c6f5233610de98f80eb2b1b2b6cf5e73df472a0ba096c0f5d209c53ee1b7b3e5"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/farmersdelight.js"
 hash = "8d599b88eda467bdfd6b2b2d72ce9516b06ed512f2f2e5f095c7acf5a4a4412e"
 
 [[files]]
-file = "kubejs/server_scripts/mods/phonos.js"
-hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
+file = "kubejs/server_scripts/recipes/fixes/gamers recipe fixs.js"
+hash = "4ae94e3505af1cc3804d0f51f5f8c8d9af75adf8550f6ebf222bb98896042201"
 
 [[files]]
-file = "kubejs/server_scripts/mods/tinkers.js"
-hash = "e04bf2f439814a94bb3bac04325d260caefaa77ec5ea99e34c11ec379429f25c"
-
-[[files]]
-file = "kubejs/server_scripts/poly's fixes/lapisshard.js"
+file = "kubejs/server_scripts/recipes/fixes/poly's fixes/lapisshard.js"
 hash = "1d619d062d1f831fb208e1d64c14ba7d5f98bbd3becc973cfd37d65a1b2ed8ef"
 
 [[files]]
-file = "kubejs/server_scripts/poly's fixes/logging.js"
+file = "kubejs/server_scripts/recipes/fixes/poly's fixes/logging.js"
 hash = "91bd04de6b114fade6b711508b7af9c8e401eb486f94cb1e6d59124184658cce"
 
 [[files]]
-file = "kubejs/server_scripts/poly's fixes/thallasium.js"
+file = "kubejs/server_scripts/recipes/fixes/poly's fixes/thallasium.js"
 hash = "7fc60ad769e51ecd62a49c50e1e6d7d53497d931f8afb488af5eed0d438f2570"
 
 [[files]]
-file = "kubejs/server_scripts/recipe_removals.js"
+file = "kubejs/server_scripts/recipes/godforged/godforged_axe.js"
+hash = "dee38fcb366ac3234cf4b6677dcc67fe9328cde5537980363c5fe0c895aa0e44"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/godforged/godforged_pickaxe.js"
+hash = "e0c2ebd5150840e71d2bb609c4ac533a5ae6a37668c9910182e7c3205aff4d42"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/godforged/godforged_scythe.js"
+hash = "7798dafde627bc2a0793090e13b1d36a6d7b798d9cea746a1c653807f418e4c4"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/godforged/godforged_shovel.js"
+hash = "bde84c0e20bf80fdf5312a7a8de84918cacfabc0afb6a4b18f51bac4ff835823"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/godforged/godforged_sword.js"
+hash = "5ebe0858d166982e17f7810bf129adabd5dfe1e5df542369783fd838d8cc03e0"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/immersive_melodies.js"
+hash = "e26f0c5dff988b21dacb601eac1df0bca9ba27ca094955a02ca6e2a8561c361c"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/misc_recipes.js"
+hash = "5026253e66894925f14cb4ebd49ef5ee232da53ef725ffcebc00590e660f5204"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/phonos.js"
+hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/recipe_removals.js"
 hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/smithing.js"
+hash = "d54f1fb3afc2f8560ee5032fe5684deee96de51e2e194fcee6f00b28c35f6c86"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/tinkers.js"
+hash = "e04bf2f439814a94bb3bac04325d260caefaa77ec5ea99e34c11ec379429f25c"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/xercamusic.js"
+hash = "de4c3d20e88db0635342b5ad49c84b97c8f7b77105d629a1decf1688cd4bbaed"
 
 [[files]]
 file = "kubejs/server_scripts/relics.js"
@@ -897,10 +905,6 @@ hash = "03ea4c44e67ca95f31b6087da202e31ba335d548c2abff4bfb1577bdb2a348a4"
 [[files]]
 file = "kubejs/server_scripts/relics.js.orig"
 hash = "ac80c570ed02153a3dd69ada29976e61d3ff6759a46b300a2052c38c6eb8501b"
-
-[[files]]
-file = "kubejs/server_scripts/smithing.js"
-hash = "d54f1fb3afc2f8560ee5032fe5684deee96de51e2e194fcee6f00b28c35f6c86"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
