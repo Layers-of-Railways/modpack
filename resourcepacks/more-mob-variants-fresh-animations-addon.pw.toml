@@ -1,0 +1,13 @@
+name = "More Mob Variants x Fresh Animations"
+filename = "MoreMobVariants_FreshAnimations_1.3.1-1.9.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZrnmXWf6/versions/uIOGuHMy/MoreMobVariants_FreshAnimations_1.3.1-1.9.2.zip"
+hash-format = "sha512"
+hash = "262573dd4bc91133d6d5c7abb751345533b82c1d34f694ee555c50089720a90b1aa345300a1fea216aa9aa08a8e58f04b5a2e6a57a75d6027cddfd2a96afa962"
+
+[update]
+[update.modrinth]
+mod-id = "ZrnmXWf6"
+version = "uIOGuHMy"

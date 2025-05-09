@@ -1,0 +1,13 @@
+name = "More Mob Variants - FIX"
+filename = "MoreMobVariants_FIX.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mDA54c08/versions/mkIvvhSC/MoreMobVariants_FIX.zip"
+hash-format = "sha512"
+hash = "ea1642b2d0ea634c86960362af88c2a9b0dcad995e193e5cc5bacf4bcf7cd7ef69ba9ffdcfb9b4479843f275e74fb67261c5aa62c7ae4e84d2d3517e41a87c95"
+
+[update]
+[update.modrinth]
+mod-id = "mDA54c08"
+version = "mkIvvhSC"

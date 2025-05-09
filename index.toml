@@ -30,7 +30,7 @@ hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/connectiblechains.toml"
-hash = "70fe22623004637e7d07a8c296e97012926eb92970283c3d24a19530d0f283a2"
+hash = "da0cff5d3fb556b23125ef3301a6bada49c1b7b8ae6c28c0332d5aaba1698854"
 
 [[files]]
 file = "config/create-server.toml"
@@ -42,7 +42,7 @@ hash = "98ae676e1e7e8117087d61ad021e2592d68df7fd66e1813dcea99d30ff8e3d1a"
 
 [[files]]
 file = "config/createaddition-common.toml"
-hash = "2bc237f4d164b4a910781e8539e5b125f21eba5f371423b770b9137e522214f4"
+hash = "89abbc5d50fed37f8d20e7e8d67b1e1e347ead31eee30d0de5ae0f174ef24a49"
 
 [[files]]
 file = "config/enchancement.json"
@@ -2453,7 +2453,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ferns-fancy-inventory.pw.toml"
-hash = "d43567494deb63db732f604867130b4009f9ed3ce76b3d70210597dba029e646"
+hash = "fb486411b8bdac18b65ef9e678520661c77a6aa9f26904afd82ab7ae47485977"
 metafile = true
 
 [[files]]
@@ -2464,6 +2464,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/human-era-villagers-illagers.pw.toml"
 hash = "dc03b77856f4b6ddd1ef0af34d9316702f1ead0965ef07a4877b78a0c4856e5e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/more-mob-variants-fix.pw.toml"
+hash = "9520a8c956af5cceb8323cb3ab3ca701c4d5ce10035c216fd6830cbd67a8841e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/more-mob-variants-fresh-animations-addon.pw.toml"
+hash = "a36b5799b81638f43b8d35b9bbca6a9471e2e52b811739bff90601db31b8ebe0"
 metafile = true
 
 [[files]]
