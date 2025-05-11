@@ -1,16 +1,16 @@
 name = "Fern's Fancy Inventory"
-filename = "FFI 1.20+ 1.1.12.zip"
+filename = "FFI 1.20+ Legacy 1.1.16.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/64pG0L2N/versions/jEvONieh/FFI%201.20%2B%201.1.12.zip"
+url = "https://cdn.modrinth.com/data/64pG0L2N/versions/u3eTOpRo/FFI%201.20%2B%20Legacy%201.1.16.zip"
 hash-format = "sha512"
-hash = "c69f7aff12355b5d371b82b162e767bc64f57505f8f0983c554ea330cb50305d53179602b8c73dd2ab12b816593304ef8524d75dad5b9eeb78fc66e477d1d74d"
+hash = "43ba752e88febebeb1ca1a8dac5422730aec9b78015e5c77c471217877baf7333154aa909239f9244186f720a584a3b30b33f1038ac881db1163b865cdf45bc6"
 
 [update]
 [update.modrinth]
 mod-id = "64pG0L2N"
-version = "jEvONieh"
+version = "u3eTOpRo"
 
 [option]
 optional = true
