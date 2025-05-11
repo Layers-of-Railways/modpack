@@ -1,0 +1,13 @@
+name = "Smooth Drawers"
+filename = "SmoothDrawers_1.20.1_v2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/85Qf7nOT/versions/iQt26F2c/SmoothDrawers_1.20.1_v2.zip"
+hash-format = "sha512"
+hash = "5003447696badfdcc1b09519168070bc5b18292b93514fb3bf7e8ef9ebfdcc06ad4bfc5adabea2da67fac459075f8a3b8ca0799037073381cddc5572fec5b2ca"
+
+[update]
+[update.modrinth]
+mod-id = "85Qf7nOT"
+version = "iQt26F2c"

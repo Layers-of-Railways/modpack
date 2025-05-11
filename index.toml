@@ -182,6 +182,11 @@ file = "config/paxi/datapacks/sound_lengths.zip"
 hash = "d25f752f8256a5a8747b73c1f1c49d3998b94cdcba3f16b28b16bc5aa34da2a9"
 
 [[files]]
+file = "config/paxi/datapacks/storage-drawers-create-compat.pw.toml"
+hash = "7ebfab8284cba866cc1d655f9378f1a4efe2550cb99b96dacd32f51f596f7702"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/wandering trades v1.7.1 (MC 1.20.x).zip"
 hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
 
@@ -286,6 +291,11 @@ hash = "0fea1606bf1a09629dd76f7d292a1b474661579c8a1a53041d2282c9fbb74ace"
 [[files]]
 file = "config/paxi/resourcepacks/panorama/pack.mcmeta"
 hash = "4e51ed637821719baa8585123d511837a229137046bf5a598e8b9b6ff6703f77"
+
+[[files]]
+file = "config/paxi/resourcepacks/smooth-drawers.pw.toml"
+hash = "2cba577f71e47ce43ebd1dba336248815aa64e415407820be75828d347d32e60"
+metafile = true
 
 [[files]]
 file = "config/picturesign.json"
@@ -1230,6 +1240,11 @@ hash = "ce71bb4d87f97c84aabeeef207655a10c4e196b699f0ce87f368b3f00bbc3580"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "e1b96a7b1d81aa26642379484ff427392dcc11e01d8d780d302f6db0f6af97d7"
+metafile = true
+
+[[files]]
 file = "mods/connectible_chains.pw.toml"
 hash = "24ceeef91ed4244c63cf0dd4d34fea6b64f13de330ab86ca4929808ee4d2c01f"
 metafile = true
@@ -1564,6 +1579,11 @@ hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
+file = "mods/flan.pw.toml"
+hash = "cac0fcbeec728403594eaf7fd32221413c960207d8fd5b61a0c54f2948eb4247"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -1576,6 +1596,11 @@ metafile = true
 [[files]]
 file = "mods/framework-fabric.pw.toml"
 hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "0673fc42b2d2fe78cc60c8fbc2a51a731a73404bde3a11f91d65bd234d59ff91"
 metafile = true
 
 [[files]]
@@ -1985,12 +2010,12 @@ metafile = true
 
 [[files]]
 file = "mods/opac-fabric-create-support.pw.toml"
-hash = "b61858247ad476daca4d59fce04e029924d9215207f260c338ce9a446f90f461"
+hash = "8f3fd1805565b5f16eb69fb8a14b3a38ed9a919b6df532769d1b7a790cc3cb21"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "7e987a1cd98c2b5b26d11ded0cfe3c9d8270654cfe2cef4dae594189a149f403"
+hash = "d9c5210eba2029803417c8bb52345bac716834e13ba0dc989b11b4fe98007a98"
 metafile = true
 
 [[files]]
@@ -2223,6 +2248,11 @@ metafile = true
 [[files]]
 file = "mods/spindlemark.pw.toml"
 hash = "b2c928a3b6f61ba90704491215f5a23b597704b1d442701cc3ed366d88022db5"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "5d8ac00b4b361810f9b79e21b2d250c4302f8949a93ae06fe7c87d7011c04147"
 metafile = true
 
 [[files]]

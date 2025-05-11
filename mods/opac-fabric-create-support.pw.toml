@@ -1,13 +1,13 @@
 name = "Create Support for Open Parties and Claims"
-filename = "opac-fabric-create-support-mc1.20-1.6.0.jar"
+filename = "opac-fabric-create-support-mc1.20-1.7.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/T4Cv5iZq/versions/Cf65NVxT/opac-fabric-create-support-mc1.20-1.6.0.jar"
-hash-format = "sha1"
-hash = "2d56dd406d70f0a9e9c2a87ca73632cbfa9bccc9"
+url = "https://cdn.modrinth.com/data/T4Cv5iZq/versions/7PmrMoon/opac-fabric-create-support-mc1.20-1.7.0.jar"
+hash-format = "sha512"
+hash = "ccc534b9a687113eba0c37c954661bb72475a0d8f42778ff71c00458777e59bc7d2f482d7b1f5687ef2cf827e76c07485ac908f8376d025fda37e32ee1cb58c7"
 
 [update]
 [update.modrinth]
 mod-id = "T4Cv5iZq"
-version = "Cf65NVxT"
+version = "7PmrMoon"
