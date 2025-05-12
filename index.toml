@@ -200,7 +200,15 @@ hash = "20249557f6c0d02553a7e1d7fcef7ac85f2198307d7c020f23d7e95773a8dcee"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/backslash_key.png"
-hash = "87f6c35ec2b761a51f7d6d0285a50d7338694d389ee093d261513b24fdc49dbf"
+hash = "9128d0d008d9c46936953a484bc28d4cb5bdd94a9d3b30ef552237c2b4919ac8"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/modifier_keys_right.png"
+hash = "e5ccfbd11425ab9532cbe01bfbd035f226b8fa2988eb747c245ce275b365ba56"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/godforge/textures/item/staff_gem_unused.png"
+hash = "4a3e4a537d5ab774f35d13f573233b2750695d20434f513bf58411ba99699e03"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/font/default.json"
