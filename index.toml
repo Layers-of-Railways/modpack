@@ -298,6 +298,10 @@ hash = "2cba577f71e47ce43ebd1dba336248815aa64e415407820be75828d347d32e60"
 metafile = true
 
 [[files]]
+file = "config/peripheralworks-common.toml"
+hash = "c7c1cc1df7ad5b96f58ecdd0fa5aaea80937e61b521bba9bf307d6869ea4c326"
+
+[[files]]
 file = "config/picturesign.json"
 hash = "463303f465914df89a159339318874c1b1ebfa3126d0c9938ecaf6f51faefc29"
 
