@@ -774,18 +774,6 @@ file = "kubejs/data/create/recipes/crafting/curiosities/brown_toolbox.json"
 hash = "45d26a6d873bea2dbb9b693865225b218050b3cd61e11a3118c53c6814ed6e3c"
 
 [[files]]
-file = "kubejs/data/minecraft/recipes/shulker_box.json"
-hash = "ddec276786d2a9082eb9376604cccb1fce7694d9d15ce4e6bacf95ccf1c650da"
-
-[[files]]
-file = "kubejs/data/sereneseasons/tags/worldgen/biome/lesser_color_change_biomes.json"
-hash = "1abc6a883070cc03bdc243a8c3d5a5855ddb10c7c0f0aa74c53331fb0617e658"
-
-[[files]]
-file = "kubejs/data/sereneseasons/tags/worldgen/biome/tropical_biomes.json"
-hash = "fd27e8fbdb10c4d1a707e8a85626849af36eedaa770f3e14d150f80bf9328aaf"
-
-[[files]]
 file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/lava/passive.json"
 hash = "e4a27bee2c336a8f69cd0fc35dd9c254ab7746e19b9992588e9322e6cb47cca4"
 
