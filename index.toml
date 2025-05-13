@@ -2126,6 +2126,11 @@ hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
 metafile = true
 
 [[files]]
+file = "mods/raccoon.pw.toml"
+hash = "5b556a54f2306605c5d4161b6cc8da7d87818e80f69c9c5b914f3986880cd86b"
+metafile = true
+
+[[files]]
 file = "mods/railways-tweaks.pw.toml"
 hash = "63d637dc899dfd6d8aca8c421ed31d3c79879944102a2f0a19a71b5587fc429b"
 metafile = true

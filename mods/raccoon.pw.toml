@@ -1,0 +1,13 @@
+name = "Raccoon"
+filename = "raccoon-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jKjXzmOu/versions/u9J3I8QV/raccoon-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "0105369a8d357143ce7182b4dac62f88b2427ab1d068b33a9af0ffe1100c9a978eabf029ad59eb27e1cf7e7056f6ef4fe11830402f5beb5c0ba826d7fc99b2e0"
+
+[update]
+[update.modrinth]
+mod-id = "jKjXzmOu"
+version = "u9J3I8QV"
