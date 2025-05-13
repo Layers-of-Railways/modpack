@@ -790,6 +790,10 @@ file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/portal_fluid/passive.
 hash = "f0ecd634b2777064b09442045b4d0ab7d02c6874b8476bb24a3abd2100928d6e"
 
 [[files]]
+file = "kubejs/server_scripts/Kirin Server Scripts/blaze_burner_fuels.js"
+hash = "6e738c78c082e04204d122be71b3bee46d82596ce17183c80200f5da4bb04536"
+
+[[files]]
 file = "kubejs/server_scripts/godforged_tag.js"
 hash = "5ba63d8deeaabdec09788754f9c816a5dafbc1e6e444ea28fc80b5ccf2fd249a"
 
