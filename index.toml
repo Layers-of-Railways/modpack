@@ -779,6 +779,10 @@ file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/portal_fluid/passive.
 hash = "f0ecd634b2777064b09442045b4d0ab7d02c6874b8476bb24a3abd2100928d6e"
 
 [[files]]
+file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/water/clay.json"
+hash = "ee899adc30a7b9cfbc0faac93273323036d7ee69a9ffe66e2d18825f0a5edc5b"
+
+[[files]]
 file = "kubejs/server_scripts/betterend/infusion.js"
 hash = "696072bdba01ac3e2de6ea63c2b2bae19886cbb8464f56afa3f8be7d442db255"
 
