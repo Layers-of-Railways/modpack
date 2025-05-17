@@ -1,0 +1,13 @@
+name = "Create: Escalated"
+filename = "escalated-1.0.4+create.0.5.1.j-mc.1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LyOBYG8Q/versions/sMSfiTV1/escalated-1.0.4%2Bcreate.0.5.1.j-mc.1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "6f18199ed2b9005b7691aad5c6fbcdf1284acdc9a3ee46a1d930d40a0e12b1e18e648ca19687cbd2a4e0f2d7b724e0d3e268464be191094f5d5fe913f48213c1"
+
+[update]
+[update.modrinth]
+mod-id = "LyOBYG8Q"
+version = "sMSfiTV1"

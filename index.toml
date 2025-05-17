@@ -1488,8 +1488,9 @@ hash = "f74bba0bfe9e9fd9288d1afac05670ee574123cd336c4a4313a64fbccf6a62c3"
 metafile = true
 
 [[files]]
-file = "mods/escalated-1.0.0-mc.1.20.1-fabric.jar"
-hash = "5a19c1e6081f53da15bd94e7871251d7fcd71cbdac1bb767f84ea77bd3c7fffc"
+file = "mods/escalated.pw.toml"
+hash = "226e50d7198c7c0595a3a7eb65a0dcf8fd3038b1e0ab224a1dd38f6a5dd93e8e"
+metafile = true
 
 [[files]]
 file = "mods/estrogen.pw.toml"
