@@ -1524,7 +1524,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
+hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
 
 [[files]]
@@ -1610,11 +1610,6 @@ metafile = true
 [[files]]
 file = "mods/forge-early-loading-screen-fabric.pw.toml"
 hash = "f0f8656af933452235ad0442aafe207a1ba2062b818b634a071441ce5ee7a724"
-metafile = true
-
-[[files]]
-file = "mods/framework-fabric.pw.toml"
-hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
