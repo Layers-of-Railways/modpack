@@ -5,6 +5,10 @@ file = "config/ae2/common.json"
 hash = "67e7af957d25eeb8d0c1932df505ecbcbb6feec0e4559cf71cd8ea827d5db26b"
 
 [[files]]
+file = "config/armourers_workshop-common.toml"
+hash = "01080291800c1be3a918279fb3540b152f03bfba467742aa0fedbb29e39bcb8e"
+
+[[files]]
 file = "config/backpacked-common.toml"
 hash = "9fb5bc5b26e698815bde9afb430090fff1c80b4928e72928128b9b94f04cfac9"
 
