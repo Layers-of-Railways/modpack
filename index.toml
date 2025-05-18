@@ -794,6 +794,10 @@ file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/portal_fluid/passive.
 hash = "f0ecd634b2777064b09442045b4d0ab7d02c6874b8476bb24a3abd2100928d6e"
 
 [[files]]
+file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/water/clay.json"
+hash = "6f616e5b30d82f3f42490adde9b1ad222c956b9c66e465fbb3a8f91a039c6373"
+
+[[files]]
 file = "kubejs/server_scripts/Kirin Server Scripts/blaze_burner_fuels.js"
 hash = "6e738c78c082e04204d122be71b3bee46d82596ce17183c80200f5da4bb04536"
 
@@ -831,7 +835,7 @@ hash = "57a515eeff775c753ad4018a34aadec239a0673e247c38dfb799711845094af2"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/create/filling.js"
-hash = "f50627340943dd689ebf05f92fa4ae1b8efc9262843560c0e7f295353d7d2af1"
+hash = "140b85daadd7009601d6631cca6bf8a777f5908aeb1ef74653836dc7c959f5e1"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/create/mechanical_crafting.js"
