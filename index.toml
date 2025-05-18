@@ -831,7 +831,7 @@ hash = "57a515eeff775c753ad4018a34aadec239a0673e247c38dfb799711845094af2"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/create/filling.js"
-hash = "140b85daadd7009601d6631cca6bf8a777f5908aeb1ef74653836dc7c959f5e1"
+hash = "f50627340943dd689ebf05f92fa4ae1b8efc9262843560c0e7f295353d7d2af1"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/create/mechanical_crafting.js"
@@ -899,7 +899,7 @@ hash = "e26f0c5dff988b21dacb601eac1df0bca9ba27ca094955a02ca6e2a8561c361c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/misc_recipes.js"
-hash = "5026253e66894925f14cb4ebd49ef5ee232da53ef725ffcebc00590e660f5204"
+hash = "adeeb3a2297ee100c52fd7a05ab182c535b7d7bd55f5913ad517d0f1d5b21b03"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/phonos.js"
@@ -912,6 +912,10 @@ hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
 [[files]]
 file = "kubejs/server_scripts/recipes/smithing.js"
 hash = "d54f1fb3afc2f8560ee5032fe5684deee96de51e2e194fcee6f00b28c35f6c86"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/storage_drawers.js"
+hash = "4693869622f787da6ee8e9c9238a6f83d1e183e9b691bcfda1b5269673bec819"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/tinkers.js"

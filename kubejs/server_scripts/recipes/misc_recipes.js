@@ -77,4 +77,16 @@ ServerEvents.recipes((event) => {
         'minecraft:iron_ingot',
         '#c:iron_plates'
     )
+
+    // Thai's Delight. Make use of Iron Rods
+    event.replaceInput({ output: 'muffins_thaidelight:mortar' },
+        'minecraft:stick',
+        '#c:iron_rods'
+    )
+    
+    // Use leather bound stick from betterend with the chisel
+    event.replaceInput({ output: 'rechiseled:chisel' },
+        "minecraft:stick",
+        "betterend:leather_wrapped_stick"
+    )
 })
