@@ -1,0 +1,13 @@
+name = "Modern Train Parts"
+filename = "moderntrainparts-0.1.7-fabric-mc1.20.1-cr0.5.1-f.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YlOA6mdQ/versions/gbCq2Ws8/moderntrainparts-0.1.7-fabric-mc1.20.1-cr0.5.1-f.jar"
+hash-format = "sha512"
+hash = "af4923b359b1430c44803c1faa8da7b98b1a2c479cf5725c76e9e4e1dc0cfba663501b48a1f15f568671d13113020529641144b4a0d592d71b3d0ad865a1d1f3"
+
+[update]
+[update.modrinth]
+mod-id = "YlOA6mdQ"
+version = "gbCq2Ws8"

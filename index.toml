@@ -62,7 +62,7 @@ hash = "8c2abae0be3c1aad6244b47cbde95892d55d046ff15e35621eca5e5cbd276c87"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "dd026db05dcfc301a71da9766a2cab97cbcd805393a6bbe56735a5743dee2d5e"
+hash = "9b69d42a54806ea0d001dea8e0735fbd5506e905778b154a5f9c3128dc03bb3e"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -102,7 +102,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "a8c747359cf55bd55ab3d8448fd51644ad47cebc2649d73a2d71289755bbc5c6"
+hash = "8391ad5f1ecec542bacccc43d88c6e0b9da5957b0b570f7df4efd8f336fe575f"
 
 [[files]]
 file = "config/lmft.json"
@@ -906,12 +906,16 @@ file = "kubejs/server_scripts/recipes/misc_recipes.js"
 hash = "adeeb3a2297ee100c52fd7a05ab182c535b7d7bd55f5913ad517d0f1d5b21b03"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/moderntrainparts.js"
+hash = "b16f4689ca1d8601e7317558b5b46c674b0868d1ba981016cf045f9eb22f7fd4"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/phonos.js"
 hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/recipe_removals.js"
-hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
+hash = "24628f2e6ff691a7ee48838b27bec9dbab7364b8d5ea68e8d55760f7251ee98a"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/smithing.js"
@@ -1918,6 +1922,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "48812d772e135285b61d74a9936e22220efa1d8935ec1f06f34c2727ea915836"
+metafile = true
+
+[[files]]
+file = "mods/modern-train-parts.pw.toml"
+hash = "fc603223a42ce7734577ea497edef14ba5c2e2fa96faf6dfc796b04feaf68b7b"
 metafile = true
 
 [[files]]

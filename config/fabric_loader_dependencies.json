@@ -35,6 +35,11 @@
             "-depends": {
                 "create": ""
             }
+        },
+        "moderntrainparts": {
+            "-depends": {
+                "create": ""
+            }
         }
     }
 }
