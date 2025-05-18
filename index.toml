@@ -33,10 +33,6 @@ file = "config/chunky/config.json"
 hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
-file = "config/connectiblechains.toml"
-hash = "bacfea88987e06218f88632d14a536bb205d88f4e889362f45828be8351dd5dd"
-
-[[files]]
 file = "config/create-server.toml"
 hash = "709080f0e25df2d04ee9d939ff7ca37eecd2950fd87bc005c9018dcc45dd641b"
 
@@ -115,6 +111,10 @@ hash = "30c707f7fc8bd880c6b9c7b4ea7e0a99cf54ead82afc6c032a4082e618b57ead"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
+
+[[files]]
+file = "config/moderntrainparts-server.toml"
+hash = "1a0e041b7a3769f48ef13cb6ca2850e621f08a339cbf001fcefbac0e446f2534"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -915,7 +915,7 @@ hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/recipe_removals.js"
-hash = "24628f2e6ff691a7ee48838b27bec9dbab7364b8d5ea68e8d55760f7251ee98a"
+hash = "8c89e3594e056a2c9fbab7db0bc7ec76d9bfa774e5d7c43371c779f232598970"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/smithing.js"
