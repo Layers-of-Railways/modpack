@@ -906,10 +906,6 @@ file = "kubejs/server_scripts/recipes/misc_recipes.js"
 hash = "adeeb3a2297ee100c52fd7a05ab182c535b7d7bd55f5913ad517d0f1d5b21b03"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/moderntrainparts.js"
-hash = "b16f4689ca1d8601e7317558b5b46c674b0868d1ba981016cf045f9eb22f7fd4"
-
-[[files]]
 file = "kubejs/server_scripts/recipes/phonos.js"
 hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
@@ -1922,11 +1918,6 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "48812d772e135285b61d74a9936e22220efa1d8935ec1f06f34c2727ea915836"
-metafile = true
-
-[[files]]
-file = "mods/modern-train-parts.pw.toml"
-hash = "fc603223a42ce7734577ea497edef14ba5c2e2fa96faf6dfc796b04feaf68b7b"
 metafile = true
 
 [[files]]
