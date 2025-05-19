@@ -203,12 +203,116 @@ file = "config/paxi/resourcepacks/NS-Updated-Tracks-Taeco.zip"
 hash = "20249557f6c0d02553a7e1d7fcef7ac85f2198307d7c020f23d7e95773a8dcee"
 
 [[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/armourers_workshop/textures/item/template/horse.png"
+hash = "dcf412509fc61145d0cb75f8a23ed3026ebb0ca5be6b244ce35742527703758a"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/computercraft/textures/block/turtle_normal_front.png"
+hash = "7127fbfed0d501854d12b8910b8b36c8e5d69950e50c4c0f39a06f5fc9655b19"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/case_base.png"
+hash = "9a758fff49ed240fc63ffe1de7316c2694fade043cd1c786dc948d9e85864764"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/case_base_w_corners.png"
+hash = "0a4734cc72975995808694feac06098755e4e66a715b9ff775899066f54a41b7"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keys_base_full.png"
+hash = "f8f878aa8fb924b8343580e6ed9d6b410e7864b6e940865877816f689cd308a3"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keys_base_v2.png"
+hash = "efdc9b02eb434bac98f31d572382a25abeaea4d233073856a8ab3ccedec4a961"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/arrow_keys.png"
+hash = "4038040eb397d50600ed16d0511f5af97fc897c332a6b285509cd7212d084d78"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/back_key.png"
+hash = "8cff625dbf3f194df1c98f6bd6362cf81290ed4191b67b5b9ef06384678b475c"
+
+[[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/backslash_key.png"
 hash = "9128d0d008d9c46936953a484bc28d4cb5bdd94a9d3b30ef552237c2b4919ac8"
 
 [[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/caps_key.png"
+hash = "93b7acd7cd43b673d55acada7f221ee336e50477fb7b6765a7cdda586150d6d4"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/enter_key.png"
+hash = "043dc16c33e88967b75d5c9a05220071c00f14be7be8b9caae9735ff91818dec"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/esc_key.png"
+hash = "191836f75392a5e4e100d340b8c8f72d7a53e0f8c12747d01cb681200789c5d2"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/grave_key.png"
+hash = "a5b32fae359abe87e983570b3eaa25276749967aba923f34309352acdfe09a05"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/left_fn_keys.png"
+hash = "d8cb638aa3283be8f8fb4684fe53c1396c05f4b5d894b6fc3339294ef4364587"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/lshift.png"
+hash = "477675f2611658fcee05fbe37a7322cadd8c3536007061db13c7d1c865b34fe4"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/mid_fn_keys.png"
+hash = "be21236ecf3e1b02040b3846139be05ebe5fdfd2d5954d76b028f8d139a97f28"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/mid_side_keys.png"
+hash = "0083bf1db97700dfc163ceee9f392e1e89bb74cfc6853f7f5968bf610dde51c0"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/modifier_keys_left.png"
+hash = "8e42ee07d888c0b4e8e710f9ca7c956d9da2d2a907642eaa8242835aea037ee3"
+
+[[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/modifier_keys_right.png"
 hash = "e5ccfbd11425ab9532cbe01bfbd035f226b8fa2988eb747c245ce275b365ba56"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/most_keys.png"
+hash = "d5d2271746c56a82e965df3a8c583562eb44305c469d98078804dedb6183e043"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/num_row.png"
+hash = "e69562322297a3cb24bb9e5e0632ba8c7b787cadb6f3dae9e77019a74b2a33b0"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/right_fn_keys.png"
+hash = "9d5051cbf46ec09635ea400f50e6fdf9ef025e2ae24ac798f8cec6cd7989c74b"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/rshift.png"
+hash = "76e274961a67263e14a6f33277df6f679b2766c7404c0fd614ec4f6b5e92194b"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/screen_keys.png"
+hash = "b8ce158b3d37a3196082f35456e3b59f639fbac77e103d775e3c5056866f783d"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/space_key.png"
+hash = "680f8c5b68967d7277890bc3225717bc0e627a2382e74d890e4ffa02ec3e7498"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/tab_key.png"
+hash = "c17c023a88e255546fe0307b1d8bd3c8c8b8ab2b288b7b7a4881a734ecf70d00"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/top_side_keys.png"
+hash = "4f28fa05f1db7e6a4ca54d7a8ccd6ab90a37afb2542bd4008b25ced987ec84b9"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/block/keyboard/keyzones/wasd_keys.png"
+hash = "808ceb800c524fe20287a2561fe3533070c0b3f3adf4b1e9afd79215ea2d9df8"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/godforge/textures/item/staff_gem_unused.png"
