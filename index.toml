@@ -424,14 +424,6 @@ file = "config/remote_player_waypoints_for_xaero/general.json5"
 hash = "c31bb987d0fd7649c8f1f81d8f2cfb1457b8e641e8ac036adac89d4a277303b7"
 
 [[files]]
-file = "config/sereneseasons/fertility.toml"
-hash = "722f7545a5a592f0aed25ae8dd0a4f53f7abaf0bb53da96417d87e9096e75631"
-
-[[files]]
-file = "config/sereneseasons/seasons.toml"
-hash = "a06a93b57d4c98e2c5ebf2da18da12b843e956912ed7e3a8274c21513b434354"
-
-[[files]]
 file = "config/servercore/config.yml"
 hash = "de6cd8419ec8114d43e3477dbcc5e18aa68e1710d59d989a4635adc533a33917"
 
@@ -2294,6 +2286,11 @@ hash = "00f6933717bf3fcad22fe3525bce3746d50fa26298d1755bf694fb06124819c8"
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "75159247003092efc839be7e290102aacae32f4b3dcc31dbb3bfc1df7f54979a"
+metafile = true
+
+[[files]]
+file = "mods/scholar.pw.toml"
+hash = "ab61419d2a844be219563360454526e1809907a5ead09fcafd5a3ba0c3ae45e4"
 metafile = true
 
 [[files]]
