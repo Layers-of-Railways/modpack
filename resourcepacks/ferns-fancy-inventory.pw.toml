@@ -11,8 +11,3 @@ hash = "43ba752e88febebeb1ca1a8dac5422730aec9b78015e5c77c471217877baf7333154aa90
 [update.modrinth]
 mod-id = "64pG0L2N"
 version = "u3eTOpRo"
-
-[option]
-optional = true
-default = true
-description = "A dark mode GUI pack"
