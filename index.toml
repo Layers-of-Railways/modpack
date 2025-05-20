@@ -1188,11 +1188,6 @@ hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
 metafile = true
 
 [[files]]
-file = "mods/cat_jam.pw.toml"
-hash = "84f06484c12f1322f6761fcbb43b12a2202ece777157b3025b3e3010016aef05"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "72b23c18039d65a955bfa111b87af4c0cbce8893e539d644e5a4449f3e473ec9"
 metafile = true
