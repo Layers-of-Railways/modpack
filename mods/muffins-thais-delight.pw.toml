@@ -1,0 +1,13 @@
+name = "Muffin's Thai's Delight"
+filename = "muffins-thai-delight-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ckesjTu7/versions/8p44CL48/muffins-thai-delight-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "17c0daaa457f0eda7385512a11fb52f73802765ac0b262e0c30224abc27131d160c4f3501c937851e8e6e8735eecc82b7a021eeea148ee9f105f774194b0c45b"
+
+[update]
+[update.modrinth]
+mod-id = "ckesjTu7"
+version = "8p44CL48"

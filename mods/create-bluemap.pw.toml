@@ -1,0 +1,15 @@
+name = "create-bluemap"
+filename = "create-bluemap-fabric-0.1.1+fabric-1.20.1-build.27.jar"
+side = "server"
+
+[download]
+url = "https://github.com/Szedann/create-bluemap/releases/download/v0.1.1/create-bluemap-fabric-0.1.1%2Bfabric-1.20.1-build.27.jar"
+hash-format = "sha256"
+hash = "93e6578134d8d5fa6e1b1090979c21aaab7777d61c82f1e0cc4223700274316e"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Szedann/create-bluemap"
+tag = "v0.1.1"
