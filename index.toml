@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/ae2/common.json"
-hash = "67e7af957d25eeb8d0c1932df505ecbcbb6feec0e4559cf71cd8ea827d5db26b"
+hash = "dbe923da92b092900ca3c5ac147183496ab79619b7ea758244da86b10cd9a15e"
 
 [[files]]
 file = "config/armourers_workshop-common.toml"
