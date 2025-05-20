@@ -1177,7 +1177,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "860a3575c2d712700cee7cc57c9d91b0c89a273a3fced97f9cd7ca26fd26583f"
+hash = "7361da2d6c770e2b403c68db7fcb80a562f05fad1a14ba0d1380f670ff3c854c"
 metafile = true
 
 [[files]]
@@ -2523,12 +2523,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "27d76a999a38d86e3f4ea61636983e583d6371450bcca31eeb1fc138660ace1b"
+hash = "077c0e3257cc9fa57540c2267a18cca9fc850cd76f23b484ed07b9d98366d783"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b647fa6d9b0a7539c49e2350dc30795997420d7f6de4d09506f2d14b0b1bb063"
+hash = "60f00296654edefcfa3d462dfc06984307af073be5c4aa25255bda559352e86a"
 metafile = true
 
 [[files]]
