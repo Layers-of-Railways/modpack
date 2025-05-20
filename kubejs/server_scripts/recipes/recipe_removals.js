@@ -15,9 +15,7 @@ ServerEvents.recipes((event) => {
         "computercraft:wireless_modem_advanced",
         "computercraft:monitor_normal",
         "computercraft:monitor_advanced",
-        "computercraft:speaker",
-        "moderntrainparts:wire_connector_item",
-        "moderntrainparts:pantograph"
+        "computercraft:speaker"
     ];
 
     let removeRecipeInput = [];

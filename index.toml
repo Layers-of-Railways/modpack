@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/ae2/common.json"
-hash = "67e7af957d25eeb8d0c1932df505ecbcbb6feec0e4559cf71cd8ea827d5db26b"
+hash = "dbe923da92b092900ca3c5ac147183496ab79619b7ea758244da86b10cd9a15e"
 
 [[files]]
 file = "config/armourers_workshop-common.toml"
@@ -186,11 +186,6 @@ file = "config/paxi/datapacks/sound_lengths.zip"
 hash = "d25f752f8256a5a8747b73c1f1c49d3998b94cdcba3f16b28b16bc5aa34da2a9"
 
 [[files]]
-file = "config/paxi/datapacks/storage-drawers-create-compat.pw.toml"
-hash = "7ebfab8284cba866cc1d655f9378f1a4efe2550cb99b96dacd32f51f596f7702"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/wandering trades v1.7.1 (MC 1.20.x).zip"
 hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
 
@@ -303,11 +298,6 @@ hash = "0fea1606bf1a09629dd76f7d292a1b474661579c8a1a53041d2282c9fbb74ace"
 [[files]]
 file = "config/paxi/resourcepacks/panorama/pack.mcmeta"
 hash = "4e51ed637821719baa8585123d511837a229137046bf5a598e8b9b6ff6703f77"
-
-[[files]]
-file = "config/paxi/resourcepacks/smooth-drawers.pw.toml"
-hash = "2cba577f71e47ce43ebd1dba336248815aa64e415407820be75828d347d32e60"
-metafile = true
 
 [[files]]
 file = "config/picturesign.json"
@@ -915,15 +905,11 @@ hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/recipe_removals.js"
-hash = "8c89e3594e056a2c9fbab7db0bc7ec76d9bfa774e5d7c43371c779f232598970"
+hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/smithing.js"
 hash = "d54f1fb3afc2f8560ee5032fe5684deee96de51e2e194fcee6f00b28c35f6c86"
-
-[[files]]
-file = "kubejs/server_scripts/recipes/storage_drawers.js"
-hash = "4693869622f787da6ee8e9c9238a6f83d1e183e9b691bcfda1b5269673bec819"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/tinkers.js"
@@ -1203,11 +1189,6 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
-metafile = true
-
-[[files]]
-file = "mods/cat_jam.pw.toml"
-hash = "84f06484c12f1322f6761fcbb43b12a2202ece777157b3025b3e3010016aef05"
 metafile = true
 
 [[files]]
@@ -2279,11 +2260,6 @@ metafile = true
 [[files]]
 file = "mods/spindlemark.pw.toml"
 hash = "b2c928a3b6f61ba90704491215f5a23b597704b1d442701cc3ed366d88022db5"
-metafile = true
-
-[[files]]
-file = "mods/storagedrawers.pw.toml"
-hash = "5d8ac00b4b361810f9b79e21b2d250c4302f8949a93ae06fe7c87d7011c04147"
 metafile = true
 
 [[files]]
