@@ -5,10 +5,6 @@ file = "config/ae2/common.json"
 hash = "dbe923da92b092900ca3c5ac147183496ab79619b7ea758244da86b10cd9a15e"
 
 [[files]]
-file = "config/armourers_workshop-common.toml"
-hash = "01080291800c1be3a918279fb3540b152f03bfba467742aa0fedbb29e39bcb8e"
-
-[[files]]
 file = "config/backpacked-common.toml"
 hash = "9fb5bc5b26e698815bde9afb430090fff1c80b4928e72928128b9b94f04cfac9"
 
@@ -111,10 +107,6 @@ hash = "30c707f7fc8bd880c6b9c7b4ea7e0a99cf54ead82afc6c032a4082e618b57ead"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
-
-[[files]]
-file = "config/moderntrainparts-server.toml"
-hash = "1a0e041b7a3769f48ef13cb6ca2850e621f08a339cbf001fcefbac0e446f2534"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
