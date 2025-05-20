@@ -371,11 +371,6 @@ hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/ferns-fancy-inventory.pw.toml"
-hash = "fb486411b8bdac18b65ef9e678520661c77a6aa9f26904afd82ab7ae47485977"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/panorama/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "32373c393fb10a3efc4f87a70a297b3f99967c6c2daa2eb777c67ca43eaaeb89"
 
@@ -2601,6 +2596,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/animatronic-conductor.pw.toml"
 hash = "333b182c5454f16ffeed1f0ee9fb1c6b5d1f2b9dd0754c4f89d9870230059048"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ferns-fancy-inventory.pw.toml"
+hash = "dda69c71b5f9f0d100916db1f6187983a16555b25cdcddb7115625046fa42777"
 metafile = true
 
 [[files]]
