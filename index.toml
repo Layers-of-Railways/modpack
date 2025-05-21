@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ae2/common.json"
-hash = "dbe923da92b092900ca3c5ac147183496ab79619b7ea758244da86b10cd9a15e"
-
-[[files]]
 file = "config/backpacked-common.toml"
 hash = "9fb5bc5b26e698815bde9afb430090fff1c80b4928e72928128b9b94f04cfac9"
 
