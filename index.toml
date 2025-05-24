@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ae2/common.json"
-hash = "dbe923da92b092900ca3c5ac147183496ab79619b7ea758244da86b10cd9a15e"
-
-[[files]]
-file = "config/armourers_workshop-common.toml"
-hash = "01080291800c1be3a918279fb3540b152f03bfba467742aa0fedbb29e39bcb8e"
-
-[[files]]
 file = "config/backpacked-common.toml"
 hash = "9fb5bc5b26e698815bde9afb430090fff1c80b4928e72928128b9b94f04cfac9"
 
@@ -111,10 +103,6 @@ hash = "30c707f7fc8bd880c6b9c7b4ea7e0a99cf54ead82afc6c032a4082e618b57ead"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
-
-[[files]]
-file = "config/moderntrainparts-server.toml"
-hash = "1a0e041b7a3769f48ef13cb6ca2850e621f08a339cbf001fcefbac0e446f2534"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -383,11 +371,6 @@ hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/ferns-fancy-inventory.pw.toml"
-hash = "fb486411b8bdac18b65ef9e678520661c77a6aa9f26904afd82ab7ae47485977"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/panorama/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "32373c393fb10a3efc4f87a70a297b3f99967c6c2daa2eb777c67ca43eaaeb89"
 
@@ -434,14 +417,6 @@ hash = "d035bf2bd85727f1b20388b919ffe022cf453087e6d382c5b00bd9e704ccc49c"
 [[files]]
 file = "config/remote_player_waypoints_for_xaero/general.json5"
 hash = "c31bb987d0fd7649c8f1f81d8f2cfb1457b8e641e8ac036adac89d4a277303b7"
-
-[[files]]
-file = "config/sereneseasons/fertility.toml"
-hash = "722f7545a5a592f0aed25ae8dd0a4f53f7abaf0bb53da96417d87e9096e75631"
-
-[[files]]
-file = "config/sereneseasons/seasons.toml"
-hash = "a06a93b57d4c98e2c5ebf2da18da12b843e956912ed7e3a8274c21513b434354"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -964,10 +939,6 @@ file = "kubejs/server_scripts/recipes/farmersdelight.js"
 hash = "8d599b88eda467bdfd6b2b2d72ce9516b06ed512f2f2e5f095c7acf5a4a4412e"
 
 [[files]]
-file = "kubejs/server_scripts/recipes/fixes/Wiz Recipe Fixes.js"
-hash = "0447916fc34490c9911cf43028a02d9ed9480670ec9f0cebdd9b9a3d4dc12e81"
-
-[[files]]
 file = "kubejs/server_scripts/recipes/fixes/economy_recipe_fixes.js"
 hash = "76935b01bcc62ef55c2b49c3010e8abb8296de0ef7770e4a462dc5fd0a5dd09b"
 
@@ -1189,7 +1160,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "860a3575c2d712700cee7cc57c9d91b0c89a273a3fced97f9cd7ca26fd26583f"
+hash = "7361da2d6c770e2b403c68db7fcb80a562f05fad1a14ba0d1380f670ff3c854c"
 metafile = true
 
 [[files]]
@@ -2062,11 +2033,6 @@ hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
 
 [[files]]
-file = "mods/muffins-thais-delight.pw.toml"
-hash = "a7fb04811148797e2e9ab5cdfe50e4ed73c843dd5447c1099291dae3c778ae62"
-metafile = true
-
-[[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "db4e4babfeb24ddf55c947dcd12fcd2ee92e88848049d3f40363184e2a524d5b"
 metafile = true
@@ -2309,6 +2275,11 @@ hash = "75159247003092efc839be7e290102aacae32f4b3dcc31dbb3bfc1df7f54979a"
 metafile = true
 
 [[files]]
+file = "mods/scholar.pw.toml"
+hash = "ab61419d2a844be219563360454526e1809907a5ead09fcafd5a3ba0c3ae45e4"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
@@ -2535,12 +2506,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "27d76a999a38d86e3f4ea61636983e583d6371450bcca31eeb1fc138660ace1b"
+hash = "077c0e3257cc9fa57540c2267a18cca9fc850cd76f23b484ed07b9d98366d783"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b647fa6d9b0a7539c49e2350dc30795997420d7f6de4d09506f2d14b0b1bb063"
+hash = "60f00296654edefcfa3d462dfc06984307af073be5c4aa25255bda559352e86a"
 metafile = true
 
 [[files]]
@@ -2616,6 +2587,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/animatronic-conductor.pw.toml"
 hash = "333b182c5454f16ffeed1f0ee9fb1c6b5d1f2b9dd0754c4f89d9870230059048"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ferns-fancy-inventory.pw.toml"
+hash = "dda69c71b5f9f0d100916db1f6187983a16555b25cdcddb7115625046fa42777"
 metafile = true
 
 [[files]]
