@@ -89,4 +89,15 @@ ServerEvents.recipes((event) => {
         "minecraft:stick",
         "betterend:leather_wrapped_stick"
     )
+    
+    // Unique Shulker Box recipe
+    event.shaped("minecraft:shulker_box", [
+            "S",
+            "G",
+            "S",
+        ], {
+            S: "minecraft:shulker_shell",
+            G: "expandedstorage:gold_chest"
+        },
+    )
 })

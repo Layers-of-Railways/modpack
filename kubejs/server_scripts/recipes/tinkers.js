@@ -59,7 +59,6 @@ ServerEvents.recipes((event) => {
     });
 
     // Polys fixes
-    event.remove({id: 'tconstruct:armor/building/travelers_shield'})
     event.shaped('tconstruct:travelers_shield', [
         ' A ', 
         'ABA',

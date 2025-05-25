@@ -16,20 +16,6 @@ ServerEvents.recipes((event) => {
     ),
 
     // Remove neccesary recipes
-    event.remove({ output: 'xercamusic:tubular_bell' })
-    event.remove({ output: 'xercamusic:french_horn' })
-    event.remove({ output: 'xercamusic:saxophone' })
-    event.remove({ output: 'xercamusic:guitar' })
-    event.remove({ output: 'xercamusic:banjo' })
-    event.remove({ output: 'xercamusic:violin' })
-    event.remove({ output: 'xercamusic:cello' })
-    event.remove({ output: 'xercamusic:flute' })
-    event.remove({ output: 'xercamusic:drum' })
-    event.remove({ output: 'xercamusic:oboe' })
-    event.remove({ output: 'xercamusic:redstone_guitar' })
-    event.remove({ output: 'xercamusic:bass_guitar' })
-    event.remove({ output: 'xercamusic:piano' })
-    event.remove({ output: 'xercamusic:music_box' })
 
     event.shaped('xercamusic:tubular_bell', [
         'SSS',
