@@ -1011,12 +1011,12 @@ file = "kubejs/server_scripts/relics.js"
 hash = "03ea4c44e67ca95f31b6087da202e31ba335d548c2abff4bfb1577bdb2a348a4"
 
 [[files]]
-file = "kubejs/server_scripts/relics.js.orig"
-hash = "ac80c570ed02153a3dd69ada29976e61d3ff6759a46b300a2052c38c6eb8501b"
-
-[[files]]
 file = "kubejs/server_scripts/tags.js"
 hash = "e649d8bf832c7b3cc1fea2fbd85ca9ceec71c89b954904f0e8749e9bea08a54e"
+
+[[files]]
+file = "kubejs/startup_scripts/biofuel_burn_time.js"
+hash = "6431ec9cddcb2d9e7f3e0a83018b442ed7fcedf2c7a3d62a9b606e52d649ccfb"
 
 [[files]]
 file = "kubejs/startup_scripts/godforge/godforged_blocks.js"
@@ -1041,10 +1041,6 @@ hash = "00158b0a7a651d682952776e310964a1bd3b5446c146c1cd07f96b38d3026a01"
 [[files]]
 file = "kubejs/startup_scripts/race_components.js"
 hash = "0cebcfdb5dd1fa0e7629fbf2875aa7a0d15151aa45d10e9e2ce1e28a1f070010"
-
-[[files]]
-file = "kubejs/startup_scripts/startup.js.orig"
-hash = "f1c6dac1f16a36ef6ef2044c21a52ab1e9434cab17738d98f1f1caca83111dcf"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
