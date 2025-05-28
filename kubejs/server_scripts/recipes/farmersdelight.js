@@ -8,7 +8,6 @@ ServerEvents.recipes((event) => {
         });
     });
 
-    event.remove({ output: 'brewinandchewin:kimchi' })
     event.custom({
         "type": "brewinandchewin:fermenting",
         "experience": 0.6,
@@ -32,7 +31,6 @@ ServerEvents.recipes((event) => {
         "temperature": 3
     })
 
-    event.remove({ output: 'farmersdelight:hamburger' })
     event.shapeless('farmersdelight:hamburger', [ 
         'minecraft:bread',
         'farmersdelight:beef_patty',

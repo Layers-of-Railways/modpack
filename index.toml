@@ -98,7 +98,7 @@ hash = "70193fb4977fc63aea5cfbb1ec01b7cfb0d099c469740c61e2b7bf4dd27e60de"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "30c707f7fc8bd880c6b9c7b4ea7e0a99cf54ead82afc6c032a4082e618b57ead"
+hash = "002d376dd95d9c43466967a6049aeb48d252af2ee507b1c0ac489fe0987b6906"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -315,7 +315,7 @@ hash = "4a3e4a537d5ab774f35d13f573233b2750695d20434f513bf58411ba99699e03"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/font/default.json"
-hash = "432b1b70a957fb0fb3699d99b2a954792023924e961c5064448710fff3c4523c"
+hash = "6ea6c257f0a871bfa6901d7182e58d43edbf5bca63cffbe53b0b8cab77399312"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/admin.png"
@@ -328,6 +328,10 @@ hash = "48429654a25a9e1db26ec979d0f9b4f779c0c82815f806919aecfbdf13548838"
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/discord.png"
 hash = "ce37f67902a658b05d5b25a52ea9157c5b9f169a7846ee22610993ac05f5a084"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/helper.png"
+hash = "f3bd812ea3dbb489ef779787ea194c2fca2bf113a3cd8292c8e8c6433387453f"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/mod.png"
@@ -879,10 +883,6 @@ file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/water/clay.json"
 hash = "6f616e5b30d82f3f42490adde9b1ad222c956b9c66e465fbb3a8f91a039c6373"
 
 [[files]]
-file = "kubejs/server_scripts/Kirin Server Scripts/blaze_burner_fuels.js"
-hash = "6e738c78c082e04204d122be71b3bee46d82596ce17183c80200f5da4bb04536"
-
-[[files]]
 file = "kubejs/server_scripts/godforged_tag.js"
 hash = "5ba63d8deeaabdec09788754f9c816a5dafbc1e6e444ea28fc80b5ccf2fd249a"
 
@@ -936,7 +936,7 @@ hash = "c6f5233610de98f80eb2b1b2b6cf5e73df472a0ba096c0f5d209c53ee1b7b3e5"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/farmersdelight.js"
-hash = "8d599b88eda467bdfd6b2b2d72ce9516b06ed512f2f2e5f095c7acf5a4a4412e"
+hash = "f6e965ffee626a89576619345e2180a364db6ba27add8855845586f7d86f537e"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/fixes/economy_recipe_fixes.js"
@@ -944,7 +944,7 @@ hash = "76935b01bcc62ef55c2b49c3010e8abb8296de0ef7770e4a462dc5fd0a5dd09b"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/fixes/gamers recipe fixs.js"
-hash = "4ae94e3505af1cc3804d0f51f5f8c8d9af75adf8550f6ebf222bb98896042201"
+hash = "fcdd75e6ce6c5572e5aaf8a38b67fcd3d1d2cefb417c00e8de384d223b0b1d3f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/fixes/poly's fixes/lapisshard.js"
@@ -984,7 +984,7 @@ hash = "e26f0c5dff988b21dacb601eac1df0bca9ba27ca094955a02ca6e2a8561c361c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/misc_recipes.js"
-hash = "adeeb3a2297ee100c52fd7a05ab182c535b7d7bd55f5913ad517d0f1d5b21b03"
+hash = "e7060586defd2cb6c0b12dc0d95939170dadb09dca7102f0dd2c0fd0db15ee24"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/phonos.js"
@@ -992,7 +992,7 @@ hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/recipe_removals.js"
-hash = "f6e82022fc644b4be24851a8efcf3ed4da3b0aa26d6948d12a2ba1a2920fc327"
+hash = "7a314f9d2f5d8303b5e4d144e7671223ad659b9adf1d8ab52152b6da53442acb"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/smithing.js"
@@ -1000,11 +1000,11 @@ hash = "d54f1fb3afc2f8560ee5032fe5684deee96de51e2e194fcee6f00b28c35f6c86"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/tinkers.js"
-hash = "e04bf2f439814a94bb3bac04325d260caefaa77ec5ea99e34c11ec379429f25c"
+hash = "a44d8a05d2dbcd5d9828facf786d4a36f867467e3518a942e68887393937bd9c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/xercamusic.js"
-hash = "de4c3d20e88db0635342b5ad49c84b97c8f7b77105d629a1decf1688cd4bbaed"
+hash = "57b0c309d8214031feb2fa38b48148f9a5918ff8fb23909f48ad24e8f4c07c26"
 
 [[files]]
 file = "kubejs/server_scripts/relics.js"
@@ -1016,7 +1016,7 @@ hash = "ac80c570ed02153a3dd69ada29976e61d3ff6759a46b300a2052c38c6eb8501b"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "0bebee8ed75bfdd72194e8df3c37097b1f8fb19244b8ec1f324f18275670a669"
+hash = "e649d8bf832c7b3cc1fea2fbd85ca9ceec71c89b954904f0e8749e9bea08a54e"
 
 [[files]]
 file = "kubejs/startup_scripts/godforge/godforged_blocks.js"
@@ -1144,9 +1144,8 @@ hash = "c2934c3d89c1e0ab62a1cc87fe56bbb8510355722f977eb42ddf058cad7e5fc1"
 metafile = true
 
 [[files]]
-file = "mods/armourers-workshop.pw.toml"
-hash = "043114663adbb4a77278eeeb351d88a3285df1f0aa8e58f9d5beaf9510db14a8"
-metafile = true
+file = "mods/armourersworkshop-fabric-1.20.1-3.2.1-alpha.7.jar"
+hash = "1c5e327158a895d45772c2b95e2dc0c6f728a24967725fb95a0f908a19af2a39"
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
@@ -2631,3 +2630,7 @@ metafile = true
 [[files]]
 file = "unsup.ini"
 hash = "7aa4522a6e03f987bdceaa95be90c64a15ff4575dd089794283e30cf098e962d"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_railways.ithundxr.dev/server_config.txt"
+hash = "85626a853fbbb62539d329dc0a1cc5cf921f4dfaf552081b418ccc80adf0718a"

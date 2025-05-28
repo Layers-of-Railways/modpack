@@ -1,6 +1,9 @@
 // priority: 1000
 ServerEvents.recipes((event) => {
     let removeRecipe = [
+        // Misc
+        'tconstruct:armor/building/travelers_shield',
+        // ComputerCraft
         "computercraft:computer_advanced_upgrade",
         "computercraft:computer_advanced",
         "computercraft:cable",
@@ -15,14 +18,36 @@ ServerEvents.recipes((event) => {
         "computercraft:wireless_modem_advanced",
         "computercraft:monitor_normal",
         "computercraft:monitor_advanced",
-        "computercraft:speaker"
+        "computercraft:speaker",
+        'design_decor:crafting/gas_tank'
     ];
 
     let removeRecipeInput = [];
 
     let removeRecipeOutput = [
+        // Misc
         "create:cart_assembler",
         "deepdrilling:drill_core",
+        'zipline:zipline',
+        'design_decor:crafting/gas_tank',
+        // Xercamusic
+        'xercamusic:tubular_bell',
+        'xercamusic:french_horn',
+        'xercamusic:saxophone',
+        'xercamusic:guitar',
+        'xercamusic:banjo',
+        'xercamusic:violin',
+        'xercamusic:cello',
+        'xercamusic:flute',
+        'xercamusic:drum',
+        'xercamusic:oboe',
+        'xercamusic:redstone_guitar',
+        'xercamusic:bass_guitar',
+        'xercamusic:piano',
+        'xercamusic:music_box',
+        // Farmers Delight, Brewin and Chewin
+        'brewinandchewin:kimchi',
+        'farmersdelight:hamburger'
     ];
 
     removeRecipe.forEach((recipeID) => {
