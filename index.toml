@@ -1665,11 +1665,6 @@ hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
-file = "mods/flan.pw.toml"
-hash = "cac0fcbeec728403594eaf7fd32221413c960207d8fd5b61a0c54f2948eb4247"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
