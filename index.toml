@@ -2344,11 +2344,6 @@ hash = "b2c928a3b6f61ba90704491215f5a23b597704b1d442701cc3ed366d88022db5"
 metafile = true
 
 [[files]]
-file = "mods/staaaaaaaaaaaack.pw.toml"
-hash = "9c1376cfdcdd099f6d5a63634a62ee0bee7f27d1c71b44fc6024d4001aaf1607"
-metafile = true
-
-[[files]]
 file = "mods/structure-remover.pw.toml"
 hash = "0a68ad0aef99624a6bb9aec2f6e8d274ac6f1021352ab00cd32405aa68717f9c"
 metafile = true
