@@ -907,6 +907,10 @@ file = "kubejs/server_scripts/recipes/computercraft.js"
 hash = "f6c2608bcb3e2d8d7cb63a6775b736448a5d3e019fd6a2ccfbb40a61a05e911b"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/create/Pika oxidization recipes.js"
+hash = "7a698ff6673cfcdf6197dfe5627afb6f6158eaa4dfd1b260fbc56a14ba8b2c1a"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/create/compacting.js"
 hash = "d1db46335cd54fe213e94f73929f46367804dbd2b60d192cd29d14da97cc9d8a"
 
