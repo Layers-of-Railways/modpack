@@ -1016,7 +1016,7 @@ hash = "e649d8bf832c7b3cc1fea2fbd85ca9ceec71c89b954904f0e8749e9bea08a54e"
 
 [[files]]
 file = "kubejs/startup_scripts/biofuel_burn_time.js"
-hash = "6431ec9cddcb2d9e7f3e0a83018b442ed7fcedf2c7a3d62a9b606e52d649ccfb"
+hash = "d9e8e9133963b9077bb1c3da163572753e1bcd30f7fbf855b26ce491cbb16cbb"
 
 [[files]]
 file = "kubejs/startup_scripts/godforge/godforged_blocks.js"
