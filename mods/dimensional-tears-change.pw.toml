@@ -1,0 +1,13 @@
+name = "Dimensional Tears Change"
+filename = "dimensional-tears-change-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FIvb1yBR/versions/cBYZkT7b/dimensional-tears-change-1.0.jar"
+hash-format = "sha512"
+hash = "7dab6fd4cf6451a5ce2e0048bece5f365eb676ce42fd4f55ef17bcbce0147772a4463c23dfe1527a6873fae42a42cb944995d9d6743bd02a2bff1fe030700c2f"
+
+[update]
+[update.modrinth]
+mod-id = "FIvb1yBR"
+version = "cBYZkT7b"
