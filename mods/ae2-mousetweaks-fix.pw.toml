@@ -1,0 +1,13 @@
+name = "AE2 + Mouse Tweaks Fix"
+filename = "AE2-MouseTweaks-Fix-2.0.0+1.20.1+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/r3Ge6Tj5/versions/jJpmiNJP/AE2-MouseTweaks-Fix-2.0.0%2B1.20.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "b670d8003c32dfb7a83a5f6d61d240d1e19d61d16294585d70deeedacfe023abe99d5e648ea0e4245663d2d011dd28dea13f8c1654d68cf6c639d909b9111b8d"
+
+[update]
+[update.modrinth]
+mod-id = "r3Ge6Tj5"
+version = "jJpmiNJP"

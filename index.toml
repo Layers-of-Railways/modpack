@@ -1080,6 +1080,11 @@ hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
 
 [[files]]
+file = "mods/ae2-mousetweaks-fix.pw.toml"
+hash = "2b4bc7596c0c4ea12e17728530b201aa4b56284c68fc2d5b138a5ddc55ceee3c"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ac4237c7c669835ccb766bf1b2714af62a0982c6a93b30545460f18e7a776c70"
 metafile = true
@@ -1378,7 +1383,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bluemap.pw.toml"
-hash = "91defbe362311e9aa0ef4775c6b2f31b315a0c56d197f996c24ded2e32bab2ba"
+hash = "05408e1b50ba3ec0d501992037bd64a131dbea9d5de4ab131d274a18ec5c591b"
 metafile = true
 
 [[files]]
