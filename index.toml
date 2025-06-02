@@ -447,6 +447,14 @@ file = "config/styledplayerlist/styles/railways.json"
 hash = "bda0794b9cb5871c8aa87f65742d18f412b7e8b2e0581b870266120dbb2c2fe7"
 
 [[files]]
+file = "config/vmp.properties"
+hash = "3f51181d9d8927bdc8d3d102606a67588617a92a38d0421177150c469c8ae6e7"
+
+[[files]]
+file = "config/wiredredstone/common.json5"
+hash = "bc506f85acdee30e6cc558ab483d7fdf61a9e7583675917b26535053ed677609"
+
+[[files]]
 file = "config/yosbr/config/ae2/common.json"
 hash = "91fbb42365a8e3d8e423cbf05154f1b7c61a4343f465ccf52ba6663be0398956"
 
@@ -1092,11 +1100,6 @@ metafile = true
 [[files]]
 file = "mods/ae2_create_evecompat.pw.toml"
 hash = "5485fd3d231be784683bb3ebb5aef07c35221f6ba6ba8e9a834f7ea20121e00f"
-metafile = true
-
-[[files]]
-file = "mods/ae2things.pw.toml"
-hash = "ac1bd3ab117fd4f5a732cbce46ff31cca072dc8e5a5c2a5ac5a5cb9d60f54d5f"
 metafile = true
 
 [[files]]
