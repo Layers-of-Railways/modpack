@@ -1905,6 +1905,11 @@ hash = "86ce30ccc9a035c6249d8140abf8d0fae7f828472913409b3febf46394bbc34d"
 metafile = true
 
 [[files]]
+file = "mods/log-cleaner.pw.toml"
+hash = "63d64f4754723d236a768caf68ab67c358b19973b83ece45adf614ce0b9a4314"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "33315b872164da7d6ecb69cb3996dc2ac6d126a33eb8b7e90425874f257aa93a"
 metafile = true
