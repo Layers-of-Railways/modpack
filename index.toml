@@ -2484,11 +2484,6 @@ hash = "e39b6be6d8465829fe40a2e42d3a86dbde2266a7c7cf48ba2d5741baa1749cae"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
-metafile = true
-
-[[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
 metafile = true
