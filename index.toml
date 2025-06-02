@@ -1095,6 +1095,11 @@ hash = "5485fd3d231be784683bb3ebb5aef07c35221f6ba6ba8e9a834f7ea20121e00f"
 metafile = true
 
 [[files]]
+file = "mods/ae2things.pw.toml"
+hash = "ac1bd3ab117fd4f5a732cbce46ff31cca072dc8e5a5c2a5ac5a5cb9d60f54d5f"
+metafile = true
+
+[[files]]
 file = "mods/aileron.pw.toml"
 hash = "c631326a0c1333d1664315857d460cb3e1d5f3a54a75b8e6ac65944e93d2e455"
 metafile = true

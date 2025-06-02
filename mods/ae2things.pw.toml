@@ -1,0 +1,13 @@
+name = "AE2 Things"
+filename = "AE2Things-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/veunMwU3/versions/SKanB27c/AE2Things-1.3.2.jar"
+hash-format = "sha512"
+hash = "b945645544b677b4af79c2cf07470887fec5194e3ea89ded8e337d9340b798cc8930e02b31829dc87898c9834665570fbba6e1e4603bc1d8baa600d556502696"
+
+[update]
+[update.modrinth]
+mod-id = "veunMwU3"
+version = "SKanB27c"
