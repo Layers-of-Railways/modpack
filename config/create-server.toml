@@ -187,7 +187,7 @@
 		#.
 		#Maximum amount of blocks in a structure movable by Pistons, Bearings or other means.
 		#Range: > 1
-		maxBlocksMoved = 2048
+		maxBlocksMoved = 4096
 		#.
 		#Whether minecart contraptions can be placed from items.
 		contraptionPlacing = true
