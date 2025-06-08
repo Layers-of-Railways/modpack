@@ -26,7 +26,7 @@ hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "709080f0e25df2d04ee9d939ff7ca37eecd2950fd87bc005c9018dcc45dd641b"
+hash = "58f89dd8b8fd5b8b6d846223fe2f4e18b0b7a89627d0157d7c6cbef6a6e39937"
 
 [[files]]
 file = "config/create-track-map.json"
@@ -90,7 +90,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "8391ad5f1ecec542bacccc43d88c6e0b9da5957b0b570f7df4efd8f336fe575f"
+hash = "99e6ca3251767333bfe9397b4e389bcbb5a1b7627768dd1f32493e36490f5dc1"
 
 [[files]]
 file = "config/lmft.json"
@@ -1935,6 +1935,11 @@ hash = "86ce30ccc9a035c6249d8140abf8d0fae7f828472913409b3febf46394bbc34d"
 metafile = true
 
 [[files]]
+file = "mods/log-cleaner.pw.toml"
+hash = "63d64f4754723d236a768caf68ab67c358b19973b83ece45adf614ce0b9a4314"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "33315b872164da7d6ecb69cb3996dc2ac6d126a33eb8b7e90425874f257aa93a"
 metafile = true
@@ -2229,7 +2234,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "b29860a618f7088cb2d9321a6fef381665e7b093d0e4ecbd9c8abeaa1be3e1de"
+hash = "a09ce5b06d5ce684ecd5df7d8c7f5a9fd760a781bd6c171de7f524dafe804feb"
 metafile = true
 
 [[files]]
