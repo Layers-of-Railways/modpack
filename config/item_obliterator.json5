@@ -35,9 +35,7 @@
         "ae2:spatial_anchor",
         "ae2:matter_cannon",
         "minecraft:bedrock",
-        "minecraft:barrier",
-        "moderntrainparts:*_container",
-        "moderntrainparts:iron_tube"
+        "minecraft:barrier"
     ],
     // -----------------------------------------------------------
     // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
@@ -50,10 +48,7 @@
     // -----------------------------------------------------------
     // Items here will not be able to be right-clicked (Interact)
     //    Example: minecraft:apple
-    only_disable_interactions: [
-        "spelunkery:portal_fluid_bottle",
-        "spelunkery:portal_fluid_bucket"
-    ],
+    only_disable_interactions: [],
     // -----------------------------------------------------------
     // Items here will not be able to be used to attack
     //    Example: minecraft:diamond_sword
