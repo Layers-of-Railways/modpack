@@ -109,18 +109,6 @@ file = "config/paxi/datapack_load_order.json"
 hash = "3417b5e78836c3ab61d1b64366ba137f557b9760d774e50d97fdac07693f2c6c"
 
 [[files]]
-file = "config/paxi/datapacks/KirinsTweaks/data/minecraft/structures/end_city/ship.nbt"
-hash = "3eedd45c6b415a697e0f732a859c12e20608d7723c972b8e27f45ed08cb57521"
-
-[[files]]
-file = "config/paxi/datapacks/KirinsTweaks/pack.mcmeta"
-hash = "85d124d26e13461448ef9f0453c7d4a57ef39fcaa85b366cad60784d45781891"
-
-[[files]]
-file = "config/paxi/datapacks/KirinsTweaks/pack.png"
-hash = "8ba58dd1100359845adba82af9bf320e45b88e78e5b99b29e2d511ffc13111f2"
-
-[[files]]
 file = "config/paxi/datapacks/RailwaysTweaks/data/ae2/tags/worldgen/biome/has_meteorites.json"
 hash = "c54160d8e8654958f34db2692a16fe5ef4c3f84900d9180b873c54104178ae38"
 
