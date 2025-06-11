@@ -1458,11 +1458,6 @@ hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "1af769bd9f498ed9eeb3ca10a6895bf1eaff8799c37f2b57bb58e5aa413c8666"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
@@ -1620,11 +1615,6 @@ metafile = true
 [[files]]
 file = "mods/fabricated-zoomer.pw.toml"
 hash = "a71d5b64d5caa57d335d2cb7c3153fa02fdbfdbd4105b0c7959921cc6c78dac6"
-metafile = true
-
-[[files]]
-file = "mods/fabricexporter.pw.toml"
-hash = "4637aea36cfa56c6456981c710535cdde86f1006fb4c1ba239fbc759b782cd88"
 metafile = true
 
 [[files]]
@@ -2301,7 +2291,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "edba7765364ba526fcc7da563e9858d997dd9915401e08040c32de7f79d1bb91"
+hash = "5003f2c451c9459b7911ac786897eead4d74a8ebdad4741476949791b26c3caa"
 metafile = true
 
 [[files]]
@@ -2357,11 +2347,6 @@ metafile = true
 [[files]]
 file = "mods/structure-remover.pw.toml"
 hash = "0a68ad0aef99624a6bb9aec2f6e8d274ac6f1021352ab00cd32405aa68717f9c"
-metafile = true
-
-[[files]]
-file = "mods/styled-chat.pw.toml"
-hash = "4df7a83e4162bb71e20ef2bea25042daadf04ac5daab143b0035af0405160b65"
 metafile = true
 
 [[files]]
