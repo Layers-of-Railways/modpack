@@ -153,6 +153,11 @@ file = "config/paxi/datapacks/better-endcity-better-end.zip"
 hash = "642db2d0eb68dff95744946a16fa45b476b956e6d9603300cc83677f307f86ff"
 
 [[files]]
+file = "config/paxi/datapacks/create-new-age-recrafting.pw.toml"
+hash = "b19e31264b2b88d9af754e3e5f167cd018e618361594b20d4ae727d2c82b73d4"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/lectern-overhaul.pw.toml"
 hash = "45880fcb31bbfb72792003eed9a41ab2ad8f5a1d319f10fa729fe2f6dbb8aa51"
 metafile = true
@@ -360,6 +365,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/even-better-enchants.pw.toml"
 hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/newer-age.pw.toml"
+hash = "a4b248dc8851f286d84e0d44f4beac8e04ca2114f51f47806b92605cf949fb2c"
 metafile = true
 
 [[files]]
@@ -1420,6 +1430,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "2c65b7ed826a2d147f0eb4788152b9f1ae878e0df102af58a9ea23ebd1c48f04"
 metafile = true
 
 [[files]]

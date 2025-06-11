@@ -1,0 +1,13 @@
+name = "Newer Age"
+filename = "Newer Age v0.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LhN4MLwK/versions/vb9yW89v/Newer%20Age%20v0.2.zip"
+hash-format = "sha512"
+hash = "0e5b6c0af0a45bfc52751077973baba0aefb114292c6b2f12e3ea877894a8ab9372876ed7ae4d984a8b19a15faae0d7306706824f513e94e9d0ef2002032cf2f"
+
+[update]
+[update.modrinth]
+mod-id = "LhN4MLwK"
+version = "vb9yW89v"
