@@ -2350,11 +2350,6 @@ hash = "0a68ad0aef99624a6bb9aec2f6e8d274ac6f1021352ab00cd32405aa68717f9c"
 metafile = true
 
 [[files]]
-file = "mods/styledplayerlist.pw.toml"
-hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
-metafile = true
-
-[[files]]
 file = "mods/stylish-effects.pw.toml"
 hash = "263bf7a6be51bb4154f866d3ec0e57bb52d4109c9f0d0e0c81d31d55ceb08c61"
 metafile = true
