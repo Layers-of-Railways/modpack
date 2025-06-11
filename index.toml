@@ -2123,6 +2123,11 @@ hash = "82c9f3b080b24f089af2bdfa5b1c608b22855bbd7dc8b3b84b13412581715a1f"
 metafile = true
 
 [[files]]
+file = "mods/packwiz-server-updater.pw.toml"
+hash = "347950b1eeca96af2b64d83309fde3d854f400cc90d343f0dbf28b6b08573800"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "8d1b6bac3c5126ea931a02fc9237bb064a39714fc3ddc8f6161b85d3c757cf10"
 metafile = true
