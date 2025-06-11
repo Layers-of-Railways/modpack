@@ -1,15 +1,13 @@
-name = "create-bluemap"
-filename = "create-bluemap-fabric-0.1.1+fabric-1.20.1-build.27.jar"
+name = "Create BlueMap"
+filename = "create-bluemap-fabric-1.0.0+fabric-1.20.1-build.32.jar"
 side = "server"
 
 [download]
-url = "https://github.com/Szedann/create-bluemap/releases/download/v0.1.1/create-bluemap-fabric-0.1.1%2Bfabric-1.20.1-build.27.jar"
-hash-format = "sha256"
-hash = "93e6578134d8d5fa6e1b1090979c21aaab7777d61c82f1e0cc4223700274316e"
+url = "https://cdn.modrinth.com/data/W9e7rf1y/versions/AoHFWwaz/create-bluemap-fabric-1.0.0%2Bfabric-1.20.1-build.32.jar"
+hash-format = "sha512"
+hash = "15a08f1cf3dc659e9b088097b910fe5e7a270f1b7992963823412310d9d1786e53c6fd832a55ade50a58b582a91f7f9a734f5d8025d08559efa1f3131e95632d"
 
 [update]
-[update.github]
-branch = "master"
-regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
-slug = "Szedann/create-bluemap"
-tag = "v0.1.1"
+[update.modrinth]
+mod-id = "W9e7rf1y"
+version = "AoHFWwaz"

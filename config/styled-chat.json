@@ -61,7 +61,6 @@
             "strikethrough": true
         },
         "emoticons": {
-            "$emojibase:builtin:joypixels": "${emoji}",
             "shrug": "¯\\_(ツ)_/¯",
             "table": "(╯°□°）╯︵ ┻━┻",
             "sword": "🗡",

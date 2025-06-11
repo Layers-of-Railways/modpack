@@ -1,3 +1,6 @@
 {
-    "loadOrder": []
+    "loadOrder": [
+	"datapacks/better-endcity-better-end.zip",
+	"datapacks/KirinsTweaks"
+	]
 }

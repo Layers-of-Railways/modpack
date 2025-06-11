@@ -90,7 +90,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "8391ad5f1ecec542bacccc43d88c6e0b9da5957b0b570f7df4efd8f336fe575f"
+hash = "99e6ca3251767333bfe9397b4e389bcbb5a1b7627768dd1f32493e36490f5dc1"
 
 [[files]]
 file = "config/lmft.json"
@@ -106,7 +106,7 @@ hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "99952cb5424105ebdb3b4ac85c17d0312a1b9bfec40bc2096436c55d09f473db"
+hash = "3417b5e78836c3ab61d1b64366ba137f557b9760d774e50d97fdac07693f2c6c"
 
 [[files]]
 file = "config/paxi/datapacks/RailwaysTweaks/data/ae2/tags/worldgen/biome/has_meteorites.json"
@@ -424,7 +424,7 @@ hash = "4714e5ca5d24131a24f11ef39730ba60bc35c57808a68b30e94624fbe580204c"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "06cc392d5096536b6e51a276d9e1c488c308622ae333a17710ca2f396abe7db7"
+hash = "9a4e1458dc459b71d24525da4be68e38429e53504eb3b2e4942bd26082b85689"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
@@ -433,6 +433,14 @@ hash = "8d09ff1ef085fabc8cc1a7c4a728c07925806973a5617d2b1fb36b317d460089"
 [[files]]
 file = "config/styledplayerlist/styles/railways.json"
 hash = "bda0794b9cb5871c8aa87f65742d18f412b7e8b2e0581b870266120dbb2c2fe7"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "3f51181d9d8927bdc8d3d102606a67588617a92a38d0421177150c469c8ae6e7"
+
+[[files]]
+file = "config/wiredredstone/common.json5"
+hash = "bc506f85acdee30e6cc558ab483d7fdf61a9e7583675917b26535053ed677609"
 
 [[files]]
 file = "config/yosbr/config/ae2/common.json"
@@ -895,6 +903,10 @@ file = "kubejs/server_scripts/recipes/computercraft.js"
 hash = "f6c2608bcb3e2d8d7cb63a6775b736448a5d3e019fd6a2ccfbb40a61a05e911b"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/create/Pika oxidization recipes.js"
+hash = "7a698ff6673cfcdf6197dfe5627afb6f6158eaa4dfd1b260fbc56a14ba8b2c1a"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/create/compacting.js"
 hash = "d1db46335cd54fe213e94f73929f46367804dbd2b60d192cd29d14da97cc9d8a"
 
@@ -999,12 +1011,12 @@ file = "kubejs/server_scripts/relics.js"
 hash = "03ea4c44e67ca95f31b6087da202e31ba335d548c2abff4bfb1577bdb2a348a4"
 
 [[files]]
-file = "kubejs/server_scripts/relics.js.orig"
-hash = "ac80c570ed02153a3dd69ada29976e61d3ff6759a46b300a2052c38c6eb8501b"
-
-[[files]]
 file = "kubejs/server_scripts/tags.js"
 hash = "e649d8bf832c7b3cc1fea2fbd85ca9ceec71c89b954904f0e8749e9bea08a54e"
+
+[[files]]
+file = "kubejs/startup_scripts/biofuel_burn_time.js"
+hash = "d9e8e9133963b9077bb1c3da163572753e1bcd30f7fbf855b26ce491cbb16cbb"
 
 [[files]]
 file = "kubejs/startup_scripts/godforge/godforged_blocks.js"
@@ -1029,10 +1041,6 @@ hash = "00158b0a7a651d682952776e310964a1bd3b5446c146c1cd07f96b38d3026a01"
 [[files]]
 file = "kubejs/startup_scripts/race_components.js"
 hash = "0cebcfdb5dd1fa0e7629fbf2875aa7a0d15151aa45d10e9e2ce1e28a1f070010"
-
-[[files]]
-file = "kubejs/startup_scripts/startup.js.orig"
-hash = "f1c6dac1f16a36ef6ef2044c21a52ab1e9434cab17738d98f1f1caca83111dcf"
 
 [[files]]
 file = "kubejs/startup_scripts/vivvys_arcane_arsenal.js"
@@ -1065,6 +1073,11 @@ metafile = true
 [[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
+metafile = true
+
+[[files]]
+file = "mods/ae2-mousetweaks-fix.pw.toml"
+hash = "2b4bc7596c0c4ea12e17728530b201aa4b56284c68fc2d5b138a5ddc55ceee3c"
 metafile = true
 
 [[files]]
@@ -1366,7 +1379,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bluemap.pw.toml"
-hash = "91defbe362311e9aa0ef4775c6b2f31b315a0c56d197f996c24ded2e32bab2ba"
+hash = "05408e1b50ba3ec0d501992037bd64a131dbea9d5de4ab131d274a18ec5c591b"
 metafile = true
 
 [[files]]
@@ -1445,11 +1458,6 @@ hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "1af769bd9f498ed9eeb3ca10a6895bf1eaff8799c37f2b57bb58e5aa413c8666"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
@@ -1482,6 +1490,11 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
+metafile = true
+
+[[files]]
+file = "mods/dimensional-tears-change.pw.toml"
+hash = "aeda157639063f5c0422e1f69a137171829f5eaef3b8961dfd2439ead0a65f7c"
 metafile = true
 
 [[files]]
@@ -1602,11 +1615,6 @@ metafile = true
 [[files]]
 file = "mods/fabricated-zoomer.pw.toml"
 hash = "a71d5b64d5caa57d335d2cb7c3153fa02fdbfdbd4105b0c7959921cc6c78dac6"
-metafile = true
-
-[[files]]
-file = "mods/fabricexporter.pw.toml"
-hash = "4637aea36cfa56c6456981c710535cdde86f1006fb4c1ba239fbc759b782cd88"
 metafile = true
 
 [[files]]
@@ -2115,6 +2123,11 @@ hash = "82c9f3b080b24f089af2bdfa5b1c608b22855bbd7dc8b3b84b13412581715a1f"
 metafile = true
 
 [[files]]
+file = "mods/packwiz-server-updater.pw.toml"
+hash = "347950b1eeca96af2b64d83309fde3d854f400cc90d343f0dbf28b6b08573800"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "8d1b6bac3c5126ea931a02fc9237bb064a39714fc3ddc8f6161b85d3c757cf10"
 metafile = true
@@ -2263,7 +2276,7 @@ metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "ab61419d2a844be219563360454526e1809907a5ead09fcafd5a3ba0c3ae45e4"
+hash = "081229f2d9c0e671971a55478a1e20a96a2a87257fa03cac708f2d3df80c2d1b"
 metafile = true
 
 [[files]]
@@ -2283,7 +2296,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "edba7765364ba526fcc7da563e9858d997dd9915401e08040c32de7f79d1bb91"
+hash = "5003f2c451c9459b7911ac786897eead4d74a8ebdad4741476949791b26c3caa"
 metafile = true
 
 [[files]]
@@ -2339,16 +2352,6 @@ metafile = true
 [[files]]
 file = "mods/structure-remover.pw.toml"
 hash = "0a68ad0aef99624a6bb9aec2f6e8d274ac6f1021352ab00cd32405aa68717f9c"
-metafile = true
-
-[[files]]
-file = "mods/styled-chat.pw.toml"
-hash = "4df7a83e4162bb71e20ef2bea25042daadf04ac5daab143b0035af0405160b65"
-metafile = true
-
-[[files]]
-file = "mods/styledplayerlist.pw.toml"
-hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
 metafile = true
 
 [[files]]
