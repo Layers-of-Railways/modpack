@@ -2286,7 +2286,7 @@ metafile = true
 
 [[files]]
 file = "mods/semaphore.pw.toml"
-hash = "0a3e14d62512948a39bff4c549d320aa5aee301e85fa2eea3948243d761c0c07"
+hash = "f953123c56357153b2c70f72826ee7e783f7f807527131fd833a53bbed58be42"
 metafile = true
 
 [[files]]
