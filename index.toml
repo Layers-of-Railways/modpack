@@ -2285,6 +2285,11 @@ hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
 
 [[files]]
+file = "mods/semaphore.pw.toml"
+hash = "fbc1d775a53c04a51c9bf888dcc3e9a33b24a6e022714613aa32bbac7c8dd100"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
