@@ -1008,7 +1008,7 @@ hash = "57b0c309d8214031feb2fa38b48148f9a5918ff8fb23909f48ad24e8f4c07c26"
 
 [[files]]
 file = "kubejs/server_scripts/relics.js"
-hash = "03ea4c44e67ca95f31b6087da202e31ba335d548c2abff4bfb1577bdb2a348a4"
+hash = "969a8b888e690d5202eee3b081404988d7dd43efaf394928d9f73629e7e67eaa"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
