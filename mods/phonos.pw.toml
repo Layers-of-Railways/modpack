@@ -1,0 +1,15 @@
+name = "Phonos"
+filename = "phonos-1.0.0-beta.29+fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Layers-of-Railways/Phonos/releases/download/1.0.0-beta.29%2B1.21.1/phonos-1.0.0-beta.29%2Bfabric-1.21.1.jar"
+hash-format = "sha256"
+hash = "95a9169b6a0cc572742ac3f40f37b12a5f070dc4aee3acc1f0195ab8aad0d966"
+
+[update]
+[update.github]
+branch = "1.21/blanketcon25-nbs"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Layers-of-Railways/Phonos"
+tag = "1.0.0-beta.29+1.21.1"
