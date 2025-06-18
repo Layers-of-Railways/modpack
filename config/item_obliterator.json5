@@ -32,10 +32,14 @@
         "createaddition:creative_energy",
         "spelunkery:flint_hammer_and_chisel",
         "spelunkery:obsidian_hammer_and_chisel",
+        "spelunkery:compression_blast_miner",
+        "spelunkery:mineomite",
+        "supplementaries:bomb",
+        "supplementaries:bomb_blue",
         "ae2:spatial_anchor",
         "ae2:matter_cannon",
         "minecraft:bedrock",
-        "minecraft:barrier"
+        "minecraft:barrier",
     ],
     // -----------------------------------------------------------
     // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
