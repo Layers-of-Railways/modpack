@@ -5,7 +5,7 @@ PlayerEvents.tick((event) => {
             event.player.tell(Text.gold("Shards cannot support the magic of an enchantment! The arcane energy sizzles and fades..."));
             event.player.mainHandItem.nbt.remove('Enchantments'); // remove enchantment
           }
-    } else if (event.player.offHandItem.id.includes("kubejs") && event.player.offHandItem.id.includes("shard"))) { //same as above on offhand
+    } else if (event.player.offHandItem.id.includes("kubejs") && event.player.offHandItem.id.includes("shard")) { //same as above on offhand
         if (event.player.offhandItem.nbtString.includes("Enchantment")) {
             event.player.tell(Text.gold("Shards cannot support the magic of an enchantment! The arcane energy sizzles and fades..."));
             event.player.offHandItem.nbt.remove('Enchantments');

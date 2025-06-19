@@ -307,7 +307,7 @@ hash = "6ea6c257f0a871bfa6901d7182e58d43edbf5bca63cffbe53b0b8cab77399312"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/admin.png"
-hash = "7fe02803a75b7cd5c1a604418c5f03c396a1da9236185450b613618dd1140cfb"
+hash = "99d7f5e0fc779757bc976ff2026df9e385c06cea14276ff91ec8bcb4d6570cf8"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/dev.png"
@@ -319,7 +319,7 @@ hash = "ce37f67902a658b05d5b25a52ea9157c5b9f169a7846ee22610993ac05f5a084"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/helper.png"
-hash = "f3bd812ea3dbb489ef779787ea194c2fca2bf113a3cd8292c8e8c6433387453f"
+hash = "191d80cda15695a49dbfe5b15eded712bb9d3d73b8cd9798910dbf5c691602c7"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/mod.png"
@@ -879,6 +879,10 @@ file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/water/clay.json"
 hash = "6f616e5b30d82f3f42490adde9b1ad222c956b9c66e465fbb3a8f91a039c6373"
 
 [[files]]
+file = "kubejs/server_scripts/angelboost.js"
+hash = "f7167be2b74b1a58fa9f58a0afb2f0b8defee8192b58fec88780dca332e89e31"
+
+[[files]]
 file = "kubejs/server_scripts/godforged_tag.js"
 hash = "5ba63d8deeaabdec09788754f9c816a5dafbc1e6e444ea28fc80b5ccf2fd249a"
 
@@ -1008,7 +1012,7 @@ hash = "57b0c309d8214031feb2fa38b48148f9a5918ff8fb23909f48ad24e8f4c07c26"
 
 [[files]]
 file = "kubejs/server_scripts/relics.js"
-hash = "969a8b888e690d5202eee3b081404988d7dd43efaf394928d9f73629e7e67eaa"
+hash = "0b0e4b8fed893b45deeb1c59a74a421595a8b84ad3a106313079666b75b58ed5"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
