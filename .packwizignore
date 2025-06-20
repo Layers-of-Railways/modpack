@@ -37,6 +37,3 @@ CNAME
 
 kubejs/probe
 jsconfig.json
-
-# Exclude Numismatics
-server/
