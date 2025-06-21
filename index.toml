@@ -303,7 +303,7 @@ hash = "4a3e4a537d5ab774f35d13f573233b2750695d20434f513bf58411ba99699e03"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/font/default.json"
-hash = "6ea6c257f0a871bfa6901d7182e58d43edbf5bca63cffbe53b0b8cab77399312"
+hash = "a88a736073530eda1133c8d3a3dc18ac7fd30f0f70362cf4160fb8312f1e5dda"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/admin.png"
@@ -324,6 +324,10 @@ hash = "191d80cda15695a49dbfe5b15eded712bb9d3d73b8cd9798910dbf5c691602c7"
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/mod.png"
 hash = "151f0ac62722b9868d2838603f5666497a615d5341e177e29773c339f9adaeff"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/railknights.png"
+hash = "a89a70cb23924284e6a20cfe9b59c7f04838bb52f4cf950f4dbdbd9fed7c9438"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/user.png"

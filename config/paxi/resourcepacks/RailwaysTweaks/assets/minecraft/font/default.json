@@ -48,6 +48,13 @@
             "height": 9,
             "ascent": 8,
             "chars": ["\uF036"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/railknights.png",
+            "height": 9,
+            "ascent": 8,
+            "chars": ["\uF037"]
         }
     ]
 }
