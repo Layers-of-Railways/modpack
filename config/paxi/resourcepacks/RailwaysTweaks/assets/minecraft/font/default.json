@@ -48,6 +48,20 @@
             "height": 9,
             "ascent": 8,
             "chars": ["\uF036"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/railknights.png",
+            "height": 9,
+            "ascent": 8,
+            "chars": ["\uF037"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/compguild.png",
+            "height": 9,
+            "ascent": 8,
+            "chars": ["\uF038"]
         }
     ]
 }
