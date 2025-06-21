@@ -62,6 +62,13 @@
             "height": 9,
             "ascent": 8,
             "chars": ["\uF038"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/onbreak.png",
+            "height": 9,
+            "ascent": 8,
+            "chars": ["\uF039"]
         }
     ]
 }
