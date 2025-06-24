@@ -1028,7 +1028,7 @@ hash = "0b0e4b8fed893b45deeb1c59a74a421595a8b84ad3a106313079666b75b58ed5"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "e649d8bf832c7b3cc1fea2fbd85ca9ceec71c89b954904f0e8749e9bea08a54e"
+hash = "8ebd52075665b79664e02c05e28a27220c826b8bbb7bb2d8f1de89c2ce355511"
 
 [[files]]
 file = "kubejs/startup_scripts/biofuel_burn_time.js"

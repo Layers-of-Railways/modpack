@@ -61,6 +61,8 @@ ServerEvents.tags("block", (event) => {
         event.add("railways:semaphore_poles", id);
     });
 
+    event.add("railways:semaphore_poles", "#minecraft:walls");
+
     non_movable.forEach((id) => {
         event.add("create:non_movable", id);
     });
