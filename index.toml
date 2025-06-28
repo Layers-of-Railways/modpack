@@ -955,6 +955,10 @@ file = "kubejs/server_scripts/recipes/farmersdelight.js"
 hash = "f6e965ffee626a89576619345e2180a364db6ba27add8855845586f7d86f537e"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/fixes/Wiz Recipe Fixes.js"
+hash = "444ef2ca9888057ac489dda06435dd35b1c395d0ff3de0c14c203041c0a0c038"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/fixes/economy_recipe_fixes.js"
 hash = "76935b01bcc62ef55c2b49c3010e8abb8296de0ef7770e4a462dc5fd0a5dd09b"
 
