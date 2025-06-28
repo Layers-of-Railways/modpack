@@ -1028,7 +1028,7 @@ hash = "0b0e4b8fed893b45deeb1c59a74a421595a8b84ad3a106313079666b75b58ed5"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "e649d8bf832c7b3cc1fea2fbd85ca9ceec71c89b954904f0e8749e9bea08a54e"
+hash = "8ebd52075665b79664e02c05e28a27220c826b8bbb7bb2d8f1de89c2ce355511"
 
 [[files]]
 file = "kubejs/startup_scripts/biofuel_burn_time.js"
@@ -1460,7 +1460,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
+hash = "76aba8d8cc62f325d52613c1b66d17dae77dd1df918b1153fc2bd5fb80b42a27"
 metafile = true
 
 [[files]]
@@ -2164,8 +2164,9 @@ hash = "a0fb6a028f0c5b75ca2cc625cf81eec3e84ea856762df2561d2dbcb28c65289a"
 metafile = true
 
 [[files]]
-file = "mods/phonos-1.0.0-beta.20+fabric-1.20.1.jar"
-hash = "f1a410e2e8c48d13ec319a528af481e39d019dc86ac3e39c8993f5048f2f6958"
+file = "mods/phonos.pw.toml"
+hash = "2c44845294d691881afbe079df41b560d011d45b4fa989a3e29defda77237a04"
+metafile = true
 
 [[files]]
 file = "mods/picturesign-2.0.0-beta.1+unascribedtheora-patch.5.jar"
