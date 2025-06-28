@@ -1460,7 +1460,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
+hash = "76aba8d8cc62f325d52613c1b66d17dae77dd1df918b1153fc2bd5fb80b42a27"
 metafile = true
 
 [[files]]
