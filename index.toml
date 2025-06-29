@@ -1649,7 +1649,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "d7f5c29f51b6e866f2227936ca124123ef5794813b791faf04d9fa66723bf2ff"
+hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
 metafile = true
 
 [[files]]
@@ -2238,7 +2238,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "bf53e4aab0ec7177c597fb822e8d06c8dea08e130f2ec8e0aa7cca491bf0a303"
+hash = "f6290e2d0a2018b37c81ebf01437035670c8e78622956d4564d1c5b69020a00d"
 metafile = true
 
 [[files]]
