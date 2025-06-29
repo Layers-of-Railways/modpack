@@ -955,6 +955,10 @@ file = "kubejs/server_scripts/recipes/farmersdelight.js"
 hash = "f6e965ffee626a89576619345e2180a364db6ba27add8855845586f7d86f537e"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/fixes/Wiz Recipe Fixes.js"
+hash = "444ef2ca9888057ac489dda06435dd35b1c395d0ff3de0c14c203041c0a0c038"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/fixes/economy_recipe_fixes.js"
 hash = "76935b01bcc62ef55c2b49c3010e8abb8296de0ef7770e4a462dc5fd0a5dd09b"
 
@@ -1645,7 +1649,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "d7f5c29f51b6e866f2227936ca124123ef5794813b791faf04d9fa66723bf2ff"
+hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
 metafile = true
 
 [[files]]
@@ -2234,7 +2238,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "a09ce5b06d5ce684ecd5df7d8c7f5a9fd760a781bd6c171de7f524dafe804feb"
+hash = "ec662ac7dae5ecebfd7fc56fb33c1e9e28b30afda77d2e57d6c792bcec5b2d68"
 metafile = true
 
 [[files]]
