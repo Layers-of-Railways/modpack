@@ -420,7 +420,7 @@ hash = "d035bf2bd85727f1b20388b919ffe022cf453087e6d382c5b00bd9e704ccc49c"
 
 [[files]]
 file = "config/remote_player_waypoints_for_xaero/general.json5"
-hash = "c31bb987d0fd7649c8f1f81d8f2cfb1457b8e641e8ac036adac89d4a277303b7"
+hash = "f8bdeab99f6b898281bc90ea110f220f8bc5e15b47c1ad951a40108d2f279f2a"
 
 [[files]]
 file = "config/servercore/config.yml"
