@@ -4,8 +4,8 @@
 	"serverEntries": [
 		{
 			"maptype": "Bluemap",
-			"ip": "railways.ithundxr.dev",
-			"link": "map.railways.ithundxr.dev"
+			"ip": "s2.railways.dev",
+			"link": "map.s2.railways.dev"
 		}
 	],
 	"defaultY": 64,
