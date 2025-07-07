@@ -69,7 +69,7 @@ ServerEvents.tags("block", (event) => {
     });
     // Tinkers budding blocks
     tinkers_crystal_types.forEach((type) => {
-	event.add(`tconstruct:budding_${type}_slime_crystal`);
+	event.add("c:budding_blocks", `tconstruct:budding_${type}_slime_crystal`);
     });
 });
 
