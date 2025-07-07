@@ -50,6 +50,13 @@ let non_movable = [
 let bottomless_allow = ["create:honey", "milk:milk_fluid_block"];
 const tinkers_crystal_types = ["earth", "sky", "ichor", "ender"];
 
+const modded_elytras = [
+    "estrogen:moth_elytra",
+    "betterend:elytra_armored",
+    "bettterend:elytra_crystalite",
+    "tconstruct:slime_chestplate"
+]
+
 ServerEvents.tags("block", (event) => {
     better_end_chests.forEach((id) => {
         event.add("lootr:convert/chests", id);
@@ -79,6 +86,8 @@ ServerEvents.tags("fluid", (event) => {
     });
 });
 
+
+
 ServerEvents.tags("item", (event) => {
     // Ore tags
     const ingots = ["copper", "brass", "zinc", "gold", "silver"];
@@ -96,4 +105,9 @@ ServerEvents.tags("item", (event) => {
     // Kirins fuel tags
     event.add("create:blaze_burner_fuel/special", "createaddition:bioethanol_bucket")
     event.add("create:blaze_burner_fuel/regular", "createaddition:seed_oil_bucket")
+
+    // Aileron Enchantment tags
+    modded_elytras.forEach((id) => {
+        event.add("aileron:elytra", id)
+    })
 });
