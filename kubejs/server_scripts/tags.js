@@ -48,6 +48,7 @@ let non_movable = [
 ];
 
 let bottomless_allow = ["create:honey", "milk:milk_fluid_block"];
+const tinkers_crystal_types = ["earth", "sky", "ichor", "ender"];
 
 ServerEvents.tags("block", (event) => {
     better_end_chests.forEach((id) => {
@@ -65,6 +66,10 @@ ServerEvents.tags("block", (event) => {
 
     non_movable.forEach((id) => {
         event.add("create:non_movable", id);
+    });
+    // Tinkers budding blocks
+    tinkers_crystal_types.forEach((type) => {
+	event.add(`tconstruct:budding_${type}_slime_crystal`);
     });
 });
 

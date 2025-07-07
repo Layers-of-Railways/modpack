@@ -90,7 +90,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "547c2de0085a176a314f1af3b498df027ba98a648ce0dd2b3ffd4806037aa55f"
+hash = "0a7e37d34b441ab744e1ad2b8a16ef8f5cdb16c3f722609ff529f25e634ee253"
 
 [[files]]
 file = "config/lmft.json"
@@ -1032,7 +1032,7 @@ hash = "0b0e4b8fed893b45deeb1c59a74a421595a8b84ad3a106313079666b75b58ed5"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "8ebd52075665b79664e02c05e28a27220c826b8bbb7bb2d8f1de89c2ce355511"
+hash = "c614147579064cb5886cfb1eff71c5048e6736f52487cb2091b92cc80a167532"
 
 [[files]]
 file = "kubejs/startup_scripts/biofuel_burn_time.js"
@@ -1320,7 +1320,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "9429467855b96d1437d6335f45282625c4af182ec760a876f97270d0f2397f5a"
+hash = "62fb498f541daf662929f2e1241fe4fc350af6f90f529de76a8f4a1987b2a756"
 metafile = true
 
 [[files]]
