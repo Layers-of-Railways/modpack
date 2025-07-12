@@ -79,7 +79,7 @@
                   {
                     "condition": "minecraft:location_check",
                     "predicate": {
-                      "structure": "minecraft:fortress"
+                      "structure": "betterfortresses:fortress"
                     }
                   }
                 ]

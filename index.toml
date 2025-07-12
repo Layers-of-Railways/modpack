@@ -90,7 +90,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "547c2de0085a176a314f1af3b498df027ba98a648ce0dd2b3ffd4806037aa55f"
+hash = "0a7e37d34b441ab744e1ad2b8a16ef8f5cdb16c3f722609ff529f25e634ee253"
 
 [[files]]
 file = "config/lmft.json"
@@ -880,7 +880,7 @@ hash = "45d26a6d873bea2dbb9b693865225b218050b3cd61e11a3118c53c6814ed6e3c"
 
 [[files]]
 file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/lava/passive.json"
-hash = "e4a27bee2c336a8f69cd0fc35dd9c254ab7746e19b9992588e9322e6cb47cca4"
+hash = "0cf169f27673c4555df43451d56572a49fd919d5495b7efdd55a6da58100cab3"
 
 [[files]]
 file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/portal_fluid/passive.json"
@@ -1032,7 +1032,7 @@ hash = "0b0e4b8fed893b45deeb1c59a74a421595a8b84ad3a106313079666b75b58ed5"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "8ebd52075665b79664e02c05e28a27220c826b8bbb7bb2d8f1de89c2ce355511"
+hash = "c4f3ea626d5dde7d36d19c49bba863bd1080ef01bc4a6259825f7efac82ae0d7"
 
 [[files]]
 file = "kubejs/startup_scripts/biofuel_burn_time.js"
@@ -1320,7 +1320,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "9429467855b96d1437d6335f45282625c4af182ec760a876f97270d0f2397f5a"
+hash = "62fb498f541daf662929f2e1241fe4fc350af6f90f529de76a8f4a1987b2a756"
 metafile = true
 
 [[files]]
@@ -2019,7 +2019,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0b60e339316c855ac576bc8884185c8678e951c39bec99bd1c76106d5efaf573"
+hash = "8833d26bb1840c79ebd7ba91558a28fefef26ec743cb92fcb45372fcdd3a8412"
 metafile = true
 
 [[files]]
@@ -2169,7 +2169,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonos.pw.toml"
-hash = "2c44845294d691881afbe079df41b560d011d45b4fa989a3e29defda77237a04"
+hash = "89e1aa179b419f31ddc2998a371361fe7ee3c65e87f0242c90d51c4a6900d6f7"
 metafile = true
 
 [[files]]
@@ -2238,7 +2238,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "ec662ac7dae5ecebfd7fc56fb33c1e9e28b30afda77d2e57d6c792bcec5b2d68"
+hash = "ebd4a29da89ba29fafb260190915ae71e7477f4f9f6ec3ff1454a4d9317addbe"
 metafile = true
 
 [[files]]
@@ -2307,7 +2307,7 @@ metafile = true
 
 [[files]]
 file = "mods/semaphore.pw.toml"
-hash = "d78e99af1cc633034a145fda9389ee63b940c1414351cb44e06a8de874c69763"
+hash = "f32395b4d2a598dc2811bb76dcb945ae643e5f0d19f74850195155fe00f1baa3"
 metafile = true
 
 [[files]]

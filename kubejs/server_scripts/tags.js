@@ -48,6 +48,14 @@ let non_movable = [
 ];
 
 let bottomless_allow = ["create:honey", "milk:milk_fluid_block"];
+const tinkers_crystal_types = ["earth", "sky", "ichor", "ender"];
+
+const modded_elytras = [
+    "estrogen:moth_elytra",
+    "betterend:elytra_armored",
+    "bettterend:elytra_crystalite",
+    "tconstruct:slime_chestplate"
+]
 
 ServerEvents.tags("block", (event) => {
     better_end_chests.forEach((id) => {
@@ -66,6 +74,10 @@ ServerEvents.tags("block", (event) => {
     non_movable.forEach((id) => {
         event.add("create:non_movable", id);
     });
+    // Tinkers budding blocks
+    tinkers_crystal_types.forEach((type) => {
+	event.add("c:budding_blocks", `tconstruct:budding_${type}_slime_crystal`);
+    });
 });
 
 ServerEvents.tags("fluid", (event) => {
@@ -73,6 +85,8 @@ ServerEvents.tags("fluid", (event) => {
         event.add("create:bottomless/allow", id);
     });
 });
+
+
 
 ServerEvents.tags("item", (event) => {
     // Ore tags
@@ -91,4 +105,9 @@ ServerEvents.tags("item", (event) => {
     // Kirins fuel tags
     event.add("create:blaze_burner_fuel/special", "createaddition:bioethanol_bucket")
     event.add("create:blaze_burner_fuel/regular", "createaddition:seed_oil_bucket")
+
+    // Aileron Enchantment tags
+    modded_elytras.forEach((id) => {
+        event.add("aileron:elytra", id)
+    })
 });

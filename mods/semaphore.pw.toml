@@ -1,7 +1,7 @@
 name = "semaphore"
-filename = "Semaphore-0.1.2-beta.2+fabric-mc1.20.1-build.18.jar"
+filename = "Semaphore-0.1.2-beta.3+fabric-mc1.20.1-build.22.jar"
 
 [download]
-url = "https://github.com/Layers-of-Railways/Semaphore/releases/download/v0.1.2-beta.2/Semaphore-0.1.2-beta.2+fabric-mc1.20.1-build.18.jar"
+url = "https://github.com/Layers-of-Railways/Semaphore/releases/download/v0.1.2-beta.3/Semaphore-0.1.2-beta.3+fabric-mc1.20.1-build.22.jar"
 hash-format = "sha256"
-hash = "7851d8f1876e43ab727ae7a45d6cc9129b754a3ab62e999456874f9fcfcda692"
+hash = "95d9d6814cb1ee1418fa9d2f626ac05cfcc4f7e0771de16adf15f3107b84cc7e"
