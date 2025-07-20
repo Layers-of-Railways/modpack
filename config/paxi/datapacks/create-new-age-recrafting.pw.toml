@@ -1,0 +1,13 @@
+name = "Create: New Age Recrafting"
+filename = "Create New Age Recrafting.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SiEK59AY/versions/IaGyJKYC/Create%20New%20Age%20Recrafting.zip"
+hash-format = "sha512"
+hash = "ae0bd48d8125cdbe00b0114237d81bffde61429cadf41b232bc0173054146f29afff1cb77493e6f9a028d2bb8b55121b422285eb67bddad859260f9933acd516"
+
+[update]
+[update.modrinth]
+mod-id = "SiEK59AY"
+version = "IaGyJKYC"
