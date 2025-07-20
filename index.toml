@@ -90,7 +90,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "99e6ca3251767333bfe9397b4e389bcbb5a1b7627768dd1f32493e36490f5dc1"
+hash = "0a7e37d34b441ab744e1ad2b8a16ef8f5cdb16c3f722609ff529f25e634ee253"
 
 [[files]]
 file = "config/lmft.json"
@@ -151,11 +151,6 @@ hash = "5468e8e448c6c21f18cab797851fade8cd7012a3b9380d361afa4f0e2dbe68ff"
 [[files]]
 file = "config/paxi/datapacks/better-endcity-better-end.zip"
 hash = "642db2d0eb68dff95744946a16fa45b476b956e6d9603300cc83677f307f86ff"
-
-[[files]]
-file = "config/paxi/datapacks/create-new-age-recrafting.pw.toml"
-hash = "b19e31264b2b88d9af754e3e5f167cd018e618361594b20d4ae727d2c82b73d4"
-metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/lectern-overhaul.pw.toml"
@@ -308,11 +303,15 @@ hash = "4a3e4a537d5ab774f35d13f573233b2750695d20434f513bf58411ba99699e03"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/font/default.json"
-hash = "6ea6c257f0a871bfa6901d7182e58d43edbf5bca63cffbe53b0b8cab77399312"
+hash = "16643cd2e3ff9fcff914576823ecc0445cfb6c88373588ed71024c7c0f31d8cc"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/admin.png"
-hash = "7fe02803a75b7cd5c1a604418c5f03c396a1da9236185450b613618dd1140cfb"
+hash = "99d7f5e0fc779757bc976ff2026df9e385c06cea14276ff91ec8bcb4d6570cf8"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/compguild.png"
+hash = "02cbe7ce18348aef53203fa08d308de17321507a136b25ede4904308bb6d33ec"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/dev.png"
@@ -324,11 +323,19 @@ hash = "ce37f67902a658b05d5b25a52ea9157c5b9f169a7846ee22610993ac05f5a084"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/helper.png"
-hash = "f3bd812ea3dbb489ef779787ea194c2fca2bf113a3cd8292c8e8c6433387453f"
+hash = "2f0fc983f93319ddb350dca7ee297898ed5b5fdf4e5a0d2763920ca1110de791"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/mod.png"
-hash = "151f0ac62722b9868d2838603f5666497a615d5341e177e29773c339f9adaeff"
+hash = "edde970465fe6525f2814fdcd9c8684b6b21b71e78cda625907b2e6866d81676"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/onbreak.png"
+hash = "8dd7590b00f8c60dd5e21314831d3e96d2463d79e2cd6a3c8512283e050e5ea6"
+
+[[files]]
+file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/railknights.png"
+hash = "a89a70cb23924284e6a20cfe9b59c7f04838bb52f4cf950f4dbdbd9fed7c9438"
 
 [[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/textures/font/user.png"
@@ -365,11 +372,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/even-better-enchants.pw.toml"
 hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/newer-age.pw.toml"
-hash = "a4b248dc8851f286d84e0d44f4beac8e04ca2114f51f47806b92605cf949fb2c"
 metafile = true
 
 [[files]]
@@ -418,7 +420,7 @@ hash = "d035bf2bd85727f1b20388b919ffe022cf453087e6d382c5b00bd9e704ccc49c"
 
 [[files]]
 file = "config/remote_player_waypoints_for_xaero/general.json5"
-hash = "c31bb987d0fd7649c8f1f81d8f2cfb1457b8e641e8ac036adac89d4a277303b7"
+hash = "f8bdeab99f6b898281bc90ea110f220f8bc5e15b47c1ad951a40108d2f279f2a"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -878,7 +880,7 @@ hash = "45d26a6d873bea2dbb9b693865225b218050b3cd61e11a3118c53c6814ed6e3c"
 
 [[files]]
 file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/lava/passive.json"
-hash = "e4a27bee2c336a8f69cd0fc35dd9c254ab7746e19b9992588e9322e6cb47cca4"
+hash = "0cf169f27673c4555df43451d56572a49fd919d5495b7efdd55a6da58100cab3"
 
 [[files]]
 file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/portal_fluid/passive.json"
@@ -887,6 +889,10 @@ hash = "f0ecd634b2777064b09442045b4d0ab7d02c6874b8476bb24a3abd2100928d6e"
 [[files]]
 file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/water/clay.json"
 hash = "6f616e5b30d82f3f42490adde9b1ad222c956b9c66e465fbb3a8f91a039c6373"
+
+[[files]]
+file = "kubejs/server_scripts/angelboost.js"
+hash = "f7167be2b74b1a58fa9f58a0afb2f0b8defee8192b58fec88780dca332e89e31"
 
 [[files]]
 file = "kubejs/server_scripts/godforged_tag.js"
@@ -947,6 +953,10 @@ hash = "c6f5233610de98f80eb2b1b2b6cf5e73df472a0ba096c0f5d209c53ee1b7b3e5"
 [[files]]
 file = "kubejs/server_scripts/recipes/farmersdelight.js"
 hash = "f6e965ffee626a89576619345e2180a364db6ba27add8855845586f7d86f537e"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/fixes/Wiz Recipe Fixes.js"
+hash = "444ef2ca9888057ac489dda06435dd35b1c395d0ff3de0c14c203041c0a0c038"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/fixes/economy_recipe_fixes.js"
@@ -1018,11 +1028,11 @@ hash = "57b0c309d8214031feb2fa38b48148f9a5918ff8fb23909f48ad24e8f4c07c26"
 
 [[files]]
 file = "kubejs/server_scripts/relics.js"
-hash = "03ea4c44e67ca95f31b6087da202e31ba335d548c2abff4bfb1577bdb2a348a4"
+hash = "0b0e4b8fed893b45deeb1c59a74a421595a8b84ad3a106313079666b75b58ed5"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "e649d8bf832c7b3cc1fea2fbd85ca9ceec71c89b954904f0e8749e9bea08a54e"
+hash = "c4f3ea626d5dde7d36d19c49bba863bd1080ef01bc4a6259825f7efac82ae0d7"
 
 [[files]]
 file = "kubejs/startup_scripts/biofuel_burn_time.js"
@@ -1092,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "ac4237c7c669835ccb766bf1b2714af62a0982c6a93b30545460f18e7a776c70"
+hash = "c63034f7214537ebcb573a7802dc158595697918022a1424b8c68f83ae397355"
 metafile = true
 
 [[files]]
@@ -1310,7 +1320,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "9429467855b96d1437d6335f45282625c4af182ec760a876f97270d0f2397f5a"
+hash = "62fb498f541daf662929f2e1241fe4fc350af6f90f529de76a8f4a1987b2a756"
 metafile = true
 
 [[files]]
@@ -1433,11 +1443,6 @@ hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "2c65b7ed826a2d147f0eb4788152b9f1ae878e0df102af58a9ea23ebd1c48f04"
-metafile = true
-
-[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "3b816d3b67c2a9e5952c98436772773b7c9a2757ccdd1912dea4e28d7b08c728"
 metafile = true
@@ -1459,7 +1464,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
+hash = "76aba8d8cc62f325d52613c1b66d17dae77dd1df918b1153fc2bd5fb80b42a27"
 metafile = true
 
 [[files]]
@@ -1644,7 +1649,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "d7f5c29f51b6e866f2227936ca124123ef5794813b791faf04d9fa66723bf2ff"
+hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
 metafile = true
 
 [[files]]
@@ -2014,7 +2019,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0b60e339316c855ac576bc8884185c8678e951c39bec99bd1c76106d5efaf573"
+hash = "8833d26bb1840c79ebd7ba91558a28fefef26ec743cb92fcb45372fcdd3a8412"
 metafile = true
 
 [[files]]
@@ -2163,8 +2168,9 @@ hash = "a0fb6a028f0c5b75ca2cc625cf81eec3e84ea856762df2561d2dbcb28c65289a"
 metafile = true
 
 [[files]]
-file = "mods/phonos-1.0.0-beta.20+fabric-1.20.1.jar"
-hash = "f1a410e2e8c48d13ec319a528af481e39d019dc86ac3e39c8993f5048f2f6958"
+file = "mods/phonos.pw.toml"
+hash = "89e1aa179b419f31ddc2998a371361fe7ee3c65e87f0242c90d51c4a6900d6f7"
+metafile = true
 
 [[files]]
 file = "mods/picturesign-2.0.0-beta.1+unascribedtheora-patch.5.jar"
@@ -2232,7 +2238,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "a09ce5b06d5ce684ecd5df7d8c7f5a9fd760a781bd6c171de7f524dafe804feb"
+hash = "ebd4a29da89ba29fafb260190915ae71e7477f4f9f6ec3ff1454a4d9317addbe"
 metafile = true
 
 [[files]]
@@ -2297,6 +2303,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/semaphore.pw.toml"
+hash = "f32395b4d2a598dc2811bb76dcb945ae643e5f0d19f74850195155fe00f1baa3"
 metafile = true
 
 [[files]]

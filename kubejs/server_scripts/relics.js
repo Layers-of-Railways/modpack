@@ -1,11 +1,11 @@
 PlayerEvents.tick((event) => {
     if (event.level.time % (20 * 5) != 0) return // only run every 5 seconds (100 ticks)
-    if (event.player.mainHandItem.id.includes("kubejs" && "shard")) { //if held item is from kubejs and a shard
+    if (event.player.mainHandItem.id.includes("kubejs") && event.player.mainHandItem.id.includes("shard")) { //if held item is from kubejs and a shard
         if (event.player.mainHandItem.nbtString.includes("Enchantment")) { // if the item has an enchantment
             event.player.tell(Text.gold("Shards cannot support the magic of an enchantment! The arcane energy sizzles and fades..."));
             event.player.mainHandItem.nbt.remove('Enchantments'); // remove enchantment
           }
-    } else if (event.player.offHandItem.id.includes("kubejs" && "shard")) { //same as above on offhand
+    } else if (event.player.offHandItem.id.includes("kubejs") && event.player.offHandItem.id.includes("shard")) { //same as above on offhand
         if (event.player.offhandItem.nbtString.includes("Enchantment")) {
             event.player.tell(Text.gold("Shards cannot support the magic of an enchantment! The arcane energy sizzles and fades..."));
             event.player.offHandItem.nbt.remove('Enchantments');

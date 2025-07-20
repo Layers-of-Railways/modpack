@@ -5,7 +5,12 @@
 		{
 			"maptype": "Bluemap",
 			"ip": "railways.ithundxr.dev",
-			"link": "map.railways.ithundxr.dev"
+			"link": "map.s2.railways.dev"
+		},
+		{
+			"maptype": "Bluemap",
+			"ip": "s2.railways.dev",
+			"link": "map.s2.railways.dev"
 		}
 	],
 	"defaultY": 64,
