@@ -891,6 +891,10 @@ file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/water/clay.json"
 hash = "6f616e5b30d82f3f42490adde9b1ad222c956b9c66e465fbb3a8f91a039c6373"
 
 [[files]]
+file = "kubejs/data/tconstruct/recipes/smeltery/casting/metal/silver/block.json"
+hash = "cbd93fa1fff0fba2273d1b8bd7ae22144c1da045bb3e04692290f209e5344dc8"
+
+[[files]]
 file = "kubejs/server_scripts/angelboost.js"
 hash = "f7167be2b74b1a58fa9f58a0afb2f0b8defee8192b58fec88780dca332e89e31"
 
