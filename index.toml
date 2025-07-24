@@ -62,7 +62,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "6880080b522922ba13da1c066c6921335911600cbe03cdefa158876e8a7c53b6"
+hash = "75a25d1d6683d2cdb21db879f46573373b149d66e7d5b9eb3173a2ca0ab7c042"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -889,6 +889,10 @@ hash = "f0ecd634b2777064b09442045b4d0ab7d02c6874b8476bb24a3abd2100928d6e"
 [[files]]
 file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/water/clay.json"
 hash = "6f616e5b30d82f3f42490adde9b1ad222c956b9c66e465fbb3a8f91a039c6373"
+
+[[files]]
+file = "kubejs/data/tconstruct/recipes/smeltery/casting/metal/silver/block.json"
+hash = "cbd93fa1fff0fba2273d1b8bd7ae22144c1da045bb3e04692290f209e5344dc8"
 
 [[files]]
 file = "kubejs/server_scripts/angelboost.js"
@@ -2632,7 +2636,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "12de4453ec125d0b7180d0718d75f289406a45223faddd892498d6c6d7f72c27"
+hash = "b57f7c19f5d41544226b6c2c029c8bd2f696aca59c20cd0722662128f5b5cee4"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
