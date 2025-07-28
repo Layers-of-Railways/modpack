@@ -178,7 +178,8 @@
         "powah:*",
         "advancementtrophies:trophy",
         "mekanismgenerators:heat_generator",
-        "mna:filler_block"
+        "mna:filler_block",
+        "escalated:*"
       ],
       "//forbiddenEntities": "Entities that cannot be picked up",
       "forbiddenEntities": [
