@@ -879,6 +879,14 @@ file = "kubejs/data/create/recipes/crafting/curiosities/brown_toolbox.json"
 hash = "45d26a6d873bea2dbb9b693865225b218050b3cd61e11a3118c53c6814ed6e3c"
 
 [[files]]
+file = "kubejs/data/enchancement/tags/items/cannot_assimilate.json"
+hash = "69e63549e0514e2f37a5db5515a5a7fdd92de51ed3addb0c5cbd42fc8da10129"
+
+[[files]]
+file = "kubejs/data/enchancement/tags/mob_effect/chaos_unchoosable.json"
+hash = "1b981ef87205ee1b1f90cb2a4bc307ab569fa78e994e0aafca67a7dca858193e"
+
+[[files]]
 file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/lava/passive.json"
 hash = "0cf169f27673c4555df43451d56572a49fd919d5495b7efdd55a6da58100cab3"
 
