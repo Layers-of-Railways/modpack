@@ -18,7 +18,7 @@ hash = "83a74f8fc0756a952758f5be0667ff5437dd99e832835b2a70d6a4ac1a9669f6"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "821f3972161fce3a7ab30b5472b1008f72a5009a5cc9380a3c6ef55dcb4ced22"
+hash = "75ffa531cff408e4c22c4d864a5afd40bdd7726eb3b37f73a131b9ad89de8a43"
 
 [[files]]
 file = "config/chunky/config.json"
@@ -879,6 +879,14 @@ file = "kubejs/data/create/recipes/crafting/curiosities/brown_toolbox.json"
 hash = "45d26a6d873bea2dbb9b693865225b218050b3cd61e11a3118c53c6814ed6e3c"
 
 [[files]]
+file = "kubejs/data/enchancement/tags/items/cannot_assimilate.json"
+hash = "69e63549e0514e2f37a5db5515a5a7fdd92de51ed3addb0c5cbd42fc8da10129"
+
+[[files]]
+file = "kubejs/data/enchancement/tags/mob_effect/chaos_unchoosable.json"
+hash = "1b981ef87205ee1b1f90cb2a4bc307ab569fa78e994e0aafca67a7dca858193e"
+
+[[files]]
 file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/lava/passive.json"
 hash = "0cf169f27673c4555df43451d56572a49fd919d5495b7efdd55a6da58100cab3"
 
@@ -1080,6 +1088,11 @@ hash = "84edd7c7a1cd700e88798a744658040e46489a52e388ffd69e9b7dd9734f8d30"
 metafile = true
 
 [[files]]
+file = "mods/abstract_operations.pw.toml"
+hash = "3478bc1739590f9208a2f419936edc8e6b865d3971539db73fcf36d496a891be"
+metafile = true
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "856c61ddccf4a4937eaac7f355e126a1ad6a7a08206198578146e24048450585"
 metafile = true
@@ -1169,8 +1182,9 @@ hash = "c2934c3d89c1e0ab62a1cc87fe56bbb8510355722f977eb42ddf058cad7e5fc1"
 metafile = true
 
 [[files]]
-file = "mods/armourersworkshop-fabric-1.20.1-3.2.1-alpha.7.jar"
-hash = "1c5e327158a895d45772c2b95e2dc0c6f728a24967725fb95a0f908a19af2a39"
+file = "mods/armourers-workshop.pw.toml"
+hash = "5a085e5a2c93d8588c95d97d158893e80e65ca381d82a80a504549fedeb2b443"
+metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
@@ -1320,6 +1334,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
+metafile = true
+
+[[files]]
+file = "mods/chitinous_ties.pw.toml"
+hash = "229aa10a567c5ec59204cf23bf116a0cea0110fcb784068ebf381a8333a60e7d"
 metafile = true
 
 [[files]]
@@ -1547,6 +1566,11 @@ hash = "1928538e6b06326b0fe807404da78100d1d6f74634ba1cc7ec39418311155693"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "50d0390f706fec1e22e79d8ac2d5052264b7ae647571389f889a8c5cc0dd961b"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "b4ab0cc9a2ddcc3753b6775a62092f90e8f41f47c58a8f4cfcb41001c404d490"
 metafile = true
@@ -1593,7 +1617,7 @@ metafile = true
 
 [[files]]
 file = "mods/escalated.pw.toml"
-hash = "226e50d7198c7c0595a3a7eb65a0dcf8fd3038b1e0ab224a1dd38f6a5dd93e8e"
+hash = "b1f3c991febbaac1ea00da7bc45cc3a7a0af4bdb920334267a3095580f32825e"
 metafile = true
 
 [[files]]
@@ -1794,6 +1818,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "6eb5f2de6f88720f1613e7073e4834932776b1a7207ae551d0e1b0e3d018c3ff"
 metafile = true
 
 [[files]]
@@ -2297,6 +2326,11 @@ hash = "00f6933717bf3fcad22fe3525bce3746d50fa26298d1755bf694fb06124819c8"
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "75159247003092efc839be7e290102aacae32f4b3dcc31dbb3bfc1df7f54979a"
+metafile = true
+
+[[files]]
+file = "mods/safeslot.pw.toml"
+hash = "87f53e651358986ea9be85d10bbb90a8471f9c36eba519c500c5c8f3e4cbcc5b"
 metafile = true
 
 [[files]]

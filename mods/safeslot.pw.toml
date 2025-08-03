@@ -1,0 +1,13 @@
+name = "SafeSlot"
+filename = "safeslot-fabric-1.20.1-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/RM5vDvEQ/versions/Ue369gOJ/safeslot-fabric-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "4516192a1de604b5f92b1a0b1323cdbadb574f9e"
+
+[update]
+[update.modrinth]
+mod-id = "RM5vDvEQ"
+version = "Ue369gOJ"
