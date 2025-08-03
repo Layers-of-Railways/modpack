@@ -1088,6 +1088,11 @@ hash = "84edd7c7a1cd700e88798a744658040e46489a52e388ffd69e9b7dd9734f8d30"
 metafile = true
 
 [[files]]
+file = "mods/abstract_operations.pw.toml"
+hash = "e8a8c9649db9a540c507202889a8d32361832d00d5bc09db0b06a9e72702a96e"
+metafile = true
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "856c61ddccf4a4937eaac7f355e126a1ad6a7a08206198578146e24048450585"
 metafile = true
@@ -1332,6 +1337,11 @@ hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
 metafile = true
 
 [[files]]
+file = "mods/chitinous_ties.pw.toml"
+hash = "229aa10a567c5ec59204cf23bf116a0cea0110fcb784068ebf381a8333a60e7d"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "62fb498f541daf662929f2e1241fe4fc350af6f90f529de76a8f4a1987b2a756"
 metafile = true
@@ -1553,6 +1563,11 @@ metafile = true
 [[files]]
 file = "mods/ecospherical-expansion.pw.toml"
 hash = "1928538e6b06326b0fe807404da78100d1d6f74634ba1cc7ec39418311155693"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "50d0390f706fec1e22e79d8ac2d5052264b7ae647571389f889a8c5cc0dd961b"
 metafile = true
 
 [[files]]
@@ -1803,6 +1818,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "6eb5f2de6f88720f1613e7073e4834932776b1a7207ae551d0e1b0e3d018c3ff"
 metafile = true
 
 [[files]]
@@ -2306,6 +2326,11 @@ hash = "00f6933717bf3fcad22fe3525bce3746d50fa26298d1755bf694fb06124819c8"
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "75159247003092efc839be7e290102aacae32f4b3dcc31dbb3bfc1df7f54979a"
+metafile = true
+
+[[files]]
+file = "mods/safeslot.pw.toml"
+hash = "87f53e651358986ea9be85d10bbb90a8471f9c36eba519c500c5c8f3e4cbcc5b"
 metafile = true
 
 [[files]]
