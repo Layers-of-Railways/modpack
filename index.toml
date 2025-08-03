@@ -1089,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "mods/abstract_operations.pw.toml"
-hash = "e8a8c9649db9a540c507202889a8d32361832d00d5bc09db0b06a9e72702a96e"
+hash = "3478bc1739590f9208a2f419936edc8e6b865d3971539db73fcf36d496a891be"
 metafile = true
 
 [[files]]
