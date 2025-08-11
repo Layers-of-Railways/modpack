@@ -2687,5 +2687,5 @@ file = "unsup.ini"
 hash = "7aa4522a6e03f987bdceaa95be90c64a15ff4575dd089794283e30cf098e962d"
 
 [[files]]
-file = "xaero/world-map/Multiplayer_railways.ithundxr.dev/server_config.txt"
+file = "xaero/world-map/Multiplayer_s2.railways.dev/server_config.txt"
 hash = "85626a853fbbb62539d329dc0a1cc5cf921f4dfaf552081b418ccc80adf0718a"
