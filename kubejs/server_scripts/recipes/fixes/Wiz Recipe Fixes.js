@@ -31,19 +31,43 @@ ServerEvents.recipes((event) => {
 
 //Add custom recipes to fix broken ones or add new ones
 ServerEvents.recipes((event) => {
-    //Fix Sugi Mosiac Stairs and Slab recipes
-    event.shaped('natures_spirit:sugi_mosaic_stairs', [
-        'M  ',
-        'MM ',
-        'MMM',
-    ], {
-        M: 'natures_spirit:sugi_mosaic',
-    }),
-    event.shaped('natures_spirit:sugi_mosaic_slab', [
-        'MMM',
-    ], {
-        M: 'natures_spirit:sugi_mosaic',
-    })
+    //Fix Mosaic Stairs and Slab recipes
+    const NSpiritMosaic = [
+        'natures_spirit:sugi_mosaic', 'natures_spirit:joshua_mosaic', 'natures_spirit:coconut_mosaic', 'natures_spirit:mahogany_mosaic'
+    ];
+
+    NSpiritMosaic.forEach((mosaic) => {
+        event.shaped(
+            Item.of(`${mosaic}_stairs`, 4),
+        [
+            'M  ',
+            'MM ',
+            'MMM',
+        ], {
+            M: mosaic,
+        })
+    });
+    NSpiritMosaic.forEach((mosaic) => {
+        event.shaped(
+            Item.of(`${mosaic}_slab`, 6), [
+            'MMM',
+        ], {
+            M: mosaic,
+        })
+    });
+
+    // event.shaped('natures_spirit:sugi_mosaic_stairs', [
+    //     'M  ',
+    //     'MM ',
+    //     'MMM',
+    // ], {
+    //     M: 'natures_spirit:sugi_mosaic',
+    // }),
+    // event.shaped('natures_spirit:sugi_mosaic_slab', [
+    //     'MMM',
+    // ], {
+    //     M: 'natures_spirit:sugi_mosaic',
+    // })
 
     //Readd Consistency Plus Smooth Terracotta and Clay smelting recipes but as Smoking recipes
     const ConsistTerracotta = [
@@ -77,4 +101,4 @@ ServerEvents.recipes((event) => {
         })
     })
 //End of changes made on June 28, 2025
-})
+});

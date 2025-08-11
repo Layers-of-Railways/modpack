@@ -968,7 +968,7 @@ hash = "f6e965ffee626a89576619345e2180a364db6ba27add8855845586f7d86f537e"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/fixes/Wiz Recipe Fixes.js"
-hash = "444ef2ca9888057ac489dda06435dd35b1c395d0ff3de0c14c203041c0a0c038"
+hash = "54372eff299c731ca0187daa72787498196f491b213f169faeba0047e14cc663"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/fixes/economy_recipe_fixes.js"
