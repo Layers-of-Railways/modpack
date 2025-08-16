@@ -56,19 +56,6 @@ ServerEvents.recipes((event) => {
         })
     });
 
-    // event.shaped('natures_spirit:sugi_mosaic_stairs', [
-    //     'M  ',
-    //     'MM ',
-    //     'MMM',
-    // ], {
-    //     M: 'natures_spirit:sugi_mosaic',
-    // }),
-    // event.shaped('natures_spirit:sugi_mosaic_slab', [
-    //     'MMM',
-    // ], {
-    //     M: 'natures_spirit:sugi_mosaic',
-    // })
-
     //Readd Consistency Plus Smooth Terracotta and Clay smelting recipes but as Smoking recipes
     const ConsistTerracotta = [
         //format [input, output]
@@ -101,4 +88,14 @@ ServerEvents.recipes((event) => {
         })
     })
 //End of changes made on June 28, 2025
+
+    //replace Deco Zinc sheets with C&A ones and remove deco sheet recipe
+    event.remove({id: 'createdeco:pressing/zinc_sheet'})
+
+    event.replaceInput(
+        {input: 'createdeco:zinc_sheet'},
+        'createdeco:zinc_sheet',
+        'createaddition:zinc_sheet'
+    )
+//End of changes made on August 15, 2025
 });
