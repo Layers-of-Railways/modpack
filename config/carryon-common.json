@@ -69,7 +69,7 @@
       "//blacklist": "Blacklist. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Black---and-Whitelist-Config",
       "//forbiddenTiles": "Blocks that cannot be picked up",
       "forbiddenTiles": [
-        "copycats:copycat_door",
+        "copycats:copycat*door",
         "design_decor:stepped_lever",
         "#forge:immovable",
         "#forge:relocation_not_supported",
