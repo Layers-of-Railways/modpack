@@ -75,6 +75,9 @@ ServerEvents.tags("block", (event) => {
 
     event.add("railways:semaphore_poles", "#minecraft:walls");
 
+	// Copycat Door for OPAC
+	event.add("minecraft:doors", "copycats:copycat_door")
+
     non_movable.forEach((id) => {
         event.add("create:non_movable", id);
     });
