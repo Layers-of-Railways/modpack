@@ -49,6 +49,7 @@ let non_movable = [
 	"copycats:copycat_folding_door",
 	"copycats:copycat_sliding_door",
 	"copycats:copycat_door",
+	"design_decor:stepped_lever",
 ];
 
 let bottomless_allow = ["create:honey", "milk:milk_fluid_block"];
