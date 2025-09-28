@@ -113,6 +113,7 @@ ServerEvents.tags("item", (event) => {
     event.add("c:seeds", "supplementaries:flax_seeds")
 	// Copycat Door for OPAC
 	event.add("minecraft:doors", "copycats:copycat_door")
+    event.add('design_decor:letter_signs','design_decor:0_sign')
 
     // Kirins fuel tags
     event.add("create:blaze_burner_fuel/special", "createaddition:bioethanol_bucket")
