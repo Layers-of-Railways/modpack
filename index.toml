@@ -1990,6 +1990,11 @@ hash = "63d64f4754723d236a768caf68ab67c358b19973b83ece45adf614ce0b9a4314"
 metafile = true
 
 [[files]]
+file = "mods/login-protection.pw.toml"
+hash = "5a6f50ba0cf02e4cbdefa0ddbb830b6a359321447e4621000caecf2812a08b01"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "59d20f2ffb0f514389d446551b04a8fe96973ab3f5e05f60881b262c0e0ba2c7"
 metafile = true
