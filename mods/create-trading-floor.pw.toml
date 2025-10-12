@@ -1,13 +1,13 @@
 name = "Create: Trading floor"
-filename = "trading_floor-1.1.6+fabric-1.20.1.jar"
+filename = "trading_floor-1.1.10+fabric-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WROfLLvn/versions/WNLOK7aH/trading_floor-1.1.6%2Bfabric-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/WROfLLvn/versions/zn8QgUge/trading_floor-1.1.10%2Bfabric-1.20.1.jar"
 hash-format = "sha512"
-hash = "e6d6a7345bb48b3929ba686e6ecdd6a3ddb97fbc65d0bb77efa2e3a917eaa63bcf0ef46daee32e58f408cf2024e6b91dbe3c739d84fd2f42099ba947fe7f81af"
+hash = "15f3d03249ea669e5fbe07bdacae45936b272b2f7a300b49d3e4c9ce0329316c8d536a0474668f75fb506c990dff213d3cd84a991c8760da950b2b84c8ca9e73"
 
 [update]
 [update.modrinth]
 mod-id = "WROfLLvn"
-version = "WNLOK7aH"
+version = "zn8QgUge"

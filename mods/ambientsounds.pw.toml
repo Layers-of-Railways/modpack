@@ -1,18 +1,18 @@
 name = "AmbientSounds"
-filename = "AmbientSounds_FABRIC_v6.1.4_mc1.20.1.jar"
+filename = "AmbientSounds_FABRIC_v6.1.11_mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fM515JnW/versions/KRg74QMN/AmbientSounds_FABRIC_v6.1.4_mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/fM515JnW/versions/3Iynk0Gr/AmbientSounds_FABRIC_v6.1.11_mc1.20.1.jar"
 hash-format = "sha512"
-hash = "42746a254a5c61dc5ae1182ec41e9ddec8200f49f8e076ef74e2ad524163a922a35984fd96f5f1dcd5bdae090a0356df3be4f4e6e41fbb57302603d97911e83c"
+hash = "d3e08a66c62835b9dd99b0f06f0cff2bc3cbbb4b5aef618a54c4efe857b641f584efbd98b24d92cfe1cd862854b1b7968afe8a5a2b3fc148ca752134d6824212"
 
 [update]
 [update.modrinth]
 mod-id = "fM515JnW"
-version = "KRg74QMN"
+version = "3Iynk0Gr"
 
 [option]
 optional = true
-default = true
 description = "Nature music <3"
+default = true
