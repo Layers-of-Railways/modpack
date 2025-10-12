@@ -45,6 +45,11 @@ let non_movable = [
     "create:creative_crate",
     "numismatics:creative_vendor",
     "createaddition:creative_energy",
+	"copycats:copycat_iron_door",
+	"copycats:copycat_folding_door",
+	"copycats:copycat_sliding_door",
+	"copycats:copycat_door",
+	"design_decor:stepped_lever",
 ];
 
 let bottomless_allow = ["create:honey", "milk:milk_fluid_block"];
@@ -71,13 +76,18 @@ ServerEvents.tags("block", (event) => {
 
     event.add("railways:semaphore_poles", "#minecraft:walls");
 
+	// Copycat Door for OPAC
+	event.add("minecraft:doors", "copycats:copycat_door")
+
     non_movable.forEach((id) => {
         event.add("create:non_movable", id);
     });
     // Tinkers budding blocks
     tinkers_crystal_types.forEach((type) => {
-	event.add("c:budding_blocks", `tconstruct:budding_${type}_slime_crystal`);
+		event.add("c:budding_blocks", `tconstruct:budding_${type}_slime_crystal`);
     });
+
+	
 });
 
 ServerEvents.tags("fluid", (event) => {
@@ -101,6 +111,9 @@ ServerEvents.tags("item", (event) => {
 
     // Misc
     event.add("c:seeds", "supplementaries:flax_seeds")
+	// Copycat Door for OPAC
+	event.add("minecraft:doors", "copycats:copycat_door")
+    event.add('design_decor:letter_signs','design_decor:0_sign')
 
     // Kirins fuel tags
     event.add("create:blaze_burner_fuel/special", "createaddition:bioethanol_bucket")
