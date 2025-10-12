@@ -70,7 +70,7 @@ hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "2a70971622b2c0951c7a467951b127021ff46ea16f7d857c603cb7a258feccb5"
+hash = "7b9699a9cf5e7248944a333baef598862f1c8e3aa69ce0e0b5cc946914dd161d"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -1141,6 +1141,11 @@ file = "mods/air-strafing-attribute-1.3.jar"
 hash = "2bdc035efbf72c5ca0d861c099d3175e0cdcf4e0b6168826c898d9e508ade88f"
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "d8577a489a8e9c90a4207931ebba22d2ef81bacfb68e794032d78952173e95f8"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "b935f12a70c0710c898d32ec49f8c4b9f3f7d8e69397b7070abb4b86a33d4401"
 metafile = true
@@ -1522,6 +1527,11 @@ metafile = true
 [[files]]
 file = "mods/deepslatecutting.pw.toml"
 hash = "f189746778654d05f2f568cb23d3a6ea50c25b7c0f490c1091b77e2eb60327d9"
+metafile = true
+
+[[files]]
+file = "mods/deimos.pw.toml"
+hash = "2a3de6e9b5a763b36bee96eb47b500365ed11d3bd544cd7acf99216bee600baf"
 metafile = true
 
 [[files]]
@@ -2155,11 +2165,6 @@ hash = "51104c4edcea7ece258ed464326721daa3f971b01104812d7442e1d9dce98e9e"
 metafile = true
 
 [[files]]
-file = "mods/opac-fabric-create-support.pw.toml"
-hash = "8f3fd1805565b5f16eb69fb8a14b3a38ed9a919b6df532769d1b7a790cc3cb21"
-metafile = true
-
-[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "9cd1bfa718de9a9707fbd76216e5a0c06b00d5fb393ecc55e43b9c6c578a4817"
 metafile = true
@@ -2470,11 +2475,6 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "47634b4eedae148767c2dc94236c8f07054a533139400404d74deaf088348a08"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "1296c625a8c2a157504ec559f6530c2961ab91cc87ee6896f7ca2c866c1164f8"
 metafile = true
 
 [[files]]
