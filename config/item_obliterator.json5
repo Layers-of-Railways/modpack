@@ -41,7 +41,8 @@
         "ae2:matter_cannon",
         "minecraft:bedrock",
         "minecraft:barrier",
-        "farmersrespite:rose_hip_pie"
+        "farmersrespite:rose_hip_pie",
+        "ducky-periphs:keyboard_block"
     ],
     // -----------------------------------------------------------
     // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
