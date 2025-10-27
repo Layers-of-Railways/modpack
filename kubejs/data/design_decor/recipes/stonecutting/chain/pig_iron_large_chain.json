@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "tconstruct:pig_iron_ingot"
+  },
+  "result": "design_decor:pig_iron_large_chain",
+  "count": 4
+}
