@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:casting_basin",
+  "cooling_time": 233,
+  "fluid": {
+    "amount": 81000,
+    "tag": "tconstruct:molten_hepatizon"
+  },
+  "result": {
+    "tag": "tconstruct:hepatizon_block"
+  }
+}
