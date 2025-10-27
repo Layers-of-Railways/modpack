@@ -17,36 +17,39 @@ let removeRecipe = [
     "computercraft:monitor_normal",
     "computercraft:monitor_advanced",
     "computercraft:speaker",
+    "computercraft:turtle_normal",
+    "computercraft:redstone_relay",
     'design_decor:crafting/gas_tank'
 ];
 
 let removeRecipeInput = [];
 
-    let removeRecipeOutput = [
-        // Misc
-        "create:cart_assembler",
-        "deepdrilling:drill_core",
-        'zipline:zipline',
-        'design_decor:crafting/gas_tank',
-        // Xercamusic
-        'xercamusic:tubular_bell',
-        'xercamusic:french_horn',
-        'xercamusic:saxophone',
-        'xercamusic:guitar',
-        'xercamusic:banjo',
-        'xercamusic:violin',
-        'xercamusic:cello',
-        'xercamusic:flute',
-        'xercamusic:drum',
-        'xercamusic:oboe',
-        'xercamusic:redstone_guitar',
-        'xercamusic:bass_guitar',
-        'xercamusic:piano',
-        'xercamusic:music_box',
-        // Farmers Delight, Brewin and Chewin
-        'brewinandchewin:kimchi',
-        'farmersdelight:hamburger'
-    ];
+let removeRecipeOutput = [
+    // Misc
+    "create:cart_assembler",
+    "deepdrilling:drill_core",
+    'zipline:zipline',
+    'design_decor:crafting/gas_tank',
+    "computercraft:turtle_advanced",
+    // Xercamusic
+    'xercamusic:tubular_bell',
+    'xercamusic:french_horn',
+    'xercamusic:saxophone',
+    'xercamusic:guitar',
+    'xercamusic:banjo',
+    'xercamusic:violin',
+    'xercamusic:cello',
+    'xercamusic:flute',
+    'xercamusic:drum',
+    'xercamusic:oboe',
+    'xercamusic:redstone_guitar',
+    'xercamusic:bass_guitar',
+    'xercamusic:piano',
+    'xercamusic:music_box',
+    // Farmers Delight, Brewin and Chewin
+    'brewinandchewin:kimchi',
+    'farmersdelight:hamburger'
+];
 
 // priority: 1000
 ServerEvents.recipes((event) => {

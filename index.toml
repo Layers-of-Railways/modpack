@@ -932,7 +932,7 @@ hash = "c27f4d3dd0572658c89f8b0b1b42e5d33354312e1e203f941ad86043da5f312a"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/computercraft.js"
-hash = "f6c2608bcb3e2d8d7cb63a6775b736448a5d3e019fd6a2ccfbb40a61a05e911b"
+hash = "4bc1938c2bb4de8a3e8325ab006edc6fe83891e0915ff2c11d11b2a7ce1b6c3c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/create/Pika oxidization recipes.js"
@@ -1028,7 +1028,7 @@ hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/recipe_removals.js"
-hash = "4323d3096fad331a616e592bedc7df736dc08b143397f5a30e968e82f7047236"
+hash = "e7ab9dcc066e4c6397d8251d3011f53992782a700dd2669210563cec2bcb9f37"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/smithing.js"

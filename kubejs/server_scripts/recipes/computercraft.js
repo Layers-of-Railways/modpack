@@ -4,27 +4,39 @@ ServerEvents.recipes((event) => {
         "minecraft:dried_kelp"
     ]);
 
-    event.shaped("computercraft:computer_normal", ["G", "A", "C"], {
-        A: "create:andesite_casing",
-        C: "ae2:printed_calculation_processor",
-        G: "#c:glass_panes"
-    });
+    event.shapeless("computercraft:computer_normal", [
+        "ae2:calculation_processor",
+        "create:andesite_casing",
+        "#c:glass_panes"
+    ]);
 
-    event.shaped("computercraft:computer_advanced", ["G", "B", "C"], {
-        B: "create:brass_casing",
-        G: "#c:glass_panes",
-        C: "ae2:printed_logic_processor"
-    });
+    event.shapeless("computercraft:computer_advanced", [
+        "ae2:engineering_processor",
+        "create:brass_casing",
+        "#c:glass_panes"
+    ]);
+
+    event.shapeless("computercraft:turtle_normal", [
+        "#create:toolboxes",
+        "create:andesite_casing",
+        "ae2:calculation_processor"
+    ]);
+
+    event.shapeless("computercraft:turtle_advanced", [
+        "#create:toolboxes",
+        "create:brass_casing",
+        "ae2:engineering_processor"
+    ]);
 
     event.shaped("computercraft:pocket_computer_normal", ["M", "A", "C"], {
         M: "ae2:monitor",
-        C: "ae2:printed_calculation_processor",
+        C: "ae2:calculation_processor",
         A: "create:andesite_casing"
     });
 
     event.shaped("computercraft:pocket_computer_advanced", ["M", "B", "C"], {
         M: "ae2:monitor",
-        C: "ae2:printed_logic_processor",
+        C: "ae2:engineering_processor",
         B: "create:brass_casing"
     });
 
@@ -43,15 +55,17 @@ ServerEvents.recipes((event) => {
     event.shaped("computercraft:wireless_modem_advanced", ["W", "A", "L"], {
         W: "ae2:wireless_receiver",
         A: "create:brass_casing",
-        L: "ae2:printed_logic_processor"
+        L: "ae2:logic_processor"
     });
 
     event.shapeless("computercraft:monitor_normal", [
+        "create:electron_tube",
         "create:andesite_casing",
         "#c:glass_panes"
     ]);
 
     event.shapeless("computercraft:monitor_advanced", [
+        "create:electron_tube",
         "create:brass_casing",
         "#c:glass_panes"
     ]);
@@ -62,20 +76,32 @@ ServerEvents.recipes((event) => {
     ]);
 
     event.shaped("computercraft:printer", [
-        "RBG",
-        " A ",
-        " E ",
+        "E",
+        "A",
+        "S",
     ], {
-        R: "minecraft:red_dye",
-        B: "minecraft:blue_dye",
-        G: "minecraft:green_dye",
+        S: "create:sturdy_sheet",
         A: "create:andesite_casing",
-        E: "create:electron_tube"
+        E: "create:precision_mechanism"
     });
 
-    event.shaped("computercraft:disk_drive", ["P", "A", "C"], {
+    event.shaped("computercraft:disk_drive", [
+        "C", 
+        "A", 
+        "P"
+    ], {
         P: "create:precision_mechanism",
         A: "create:andesite_casing",
-        C: "ae2:printed_calculation_processor"
+        C: "create:electron_tube"
+    });
+
+    event.shaped("computercraft:redstone_relay", [
+        "ARA",
+        "RMR",
+        "ARA"
+    ], {
+        A: "create:andesite_alloy",
+        R: "minecraft:redstone",
+        M: "computercraft:wired_modem"
     });
 });
