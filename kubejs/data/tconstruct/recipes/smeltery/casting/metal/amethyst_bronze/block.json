@@ -3,7 +3,7 @@
   "cooling_time": 182,
   "fluid": {
     "amount": 81000,
-    "tag": "tconstruct:molten_amethyst_bronze"
+    "name": "tconstruct:molten_amethyst_bronze"
   },
   "result": "tconstruct:amethyst_bronze_block"
 }
