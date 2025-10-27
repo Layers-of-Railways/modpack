@@ -18,7 +18,7 @@ hash = "83a74f8fc0756a952758f5be0667ff5437dd99e832835b2a70d6a4ac1a9669f6"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "75ffa531cff408e4c22c4d864a5afd40bdd7726eb3b37f73a131b9ad89de8a43"
+hash = "56eee5b56507d30e5e2d9ae0e0c244b0d4467302056f5721ac31673a88decd98"
 
 [[files]]
 file = "config/chunky/config.json"
@@ -1028,7 +1028,7 @@ hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/recipe_removals.js"
-hash = "7a314f9d2f5d8303b5e4d144e7671223ad659b9adf1d8ab52152b6da53442acb"
+hash = "4323d3096fad331a616e592bedc7df736dc08b143397f5a30e968e82f7047236"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/smithing.js"
@@ -1048,7 +1048,7 @@ hash = "0b0e4b8fed893b45deeb1c59a74a421595a8b84ad3a106313079666b75b58ed5"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "38b6b35a741fb71618f8e72d0fdc74c71bb0ce20c1d353b653f4483f99627a8a"
+hash = "a313d860668280f5db9d6e259976fc82b4633ff0dab98b001a99bfc276ccbcb8"
 
 [[files]]
 file = "kubejs/startup_scripts/biofuel_burn_time.js"
@@ -1167,7 +1167,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "de2cd31fd6add0bdd12a7ff2e9d6ca39dead13907575f19bb1901fb2b56789d8"
+hash = "04cb3ee26933b77b5bf87660921801171536ccee2ab16572232b287f86cc2ae8"
 metafile = true
 
 [[files]]

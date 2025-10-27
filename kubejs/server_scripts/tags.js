@@ -1,4 +1,4 @@
-let better_end_chests = [
+const better_end_chests = [
     "betterend:mossy_glowshroom_chest",
     "betterend:end_lotus_chest",
     "betterend:pythadendron_chest",
@@ -11,7 +11,7 @@ let better_end_chests = [
     "betterend:lucernia_chest",
 ];
 
-let better_end_barrels = [
+const better_end_barrels = [
     "betterend:mossy_glowshroom_barrel",
     "betterend:end_lotus_barrel",
     "betterend:pythadendron_barrel",
@@ -24,7 +24,7 @@ let better_end_barrels = [
     "betterend:lucernia_barrel",
 ];
 
-let decorative_blocks_palisades = [
+const decorative_blocks_palisades = [
     "decorative_blocks:oak_palisade",
     "decorative_blocks:birch_palisade",
     "decorative_blocks:spruce_palisade",
@@ -38,7 +38,7 @@ let decorative_blocks_palisades = [
     "decorative_blocks:warped_palisade",
 ];
 
-let non_movable = [
+const non_movable = [
     "armourers_workshop:skin-library-creative",
     "create:creative_motor",
     "create:creative_fluid_tank",
@@ -50,9 +50,21 @@ let non_movable = [
 	"copycats:copycat_sliding_door",
 	"copycats:copycat_door",
 	"design_decor:stepped_lever",
+    "phonos:loudspeaker",
+    "phonos:electronic_note_block",
+    "phonos:electronic_jukebox",
+    "phonos:connection_hub",
+    "phonos:radio_transceiver",
+    "phonos:satellite_receiver",
+    "phonos:radio_loudspeaker",
+    "phonos:satellite_station",
+    "phonos:audio_switch",
+    "phonos:ender_music_box",
+    "phonos:microphone_base",
+    "phonos:wireless_microphone_base"
 ];
 
-let bottomless_allow = ["create:honey", "milk:milk_fluid_block"];
+const bottomless_allow = ["create:honey", "milk:milk_fluid_block"];
 const tinkers_crystal_types = ["earth", "sky", "ichor", "ender"];
 
 const modded_elytras = [
@@ -60,7 +72,7 @@ const modded_elytras = [
     "betterend:elytra_armored",
     "bettterend:elytra_crystalite",
     "tconstruct:slime_chestplate"
-]
+];
 
 ServerEvents.tags("block", (event) => {
     better_end_chests.forEach((id) => {
@@ -74,20 +86,18 @@ ServerEvents.tags("block", (event) => {
         event.add("railways:semaphore_poles", id);
     });
 
-    event.add("railways:semaphore_poles", "#minecraft:walls");
-
-	// Copycat Door for OPAC
-	event.add("minecraft:doors", "copycats:copycat_door")
-
-    non_movable.forEach((id) => {
-        event.add("create:non_movable", id);
-    });
     // Tinkers budding blocks
     tinkers_crystal_types.forEach((type) => {
 		event.add("c:budding_blocks", `tconstruct:budding_${type}_slime_crystal`);
     });
 
-	
+     // Non-Movable blocks
+     non_movable.forEach((id) => {
+        event.add("create:non_movable", id);
+    });
+
+    event.add("railways:semaphore_poles", "#minecraft:walls");
+	event.add("minecraft:doors", "copycats:copycat_door"); // Copycat Door for OPAC
 });
 
 ServerEvents.tags("fluid", (event) => {

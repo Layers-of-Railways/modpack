@@ -179,7 +179,8 @@
         "advancementtrophies:trophy",
         "mekanismgenerators:heat_generator",
         "mna:filler_block",
-        "escalated:*"
+        "escalated:*",
+        "design_decor:stepped_lever"
       ],
       "//forbiddenEntities": "Entities that cannot be picked up",
       "forbiddenEntities": [

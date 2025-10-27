@@ -1,28 +1,26 @@
-// priority: 1000
-ServerEvents.recipes((event) => {
-    let removeRecipe = [
-        // Misc
-        'tconstruct:armor/building/travelers_shield',
-        // ComputerCraft
-        "computercraft:computer_advanced_upgrade",
-        "computercraft:computer_advanced",
-        "computercraft:cable",
-        "computercraft:computer_normal",
-        "computercraft:pocket_computer_normal",
-        "computercraft:pocket_computer_advanced",
-        "computercraft:pocket_computer_advanced_upgrade",
-        "computercraft:disk_drive",
-        "computercraft:printer",
-        "computercraft:wired_modem",
-        "computercraft:wireless_modem_normal",
-        "computercraft:wireless_modem_advanced",
-        "computercraft:monitor_normal",
-        "computercraft:monitor_advanced",
-        "computercraft:speaker",
-        'design_decor:crafting/gas_tank'
-    ];
+let removeRecipe = [
+    // Misc
+    'tconstruct:armor/building/travelers_shield',
+    // ComputerCraft
+    "computercraft:computer_advanced_upgrade",
+    "computercraft:computer_advanced",
+    "computercraft:cable",
+    "computercraft:computer_normal",
+    "computercraft:pocket_computer_normal",
+    "computercraft:pocket_computer_advanced",
+    "computercraft:pocket_computer_advanced_upgrade",
+    "computercraft:disk_drive",
+    "computercraft:printer",
+    "computercraft:wired_modem",
+    "computercraft:wireless_modem_normal",
+    "computercraft:wireless_modem_advanced",
+    "computercraft:monitor_normal",
+    "computercraft:monitor_advanced",
+    "computercraft:speaker",
+    'design_decor:crafting/gas_tank'
+];
 
-    let removeRecipeInput = [];
+let removeRecipeInput = [];
 
     let removeRecipeOutput = [
         // Misc
@@ -50,6 +48,9 @@ ServerEvents.recipes((event) => {
         'farmersdelight:hamburger'
     ];
 
+// priority: 1000
+ServerEvents.recipes((event) => {
+
     removeRecipe.forEach((recipeID) => {
         event.remove({ id: `${recipeID}` });
     });
@@ -63,4 +64,5 @@ ServerEvents.recipes((event) => {
     });
 
     event.remove({ input: "#c:chests", output: "minecraft:shulker_box" });
+    event.remove({ mod: "apcrcompat", output: "ae2:quantum_entangled_singularity" })
 });
