@@ -3,7 +3,7 @@
   "cooling_time": 233,
   "fluid": {
     "amount": 81000,
-    "tag": "tconstruct:molten_hepatizon"
+    "name": "tconstruct:molten_hepatizon"
   },
   "result": "tconstruct:hepatizon_block"
 }
