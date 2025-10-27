@@ -5,7 +5,5 @@
     "amount": 81000,
     "tag": "tconstruct:molten_hepatizon"
   },
-  "result": {
-    "tag": "tconstruct:hepatizon_block"
-  }
+  "result": "tconstruct:hepatizon_block"
 }
