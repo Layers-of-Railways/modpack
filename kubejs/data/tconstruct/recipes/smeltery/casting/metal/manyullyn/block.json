@@ -1,9 +1,9 @@
 {
   "type": "tconstruct:casting_basin",
-  "cooling_time": 216,
+  "cooling_time": 182,
   "fluid": {
     "amount": 81000,
-    "tag": "tconstruct:molten_manyullyn"
+    "name": "tconstruct:molten_manyullyn"
   },
-  "result": "tconstruct:manyullyn_block"
+  "result": "tconstruct:manyullyn_bronze_block"
 }
