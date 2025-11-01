@@ -1192,7 +1192,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "3e0f0f46fb8efd5caeeff1923f8282ff77060dfd1bd39f2764df395b736a5e60"
+hash = "6c73304b9b7dad72fbc0ee8c71af3e804509ab5fa4c9d51facf12b1500d36330"
 metafile = true
 
 [[files]]
@@ -2370,6 +2370,11 @@ metafile = true
 [[files]]
 file = "mods/semaphore.pw.toml"
 hash = "f32395b4d2a598dc2811bb76dcb945ae643e5f0d19f74850195155fe00f1baa3"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "3070e7a9aa7244e36fdb27a904ac7433ed4d119336977d1837f486f60724a9b1"
 metafile = true
 
 [[files]]
