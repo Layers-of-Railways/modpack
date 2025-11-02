@@ -879,6 +879,38 @@ file = "kubejs/data/create/recipes/crafting/curiosities/brown_toolbox.json"
 hash = "45d26a6d873bea2dbb9b693865225b218050b3cd61e11a3118c53c6814ed6e3c"
 
 [[files]]
+file = "kubejs/data/design_decor/recipes/stonecutting/chain/cobalt_large_chain.json"
+hash = "41cf8eba669df333fa7e5c8a00da488b6c7e6d01d856a783cfbf41bbaaf6669a"
+
+[[files]]
+file = "kubejs/data/design_decor/recipes/stonecutting/chain/electrum_large_chain.json"
+hash = "30a2bc5fe04ff670451813fdec98f36534a20e36d34e6efcfec6e13f7589ed23"
+
+[[files]]
+file = "kubejs/data/design_decor/recipes/stonecutting/chain/hepatizon_large_chain.json"
+hash = "a94e1f16c424df060286d6a47bb76c08a37055ba3520bf20ea220c2a083dcbe1"
+
+[[files]]
+file = "kubejs/data/design_decor/recipes/stonecutting/chain/iron_large_chain.json"
+hash = "a94e1f16c424df060286d6a47bb76c08a37055ba3520bf20ea220c2a083dcbe1"
+
+[[files]]
+file = "kubejs/data/design_decor/recipes/stonecutting/chain/manyullyn_large_chain.json"
+hash = "f751cbbcbebcc1af927f627752c4bee47a8dd5a2fba0bef004afd37189ccc7b7"
+
+[[files]]
+file = "kubejs/data/design_decor/recipes/stonecutting/chain/netherite_large_chain.json"
+hash = "f751cbbcbebcc1af927f627752c4bee47a8dd5a2fba0bef004afd37189ccc7b7"
+
+[[files]]
+file = "kubejs/data/design_decor/recipes/stonecutting/chain/pig_iron_large_chain.json"
+hash = "9b5c3666ca71d3f6e9d267589f9da2cf6a75697ed74c942007b7a7611dcb4f61"
+
+[[files]]
+file = "kubejs/data/design_decor/recipes/stonecutting/chain/queen_slime_large_chain.json"
+hash = "c23ce1df0580fb6673463ef0e7b368c3aaee3ad395f744add4590670a734d9f2"
+
+[[files]]
 file = "kubejs/data/enchancement/tags/items/cannot_assimilate.json"
 hash = "69e63549e0514e2f37a5db5515a5a7fdd92de51ed3addb0c5cbd42fc8da10129"
 
@@ -897,6 +929,26 @@ hash = "f0ecd634b2777064b09442045b4d0ab7d02c6874b8476bb24a3abd2100928d6e"
 [[files]]
 file = "kubejs/data/spelunkery/loot_tables/gameplay/sluice/water/clay.json"
 hash = "6f616e5b30d82f3f42490adde9b1ad222c956b9c66e465fbb3a8f91a039c6373"
+
+[[files]]
+file = "kubejs/data/tconstruct/recipes/smeltery/casting/metal/amethyst_bronze/block.json"
+hash = "02f3c883897e5fb2d2bc9d1beabe2916e5b0a4e6005af4f7f4fc94e85d3039d1"
+
+[[files]]
+file = "kubejs/data/tconstruct/recipes/smeltery/casting/metal/cobalt/block.json"
+hash = "a46fd55094ec5bff5543585177dc996c36b41ebc7997773a46f8649363920df9"
+
+[[files]]
+file = "kubejs/data/tconstruct/recipes/smeltery/casting/metal/hepatizon/block.json"
+hash = "1b937256ad1a46591f239da9f03d7ab9d78abb202794b16a7355e69476493486"
+
+[[files]]
+file = "kubejs/data/tconstruct/recipes/smeltery/casting/metal/manyullyn/block.json"
+hash = "45ad60333a4bec58ac9c6f4c7ed4da34bb35d74b89c464a0552753ed36bf57ed"
+
+[[files]]
+file = "kubejs/data/tconstruct/recipes/smeltery/casting/metal/rose_gold/block.json"
+hash = "9b6cc6107476210cc142fefafc3d9e837d25ec79f9fde3e0f26b6755e3345603"
 
 [[files]]
 file = "kubejs/data/tconstruct/recipes/smeltery/casting/metal/silver/block.json"
@@ -1123,7 +1175,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "788c9b629353b77c56affea7e202ef0eb323373fc1d9e17117e0aa564eaac276"
+hash = "ddb73a24312769d0023e70d764db13e2de3cfe271c1e7e7c6ae9bd4e1201cd20"
 metafile = true
 
 [[files]]
