@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "tconstruct:hepatizon_ingot"
+  },
+  "result": "design_decor:hepatizon_large_chain",
+  "count": 4
+}
