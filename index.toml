@@ -1512,11 +1512,6 @@ hash = "6b4e4ced7cb3323842a46fa78fe1e5e8ff2badd6814d09dab5ea9e5ca0f28a7c"
 metafile = true
 
 [[files]]
-file = "mods/create-dynamic-lights.pw.toml"
-hash = "38c479e44804a56c27ac90d19ae0a4e9a7dbc4d2c3ca0870de1f9802c3945c5e"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
@@ -1979,11 +1974,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "c3ac9f14059c8adcadd1fdac4c858eeaf8324364ede397da5de5ee36e77f3218"
 metafile = true
 
 [[files]]
