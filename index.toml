@@ -1393,6 +1393,11 @@ hash = "7876655e9f26cbdbed200681efc0854f6e0cb938a5187408d34e430892e4e670"
 metafile = true
 
 [[files]]
+file = "mods/chipped-express.pw.toml"
+hash = "31c26d388abc0817c7865a8c4d747cb5b5d2f72f88dfad66535b3530f7299531"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
 metafile = true
@@ -2107,6 +2112,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "03b7b5e918aaf6324e4d34c1868c3f44a218b5306bd321efa89ee50ec78c2299"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "48812d772e135285b61d74a9936e22220efa1d8935ec1f06f34c2727ea915836"
 metafile = true
@@ -2337,7 +2347,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "4461baf4efd6b35f06cbd2b4122139bfa1b08d4b709404871317e591de29c0b7"
+hash = "171c56e1e8b46cb60e7bc612d173c3517f0133f749b992ea3ce8aa8a234af922"
 metafile = true
 
 [[files]]
@@ -2358,6 +2368,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "0cd339450fbb74cebddfc4aa9599a98d0bdc9dc0e3a82d9d5456007127f94d2d"
 metafile = true
 
 [[files]]
