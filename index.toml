@@ -1897,6 +1897,11 @@ hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
+file = "mods/infinitybuttons.pw.toml"
+hash = "f06d859796e84c8ecbdbbabd07c988d8c9b94f4c4ee3ab7dcce9400e4d073a62"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "6eb5f2de6f88720f1613e7073e4834932776b1a7207ae551d0e1b0e3d018c3ff"
 metafile = true
