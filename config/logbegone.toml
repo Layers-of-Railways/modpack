@@ -23,7 +23,8 @@ phrases = [
     "moved too quickly!", # Minecraft
     "Chunk Protection canBreakBlock", # WandsMod
     "Opac canInteract", # WandsMod
-    "from adjacent storage and voided it because network refused insert" # AE2
+    "from adjacent storage and voided it because network refused insert", # AE2,
+    "Lithium Class Analysis" # Lithium
 ]
 
 regex = [

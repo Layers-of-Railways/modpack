@@ -98,7 +98,7 @@ hash = "70193fb4977fc63aea5cfbb1ec01b7cfb0d099c469740c61e2b7bf4dd27e60de"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "002d376dd95d9c43466967a6049aeb48d252af2ee507b1c0ac489fe0987b6906"
+hash = "e961a4526361d9a809eeca6dd09219488b488b79cb3ad2d38035713fbaa75b37"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -1379,12 +1379,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "4cd181924c100d861938395434fd5c5cbb9ffbc3c423f9812e0bb7fcd43e472b"
+hash = "72b23c18039d65a955bfa111b87af4c0cbce8893e539d644e5a4449f3e473ec9"
 metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "dcbe0ee85bfa16137085751b34443bebecdd57cca4258b7fa0b1f06e589ee6d2"
+hash = "2674266f233fb1e453d04642d6f04e8d6e0676a51951b81716a7aa8d5d4b817b"
 metafile = true
 
 [[files]]
@@ -1592,8 +1592,8 @@ hash = "2a3de6e9b5a763b36bee96eb47b500365ed11d3bd544cd7acf99216bee600baf"
 metafile = true
 
 [[files]]
-file = "mods/delightful-creators-fabric.pw.toml"
-hash = "f57651e0d0b1157f22674bf7f997fb4a80cfad63e806269ebdfb8be32259b9b2"
+file = "mods/delightful-creators.pw.toml"
+hash = "2742879dbf97055d9a89cc6e31d922436c08ff4a7103cfdf467af53d73f94784"
 metafile = true
 
 [[files]]
@@ -1619,11 +1619,6 @@ metafile = true
 [[files]]
 file = "mods/doggo-mod-overhauled.pw.toml"
 hash = "17d4a0b52323087d4e6ca1ca0203594c47ecd35abe31106f0ec2119a894401f4"
-metafile = true
-
-[[files]]
-file = "mods/dramatic-doors.pw.toml"
-hash = "8143c63aa2e53fd78ea83eddba9cfaa4c036141aae6604eb01d8f82dc5d03c99"
 metafile = true
 
 [[files]]
@@ -2178,7 +2173,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "a4bcc36eb3e3223bc59137b4cb3e0b53c5aa3f3605f16aec30c37215d381896a"
+hash = "20abedafcf5d92d97c4bcaa7d7ae4ce0769be9eabfa07a481ed2046183fde740"
 metafile = true
 
 [[files]]
