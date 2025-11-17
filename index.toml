@@ -90,7 +90,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "3a8f80010953ac6e901b8b8aedeefdfa2d4d32d9ac57f57a4490d9d488efdb8d"
+hash = "e20d3048da1155b14501fa9ed980e777f08bc0ce0517b771914d9bbbea27a348"
 
 [[files]]
 file = "config/lmft.json"
@@ -2368,11 +2368,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
-metafile = true
-
-[[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "0cd339450fbb74cebddfc4aa9599a98d0bdc9dc0e3a82d9d5456007127f94d2d"
 metafile = true
 
 [[files]]
