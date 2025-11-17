@@ -41,7 +41,24 @@
         "ae2:matter_cannon",
         "minecraft:bedrock",
         "minecraft:barrier",
-        "farmersrespite:rose_hip_pie"
+        "farmersrespite:rose_hip_pie",
+        "ducky-periphs:keyboard_block",
+        // Refurbished Furniture
+        "refurbished_furniture:sea_salt",
+        "refurbished_furniture:wheat_flower",
+        "refurbished_furniture:dough",
+        "refurbished_furniture:cheese",
+        "refurbished_furniture:plate",
+        "refurbished_furniture:recycle_bin",
+        "refurbished_furniture:doorbell",
+        "!refurbished_furniture:.*_cutting_board",
+        "!refurbished_furniture:.*_chair",
+        "!refurbished_furniture:.*_sofa",
+        "!refurbished_furniture:.*_fan",
+        "!refurbished_furniture:.*_jar",
+        "!refurbished_furniture:.*_mail_box",
+        "!refurbished_furniture:.*_pizza",
+        "!refurbished_furniture:.*_pizza_slice"
     ],
     // -----------------------------------------------------------
     // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

@@ -1,13 +1,13 @@
 name = "YetJustAnotherSilver"
-filename = "YetJustAnotherSilver-1.0.3.jar"
+filename = "YetJustAnotherSilver-1.0.5+mc1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dsEsgw8u/versions/OsSNU3KG/YetJustAnotherSilver-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/dsEsgw8u/versions/spInAGG1/YetJustAnotherSilver-1.0.5%2Bmc1.20.jar"
 hash-format = "sha512"
-hash = "54be5f7d51dcb1c85ed49c561e2767fa3706fbc0daebd2b1b8a4e8c720d183e3a787080de29c9b95ed5c7bfed90f3f2d725b4fa2c4aa1207171a3b30c714d1c9"
+hash = "6cb1f4d919dba6fe8b4ae0eaa4969ac3f8b0d69ebe7cbd6b6983eeeaf83ff39a157ab4481f9fad1277899cae0528c11e7d868d16b3516aedea6c9eb83298d6a2"
 
 [update]
 [update.modrinth]
 mod-id = "dsEsgw8u"
-version = "OsSNU3KG"
+version = "spInAGG1"

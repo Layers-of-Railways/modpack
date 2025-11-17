@@ -26,31 +26,44 @@ ServerEvents.recipes((event) => {
     ];
     ConsistTerracotta.forEach((item) => {
         event.remove({ output: item, type: "minecraft:smelting" })
-    })
+    });
+    //remove C:Deco cracked red bricks furnace recipe
+    event.remove({output:'createdeco:cracked_red_bricks', type: 'minecraft:smelting'})
 })
 
 //Add custom recipes to fix broken ones or add new ones
 ServerEvents.recipes((event) => {
-    //Fix Sugi Mosiac Stairs and Slab recipes
-    event.shaped('natures_spirit:sugi_mosaic_stairs', [
-        'M  ',
-        'MM ',
-        'MMM',
-    ], {
-        M: 'natures_spirit:sugi_mosaic',
-    }),
-    event.shaped('natures_spirit:sugi_mosaic_slab', [
-        'MMM',
-    ], {
-        M: 'natures_spirit:sugi_mosaic',
-    })
+    //Fix Mosaic Stairs and Slab recipes
+    const NSpiritMosaic = [
+        'natures_spirit:sugi_mosaic', 'natures_spirit:joshua_mosaic', 'natures_spirit:coconut_mosaic', 'natures_spirit:mahogany_mosaic'
+    ];
+
+    NSpiritMosaic.forEach((mosaic) => {
+        event.shaped(
+            Item.of(`${mosaic}_stairs`, 4),
+        [
+            'M  ',
+            'MM ',
+            'MMM',
+        ], {
+            M: mosaic,
+        })
+    });
+    NSpiritMosaic.forEach((mosaic) => {
+        event.shaped(
+            Item.of(`${mosaic}_slab`, 6), [
+            'MMM',
+        ], {
+            M: mosaic,
+        })
+    });
 
     //Readd Consistency Plus Smooth Terracotta and Clay smelting recipes but as Smoking recipes
     const ConsistTerracotta = [
         //format [input, output]
         ['minecraft:terracotta','consistency_plus:smooth_terracotta'],
         ['minecraft:red_terracotta', 'consistency_plus:smooth_red_terracotta'],
-        [ 'minecraft:orange_terracotta','consistency_plus:smooth_orange_terracotta'],
+        ['minecraft:orange_terracotta','consistency_plus:smooth_orange_terracotta'],
         ['minecraft:yellow_terracotta', 'consistency_plus:smooth_yellow_terracotta'],
         ['minecraft:lime_terracotta', 'consistency_plus:smooth_lime_terracotta'],
         ['minecraft:green_terracotta', 'consistency_plus:smooth_green_terracotta'],
@@ -77,4 +90,24 @@ ServerEvents.recipes((event) => {
         })
     })
 //End of changes made on June 28, 2025
-})
+
+    //replace Deco Zinc sheets with C&A ones and remove deco sheet recipe
+    event.remove({id: 'createdeco:pressing/zinc_sheet'})
+
+    event.replaceInput(
+        {input: 'createdeco:zinc_sheet'},
+        'createdeco:zinc_sheet',
+        'createaddition:zinc_sheet'
+    )
+//End of changes made on August 15, 2025
+
+    //Make C:deco Cracked Red Bricks a smoking recipe to avoid recipe conflict
+    event.custom({
+        type: "minecraft:smoking",
+        ingredient: { item: 'minecraft:bricks'},
+        result: 'createdeco:cracked_red_bricks',
+        experience: 0.1,
+        cookingtime: 100
+    })
+//End of changes made on September 11, 2025
+});

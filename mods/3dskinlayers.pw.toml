@@ -1,18 +1,17 @@
 name = "3D Skin Layers"
-filename = "skinlayers3d-fabric-1.6.7-mc1.20.1.jar"
+filename = "skinlayers3d-fabric-1.9.2-mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/kFPX5Wmk/skinlayers3d-fabric-1.6.7-mc1.20.1.jar"
-hash-format = "sha1"
-hash = "a28968dac130113b299b4773e72d5217c9d73fed"
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/T8XyNmYy/skinlayers3d-fabric-1.9.2-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "550f6f6b56495f5a556061fda5bd82980ef3fdbd8e4171700fead4664ff269ff3db8c7e41b9ee9429ca6c349744423c89c40442c3cb3e37f2e372e148ada7d4b"
 
 [update]
 [update.modrinth]
 mod-id = "zV5r3pPn"
-version = "kFPX5Wmk"
+version = "T8XyNmYy"
 
 [option]
 optional = true
-default = false
 description = "3D skin layers for players"

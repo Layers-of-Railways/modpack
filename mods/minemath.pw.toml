@@ -1,13 +1,13 @@
 name = "MineMath"
-filename = "MineMath-2.0.0-1.20.1.jar"
+filename = "MineMath-fabric-1.20.1-3.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YAbaLUgy/versions/CucsR2zg/MineMath-2.0.0-1.20.1.jar"
-hash-format = "sha1"
-hash = "2c66df8cbc0d725c58968a5fb8a958560ab48ba8"
+url = "https://cdn.modrinth.com/data/YAbaLUgy/versions/gf5vUvn5/MineMath-fabric-1.20.1-3.0.0.jar"
+hash-format = "sha512"
+hash = "fe0ece7c8ae11f6eca97295f1e330dde0e0292d7e363bbed7600014e1c93c653452554163fc5bd21f41a89c8daca3895aabcc0fea0b81cd0e8480877f8758195"
 
 [update]
 [update.modrinth]
 mod-id = "YAbaLUgy"
-version = "CucsR2zg"
+version = "gf5vUvn5"

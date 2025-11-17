@@ -1,13 +1,13 @@
 name = "More Music Discs"
-filename = "morediscs-1.20.1-33.1-fabric.jar"
+filename = "morediscs-1.20.1-fabric-35.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pXYChc1a/versions/xdEiclmD/morediscs-1.20.1-33.1-fabric.jar"
-hash-format = "sha1"
-hash = "3e4b60ffeec6adc8d9e428786df87c9eeeaf42e8"
+url = "https://cdn.modrinth.com/data/pXYChc1a/versions/a66XYVQx/morediscs-1.20.1-fabric-35.jar"
+hash-format = "sha512"
+hash = "d7ca2b2df02f21fc7f198ddf07167d19df80c13c34bca7dcc7ec2e10121be34a3944c00760aadc329ad6ea1f1f3cd792341af0ebbd83fe1c9a640898f29b5367"
 
 [update]
 [update.modrinth]
 mod-id = "pXYChc1a"
-version = "xdEiclmD"
+version = "a66XYVQx"

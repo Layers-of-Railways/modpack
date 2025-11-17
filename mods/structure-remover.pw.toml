@@ -1,13 +1,13 @@
 name = "Structure Remover"
-filename = "StructureRemover-1.20-1.0.0.jar"
+filename = "StructureRemover-1.20.1-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/reFExWk5/versions/qdgeJs0o/StructureRemover-1.20-1.0.0.jar"
-hash-format = "sha1"
-hash = "df6cbffe6c5bd38487e3b3f15543229057553b35"
+url = "https://cdn.modrinth.com/data/reFExWk5/versions/n5JdqZSM/StructureRemover-1.20.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "00db98376c792881c15dad7470b84bca0726820f0316e6d156bd64d0dfe11b0cc8f4ebbe82e4465a5392d10012de0f05fd2faefb47a1634b6ec42c5d337595ef"
 
 [update]
 [update.modrinth]
 mod-id = "reFExWk5"
-version = "qdgeJs0o"
+version = "n5JdqZSM"
