@@ -61,7 +61,9 @@ const non_movable = [
     "phonos:audio_switch",
     "phonos:ender_music_box",
     "phonos:microphone_base",
-    "phonos:wireless_microphone_base"
+    "phonos:wireless_microphone_base",
+	"computercraft:monitor_advanced",
+	"computercraft:monitor_normal"
 ];
 
 const bottomless_allow = ["create:honey", "milk:milk_fluid_block"];
