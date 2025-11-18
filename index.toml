@@ -101,6 +101,10 @@ file = "config/logbegone.toml"
 hash = "e961a4526361d9a809eeca6dd09219488b488b79cb3ad2d38035713fbaa75b37"
 
 [[files]]
+file = "config/maplink/general.json5"
+hash = "adf514fcd67383f8f6fb20a4903eead4188b0d3b8421c0846a2409b11258a02d"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
 
