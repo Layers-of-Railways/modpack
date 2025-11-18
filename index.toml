@@ -2371,6 +2371,11 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
+file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
+hash = "378986b622f4f3ecd55bf29e830f0d6f67602343eb0b130ea6ed39b257569a44"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
 metafile = true
