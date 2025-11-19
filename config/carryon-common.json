@@ -180,7 +180,13 @@
         "mekanismgenerators:heat_generator",
         "mna:filler_block",
         "escalated:*",
-        "design_decor:stepped_lever"
+        "design_decor:stepped_lever",
+        "copycats:copycat_iron_door",
+        "copycats:copycat_folding_door",
+        "copycats:copycat_sliding_door",
+        "copycats:copycat_door",
+        "computercraft:monitor_normal",
+        "computercraft:monitor_advanced"
       ],
       "//forbiddenEntities": "Entities that cannot be picked up",
       "forbiddenEntities": [
