@@ -18,7 +18,7 @@ hash = "83a74f8fc0756a952758f5be0667ff5437dd99e832835b2a70d6a4ac1a9669f6"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "56eee5b56507d30e5e2d9ae0e0c244b0d4467302056f5721ac31673a88decd98"
+hash = "503d4269c734d8015834a72f8645fe539dc9994b0832cb137c3b3a47e0a04e5e"
 
 [[files]]
 file = "config/chunky/config.json"
@@ -1104,7 +1104,7 @@ hash = "0b0e4b8fed893b45deeb1c59a74a421595a8b84ad3a106313079666b75b58ed5"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "a313d860668280f5db9d6e259976fc82b4633ff0dab98b001a99bfc276ccbcb8"
+hash = "68b97c5317a0576a7abf3dd89873976532712d69a6d1a70666ed0d5bbf80d8a1"
 
 [[files]]
 file = "kubejs/startup_scripts/biofuel_burn_time.js"
