@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "createaddition:electrum_ingot"
-  },
-  "result": "design_decor:electrum_large_chain",
-  "count": 4
-}

@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "tconstruct:manyullyn_ingot"
-  },
-  "result": "design_decor:manyullyn_large_chain",
-  "count": 4
-}
