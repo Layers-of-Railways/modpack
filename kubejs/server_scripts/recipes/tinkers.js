@@ -9,6 +9,10 @@ const threeIngredientAlloying = [
     ["minecraft:gold_ingot", "minecraft:magma_cream", "tconstruct:cobalt_ingot", "tconstruct:queens_slime_ingot", 1],
 ]
 
+const blockRecipes = {
+    "amethyst_bronze": 182, "cobalt": 194, "hepatizon": 233, "manyullyn": 182, "rose_gold": 155, "silver": 180
+}
+
 ServerEvents.recipes((event) => {
     // Alloying
     twoIngredientAlloying.forEach((recipe) => {
@@ -418,4 +422,18 @@ ServerEvents.recipes((event) => {
         "time": 55
         }
     )
+
+    // grosik's block casting fixes (19.11.2025)
+    for(let key in blockRecipes) {
+        event.remove({ id: `tconstruct:smeltery/casting/metal/${key}/block` });
+        event.custom({
+            type: 'tconstruct:casting_basin',
+            cooling_time: blockRecipes[key],
+            fluid: {
+                amount: 81000,
+                name: `tconstruct:molten_${key}`
+            },
+            result: `${key == 'silver' ? 'yjas' : 'tconstruct'}:${key}_block`
+        })i
+    }
 });
