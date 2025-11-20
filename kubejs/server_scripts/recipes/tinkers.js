@@ -618,8 +618,6 @@ ServerEvents.recipes((event) => {
             result: `${wireV.mod ? wireV.mod : 'createaddition'}:${key}_wire`
         })
     }
-        })
-    }
 
     let wireV
     for(let key in wireRecipes) {
