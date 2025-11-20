@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "tconstruct:cobalt_ingot"
-  },
-  "result": "design_decor:cobalt_large_chain",
-  "count": 4
-}
