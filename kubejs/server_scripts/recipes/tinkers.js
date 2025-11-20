@@ -577,20 +577,7 @@ ServerEvents.recipes((event) => {
                 amount: 9000,
                 name: `tconstruct:molten_${key}`
             },
-            result: `${plaV.mod ? plaV.mod : 'createaddition'}:${key}_sheet`
-            cooling_time: plaV.time,
-            fluid: {
-                amount: 9000,
-                name: `tconstruct:molten_${key}`
-            },
-            result: `${plaV.mod ? plaV.mod : 'createaddition'}:${key}_sheet`
-        })
-        event.remove({ id: `tconstruct:smeltery/casting/metal/${key}/plate_gold_cast` });
-        event.custom({
-            type: 'tconstruct:casting_table',
-            cast: {
-                tag: "tconstruct:casts/multi_use/plate"
-            },
+            result: `${plaV.mod ? plaV.mod : 'createaddition'}:${key}_sheet`,
             cooling_time: plaV.time,
             fluid: {
                 amount: 9000,
