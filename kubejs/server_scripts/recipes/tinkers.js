@@ -618,36 +618,4 @@ ServerEvents.recipes((event) => {
             result: `${wireV.mod ? wireV.mod : 'createaddition'}:${key}_wire`
         })
     }
-
-    let wireV
-    for(let key in wireRecipes) {
-        wireV = wireRecipes[key]
-        event.remove({ id: `tconstruct:smeltery/casting/metal/${key}/wire_sand_cast` });
-        event.custom({
-            type: 'tconstruct:casting_table',
-            cast: {
-                tag: "tconstruct:casts/single_use/wire"
-            },
-            cast_consumed: true,
-            cooling_time: wireV.time,
-            fluid: {
-                amount: 4500,
-                name: `tconstruct:molten_${key}`
-            },
-            result: `${wireV.mod ? wireV.mod : 'createaddition'}:${key}_wire`
-        })
-        event.remove({ id: `tconstruct:smeltery/casting/metal/${key}/wire_gold_cast` });
-        event.custom({
-            type: 'tconstruct:casting_table',
-            cast: {
-                tag: "tconstruct:casts/multi_use/wire"
-            },
-            cooling_time: wireV.time,
-            fluid: {
-                amount: 4500,
-                name: `tconstruct:molten_${key}`
-            },
-            result: `${wireV.mod ? wireV.mod : 'createaddition'}:${key}_wire`
-        })
-    }
 });
