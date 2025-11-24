@@ -1397,11 +1397,6 @@ hash = "7876655e9f26cbdbed200681efc0854f6e0cb938a5187408d34e430892e4e670"
 metafile = true
 
 [[files]]
-file = "mods/chipped-express.pw.toml"
-hash = "31c26d388abc0817c7865a8c4d747cb5b5d2f72f88dfad66535b3530f7299531"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
 metafile = true
