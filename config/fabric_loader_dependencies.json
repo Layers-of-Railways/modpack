@@ -21,6 +21,11 @@
                 "fabricloader": ""
             }
         },
+        "benschristmasmod": {
+            "-depends": {
+                "fabricloader": ""
+            }
+        },
         "design_decor": {
             "-depends": {
                 "create": ""

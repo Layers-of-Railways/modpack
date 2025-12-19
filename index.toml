@@ -50,7 +50,7 @@ hash = "8c2abae0be3c1aad6244b47cbde95892d55d046ff15e35621eca5e5cbd276c87"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "9b69d42a54806ea0d001dea8e0735fbd5506e905778b154a5f9c3128dc03bb3e"
+hash = "53ae50add30f2bc50dae4afb0d7f49b39d3df1671eba8f261dc0a49305197253"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
