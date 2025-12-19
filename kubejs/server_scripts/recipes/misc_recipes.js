@@ -89,6 +89,12 @@ ServerEvents.recipes((event) => {
         "minecraft:stick",
         "betterend:leather_wrapped_stick"
     )
+
+    // Use Ginger for Gingerbread Men
+    event.replaceInput({ output: 'benschristmasmod:raw_gingerbread_man' },
+        "minecraft:bread",
+        "#c:crops/ginger"
+    )
     
     // Unique Shulker Box recipe
     event.shaped("minecraft:shulker_box", [

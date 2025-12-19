@@ -42,7 +42,9 @@
         "minecraft:bedrock",
         "minecraft:barrier",
         "farmersrespite:rose_hip_pie",
-        "ducky-periphs:keyboard_block"
+        "ducky-periphs:keyboard_block",
+        "benschristmasmod:candy_cane",
+        "benschristmasmod:candy_cane_block"
     ],
     // -----------------------------------------------------------
     // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
