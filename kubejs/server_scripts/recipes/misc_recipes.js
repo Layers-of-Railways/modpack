@@ -91,10 +91,10 @@ ServerEvents.recipes((event) => {
     )
 
     // Use Ginger for Gingerbread Men
-    event.replaceInput({ output: 'benschristmasmod:raw_gingerbread_man' },
+    /**event.replaceInput({ output: 'benschristmasmod:raw_gingerbread_man' },
         "minecraft:bread",
         "#c:crops/ginger"
-    )
+    )**/
     
     // Unique Shulker Box recipe
     event.shaped("minecraft:shulker_box", [
