@@ -90,7 +90,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "2395ebf4190ab0d75e00389d71cfe6cb802273cead04d48b93a6dedbe1cd75af"
+hash = "06bd499f71a33fec6d459c8d0482e38839b8fc6954fa17e3f76b5eb0ec5a1604"
 
 [[files]]
 file = "config/lmft.json"
@@ -1076,7 +1076,7 @@ hash = "e26f0c5dff988b21dacb601eac1df0bca9ba27ca094955a02ca6e2a8561c361c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/misc_recipes.js"
-hash = "80d76fc519417e5c4a9ba034795b4a4239bbf4565930ab02301484d01f50fab4"
+hash = "549e75ed8bc9dff52d010c6974990e9725fb351fd2842a6cb0b79d8f5bb17475"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/phonos.js"
@@ -1304,11 +1304,6 @@ metafile = true
 [[files]]
 file = "mods/beaconoverhaul.pw.toml"
 hash = "948e2afde3a7a98cca263230450e50d861fdd8984c87a464897c17a3105c6037"
-metafile = true
-
-[[files]]
-file = "mods/bens-christmas-mod.pw.toml"
-hash = "50198f4239b6238e1c22230c70cd0aa2f0d3539bee37a34ffbc231aacf98dbcf"
 metafile = true
 
 [[files]]
