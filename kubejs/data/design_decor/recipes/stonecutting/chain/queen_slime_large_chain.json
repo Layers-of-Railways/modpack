@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "tconstruct:queens_slime_ingot"
-  },
-  "result": "design_decor:queen_slime_large_chain",
-  "count": 4
-}
