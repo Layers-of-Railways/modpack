@@ -155,7 +155,7 @@
 		#Maximum amount of data a contraption can have before it can't be synced with players.
 		#Un-synced contraptions will not be visible and will not have collision.
 		#Range: > 0
-		maxDataSize = 2000000
+		maxDataSize = 4000000
 		#.
 		#Configure how Spawner blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
