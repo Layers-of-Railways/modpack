@@ -1032,7 +1032,7 @@ hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/recipe_removals.js"
-hash = "e7ab9dcc066e4c6397d8251d3011f53992782a700dd2669210563cec2bcb9f37"
+hash = "c2d869f5aab721b9ae58268bdcc2b13efc56d3c48bae8a15b21ecafb5e4f8302"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/smithing.js"
@@ -2499,6 +2499,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
+metafile = true
+
+[[files]]
+file = "mods/tier-tower.pw.toml"
+hash = "32d9f0a5a78e3869b33689b2ee3b53eda06d96f21e1816e1183a38715fb4a780"
 metafile = true
 
 [[files]]
