@@ -1,0 +1,8 @@
+{
+    "gui.comment_under_title_cant_resolve": "\nPlease submit crash reports to the SnR Modpack Github Repository if you can.",
+    "gui.comment_under_title_pls_report": "\nPlease submit crash reports to the SnR Modpack Github Repository if you can.",
+    "gui.comment_under_title": "Make sure to provide details on how the crash occurred and if possible the steps required to replicate it.",
+    "gui.request_help_button": "Submit issue report to Github",
+    "gui.upload_all_finished_button": "Copy log file outputs and mod list changes to clipboard",
+    "gui.upload_all_button": "Upload all logs files and copy to clipboard"
+}

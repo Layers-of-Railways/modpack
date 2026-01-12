@@ -19,7 +19,8 @@ let removeRecipe = [
     "computercraft:speaker",
     "computercraft:turtle_normal",
     "computercraft:redstone_relay",
-    'design_decor:crafting/gas_tank'
+    "design_decor:crafting/gas_tank",
+    "tier_tower:item_sink/diamond"
 ];
 
 let removeRecipeInput = [];
