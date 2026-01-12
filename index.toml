@@ -186,6 +186,10 @@ file = "config/paxi/datapacks/sound_lengths.zip"
 hash = "d25f752f8256a5a8747b73c1f1c49d3998b94cdcba3f16b28b16bc5aa34da2a9"
 
 [[files]]
+file = "config/paxi/datapacks/tier-tower-recipes.zip"
+hash = "8cb4fbf461a40ea8a4b117e1d40b5434ea0afbea5e3cb81040106f4a0f750608"
+
+[[files]]
 file = "config/paxi/datapacks/wandering trades v1.7.1 (MC 1.20.x).zip"
 hash = "eca7dfa4e02ebd94fc1bcdc125b5eba35f2a33782504588ea6338edb8220885d"
 
