@@ -25,6 +25,14 @@ file = "config/chunky/config.json"
 hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "5dd4bc23510584ebdaf805bc78de7bfe0bb106c01adbb0612e40d826e2df4ea4"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
+hash = "ea9d2d3703259127ced52e3fad8b5391faecade358b4f918ff3d76fe7de2f0ee"
+
+[[files]]
 file = "config/create-server.toml"
 hash = "58f89dd8b8fd5b8b6d846223fe2f4e18b0b7a89627d0157d7c6cbef6a6e39937"
 
@@ -1426,6 +1434,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor.pw.toml"
 hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "10742d60f7069f58268b846ab1661842cc7613e8c6d96c03c341b8668a4ffc1e"
 metafile = true
 
 [[files]]
