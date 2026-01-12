@@ -1,6 +1,11 @@
 {
     "version": 1,
     "overrides": {
+        "tier_tower": {
+            "-depends": {
+                "fabricloader": ""
+            }
+        },
         "railways": {
             "-depends": {
                 "create": ""
