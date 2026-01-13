@@ -1,13 +1,13 @@
 name = "Tier Tower"
-filename = "TierTower-0.1.0-beta.10+fabric-mc1.20.1.jar"
+filename = "TierTower-0.1.0-beta.11+fabric-mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6KkN9umD/versions/qtkBnj86/TierTower-0.1.0-beta.10%2Bfabric-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/6KkN9umD/versions/Y9XTJVkd/TierTower-0.1.0-beta.11%2Bfabric-mc1.20.1.jar"
 hash-format = "sha1"
-hash = "58a846f46be291557277df08a4fece2f6d1eebbb"
+hash = "5d6e76581796ae39ad0cd7864b101553f0cbb4b0"
 
 [update]
 [update.modrinth]
 mod-id = "6KkN9umD"
-version = "qtkBnj86"
+version = "Y9XTJVkd"
