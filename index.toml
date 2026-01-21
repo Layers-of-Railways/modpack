@@ -187,7 +187,7 @@ hash = "d25f752f8256a5a8747b73c1f1c49d3998b94cdcba3f16b28b16bc5aa34da2a9"
 
 [[files]]
 file = "config/paxi/datapacks/tier-tower-recipes.zip"
-hash = "8cb4fbf461a40ea8a4b117e1d40b5434ea0afbea5e3cb81040106f4a0f750608"
+hash = "7818bef86fb5b198c3a841cc8c1ea7be8acbbe84a09d77756846317968694f65"
 
 [[files]]
 file = "config/paxi/datapacks/wandering trades v1.7.1 (MC 1.20.x).zip"
@@ -1044,7 +1044,7 @@ hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/recipe_removals.js"
-hash = "c2d869f5aab721b9ae58268bdcc2b13efc56d3c48bae8a15b21ecafb5e4f8302"
+hash = "e085e177174861326a1367d5d9383d5ef5ee6001f67b001e4dea5cfaf0a65c0a"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/smithing.js"
@@ -2520,7 +2520,7 @@ metafile = true
 
 [[files]]
 file = "mods/tier-tower.pw.toml"
-hash = "32d9f0a5a78e3869b33689b2ee3b53eda06d96f21e1816e1183a38715fb4a780"
+hash = "77162f9e16d538fa9b3eedc7d53246d8ce5e07aad0466db3c51c61d7ed26d999"
 metafile = true
 
 [[files]]
