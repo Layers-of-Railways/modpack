@@ -106,7 +106,7 @@ hash = "70193fb4977fc63aea5cfbb1ec01b7cfb0d099c469740c61e2b7bf4dd27e60de"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "e961a4526361d9a809eeca6dd09219488b488b79cb3ad2d38035713fbaa75b37"
+hash = "7590780430c5e9e8cea11281c6671b10c941646c4aee12e2c5ed3fb9e0d48d93"
 
 [[files]]
 file = "config/maplink/general.json5"
@@ -2316,7 +2316,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "7c6565967aa4641d2f3db6f21707c3a18eeef069531fea062be160a568fd6cd8"
+hash = "40874f85e254fc2ac5ef1dc5990bca684ab496c3ad383fdd67e0dc8ebe146303"
 metafile = true
 
 [[files]]
