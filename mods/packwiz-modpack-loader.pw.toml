@@ -1,0 +1,13 @@
+name = "Packwiz Modpack Loader"
+filename = "packwizsu-3.1.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gJUTDRJj/versions/hF8FvSIb/packwizsu-3.1.0%2B1.19.jar"
+hash-format = "sha512"
+hash = "89981f4df639817a4bfda37adb38af9b61971bb5389f1bbee2fac123a13c9c6acf757d623a82495c5466137b8502c78219888bc155b567b04629f4c9e3d01f59"
+
+[update]
+[update.modrinth]
+mod-id = "gJUTDRJj"
+version = "hF8FvSIb"

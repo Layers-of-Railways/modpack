@@ -2221,8 +2221,8 @@ hash = "3ab8970e80d25686ebe4bf0747a96d116ab961ce6974aa815cc9fcbce5553b62"
 metafile = true
 
 [[files]]
-file = "mods/packwiz-server-updater.pw.toml"
-hash = "347950b1eeca96af2b64d83309fde3d854f400cc90d343f0dbf28b6b08573800"
+file = "mods/packwiz-modpack-loader.pw.toml"
+hash = "031430fa582e0e203791ae29423241e47917962719ab79ae3be25ebb719dc8b5"
 metafile = true
 
 [[files]]
