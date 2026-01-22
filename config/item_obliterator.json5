@@ -44,7 +44,19 @@
         "farmersrespite:rose_hip_pie",
         "ducky-periphs:keyboard_block",
         "benschristmasmod:candy_cane",
-        "benschristmasmod:candy_cane_block"
+        "benschristmasmod:candy_cane_block",
+
+        // Create V6 Content:
+        "create:redstone_requester",
+        "create:stock_ticker",
+        "create:stock_link",
+        "create:package_frogport",
+        "create:packager",
+        "create:repackager",
+        "create:package_filter",
+        "create:chain_conveyor",
+        "create:factory_gauge",
+        "!create:.*_postbox"
     ],
     // -----------------------------------------------------------
     // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
