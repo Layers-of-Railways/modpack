@@ -968,7 +968,7 @@ hash = "3b2583809f3268a148c9a22df48e523fab522f9eec8294ccaa2e0af7f5808398"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/create/mixing.js"
-hash = "1810f440fa7a8d8751bea4d658b9909d8a38a6449c9252a49508de32c16dc582"
+hash = "fed27110972ce8eae023b4a765523d58885496e6766344987ca49dc1186719ff"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/create/sequenced_assembly.js"
