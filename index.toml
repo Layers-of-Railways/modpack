@@ -2369,10 +2369,6 @@ hash = "aa2e881898b1f1c0ac17cd1071479ce60fafbc3ede34c8489cf09f4de959755d"
 metafile = true
 
 [[files]]
-file = "mods/reterraforged-0.0.6-fabric-1.20.1.jar"
-hash = "00f6933717bf3fcad22fe3525bce3746d50fa26298d1755bf694fb06124819c8"
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
 metafile = true
