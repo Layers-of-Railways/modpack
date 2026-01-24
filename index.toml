@@ -391,6 +391,11 @@ hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/more-mob-variants-fix.pw.toml"
+hash = "9520a8c956af5cceb8323cb3ab3ca701c4d5ce10035c216fd6830cbd67a8841e"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/panorama/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "32373c393fb10a3efc4f87a70a297b3f99967c6c2daa2eb777c67ca43eaaeb89"
 
@@ -2697,11 +2702,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/human-era-villagers-illagers.pw.toml"
 hash = "bed2afd482584a281f0b9a2d1daebb193d35fa9cc746b6beb6e443687b1384e4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/more-mob-variants-fix.pw.toml"
-hash = "9520a8c956af5cceb8323cb3ab3ca701c4d5ce10035c216fd6830cbd67a8841e"
 metafile = true
 
 [[files]]
