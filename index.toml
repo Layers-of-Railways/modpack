@@ -38,7 +38,7 @@ hash = "6393027727c9657002ebc8de75de9aa0f95100734a46bb8489e5e1876ec15983"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "127273c82e43f847de6a1dcbcd31a8f749d7b204dc1c6608f3ff002f1bc5b163"
+hash = "82c2e0e991c0af2501bef4fee3c26e9b2576dacd0b195410711191e68e06c796"
 
 [[files]]
 file = "config/create-track-map.json"
