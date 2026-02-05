@@ -22,4 +22,21 @@ ServerEvents.recipes((event) => {
         ],
         heatRequirement: "superheated",
     });
+    // Rooted Dirt
+    event.custom({
+        type: "create:mixing",
+        ingredients: [
+            {
+                item: "minecraft:granite",
+            },
+            {
+                item: "minecraft:dirt",
+            }
+        ],
+        results: [
+            {
+                item: "minecraft:rooted_dirt"
+            },
+        ]
+    });
 });

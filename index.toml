@@ -26,15 +26,19 @@ hash = "0996ac3222899c604575d941dcddf1432ddd6dbf433b8bc677f97788051b0a47"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "5dd4bc23510584ebdaf805bc78de7bfe0bb106c01adbb0612e40d826e2df4ea4"
+hash = "11d8a950305d9dc899858b1d8c3380e40d692278a09819d88fc5f5897646f726"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
 hash = "ea9d2d3703259127ced52e3fad8b5391faecade358b4f918ff3d76fe7de2f0ee"
 
 [[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "6393027727c9657002ebc8de75de9aa0f95100734a46bb8489e5e1876ec15983"
+
+[[files]]
 file = "config/create-server.toml"
-hash = "127273c82e43f847de6a1dcbcd31a8f749d7b204dc1c6608f3ff002f1bc5b163"
+hash = "82c2e0e991c0af2501bef4fee3c26e9b2576dacd0b195410711191e68e06c796"
 
 [[files]]
 file = "config/create-track-map.json"
@@ -106,7 +110,7 @@ hash = "70193fb4977fc63aea5cfbb1ec01b7cfb0d099c469740c61e2b7bf4dd27e60de"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "e961a4526361d9a809eeca6dd09219488b488b79cb3ad2d38035713fbaa75b37"
+hash = "7590780430c5e9e8cea11281c6671b10c941646c4aee12e2c5ed3fb9e0d48d93"
 
 [[files]]
 file = "config/maplink/general.json5"
@@ -155,10 +159,6 @@ hash = "a03f559eb7b5431d823088192de824bdb9717361589ae0964c008112e5d7842e"
 [[files]]
 file = "config/paxi/datapacks/RailwaysTweaks/pack.mcmeta"
 hash = "36a643178d1d6524c92622e8860f11b13d7193e4951dd8c38853ad2d6eba46b4"
-
-[[files]]
-file = "config/paxi/datapacks/ReTerraForged.zip"
-hash = "5468e8e448c6c21f18cab797851fade8cd7012a3b9380d361afa4f0e2dbe68ff"
 
 [[files]]
 file = "config/paxi/datapacks/better-endcity-better-end.zip"
@@ -388,6 +388,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/even-better-enchants.pw.toml"
 hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/more-mob-variants-fix.pw.toml"
+hash = "9520a8c956af5cceb8323cb3ab3ca701c4d5ce10035c216fd6830cbd67a8841e"
 metafile = true
 
 [[files]]
@@ -968,7 +973,7 @@ hash = "3b2583809f3268a148c9a22df48e523fab522f9eec8294ccaa2e0af7f5808398"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/create/mixing.js"
-hash = "1810f440fa7a8d8751bea4d658b9909d8a38a6449c9252a49508de32c16dc582"
+hash = "fed27110972ce8eae023b4a765523d58885496e6766344987ca49dc1186719ff"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/create/sequenced_assembly.js"
@@ -1767,7 +1772,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-early-loading-screen-fabric.pw.toml"
-hash = "24906905c5fe5cb4c33968e64801c441abd7f4e60df2e9ed2dc81bf92bd31b4b"
+hash = "1e3750f735cd87f973adbddc5b95452175c0251994d4028c219e55e3c12d5b44"
 metafile = true
 
 [[files]]
@@ -2221,8 +2226,8 @@ hash = "3ab8970e80d25686ebe4bf0747a96d116ab961ce6974aa815cc9fcbce5553b62"
 metafile = true
 
 [[files]]
-file = "mods/packwiz-server-updater.pw.toml"
-hash = "347950b1eeca96af2b64d83309fde3d854f400cc90d343f0dbf28b6b08573800"
+file = "mods/packwiz-modpack-loader.pw.toml"
+hash = "031430fa582e0e203791ae29423241e47917962719ab79ae3be25ebb719dc8b5"
 metafile = true
 
 [[files]]
@@ -2316,7 +2321,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "bed05e7d4e15e059d6a49ac7cc187a3c43f34cbffe8c8fd01cd14691573c2fb6"
+hash = "be75a9263f6395fc1565595a90b242eb97ca84ed1542a144e44950ebfdaa5726"
 metafile = true
 
 [[files]]
@@ -2363,10 +2368,6 @@ metafile = true
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "aa2e881898b1f1c0ac17cd1071479ce60fafbc3ede34c8489cf09f4de959755d"
 metafile = true
-
-[[files]]
-file = "mods/reterraforged-0.0.6-fabric-1.20.1.jar"
-hash = "00f6933717bf3fcad22fe3525bce3746d50fa26298d1755bf694fb06124819c8"
 
 [[files]]
 file = "mods/rhino.pw.toml"
@@ -2701,11 +2702,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/human-era-villagers-illagers.pw.toml"
 hash = "bed2afd482584a281f0b9a2d1daebb193d35fa9cc746b6beb6e443687b1384e4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/more-mob-variants-fix.pw.toml"
-hash = "9520a8c956af5cceb8323cb3ab3ca701c4d5ce10035c216fd6830cbd67a8841e"
 metafile = true
 
 [[files]]

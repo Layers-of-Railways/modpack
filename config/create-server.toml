@@ -470,7 +470,7 @@
 	#.
 	#Relative speed of a manually controlled Train compared to a Scheduled one.
 	#Range: 0.0 ~ 3.4028234663852886E38
-	manualTrainSpeedModifier = 0.75
+	manualTrainSpeedModifier = 1.0
 
 	#.
 	#Powered Trains

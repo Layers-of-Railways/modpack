@@ -11,3 +11,7 @@ hash = "7da007a19826c4c21f2bb20cd79c4c28148d244612c8d9a974d4d6e28007666f06da43d7
 [update.modrinth]
 mod-id = "qPqMrMUl"
 version = "wnmqxw31"
+
+[option]
+optional = true
+description = "Replaces the fabric mod loading screen with the Neoforge one"

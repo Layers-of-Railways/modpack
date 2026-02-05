@@ -24,7 +24,9 @@ phrases = [
     "Chunk Protection canBreakBlock", # WandsMod
     "Opac canInteract", # WandsMod
     "from adjacent storage and voided it because network refused insert", # AE2,
-    "Lithium Class Analysis" # Lithium
+    "Lithium Class Analysis", # Lithium
+    "OpenGL debug message: id=1282, source=API, type=ERROR, severity=HIGH", # Minecraft
+    "Failed to recreate fishing hook on client" # Minecraft
 ]
 
 regex = [
