@@ -1,5 +1,5 @@
 ServerEvents.recipes((event) => {
-    // Dirt Splashing
+    // Concrete from Consistency_Plus
     event.custom({
       "type": "create:splashing",
       "ingredients": [
