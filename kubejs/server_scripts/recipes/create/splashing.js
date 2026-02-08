@@ -13,4 +13,4 @@ ServerEvents.recipes((event) => {
         }
       ]
     });
-  
+});
