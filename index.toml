@@ -62,7 +62,7 @@ hash = "8c2abae0be3c1aad6244b47cbde95892d55d046ff15e35621eca5e5cbd276c87"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ba63271abb74d0bfe58e36ef15ac9edb11fabfd0f4e437b91d3a378efa367be0"
+hash = "4358b1243cb98f5551c15ffe0c6455b8e7d31d792a381a5e1c44f7438bdd81c1"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -102,7 +102,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "2395ebf4190ab0d75e00389d71cfe6cb802273cead04d48b93a6dedbe1cd75af"
+hash = "320bde1a312dd9ae519c27b45d22635270cb12a578f2e01cbdddf5e664c5b5c9"
 
 [[files]]
 file = "config/lmft.json"
@@ -2163,6 +2163,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "95a3e4926b406df108ae3da7deeda518a39c1ac5b5ad79ff296c576f16734d58"
 metafile = true
 
 [[files]]
