@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "scaled-up textures to prevent mipmap being limited"
+  }
+}
