@@ -1,6 +1,11 @@
 {
     "version": 1,
     "overrides": {
+	"nochatrestrictions": {
+	    "-depends": {
+		"fabricloader": ""
+	    }
+	},
         "tier_tower": {
             "-depends": {
                 "fabricloader": ""

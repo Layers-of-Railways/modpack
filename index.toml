@@ -62,7 +62,7 @@ hash = "8c2abae0be3c1aad6244b47cbde95892d55d046ff15e35621eca5e5cbd276c87"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ba63271abb74d0bfe58e36ef15ac9edb11fabfd0f4e437b91d3a378efa367be0"
+hash = "4358b1243cb98f5551c15ffe0c6455b8e7d31d792a381a5e1c44f7438bdd81c1"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -102,7 +102,7 @@ hash = "1de5a07a92ed99574f03555597da94db00d30b2f28ead3b1caf9abd86485452b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "2395ebf4190ab0d75e00389d71cfe6cb802273cead04d48b93a6dedbe1cd75af"
+hash = "320bde1a312dd9ae519c27b45d22635270cb12a578f2e01cbdddf5e664c5b5c9"
 
 [[files]]
 file = "config/lmft.json"
@@ -389,6 +389,94 @@ metafile = true
 file = "config/paxi/resourcepacks/even-better-enchants.pw.toml"
 hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
 metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/black_bulb.png"
+hash = "5cdfa95c4e5e521a5d7d206845caa5917537f413c89122ab08603998bd4dbd0c"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/blue_bulb.png"
+hash = "edc8173ec464d16b83fbbba8506deb2c09972fe1b47258002310cf48446b2a42"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/brown_bulb.png"
+hash = "ab2dbc07003ce5e4037f07be43035e3d33f2cfae12d3bee90e5d9be06f00db4a"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/cyan_bulb.png"
+hash = "619035bd923519f2b9d1ed952e15e9568179d791aceaa4341f66f96ffdb0951b"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/garland.png"
+hash = "468524e5c1897bdc94fdf4a38ae785a534d7f886f93baff5c661483deb5a1121"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/gray_bulb.png"
+hash = "d950a403d9277be16a1d3257286b5ebca4cc9f32b24d313b9398ecade7061431"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/green_bulb.png"
+hash = "faa7411b64ede634b02cca6f905e081108d7ebd5278c68813c0fc8959e1a98c2"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/light_blue_bulb.png"
+hash = "d2dd1f3bd7533b4b5cc245f58cedbcd29d7b38526b5aa8e5bb9d371a37dd685b"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/light_gray_bulb.png"
+hash = "f324243e5dba802012181e402e5eef2e13d8c20b318875008c119b3af3012c54"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/lime_bulb.png"
+hash = "486bee655d3c223d368e784e60dea197e37539101c761c70943f1e97fcdabe1c"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/magenta_bulb.png"
+hash = "d7b7df2d617c4ca09fe312804ac96efeabfe29c6078150e6b99920274b3a0abb"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/orange_bulb.png"
+hash = "ba05350f98974cf3e11dc1e521c8900ae55c9cd9bc6101c31182b6f98b9d836c"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/pink_bulb.png"
+hash = "82dc4aa520f390e24b1ede5188314c0acf07cd33b01108d59903f1c63dcb0eb0"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/purple_bulb.png"
+hash = "dd8d5c786d84ab4f99db5ece216c8fa1050177c9029bcfa646f256f123c46534"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/rainbow_string_lights_bulb1.png"
+hash = "6b39ba3481475d091dc488ca6695cbc62a39c88fe6da84437893d7c4dd4b39d8"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/rainbow_string_lights_bulb2.png"
+hash = "d139662ff3f6d75f209456bb5f8fda35fbc2b78ac470e405c315d4333daaddd8"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/rainbow_string_lights_bulb3.png"
+hash = "fb69ff56952dacb65aa98bb6db2a3308357e70caf4a93f6d1418e6280a02ffaa"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/rainbow_string_lights_bulb4.png"
+hash = "77444eeb74e242ff932e19a564f925c5a597036198fae217a255060ffb41a1e6"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/red_bulb.png"
+hash = "9c548a4fcd726c665f5c53b35526601f62726e5dca42e0a1f8797ac30eb234d2"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/white_bulb.png"
+hash = "2ac51af1951e6f7631363ec9b3dc6c7e7e4a6b34aaf3c630e5e5482b934319ce"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/assets/benschristmasmod/textures/block/yellow_bulb.png"
+hash = "805332ac47ffb29ff88394610e9a7a44bd43bce1f475a149c30d8ed28f9f274f"
+
+[[files]]
+file = "config/paxi/resourcepacks/mipmap_fix/pack.mcmeta"
+hash = "69d62c0a00b1cfde3d3a54e71d9e2fbbdb507675193419d1968aa073cfc0129f"
 
 [[files]]
 file = "config/paxi/resourcepacks/more-mob-variants-fix.pw.toml"
@@ -2166,6 +2254,11 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "95a3e4926b406df108ae3da7deeda518a39c1ac5b5ad79ff296c576f16734d58"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
 metafile = true
@@ -2321,7 +2414,7 @@ metafile = true
 
 [[files]]
 file = "mods/railways-tweaks.pw.toml"
-hash = "93604fc836b964055f71292e27a260b47775c44af6466a3f49218fb1baee505e"
+hash = "8c0a7517adef45d5b62d2fc9ba06c4f76a76182f2f6cd710eb9aee2f94fcb599"
 metafile = true
 
 [[files]]
