@@ -1,6 +1,6 @@
 name = "Steam 'n' Rails Modpack"
 author = "Steam 'n' Rails Team"
-version = "1.7.8"
+version = "1.7.9"
 pack-format = "packwiz:1.1.0"
 
 [index]
