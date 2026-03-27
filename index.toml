@@ -198,6 +198,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/AE2-R_Backport_Integration_for_SnR_Server_S2.zip"
+hash = "a016cb7a2f01edc50b0bdecd3db219f68c1c20b92c6769ee8f65ea1b2131dab9"
+
+[[files]]
 file = "config/paxi/resourcepacks/NS-Updated-Tracks-Taeco.zip"
 hash = "20249557f6c0d02553a7e1d7fcef7ac85f2198307d7c020f23d7e95773a8dcee"
 
@@ -1066,6 +1070,10 @@ hash = "fed27110972ce8eae023b4a765523d58885496e6766344987ca49dc1186719ff"
 [[files]]
 file = "kubejs/server_scripts/recipes/create/sequenced_assembly.js"
 hash = "23c1763126816cf74e8a44df1b5569ea88300e9f64989201a104cebc13ea03d7"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/create/splashing.js"
+hash = "8b6884d89935d4a19bb8109c58ad982d90ce311902b98454f12c2502d74f27a3"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/createadditions.js"
