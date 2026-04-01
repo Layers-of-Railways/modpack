@@ -38,7 +38,7 @@ hash = "6393027727c9657002ebc8de75de9aa0f95100734a46bb8489e5e1876ec15983"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "997c0184e5c8a3d294d3ee78bddbbf804036f7e7ed56fcae130c43c77e938772"
+hash = "82c2e0e991c0af2501bef4fee3c26e9b2576dacd0b195410711191e68e06c796"
 
 [[files]]
 file = "config/create-track-map.json"
@@ -2120,11 +2120,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
-metafile = true
-
-[[files]]
-file = "mods/lovely_snails.pw.toml"
-hash = "5f4ceeafc28568efaa44a232c78fe580bab62b1fa686accd4d1ac08b8726b520"
 metafile = true
 
 [[files]]
