@@ -479,17 +479,17 @@
 		#[in Blocks/Second]
 		#The top speed of powered Trains during a turn.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTurningTopSpeed = 35.0
+		poweredTrainTurningTopSpeed = 1.0
 		#.
 		#[in Blocks/Second]
 		#The top speed of powered Trains.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTopSpeed = 35.0
+		poweredTrainTopSpeed = 1.0
 		#.
 		#[in Blocks/Second²]
 		#The acceleration of powered Trains.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainAcceleration = 6.0
+		poweredTrainAcceleration = 1.0
 	#.
 	#Standard Trains
 	[trains.trainStats]
@@ -497,14 +497,14 @@
 		#[in Blocks/Second]
 		#The top speed of Trains during a turn.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainTurningTopSpeed = 28.0
+		trainTurningTopSpeed = 1.0
 		#.
 		#[in Blocks/Second²]
 		#The acceleration of any assembled Train.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainAcceleration = 6.0
+		trainAcceleration = 1.0
 		#.
 		#[in Blocks/Second]
 		#The top speed of any assembled Train.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainTopSpeed = 28.0
+		trainTopSpeed = 1.0

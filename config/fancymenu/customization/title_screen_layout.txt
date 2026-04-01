@@ -12,6 +12,13 @@ layout-meta {
   [loading_requirement_container_meta:4122b3da-5a0b-49bb-b9b7-57cd2f7c9f56-1715590843023] = [groups:][instances:]
 }
 
+menu_background {
+  image_path = [source:local]/config/fancymenu/assets/super_secret_image.png
+  slide = false
+  repeat_texture = false
+  background_type = image
+}
+
 customization {
   action = backgroundoptions
   keepaspectratio = false
