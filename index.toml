@@ -65,6 +65,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "4358b1243cb98f5551c15ffe0c6455b8e7d31d792a381a5e1c44f7438bdd81c1"
 
 [[files]]
+file = "config/fancymenu/assets/super_secret_image.png"
+hash = "d6d15ac4efee5d22d877bac8b6ae2242aa7252286f0e8c089b4005441a17f64c"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
