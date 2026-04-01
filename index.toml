@@ -2123,6 +2123,11 @@ hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
 metafile = true
 
 [[files]]
+file = "mods/lovely_snails.pw.toml"
+hash = "5f4ceeafc28568efaa44a232c78fe580bab62b1fa686accd4d1ac08b8726b520"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "ebc7a77402069acd00a1a84eaeefc06c586035c31d7abbc941b9cf204afec2a9"
 metafile = true
