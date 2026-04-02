@@ -38,7 +38,7 @@ hash = "6393027727c9657002ebc8de75de9aa0f95100734a46bb8489e5e1876ec15983"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "997c0184e5c8a3d294d3ee78bddbbf804036f7e7ed56fcae130c43c77e938772"
+hash = "82c2e0e991c0af2501bef4fee3c26e9b2576dacd0b195410711191e68e06c796"
 
 [[files]]
 file = "config/create-track-map.json"
@@ -65,10 +65,6 @@ file = "config/fabric_loader_dependencies.json"
 hash = "4358b1243cb98f5551c15ffe0c6455b8e7d31d792a381a5e1c44f7438bdd81c1"
 
 [[files]]
-file = "config/fancymenu/assets/super_secret_image.png"
-hash = "d6d15ac4efee5d22d877bac8b6ae2242aa7252286f0e8c089b4005441a17f64c"
-
-[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -78,7 +74,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "52730de831dc98e6125bd0e227fccf19600895547d9c8a739a1098c220420aff"
+hash = "75a25d1d6683d2cdb21db879f46573373b149d66e7d5b9eb3173a2ca0ab7c042"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
