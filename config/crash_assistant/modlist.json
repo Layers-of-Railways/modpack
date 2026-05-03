@@ -151,12 +151,12 @@
     "curseForgeHash": 1656600953,
     "modrinthHash": "78183b1e5513c6b6d8bf5477b0cda9d8f86268c4"
   },
-  "Axiom-5.1.1-for-MC1.20.1.jar": {
-    "jarName": "Axiom-5.1.1-for-MC1.20.1.jar",
+  "Axiom-5.4.1-for-MC1.20.1.jar": {
+    "jarName": "Axiom-5.4.1-for-MC1.20.1.jar",
     "modId": "axiom",
-    "version": "5.1.1",
-    "curseForgeHash": 619235516,
-    "modrinthHash": "0a39ace06b538674bb7f1496361815987b8ce73c"
+    "version": "5.4.1",
+    "curseForgeHash": 2518104759,
+    "modrinthHash": "759aa33a54293001cc300f64792e014c3ea165ca"
   },
   "backpacked-fabric-1.20.1-2.2.7.jar": {
     "jarName": "backpacked-fabric-1.20.1-2.2.7.jar",
@@ -1152,6 +1152,13 @@
     "curseForgeHash": 1675374710,
     "modrinthHash": "5b939ae652058d98d0c1d5713bd1a5a0b9a0dd2e"
   },
+  "lovely_snails-1.1.5+1.20.1.jar": {
+    "jarName": "lovely_snails-1.1.5+1.20.1.jar",
+    "modId": "lovely_snails",
+    "version": "1.1.5+1.20.1",
+    "curseForgeHash": 256355005,
+    "modrinthHash": "172132e013693d7884ad89332a08d4ba67ee0add"
+  },
   "LuckPerms-Fabric-5.4.102.jar": {
     "jarName": "LuckPerms-Fabric-5.4.102.jar",
     "modId": "luckperms",
@@ -1327,6 +1334,13 @@
     "curseForgeHash": 1156441238,
     "modrinthHash": "b99f23fb76aad5a944400717e6d71aa011c4d7f7"
   },
+  "NoChatRestrictions-Fabric-MC1.20.1-v1.0.0.jar": {
+    "jarName": "NoChatRestrictions-Fabric-MC1.20.1-v1.0.0.jar",
+    "modId": "nochatrestrictions",
+    "version": "Fabric-MC1.20.1-v1.0.0",
+    "curseForgeHash": 4101601526,
+    "modrinthHash": "9eb4278d8cb2872cecb9385c22b73a5740705980"
+  },
   "ns-cr-rc-0.0.0.jar": {
     "jarName": "ns-cr-rc-0.0.0.jar",
     "modId": "mr_ns_crrc",
@@ -1362,12 +1376,12 @@
     "curseForgeHash": 1033775768,
     "modrinthHash": "6beeac96746511524c71e7bc7cfad265275d1474"
   },
-  "open-parties-and-claims-fabric-1.20.1-0.25.5.jar": {
-    "jarName": "open-parties-and-claims-fabric-1.20.1-0.25.5.jar",
+  "open-parties-and-claims-fabric-1.20.1-0.25.8.jar": {
+    "jarName": "open-parties-and-claims-fabric-1.20.1-0.25.8.jar",
     "modId": "openpartiesandclaims",
-    "version": "0.25.5",
-    "curseForgeHash": 1930525126,
-    "modrinthHash": "2e206214934d053f3e6e34bca6b9fc13d81e873c"
+    "version": "0.25.8",
+    "curseForgeHash": 1144228852,
+    "modrinthHash": "98b15e5db0a629b3d509bd7e9fdcf8af711a186b"
   },
   "optigui-2.3.0-beta.8+1.20.jar": {
     "jarName": "optigui-2.3.0-beta.8+1.20.jar",
@@ -1530,12 +1544,12 @@
     "curseForgeHash": 4293868242,
     "modrinthHash": "de8f5fbb0c08973f606a29aad83268ef15540e89"
   },
-  "RailwaysTweaks-0.1.38.jar": {
-    "jarName": "RailwaysTweaks-0.1.38.jar",
+  "RailwaysTweaks-0.1.41.jar": {
+    "jarName": "RailwaysTweaks-0.1.41.jar",
     "modId": "railwaystweaks",
-    "version": "0.1.38",
-    "curseForgeHash": 2424655864,
-    "modrinthHash": "9e36dbb0e420c9cc5a24900ab67f120d11c22e7f"
+    "version": "0.1.41",
+    "curseForgeHash": 2249796431,
+    "modrinthHash": "3a49962bb5e94675126f273e19e3027ba86b0871"
   },
   "ratatouille-1.0.9-1.20.1.jar": {
     "jarName": "ratatouille-1.0.9-1.20.1.jar",
@@ -1592,13 +1606,6 @@
     "version": "1.3.0-FDR",
     "curseForgeHash": 620768355,
     "modrinthHash": "b82c5e617651dadd96f33fb716e7bca14b8d8a4e"
-  },
-  "reterraforged-0.0.6-fabric-1.20.1.jar": {
-    "jarName": "reterraforged-0.0.6-fabric-1.20.1.jar",
-    "modId": "reterraforged",
-    "version": "0.0.6",
-    "curseForgeHash": 1813222473,
-    "modrinthHash": "74d6ad3eab4cc4f5ee009622a39452eb1c190d2c"
   },
   "rhino-fabric-2001.2.3-build.10.jar": {
     "jarName": "rhino-fabric-2001.2.3-build.10.jar",
@@ -1859,12 +1866,12 @@
     "curseForgeHash": 1827346911,
     "modrinthHash": "85f9b5f46e12e92a62e2d05064d84acbb3fda47e"
   },
-  "voicechat-fabric-1.20.1-2.6.5.jar": {
-    "jarName": "voicechat-fabric-1.20.1-2.6.5.jar",
+  "voicechat-fabric-1.20.1-2.6.16.jar": {
+    "jarName": "voicechat-fabric-1.20.1-2.6.16.jar",
     "modId": "voicechat",
-    "version": "1.20.1-2.6.5",
-    "curseForgeHash": 739943114,
-    "modrinthHash": "ca64f7f0144804dda50c7deb839bb9a0aa372a81"
+    "version": "1.20.1-2.6.16",
+    "curseForgeHash": 1822123017,
+    "modrinthHash": "803ef54350164fb7e7c614d6c37f1fccf126c4d2"
   },
   "wired-redstone-0.7.8+1.20.1.jar": {
     "jarName": "wired-redstone-0.7.8+1.20.1.jar",
@@ -1880,19 +1887,19 @@
     "curseForgeHash": 1248435466,
     "modrinthHash": "4fd64cabffe5c2160a175101ed8474faf969e6a6"
   },
-  "Xaeros_Minimap_25.2.10_Fabric_1.20.jar": {
-    "jarName": "Xaeros_Minimap_25.2.10_Fabric_1.20.jar",
+  "xaerominimap-fabric-1.20.1-25.3.10.jar": {
+    "jarName": "xaerominimap-fabric-1.20.1-25.3.10.jar",
     "modId": "xaerominimap",
-    "version": "25.2.10",
-    "curseForgeHash": 1947166632,
-    "modrinthHash": "10fb39b9daa7a78e69935b390d105eff37670f61"
+    "version": "25.3.10",
+    "curseForgeHash": 3608356765,
+    "modrinthHash": "2fc54c6af762147657ec0c06c03e2fd0339783ee"
   },
-  "XaerosWorldMap_1.39.12_Fabric_1.20.jar": {
-    "jarName": "XaerosWorldMap_1.39.12_Fabric_1.20.jar",
+  "xaeroworldmap-fabric-1.20.1-1.40.11.jar": {
+    "jarName": "xaeroworldmap-fabric-1.20.1-1.40.11.jar",
     "modId": "xaeroworldmap",
-    "version": "1.39.12",
-    "curseForgeHash": 2380114981,
-    "modrinthHash": "0193a3a3ccebebfcdf2d874d8b37b9d766febe8f"
+    "version": "1.40.11",
+    "curseForgeHash": 1063851813,
+    "modrinthHash": "b4f34e57f3bca8b98bf445e870e0acd1bd60856d"
   },
   "xercamusic-fabric-1.20.1-1.0.2.jar": {
     "jarName": "xercamusic-fabric-1.20.1-1.0.2.jar",
