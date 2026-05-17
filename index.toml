@@ -1676,11 +1676,6 @@ hash = "2742879dbf97055d9a89cc6e31d922436c08ff4a7103cfdf467af53d73f94784"
 metafile = true
 
 [[files]]
-file = "mods/demanding-saplings.pw.toml"
-hash = "929d888d60b3ea1e80733954aa829c87850461ec6d9d02fbb7b0cf7f547208ab"
-metafile = true
-
-[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
 metafile = true
@@ -2161,6 +2156,11 @@ hash = "be97476a17c343a9e5c2b5ba2616ed77b134777ceb23fa40940abd42acc128c2"
 metafile = true
 
 [[files]]
+file = "mods/maplink.pw.toml"
+hash = "628febc3f2889a9b1d99353fc4115d7254952611c7211fd030d5f5d03245e225"
+metafile = true
+
+[[files]]
 file = "mods/mega.pw.toml"
 hash = "96b3bc87380a46891364091e3bc23c8b0150d281b5db5054c7aea282e22e35c7"
 metafile = true
@@ -2462,11 +2462,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
-metafile = true
-
-[[files]]
-file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
-hash = "378986b622f4f3ecd55bf29e830f0d6f67602343eb0b130ea6ed39b257569a44"
 metafile = true
 
 [[files]]
