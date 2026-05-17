@@ -1,0 +1,13 @@
+name = "Create: Tweaked Controller (for Fabric)"
+filename = "create_tweaked_controllers-0.1.0+1.20.1[0.5.1j].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6af0c605b4e21203aac2b8e4af69fc389b06600"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6459673
+project-id = 1250826

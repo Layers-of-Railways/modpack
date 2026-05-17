@@ -1,7 +1,0 @@
-name = "create-track-map"
-filename = "create-track-map-1.7+mc1.20.1-fabric.jar"
-
-[download]
-url = "https://github.com/IThundxr/create-track-map/releases/download/1.7-fabric/create-track-map-1.7+mc1.20.1-fabric.jar"
-hash-format = "sha256"
-hash = "e2ba7fea128cd6a53c333d23b7266679484a60cfa3d48e3629d2f1f4a1792e93"

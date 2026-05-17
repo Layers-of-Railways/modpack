@@ -34,7 +34,7 @@ hash = "ea9d2d3703259127ced52e3fad8b5391faecade358b4f918ff3d76fe7de2f0ee"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "6393027727c9657002ebc8de75de9aa0f95100734a46bb8489e5e1876ec15983"
+hash = "817518f2b8bfec3dc6c2f565b173de6ee81156b24f84d1c6ba65b6989792d9e9"
 
 [[files]]
 file = "config/create-server.toml"
@@ -73,8 +73,12 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "aebdf925eddcefaf35f7c085de0951016228de902f94c11a2b180ccaefb6b79d"
+
+[[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "75a25d1d6683d2cdb21db879f46573373b149d66e7d5b9eb3173a2ca0ab7c042"
+hash = "daca67b01835b0892d3a165fdd3ec0c43739a51d4f10fbdc0d7dbac65bceec4c"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -314,10 +318,6 @@ file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/b
 hash = "808ceb800c524fe20287a2561fe3533070c0b3f3adf4b1e9afd79215ea2d9df8"
 
 [[files]]
-file = "config/paxi/resourcepacks/RailwaysTweaks/assets/godforge/textures/item/staff_gem_unused.png"
-hash = "4a3e4a537d5ab774f35d13f573233b2750695d20434f513bf58411ba99699e03"
-
-[[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/font/default.json"
 hash = "16643cd2e3ff9fcff914576823ecc0445cfb6c88373588ed71024c7c0f31d8cc"
 
@@ -521,7 +521,7 @@ hash = "c3e2996ab28fcbc84ed04b9f20cbeeb347e594da22b680bc70c7748b8285b3ac"
 
 [[files]]
 file = "config/puzzle.json"
-hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
+hash = "2606655067625f0bfa5192340879ac077452df379f11a73ba63da92a9de27000"
 
 [[files]]
 file = "config/remote_player_waypoints_for_xaero/friends.json5"
@@ -554,6 +554,14 @@ hash = "8d09ff1ef085fabc8cc1a7c4a728c07925806973a5617d2b1fb36b317d460089"
 [[files]]
 file = "config/styledplayerlist/styles/railways.json"
 hash = "bda0794b9cb5871c8aa87f65742d18f412b7e8b2e0581b870266120dbb2c2fe7"
+
+[[files]]
+file = "config/vanillabackport-client.toml"
+hash = "444d4f315f44490d31ebc4b113e3820857050290fb8b06394e0fe2f65bf3262b"
+
+[[files]]
+file = "config/vanillabackport-common.toml"
+hash = "381d8dade3944f546c4370e3c8a049f817f326baa185b213a9611d66fb6b252d"
 
 [[files]]
 file = "config/vmp.properties"
@@ -1320,7 +1328,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "c103356f221744f04ec3341a094a97d0d7d00f802c35946d5672faa39d15ec2e"
+hash = "c7f07bbf4c8d8bea2b5816c69ff9abe1af3cf3b711f322fa6cea0104fbbd856e"
 metafile = true
 
 [[files]]
@@ -1605,6 +1613,11 @@ metafile = true
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "1b7e14317bc324ac08736eb154458a463715fdbc59bd556999893b58129eebf8"
+metafile = true
+
+[[files]]
+file = "mods/create-tweaked-controller-for-fabric.pw.toml"
+hash = "507516cf89f10243c1c019fb756d93a86dcfa6634b20eae66812b6f28f8a0263"
 metafile = true
 
 [[files]]
@@ -2124,7 +2137,7 @@ metafile = true
 
 [[files]]
 file = "mods/lovely_snails.pw.toml"
-hash = "5f4ceeafc28568efaa44a232c78fe580bab62b1fa686accd4d1ac08b8726b520"
+hash = "9177403a4ca28e6d443bbcaa7d7e1a0ee29bffff639b74e65e62895660d1f35a"
 metafile = true
 
 [[files]]
@@ -2304,7 +2317,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "9cd1bfa718de9a9707fbd76216e5a0c06b00d5fb393ecc55e43b9c6c578a4817"
+hash = "3f8f31eed84a4a29618cf04e300ea02ace03095ff4e8c4c23ec92f09849ed1f0"
 metafile = true
 
 [[files]]
@@ -2360,6 +2373,11 @@ metafile = true
 [[files]]
 file = "mods/picturesign-2.0.0-beta.1+unascribedtheora-patch.5.jar"
 hash = "eac9651418a4e0d7a690ab12b8cfd3c6ea8636c53eab73bf9af2e163b319bf33"
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "ce911e74ace1679c5e141bd68292f31386e1750d16097aed3c7bec3045a35bda"
+metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
@@ -2518,7 +2536,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7f9f50fd60eea1c941566c12cdada291f480b21edc6222df30083651fd2fc348"
+hash = "3c08e80abd1ec07fcadde5d820fb44ec9ab964fe60385e1ae368b2eadc5d8b86"
 metafile = true
 
 [[files]]
@@ -2672,6 +2690,11 @@ hash = "2a967c0b46a75571e9b19637eba1b7158371535e87247d7980b51885cfc844fc"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "8e3b819582d37440da117a02bc02fd0eeacfb9a5b0da82094f8161395ca4258a"
+metafile = true
+
+[[files]]
 file = "mods/vanish.pw.toml"
 hash = "e39b6be6d8465829fe40a2e42d3a86dbde2266a7c7cf48ba2d5741baa1749cae"
 metafile = true
@@ -2708,12 +2731,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "fd725a2383164ee2866a41635b0a8baf4cc1506d33df1ce1cc1455ab98a32e01"
+hash = "f186401be01f7216a7bbd73c8e3e7cff96ab9db76d19029ee3be92f407b1b207"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7598f0435251f845fdf85c8ed2ac612b2d0404e0ee73a1fcdebaf4eb6c95296d"
+hash = "9d9ab7248c5a9ed01ce3e23fba5c60139065e31d94452e3179b263ac4be535aa"
 metafile = true
 
 [[files]]
@@ -2788,7 +2811,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/AE2-R_Backport_Integration_for_SnR_Server_S2.zip"
-hash = "a016cb7a2f01edc50b0bdecd3db219f68c1c20b92c6769ee8f65ea1b2131dab9"
+hash = "54de07b4c2e6ae139b17e3dce1fe53bee79b703d9307ed8e5061cb90f9bc5109"
 
 [[files]]
 file = "resourcepacks/animatronic-conductor.pw.toml"
@@ -2813,6 +2836,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/more-mob-variants-fresh-animations-addon.pw.toml"
 hash = "a36b5799b81638f43b8d35b9bbca6a9471e2e52b811739bff90601db31b8ebe0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-backport-x-fresh-animations.pw.toml"
+hash = "92582b5a76e548fa4d64f72b569b5c7bf06026c3642526d35c9f1102e73f4c3a"
 metafile = true
 
 [[files]]
