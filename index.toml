@@ -73,8 +73,12 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "aebdf925eddcefaf35f7c085de0951016228de902f94c11a2b180ccaefb6b79d"
+
+[[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "75a25d1d6683d2cdb21db879f46573373b149d66e7d5b9eb3173a2ca0ab7c042"
+hash = "daca67b01835b0892d3a165fdd3ec0c43739a51d4f10fbdc0d7dbac65bceec4c"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -314,10 +318,6 @@ file = "config/paxi/resourcepacks/RailwaysTweaks/assets/ducky-periphs/textures/b
 hash = "808ceb800c524fe20287a2561fe3533070c0b3f3adf4b1e9afd79215ea2d9df8"
 
 [[files]]
-file = "config/paxi/resourcepacks/RailwaysTweaks/assets/godforge/textures/item/staff_gem_unused.png"
-hash = "4a3e4a537d5ab774f35d13f573233b2750695d20434f513bf58411ba99699e03"
-
-[[files]]
 file = "config/paxi/resourcepacks/RailwaysTweaks/assets/minecraft/font/default.json"
 hash = "16643cd2e3ff9fcff914576823ecc0445cfb6c88373588ed71024c7c0f31d8cc"
 
@@ -521,7 +521,7 @@ hash = "c3e2996ab28fcbc84ed04b9f20cbeeb347e594da22b680bc70c7748b8285b3ac"
 
 [[files]]
 file = "config/puzzle.json"
-hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
+hash = "2606655067625f0bfa5192340879ac077452df379f11a73ba63da92a9de27000"
 
 [[files]]
 file = "config/remote_player_waypoints_for_xaero/friends.json5"
@@ -554,6 +554,14 @@ hash = "8d09ff1ef085fabc8cc1a7c4a728c07925806973a5617d2b1fb36b317d460089"
 [[files]]
 file = "config/styledplayerlist/styles/railways.json"
 hash = "bda0794b9cb5871c8aa87f65742d18f412b7e8b2e0581b870266120dbb2c2fe7"
+
+[[files]]
+file = "config/vanillabackport-client.toml"
+hash = "444d4f315f44490d31ebc4b113e3820857050290fb8b06394e0fe2f65bf3262b"
+
+[[files]]
+file = "config/vanillabackport-common.toml"
+hash = "381d8dade3944f546c4370e3c8a049f817f326baa185b213a9611d66fb6b252d"
 
 [[files]]
 file = "config/vmp.properties"
@@ -1608,6 +1616,11 @@ hash = "1b7e14317bc324ac08736eb154458a463715fdbc59bd556999893b58129eebf8"
 metafile = true
 
 [[files]]
+file = "mods/create-tweaked-controller-for-fabric.pw.toml"
+hash = "507516cf89f10243c1c019fb756d93a86dcfa6634b20eae66812b6f28f8a0263"
+metafile = true
+
+[[files]]
 file = "mods/create-vibrant-vaults.pw.toml"
 hash = "064808462edac75a4165894f615a05011f027a9868d4922b232ea9a9177c0165"
 metafile = true
@@ -2362,6 +2375,11 @@ file = "mods/picturesign-2.0.0-beta.1+unascribedtheora-patch.5.jar"
 hash = "eac9651418a4e0d7a690ab12b8cfd3c6ea8636c53eab73bf9af2e163b319bf33"
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "ce911e74ace1679c5e141bd68292f31386e1750d16097aed3c7bec3045a35bda"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
@@ -2672,6 +2690,11 @@ hash = "2a967c0b46a75571e9b19637eba1b7158371535e87247d7980b51885cfc844fc"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "8e3b819582d37440da117a02bc02fd0eeacfb9a5b0da82094f8161395ca4258a"
+metafile = true
+
+[[files]]
 file = "mods/vanish.pw.toml"
 hash = "e39b6be6d8465829fe40a2e42d3a86dbde2266a7c7cf48ba2d5741baa1749cae"
 metafile = true
@@ -2788,7 +2811,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/AE2-R_Backport_Integration_for_SnR_Server_S2.zip"
-hash = "a016cb7a2f01edc50b0bdecd3db219f68c1c20b92c6769ee8f65ea1b2131dab9"
+hash = "54de07b4c2e6ae139b17e3dce1fe53bee79b703d9307ed8e5061cb90f9bc5109"
 
 [[files]]
 file = "resourcepacks/animatronic-conductor.pw.toml"
@@ -2813,6 +2836,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/more-mob-variants-fresh-animations-addon.pw.toml"
 hash = "a36b5799b81638f43b8d35b9bbca6a9471e2e52b811739bff90601db31b8ebe0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-backport-x-fresh-animations.pw.toml"
+hash = "92582b5a76e548fa4d64f72b569b5c7bf06026c3642526d35c9f1102e73f4c3a"
 metafile = true
 
 [[files]]

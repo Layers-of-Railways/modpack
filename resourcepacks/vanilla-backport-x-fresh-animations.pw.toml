@@ -1,0 +1,13 @@
+name = "Vanilla Backport x Fresh Animations"
+filename = "VanillaBackport_x_FreshAnimations_v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8zOA0L9I/versions/sQVxG59N/VanillaBackport_x_FreshAnimations_v1.0.zip"
+hash-format = "sha512"
+hash = "2636f61c2f1377d39533ef04b0fb0a90ad2f4069eaa3f8a96384e22f0e71be0c46585aa6a59d8bf090e2b80744953861d59370ae572c4a1ed577350be437ae47"
+
+[update]
+[update.modrinth]
+mod-id = "8zOA0L9I"
+version = "sQVxG59N"
