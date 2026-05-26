@@ -34,7 +34,7 @@ hash = "ea9d2d3703259127ced52e3fad8b5391faecade358b4f918ff3d76fe7de2f0ee"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "817518f2b8bfec3dc6c2f565b173de6ee81156b24f84d1c6ba65b6989792d9e9"
+hash = "14f5abfd128565170a203b953044b39f038bde3224a7e417f947b9a04939087d"
 
 [[files]]
 file = "config/create-server.toml"
@@ -2217,7 +2217,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "908240b54bb3e1514d1e24294e85fc29ae5298d4f0d0e63898dc28ada4fcf0f8"
+hash = "bac0e8149a629d9e68d8e120b7d55e1a0c81ccae375982d860d8d6104808a1c1"
 metafile = true
 
 [[files]]

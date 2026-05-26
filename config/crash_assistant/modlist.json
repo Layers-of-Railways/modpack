@@ -1,8 +1,8 @@
 {
-  "fabric-loader-0.17.3.jar (modloader)": {
-    "jarName": "fabric-loader-0.17.3.jar (modloader)",
+  "fabric-loader-0.19.2.jar (modloader)": {
+    "jarName": "fabric-loader-0.19.2.jar (modloader)",
     "modId": "fabric",
-    "version": "fabric-loader-0.17.3.jar"
+    "version": "fabric-loader-0.19.2.jar"
   },
   "1.0.0-ae2-create-compat+mc1.20.1-fabric.jar": {
     "jarName": "1.0.0-ae2-create-compat+mc1.20.1-fabric.jar",
@@ -466,6 +466,13 @@
     "curseForgeHash": 1276619316,
     "modrinthHash": "c1153315e3d0e7d216ca3179e483fe8b9f794433"
   },
+  "create_tweaked_controllers-0.1.0+1.20.1[0.5.1j].jar": {
+    "jarName": "create_tweaked_controllers-0.1.0+1.20.1[0.5.1j].jar",
+    "modId": "create_tweaked_controllers",
+    "version": "0.1.0+1.20.1",
+    "curseForgeHash": 3175426399,
+    "modrinthHash": "b6af0c605b4e21203aac2b8e4af69fc389b06600"
+  },
   "create_vibrant_vaults-0.2.0+1.20.1.jar": {
     "jarName": "create_vibrant_vaults-0.2.0+1.20.1.jar",
     "modId": "create_vibrant_vaults",
@@ -563,13 +570,6 @@
     "version": "1.3-1.20.x-FDR-support",
     "curseForgeHash": 4034865179,
     "modrinthHash": "bd9f9aafd77e90422fa16953fbf5881fa57a94d7"
-  },
-  "demandingsaplings-0.1.1.jar": {
-    "jarName": "demandingsaplings-0.1.1.jar",
-    "modId": "demandingsaplings",
-    "version": "0.1.1",
-    "curseForgeHash": 1084062978,
-    "modrinthHash": "7c528d9dcab4b9f5ff9d08fd90d06bf22e4c6e89"
   },
   "design_decor-0.4.0b_fabric+1.20.1.jar": {
     "jarName": "design_decor-0.4.0b_fabric+1.20.1.jar",
@@ -1180,6 +1180,13 @@
     "curseForgeHash": 536842797,
     "modrinthHash": "771eb704928c6d3e9fdf0e7971ba7d97305e09dd"
   },
+  "maplink-fabric-4.4.0-1.20-1.20.1.jar": {
+    "jarName": "maplink-fabric-4.4.0-1.20-1.20.1.jar",
+    "modId": "maplink",
+    "version": "4.4.0",
+    "curseForgeHash": 2357559558,
+    "modrinthHash": "a92ecdf80072dbda4614fab7735a3c31083d7a08"
+  },
   "megacells-fabric-2.4.6-1.20.1.jar": {
     "jarName": "megacells-fabric-2.4.6-1.20.1.jar",
     "modId": "megacells",
@@ -1250,12 +1257,12 @@
     "curseForgeHash": 2167359578,
     "modrinthHash": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a"
   },
-  "moonlight-1.20-2.16.14-fabric.jar": {
-    "jarName": "moonlight-1.20-2.16.14-fabric.jar",
+  "moonlight-1.20-2.16.32-fabric.jar": {
+    "jarName": "moonlight-1.20-2.16.32-fabric.jar",
     "modId": "moonlight",
-    "version": "1.20-2.16.14",
-    "curseForgeHash": 2151082680,
-    "modrinthHash": "e7fbb2ef5b90fc6eac14e6167cc0f023927ab18a"
+    "version": "1.20-2.16.32",
+    "curseForgeHash": 1328470802,
+    "modrinthHash": "b24e1a8e578509404875a8145eadb83db0a641fe"
   },
   "morechathistory-1.3.0.jar": {
     "jarName": "morechathistory-1.3.0.jar",
@@ -1459,6 +1466,13 @@
     "version": "2.0.0-beta.1+unascribedtheora5",
     "curseForgeHash": 2021515063,
     "modrinthHash": "9e48ecc8c738a3b91416b0ff13374abc7bb09d01"
+  },
+  "Platform-fabric-1.20.1-1.3.3.jar": {
+    "jarName": "Platform-fabric-1.20.1-1.3.3.jar",
+    "modId": "platform",
+    "version": "1.3.3",
+    "curseForgeHash": 3842544598,
+    "modrinthHash": "ba55ef32ff56501fc64a9714c2e90c53f723c7b1"
   },
   "player-animation-lib-fabric-1.0.2-rc1+1.20.jar": {
     "jarName": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
@@ -1865,6 +1879,13 @@
     "version": "1.1.0",
     "curseForgeHash": 1827346911,
     "modrinthHash": "85f9b5f46e12e92a62e2d05064d84acbb3fda47e"
+  },
+  "VanillaBackport-fabric-1.20.1-1.1.7.4.jar": {
+    "jarName": "VanillaBackport-fabric-1.20.1-1.1.7.4.jar",
+    "modId": "vanillabackport",
+    "version": "1.1.7.4",
+    "curseForgeHash": 1149396947,
+    "modrinthHash": "733e498b997892706bd8e67fc3d6d002d3594f60"
   },
   "voicechat-fabric-1.20.1-2.6.16.jar": {
     "jarName": "voicechat-fabric-1.20.1-2.6.16.jar",
