@@ -1,13 +1,13 @@
 name = "Music Maker Mod"
-filename = "xercamusic-fabric-1.20.1-1.0.2.jar"
+filename = "xercamusic-fabric-1.20.1-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qQpWCN75/versions/QM70Gb46/xercamusic-fabric-1.20.1-1.0.2.jar"
-hash-format = "sha1"
-hash = "02672283b5d6daeaa038e4ecfff84fee292a0688"
+url = "https://cdn.modrinth.com/data/qQpWCN75/versions/WOKc4k37/xercamusic-fabric-1.20.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "cf919cd2f0562abf917bfcee38a989246b776363fbb6f95f875f2289cafd2eeceda75db7246f065d32422f05c3058f4f90245bc077b8644428b165e16e8594e5"
 
 [update]
 [update.modrinth]
 mod-id = "qQpWCN75"
-version = "QM70Gb46"
+version = "WOKc4k37"

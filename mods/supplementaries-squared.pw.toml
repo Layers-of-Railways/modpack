@@ -1,13 +1,13 @@
 name = "Supplementaries Squared"
-filename = "suppsquared-1.20-1.1.23-fabric.jar"
+filename = "suppsquared-1.20-1.1.29.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dCCkNFwE/versions/22lqnAcB/suppsquared-1.20-1.1.23-fabric.jar"
+url = "https://cdn.modrinth.com/data/dCCkNFwE/versions/hGBKgPSc/suppsquared-1.20-1.1.29.jar"
 hash-format = "sha512"
-hash = "43632b9b6bfd0b19332fb4c6692f7224d277c21cb42b3dd3434e0eca15b3805b66b30a41bdc8bdb68fdf14b95f5d43139959867d84f92c711e9e94942d948614"
+hash = "8d80656d0cfa090f8c818997e59624a471e9a3c51372ff677204b7fb8f8e57930ddad3bdd320685504ef890b4c45b8b4b9b860e8f44e4b8a15317078bcbce83b"
 
 [update]
 [update.modrinth]
 mod-id = "dCCkNFwE"
-version = "22lqnAcB"
+version = "hGBKgPSc"

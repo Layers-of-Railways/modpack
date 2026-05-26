@@ -1,13 +1,13 @@
 name = "Ube's Delight"
-filename = "ubesdelight-fabric-1.20.1-0.4.3.jar"
+filename = "ubesdelight-fabric-1.20.1-0.4.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PYjpoAys/versions/ECMrByNQ/ubesdelight-fabric-1.20.1-0.4.3.jar"
+url = "https://cdn.modrinth.com/data/PYjpoAys/versions/hshjWmab/ubesdelight-fabric-1.20.1-0.4.12.jar"
 hash-format = "sha512"
-hash = "0613f5b84f742af31ea05a338ca70718938b8dfd965e3fc0e36a5696123f6ba3ef487803bfe00f1c819cda0fc1923fef679c00319789ae0b46a6e171388095bf"
+hash = "1735ea8dfb6d9fa7b32665e7a5361dee6bb2fd44312befc591c9047f0ce3118061608b5d7f1ec33b37c9451c98905e9bd04c9b948e22bd7253b7ab62b755636d"
 
 [update]
 [update.modrinth]
 mod-id = "PYjpoAys"
-version = "ECMrByNQ"
+version = "hshjWmab"
