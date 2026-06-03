@@ -69,5 +69,6 @@ ServerEvents.recipes((event) => {
     });
 
     event.remove({ input: "#c:chests", output: "minecraft:shulker_box" });
-    event.remove({ mod: "apcrcompat", output: "ae2:quantum_entangled_singularity" })
+    event.remove({ mod: "apcrcompat", output: "ae2:quantum_entangled_singularity" });
+    event.remove({ mod: "tconstruct", input:"minecraft:lodestone"})
 });

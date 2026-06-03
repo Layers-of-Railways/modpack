@@ -1149,7 +1149,7 @@ hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/recipe_removals.js"
-hash = "e085e177174861326a1367d5d9383d5ef5ee6001f67b001e4dea5cfaf0a65c0a"
+hash = "0a2bbc52d743405408f9b97ed76dccb6dedb2aef0b20d247157ce1da75393caa"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/smithing.js"
