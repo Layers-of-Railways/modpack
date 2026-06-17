@@ -2520,11 +2520,6 @@ hash = "6b2893c26cc1073cb60d5044fc51093fc4e79f4a0bd9258454a5430ba29cd8b4"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "c70910870880249b6513a0b3ccfc5db5f5390ed28756c65c3988bfbfb154724e"
-metafile = true
-
-[[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "a04d57263f3b3aa80b14c082bbacdbffad836b65143c73b9d21cc9ec73e42a44"
 metafile = true
