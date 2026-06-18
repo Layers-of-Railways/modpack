@@ -55,6 +55,16 @@
             "-depends": {
                 "create": ""
             }
+        },
+        "tconstruct": {
+            "-depends": {
+              "fabricloader": ""
+            }
+        },
+        "mantle": {
+          "-depends": {
+            "fabricloader": ""
+          }
         }
     }
 }
