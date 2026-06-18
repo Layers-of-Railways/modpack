@@ -18,7 +18,7 @@ hash = "83a74f8fc0756a952758f5be0667ff5437dd99e832835b2a70d6a4ac1a9669f6"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "503d4269c734d8015834a72f8645fe539dc9994b0832cb137c3b3a47e0a04e5e"
+hash = "8777fbb8b1c3448a4a9775a75ad9ce63539e064e24cb29eec07e54489d8424f9"
 
 [[files]]
 file = "config/chunky/config.json"
@@ -34,7 +34,7 @@ hash = "ea9d2d3703259127ced52e3fad8b5391faecade358b4f918ff3d76fe7de2f0ee"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "0d291ecfdf58c5b5682d47bb9a3ecfe2acd7cac9b5d04d3a98ae916f3291ac1d"
+hash = "6a64f3e4a70d1a39a40132e7bb29d2578736f29d142f5141eb6b45526445b612"
 
 [[files]]
 file = "config/create-server.toml"
