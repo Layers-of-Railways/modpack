@@ -1,13 +1,13 @@
 name = "Maintenance Mode"
-filename = "MaintenanceMode-Universal-1.3.1.jar"
+filename = "MaintenanceMode-Universal-1.3.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/QOkEkSap/versions/D2XXq4an/MaintenanceMode-Universal-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/QOkEkSap/versions/s8TQ8YyA/MaintenanceMode-Universal-1.3.4.jar"
 hash-format = "sha512"
-hash = "b65ec7a65169a6967681317cc2175233f315dd32c0fb02b70a4844205c7637961ad56087de9e202e74dc646ec8aea143abe495c2027b379a80ca847860162f21"
+hash = "778537ae862f5796999f9428376809c3208847b643c45440ebdb68d69e729997997ee3cc14bb256326f06f67a8f97cb9c73552cefeb20a6f5f368b7b3ccc3ffe"
 
 [update]
 [update.modrinth]
 mod-id = "QOkEkSap"
-version = "D2XXq4an"
+version = "s8TQ8YyA"
