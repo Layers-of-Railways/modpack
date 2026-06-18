@@ -1,13 +1,13 @@
 name = "Packet Fixer"
-filename = "packetfixer-3.3.0-1.18-1.20.4-merged.jar"
+filename = "packetfixer-3.3.2-1.18-1.20.4-merged.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/c7m1mi73/versions/Jt7R7s5s/packetfixer-3.3.0-1.18-1.20.4-merged.jar"
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/9F4NGhGR/packetfixer-3.3.2-1.18-1.20.4-merged.jar"
 hash-format = "sha512"
-hash = "0f86b9b03672e67e5eac23146bfc56a536f8985daecaec3bf089ee489240b5afec1571c733fc058c335fdd9e8ace94796c257e4c59a33be7cf1dcba32009c2a1"
+hash = "916501acefab2a33f7b5438375dec0c3d523975d82c807c98496227c107c1efd57c95d9e1501d657513324a9ad617eb8ef7e963921263389af896da55dc707a9"
 
 [update]
 [update.modrinth]
 mod-id = "c7m1mi73"
-version = "Jt7R7s5s"
+version = "9F4NGhGR"
