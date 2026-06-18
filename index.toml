@@ -62,7 +62,7 @@ hash = "8c2abae0be3c1aad6244b47cbde95892d55d046ff15e35621eca5e5cbd276c87"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4358b1243cb98f5551c15ffe0c6455b8e7d31d792a381a5e1c44f7438bdd81c1"
+hash = "a2e0af11413fceaa8c3677ca5147db1c498754e4385c7da5c34d1f7aa49fe48e"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -1746,11 +1746,6 @@ hash = "2dfcb2cfbd297d87bc7d11617712c903a49c225278b7cc2e024f112f33412a61"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-groups.pw.toml"
-hash = "0c4c4fa5b5241b28397eeba0890673147e972ea34b705de381c9ade8ea336847"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "65c4754081efdfa32071560e11c8016acdf712b6b82e4b263b3cf414477d0fdc"
 metafile = true
@@ -2682,11 +2677,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "7f6dac497c227608129dc40d4ce8b7e115ee5741db6ec53ec349884f88384a59"
-metafile = true
-
-[[files]]
-file = "mods/voice-chat-interaction.pw.toml"
-hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
 metafile = true
 
 [[files]]
