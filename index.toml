@@ -2237,7 +2237,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "b45e593e2bedc61ab101a7f9bde6e944772a7a12c6f4c747a321945cbe772782"
+hash = "b9b8556a8811636a5d29a99b4d5d6ef049fc8b219babf25ddfd848cae9c1dec7"
 metafile = true
 
 [[files]]
@@ -2585,8 +2585,8 @@ hash = "67fc732c5360d30b216d01fffd0dbc7fc6ce2459855a09f6550100723408fe6f"
 metafile = true
 
 [[files]]
-file = "mods/swampier-swamps-fabric.pw.toml"
-hash = "dc303709ac6be8f692414659002f617822ec3adc14f846054c05af295fb90277"
+file = "mods/swampier-swamps.pw.toml"
+hash = "c2816c475398ea215d1f6f3b4f03ccd62e29e040bb04575222dea68d20af92fd"
 metafile = true
 
 [[files]]
@@ -2690,13 +2690,13 @@ hash = "0b24d3fbf38ac7340c0fc39e4f9e2331ae733c975050c195268b09042322c770"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
-hash = "32b5bbf1bba4719034eecb148ca4bacbe8f812df768ad93b4f7b641e08315dc1"
+file = "mods/worldedit-cui.pw.toml"
+hash = "23aa2284586134615ce6ac95d04c2f4612b3e9ee9b754deb8c851c5c1d46a1a5"
 metafile = true
 
 [[files]]
-file = "mods/worldeditcui-fabric.pw.toml"
-hash = "e7c22813e71e5c061f527b74c57f0acddb70660661f764f57d88214e769dce49"
+file = "mods/worldedit.pw.toml"
+hash = "6b56c11a52a99eda454b7d117ba3b06fb1c57b9c63e3a22c28019b23b26fe18e"
 metafile = true
 
 [[files]]
