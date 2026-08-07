@@ -1,4 +1,4 @@
-ServerEvents.recipes(event => {
+ServerEvents.recipes((event) => {
   event.forEachRecipe({ type: 'minecraft:crafting_shaped' }, r => {
     let output = r.getOriginalRecipeResult()
     let slab = output.getId()
