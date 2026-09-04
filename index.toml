@@ -1152,6 +1152,10 @@ file = "kubejs/server_scripts/recipes/recipe_removals.js"
 hash = "0a2bbc52d743405408f9b97ed76dccb6dedb2aef0b20d247157ce1da75393caa"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/slabs.js"
+hash = "76c546f3357592e56b6256aab13ebedaf3792a928a807a9fe1caf8d1eacd9228"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/smithing.js"
 hash = "d54f1fb3afc2f8560ee5032fe5684deee96de51e2e194fcee6f00b28c35f6c86"
 
@@ -1209,7 +1213,7 @@ hash = "22ebd2fe237c8086021307f8c9df3ae9b8dfaa074b7b689711d9b73aa6dacadc"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "dbbef184db35476f35cc8e24bc3acd81647257095548cb57ff11ff385f715b8e"
+hash = "a931b1842504f6217dd8b1482ab37b331d7f1d8fe00d9ea0392f30413747dfec"
 metafile = true
 
 [[files]]
@@ -1278,7 +1282,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "7c995145bd5aa3e812edd85b16b4bb66fe52278d9fb2d0207aab8096b68389c1"
+hash = "c29842867894ab77c7a7f068f222ca46548bd87fa05796e5d6f50170df08558a"
 metafile = true
 
 [[files]]
@@ -1408,7 +1412,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "b02a808166a12bda1a4bb63e2ac0596f0c9006461956207775f9255fcee24d2a"
+hash = "583b210a8981fd9b7857d526238aaa48404d0c378988817ec2275b54fea43212"
 metafile = true
 
 [[files]]
@@ -1428,7 +1432,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "62c99a9cf83e5f6ae2c701bafe09b12b31c59d215194d56c7bb9e7ef6f291928"
+hash = "0e39a2383b8c895ea7dd14bf6ed8e236e20046c716648d903c3ff6fe215bbb68"
 metafile = true
 
 [[files]]
@@ -1463,7 +1467,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "2babc2a3eed6143a112c848633d937d48235368f934d06f9a002e943d7c3adde"
+hash = "dac40b3c5cbb25ff9645804ac2b430670663d411509b8a4b0ca980e7e243755e"
 metafile = true
 
 [[files]]
@@ -1497,7 +1501,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "1d8b0cd4c6bcea416711387eb66cd1462872269b7e2e28f427b312200389250b"
+hash = "0e70a9f05b4b5cafaeed0417a3cfae2dd36bd88cce06a4b688d240d9b90ddfb2"
 metafile = true
 
 [[files]]
@@ -1547,7 +1551,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "b2dfb994b81c1abf1dba036c84e560832d726c633cd69d1e3bebbfc105541558"
+hash = "5c5108caf113d3e776b9cd9dc3f3300fb51316c8892e52e6e32258e72afb2200"
 metafile = true
 
 [[files]]
@@ -1607,7 +1611,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
+hash = "511885cd2a8ddf1087ae6bf8525c135681b8b9b421f7d11ef2bd915c83a69ee8"
 metafile = true
 
 [[files]]
@@ -1792,7 +1796,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d9f5084f3684add4a72eac5500df626a92e5e36eda54d9527ad1da0a16c2060a"
+hash = "f42dcc815231697e3d5038e7e34e2ef6637a7bf3e2fe077e4eafb0488f871b9a"
 metafile = true
 
 [[files]]
@@ -1852,7 +1856,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "fcfd264784dcda039d9efc0b3e47ef1f04521698761a34d2f20379d5f9c0fe26"
+hash = "737e71082015f1ee09103f611adfeff6700f6a0ec7331c3b3000ada540a67444"
 metafile = true
 
 [[files]]
@@ -1882,7 +1886,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "98dbefde9750130372ae00b99a647ece7c8fbbbf26029050f8845aff6db7b7d5"
+hash = "8da06d02d7e481afb346aa68fbf45ab64a8b9caee77f9e53575cdba6650989a9"
 metafile = true
 
 [[files]]
@@ -1912,7 +1916,7 @@ metafile = true
 
 [[files]]
 file = "mods/hand-over-your-items.pw.toml"
-hash = "eb9b77aff64996b7e3aa992d23863d270f989228e18fc647932871e40e93c4df"
+hash = "e084b907c5dbcbc17c33fd0528ecfff4d22779a58abd94204aab3960222e538f"
 metafile = true
 
 [[files]]
@@ -1942,7 +1946,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "a4fcda5abf0d1e3ad4ace9e00964c4f7ee46302c94b0b7680ffb420a95a3040e"
+hash = "e8bb6d78fd50d9702205a76b108e1e82d23dbcf69b27e50462c8148acae4bd05"
 metafile = true
 
 [[files]]
@@ -2017,17 +2021,17 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
+hash = "4da3ad4943ca6cb4534f85bd75211de869e0b77a71edc8bd774470849a91b7fa"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a62f2c825fa93c048bd6af112e54c654f2c75bc5ea6dbe88bfa5741e74015900"
+hash = "2915c859d1aad814946a4a7342314f53b02bf1581aa786fdc20cc7c37e6fcc9e"
 metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "ed07c53deb483fd6cd8578803d91fe087435d8d81b317bd4fcbd1bb5d25d9022"
+hash = "dfa208d219c76fe1727809c3b6ae1862a39d16d6f8fa6c7ec9c844b66190c833"
 metafile = true
 
 [[files]]
@@ -2232,7 +2236,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "b38c1f63153f5a71c4bc9e5bec986aa2194960887ed595c681a5fe9f23aba4ea"
+hash = "e029c679e2a203f4c74575a8613e0f7f85ee25b8971884140dbeccd14eed7c0b"
 metafile = true
 
 [[files]]
@@ -2257,7 +2261,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+hash = "aab48014a56bd4b7a6f9bce36cbb3c07e8d064fa1640194ecc268fd2e2c8601b"
 metafile = true
 
 [[files]]
@@ -2332,7 +2336,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "98c2cc43b79d2182367bf11dfad40caf945c7617179495a9d762744a576c0d77"
+hash = "e514b9778039da2975639b2c5bf4fdaf72bbc88cbea6cbe678e76175ffdc64dd"
 metafile = true
 
 [[files]]
@@ -2561,7 +2565,7 @@ metafile = true
 
 [[files]]
 file = "mods/stylish-effects.pw.toml"
-hash = "263bf7a6be51bb4154f866d3ec0e57bb52d4109c9f0d0e0c81d31d55ceb08c61"
+hash = "f8fa114a10b7504fca84353d5eb8b3191e78a151fd82a096c0f386a5bf43bb3d"
 metafile = true
 
 [[files]]
@@ -2666,7 +2670,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "8e3b819582d37440da117a02bc02fd0eeacfb9a5b0da82094f8161395ca4258a"
+hash = "075b44e7cfcc35fb120b779e022ee6fab91d23819af0f11d832b8278e74bedb6"
 metafile = true
 
 [[files]]
