@@ -2149,21 +2149,13 @@
     "curseForgeHash": 1827346911,
     "modrinthHash": "85f9b5f46e12e92a62e2d05064d84acbb3fda47e"
   },
-  "VanillaBackport-fabric-1.20.1-1.1.7.6.jar": {
-    "jarName": "VanillaBackport-fabric-1.20.1-1.1.7.6.jar",
+  "VanillaBackport-fabric-1.20.1-1.1.7.4.jar": {
+    "jarName": "VanillaBackport-fabric-1.20.1-1.1.7.4.jar",
     "modId": "vanillabackport",
     "name": "VanillaBackport",
-    "version": "1.1.7.6",
-    "curseForgeHash": 458628973,
-    "modrinthHash": "2ed3582d23eb63191ff02f31b0c0f6f8a6c2ea61"
-  },
-  "voicechat-fabric-1.20.1-2.6.17.jar": {
-    "jarName": "voicechat-fabric-1.20.1-2.6.17.jar",
-    "modId": "voicechat",
-    "name": "Simple Voice Chat",
-    "version": "1.20.1-2.6.17",
-    "curseForgeHash": 4122155447,
-    "modrinthHash": "77749abae63d949a09d80ad6585ebd44a5a8dc19"
+    "version": "1.1.7.4",
+    "curseForgeHash": 1149396947,
+    "modrinthHash": "733e498b997892706bd8e67fc3d6d002d3594f60"
   },
   "wired-redstone-0.7.8+1.20.1.jar": {
     "jarName": "wired-redstone-0.7.8+1.20.1.jar",
