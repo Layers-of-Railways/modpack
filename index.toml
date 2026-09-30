@@ -38,7 +38,7 @@ hash = "6a64f3e4a70d1a39a40132e7bb29d2578736f29d142f5141eb6b45526445b612"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "82c2e0e991c0af2501bef4fee3c26e9b2576dacd0b195410711191e68e06c796"
+hash = "08322d00c459186244c91a089e5ff6796810cbd06aa44e5d048d71d009957da1"
 
 [[files]]
 file = "config/create-track-map.json"
@@ -1150,6 +1150,10 @@ hash = "0cdef75026facef7f1e3021f495cf4f11a4341e86c24c93301a2183ed9dfc2d7"
 [[files]]
 file = "kubejs/server_scripts/recipes/recipe_removals.js"
 hash = "0a2bbc52d743405408f9b97ed76dccb6dedb2aef0b20d247157ce1da75393caa"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/slabs.js"
+hash = "76c546f3357592e56b6256aab13ebedaf3792a928a807a9fe1caf8d1eacd9228"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/smithing.js"
