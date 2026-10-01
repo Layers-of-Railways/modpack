@@ -1,0 +1,9 @@
+type = panorama
+
+panorama-meta {
+  name = FELD_TRADE-CITY_NIGHT
+  speed = 1.0
+  fov = 85.0
+  angle = 0.0
+  start_rotation = 0
+}

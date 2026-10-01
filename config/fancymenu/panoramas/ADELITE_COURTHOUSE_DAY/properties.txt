@@ -1,0 +1,9 @@
+type = panorama
+
+panorama-meta {
+  name = ADELITE_COURTHOUSE_DAY
+  speed = 1.0
+  fov = 85.0
+  angle = -15.0
+  start_rotation = 0
+}

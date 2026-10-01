@@ -1,0 +1,9 @@
+type = panorama
+
+panorama-meta {
+  name = CMR_CENTRAL_DAY
+  speed = 1.0
+  fov = 85.0
+  angle = 20.0
+  start_rotation = 0
+}

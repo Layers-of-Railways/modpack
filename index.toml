@@ -73,6 +73,42 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
+file = "config/fancymenu/customization/pano_1_title_screen_layout.txt"
+hash = "539388ce267dacd55e6a37ae138e69d9b50da0e813b05c4407558711087565a4"
+
+[[files]]
+file = "config/fancymenu/customization/pano_2_title_screen_layout.txt"
+hash = "a9d780fed6a5be5a3085cc4a2a4f627409b2edd890e9f11ff3f4051421fd5bc9"
+
+[[files]]
+file = "config/fancymenu/customization/pano_3_title_screen_layout.txt"
+hash = "d28cffb2b19e4e62d5784ac4ff25673444dad087195ace730d7262a231d458e3"
+
+[[files]]
+file = "config/fancymenu/customization/pano_4_title_screen_layout.txt"
+hash = "74ff479088653993c030a043af93144d30748748011fe55e6df82a967d1620a0"
+
+[[files]]
+file = "config/fancymenu/customization/pano_5_title_screen_layout.txt"
+hash = "5769a7d1eb641af38352d25ad8943933fb3fdf4da432799a1b54a35d9d6dc51d"
+
+[[files]]
+file = "config/fancymenu/customization/pano_6_title_screen_layout.txt"
+hash = "284e5554441af8ac7075a9631d320ddd145589d4ecb7048d536d5272c4186e04"
+
+[[files]]
+file = "config/fancymenu/customization/pano_7_title_screen_layout.txt"
+hash = "664b8706268a12a9b0072734b29e29e3ddfe02b1485aeb7684d71d39e8116ba6"
+
+[[files]]
+file = "config/fancymenu/customization/pano_8_title_screen_layout.txt"
+hash = "691ebc29ae6be41974740d2999ccab9d349adc4d68956f3a8e78d53a21a32034"
+
+[[files]]
+file = "config/fancymenu/customization/pano_9_title_screen_layout.txt"
+hash = "fe9faf9cb1f4a475d6e867c1e623a6cae5632e9a7ee7481d14cb8fad1fb97080"
+
+[[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
 hash = "aebdf925eddcefaf35f7c085de0951016228de902f94c11a2b180ccaefb6b79d"
 
@@ -87,6 +123,258 @@ hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 [[files]]
 file = "config/fancymenu/options.txt"
 hash = "7b9699a9cf5e7248944a333baef598862f1c8e3aa69ce0e0b5cc946914dd161d"
+
+[[files]]
+file = "config/fancymenu/panoramas/ADELITE_COURTHOUSE_DAY/panorama/panorama_0.png"
+hash = "2a9b8cb563fc4a18244945b9ce5abe06c3618e58f928ae6002ed4c01ad69f587"
+
+[[files]]
+file = "config/fancymenu/panoramas/ADELITE_COURTHOUSE_DAY/panorama/panorama_1.png"
+hash = "7fcf70712a6b3631991af41606275211c5c8aa4aa71ebfd1b0e139c2b864a79f"
+
+[[files]]
+file = "config/fancymenu/panoramas/ADELITE_COURTHOUSE_DAY/panorama/panorama_2.png"
+hash = "42bfd643787f294a3c17c5c7293a7782c321a2ebf50a9102408ebaf35900caca"
+
+[[files]]
+file = "config/fancymenu/panoramas/ADELITE_COURTHOUSE_DAY/panorama/panorama_3.png"
+hash = "03dd78f314aa17f239c92b52fabe21f04ff8a0238357757a37eb0e397629ab7b"
+
+[[files]]
+file = "config/fancymenu/panoramas/ADELITE_COURTHOUSE_DAY/panorama/panorama_4.png"
+hash = "4eda0d7b74ed80ceec9a06d3761cf788473b773a3b86890fbc2d5c1bfff36828"
+
+[[files]]
+file = "config/fancymenu/panoramas/ADELITE_COURTHOUSE_DAY/panorama/panorama_5.png"
+hash = "3ab9001407edd03f147fdf4a52ca69d88a312a7463fb1de419a3b86687cea27d"
+
+[[files]]
+file = "config/fancymenu/panoramas/ADELITE_COURTHOUSE_DAY/properties.txt"
+hash = "d6a612b6d5aa0eda900fb419da210b6c741d1f7cf514cfb419e9f320fe142032"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_DUSK/panorama/panorama_0.png"
+hash = "d1530814640c7dc4c3695986fbd5c35a13c471010fed9fbe4e07eef1b988e255"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_DUSK/panorama/panorama_1.png"
+hash = "9eedd9fecbaa380c09c0f101cc86b1882b439b01c4db04d24322071c38cce6c6"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_DUSK/panorama/panorama_2.png"
+hash = "017ca706cdeffbd0d510a551c01d14a191fe608f79eab7c2f98afbbe3761d0c9"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_DUSK/panorama/panorama_3.png"
+hash = "f0ab9a115976cfe0c0a285a6373d3612bae003e880aded8e221e46215e255969"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_DUSK/panorama/panorama_4.png"
+hash = "871184320361f9e839063efcee3e161b85b18e00f8bd1742c058207ed40e18a1"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_DUSK/panorama/panorama_5.png"
+hash = "fcbdf945b5da11b4c804f4c446f88139fb7c0cf2b779e2e007174c65ae91e0b8"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_DUSK/properties.txt"
+hash = "7ae9fc646dbbb44a67c37e241c5c182c932e58e30e358924f6cba3efd3afe401"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_NIGHT/panorama/panorama_0.png"
+hash = "d588f631522ccd6365ab2f729503e44d5fd2f4257dd203abbfca39189dcce623"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_NIGHT/panorama/panorama_1.png"
+hash = "01dbe680f82af09f275b04c077b9d03294e4cf0d6de205f3b753e76b5a22bf5f"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_NIGHT/panorama/panorama_2.png"
+hash = "5e9ca15fd01ee8d330c813372f2fdd6a3f003f42216bccac588e34c54d584d54"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_NIGHT/panorama/panorama_3.png"
+hash = "4c6ba6fa37cac2bfa9fb2f8745febbcf98e291b6f0b90874039cbca861d8d522"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_NIGHT/panorama/panorama_4.png"
+hash = "eb5922eb803109a7fffbfa8a1fc4764936d99993bb25ac8f28d5cd09ac0eb9b0"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_NIGHT/panorama/panorama_5.png"
+hash = "0ebb36ae81eaced51f0be8a37b4c00292dfbc99ca677c5565e29009d26d90638"
+
+[[files]]
+file = "config/fancymenu/panoramas/CLS_MAIN_NIGHT/properties.txt"
+hash = "3cca6d2c96b69cc1ea8236165c9128c00f07513d051028ba65bddfacf2712ec3"
+
+[[files]]
+file = "config/fancymenu/panoramas/CMR_CENTRAL_DAY/panorama/panorama_0.png"
+hash = "ca74baa36774e58fef16db7c6d0783061d94d52c3e33a8967c65fe47272cf0c0"
+
+[[files]]
+file = "config/fancymenu/panoramas/CMR_CENTRAL_DAY/panorama/panorama_1.png"
+hash = "6c049e00574fee731cadff53d24e4dab41095461b5d5e2de2cb9b08c97e6f9ae"
+
+[[files]]
+file = "config/fancymenu/panoramas/CMR_CENTRAL_DAY/panorama/panorama_2.png"
+hash = "f32fe48e5d1219fc30e9ba031764eaf60da506ec430bdabf95b80424eae844a4"
+
+[[files]]
+file = "config/fancymenu/panoramas/CMR_CENTRAL_DAY/panorama/panorama_3.png"
+hash = "6aa19bb6dbea772f773c526de1e3af41d5202be5b60ff2215b7f9038f7e93c1d"
+
+[[files]]
+file = "config/fancymenu/panoramas/CMR_CENTRAL_DAY/panorama/panorama_4.png"
+hash = "67ce56d4be60bd6e305e6883eb3ae3c07358254207dfc408e366165e0dd3ab4e"
+
+[[files]]
+file = "config/fancymenu/panoramas/CMR_CENTRAL_DAY/panorama/panorama_5.png"
+hash = "7a3694cc1d61a37bebf1496b1fc1252f38d80e3ad300e4c840eeea9ece7b1fd6"
+
+[[files]]
+file = "config/fancymenu/panoramas/CMR_CENTRAL_DAY/properties.txt"
+hash = "e27067e658d723e1e95f9d78a3efdb44368f2a1ea43dd919c6eb935ba7900224"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_NEW-FRISCO_DUSK/panorama/panorama_0.png"
+hash = "15ed4f166f957a37735de41065ced0f0b9579bb894588289a5328fbdd7801e41"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_NEW-FRISCO_DUSK/panorama/panorama_1.png"
+hash = "2d14d5a8f68b11abe7dc9d8c9c016611a5216b6c24ea112a778ae627bc9a59e4"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_NEW-FRISCO_DUSK/panorama/panorama_2.png"
+hash = "4b03a510cbd64fc93aa296fecca2289b6fc0cdce8c70297e04ec8b95003add28"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_NEW-FRISCO_DUSK/panorama/panorama_3.png"
+hash = "be56ec15e0544c9cc6910d434bdea56b6b979c02d8a3da7abc4ad1120defe80d"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_NEW-FRISCO_DUSK/panorama/panorama_4.png"
+hash = "c36baf8756f16e32395a32a942912e1fcdc36003cee3cc90973922b5fd91e088"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_NEW-FRISCO_DUSK/panorama/panorama_5.png"
+hash = "2f5822aac825abab170c3f37cd2cead8c4da2b63f183807c065d8d918f5eb007"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_NEW-FRISCO_DUSK/properties.txt"
+hash = "311f088a696352a75df29d056b40396ddb2e5acc0f4132856e2885d22c3a5904"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_TRADE-CITY_NIGHT/panorama/panorama_0.png"
+hash = "1237c9d26907643698c7693293ff5d9d57209fccc524082ddb94a698796cdd47"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_TRADE-CITY_NIGHT/panorama/panorama_1.png"
+hash = "4c3c87d009cd58a7d09c5af9123621be55c7fb9b180f6f4bd2ca909b93acd4f6"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_TRADE-CITY_NIGHT/panorama/panorama_2.png"
+hash = "77d3574594221125443935d06dcc2af76ec65351bec6b75f8bc530b222e53549"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_TRADE-CITY_NIGHT/panorama/panorama_3.png"
+hash = "49e88d660128b78505b167dec4b7b744069b9b1c20c25a03da957b5d327a0cdd"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_TRADE-CITY_NIGHT/panorama/panorama_4.png"
+hash = "57153018c741ef91edd8f220f804e4d43e231b8131f449ae1628a091da07dc04"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_TRADE-CITY_NIGHT/panorama/panorama_5.png"
+hash = "c20713bfcc879662cb8acc2fe4b1dc63e1ed50a9aeae6e8296a4676e3c3d754c"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_TRADE-CITY_NIGHT/properties.txt"
+hash = "f1d50810d232156d4e8a3be3a1bd6ef7503650db34ea6ab7b2dcf7c4defb553a"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_YURAN_DAY/panorama/panorama_0.png"
+hash = "bf36a4cd6ef50477a2b139b165a35d1a1fb915d050e18421946b9641dd45bed5"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_YURAN_DAY/panorama/panorama_1.png"
+hash = "d8bf2d9f5c44be1d4da3f40287f50d6cf8f287fa6a0d1b2a34eb2cafe85d1c4f"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_YURAN_DAY/panorama/panorama_2.png"
+hash = "4076269eedecb3de70c1cceabad6f7ab49c682cadf23d56453fe947775ad4f0e"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_YURAN_DAY/panorama/panorama_3.png"
+hash = "2df299abe3eff31513c1856fd9ae77c336deb902feb63cb8e94ca26189df481e"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_YURAN_DAY/panorama/panorama_4.png"
+hash = "afd373a212492b2312ff3889faae4907e7ca1fd17a30248eafde84084cc47ba8"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_YURAN_DAY/panorama/panorama_5.png"
+hash = "4ee2d74d7c5fd1d219a3a9dec968c69d4651ac207dcf3cfc8fd2feb0750e8d31"
+
+[[files]]
+file = "config/fancymenu/panoramas/FELD_YURAN_DAY/properties.txt"
+hash = "d301fe146bdfd63e093de2aa9d88416e2e5690b0ed3394c5650d7907add614b3"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_FARMS_DAY/panorama/panorama_0.png"
+hash = "cceff0c942ca5da25a64d69259de9d812dce6f880bedcc48c42e5974ae97c9f8"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_FARMS_DAY/panorama/panorama_1.png"
+hash = "89c854f03226aa4d8117a50c57dfccbeb47397d734537a02db9de7a2d20e8e1f"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_FARMS_DAY/panorama/panorama_2.png"
+hash = "b88a93cf79d58bd5cf761ec66379397fb7e39b0bc37788df4b1c8ea739095934"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_FARMS_DAY/panorama/panorama_3.png"
+hash = "7885c2a84e2fac8f4153f6519b3db92b5428d9f3f9eb64d128ee3e1f47bd8112"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_FARMS_DAY/panorama/panorama_4.png"
+hash = "0a188d1311b0d839d824c67bb5e71b1cd15308e4fb5aa8d4a20c0cddfb5f66b6"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_FARMS_DAY/panorama/panorama_5.png"
+hash = "766ff4962def0c8060434c70c9e2ee37b15711df468ba915929fdbda9f154b1b"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_FARMS_DAY/properties.txt"
+hash = "d4c0754b472e5541395392d149559f9544d1a8796dea583a1bb7fcd861da579e"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_STEAMHAVEN_METRO/panorama/panorama_0.png"
+hash = "7a57b78ad9c84a8a3f304559fd050efffc4c70c062cd2037f6850b8b575fa2e1"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_STEAMHAVEN_METRO/panorama/panorama_1.png"
+hash = "f91da4fcf685297001cb3681492ed219e4ada92726a1f6574b636124398c27b3"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_STEAMHAVEN_METRO/panorama/panorama_2.png"
+hash = "c6346ba38954362a67b078d86727fafaac09b687d39acd1c8a83454983a18515"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_STEAMHAVEN_METRO/panorama/panorama_3.png"
+hash = "a6b99daa8e50ead624149d8254419f68b92c8332d72af2cccdf894e381b5af56"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_STEAMHAVEN_METRO/panorama/panorama_4.png"
+hash = "456008445957b42e5fcb1b30d9099341c9737a93f6b20b9d3bd1b410411d856c"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_STEAMHAVEN_METRO/panorama/panorama_5.png"
+hash = "92a6819daad0050d1cf6ea0b812bab309e935b01da39e89b686fc38c354aaf3f"
+
+[[files]]
+file = "config/fancymenu/panoramas/WRF_STEAMHAVEN_METRO/properties.txt"
+hash = "ceac7f21e2c8cc31cadb0e11d484a1a07644095dbfe9f3cc5f974e10794f7bae"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
