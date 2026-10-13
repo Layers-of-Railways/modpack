@@ -19,7 +19,7 @@ ServerEvents.recipes((event) => {
       ],
       processingTime: 50,
       results: [
-        { item: `minecraft:pale_oak_planks`, count: 4 },
+        { item: `minecraft:pale_oak_planks`, count: 6 },
       ],
     })
   }
