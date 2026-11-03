@@ -1072,6 +1072,10 @@ file = "kubejs/server_scripts/recipes/create/mixing.js"
 hash = "fed27110972ce8eae023b4a765523d58885496e6766344987ca49dc1186719ff"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/create/sawing.js"
+hash = "8837002bc202f8444ba8330db4f1d02c4ea71d0c4ea585426fb7b0013ac74ca6"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/create/sequenced_assembly.js"
 hash = "23c1763126816cf74e8a44df1b5569ea88300e9f64989201a104cebc13ea03d7"
 
