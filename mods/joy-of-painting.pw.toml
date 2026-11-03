@@ -1,13 +1,13 @@
 name = "Joy of Painting"
-filename = "xercapaint-fabric-1.20.1-1.1.0.jar"
+filename = "xercapaint-fabric-1.20.1-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YOs4tZea/versions/5EPykJTE/xercapaint-fabric-1.20.1-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/YOs4tZea/versions/LCLpgLYN/xercapaint-fabric-1.20.1-2.0.0.jar"
 hash-format = "sha512"
-hash = "c4fee305b7c844300a59e8d4be3035bd53582735f0eb7fb289d591caa623d2382aff31be108c480f38b96b4263eacb8a997bb1192bb5465fcc5a08185deac516"
+hash = "223afc7370ae27ebb5b85678df0954867c8eb2d9934360d57eedf25bb4f72d3521c5912b4b3aa9e9f687e16d924e2105ec3f94a532160ac08438a94ba64577db"
 
 [update]
 [update.modrinth]
 mod-id = "YOs4tZea"
-version = "5EPykJTE"
+version = "LCLpgLYN"

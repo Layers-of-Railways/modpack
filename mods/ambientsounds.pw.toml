@@ -1,16 +1,16 @@
 name = "AmbientSounds"
-filename = "AmbientSounds_FABRIC_v6.1.11_mc1.20.1.jar"
+filename = "AmbientSounds_FABRIC_v6.3.8_mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fM515JnW/versions/3Iynk0Gr/AmbientSounds_FABRIC_v6.1.11_mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/fM515JnW/versions/cAyLWFYE/AmbientSounds_FABRIC_v6.3.8_mc1.20.1.jar"
 hash-format = "sha512"
-hash = "d3e08a66c62835b9dd99b0f06f0cff2bc3cbbb4b5aef618a54c4efe857b641f584efbd98b24d92cfe1cd862854b1b7968afe8a5a2b3fc148ca752134d6824212"
+hash = "10d413c5ca086624d96a2a59faa770049012a383366fc632507503bdad4a95c8e8b150bd91f06a338763c355562acfe72f077021dd305127f67e85fe55db14f3"
 
 [update]
 [update.modrinth]
 mod-id = "fM515JnW"
-version = "3Iynk0Gr"
+version = "cAyLWFYE"
 
 [option]
 optional = true
